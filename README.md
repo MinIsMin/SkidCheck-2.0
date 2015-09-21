@@ -55,6 +55,13 @@ sk_kick must be 0 for this to work, which will ALLOW them to join the server unl
 handled yourself in this hook!
 
 hook.Add("OnSkid", "SK", function(ply, Reason) return true end)
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ If you want your ID removed, post an 'Issue' here with proof that you don't cheat +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ```
 
 
