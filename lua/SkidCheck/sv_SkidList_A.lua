@@ -16,6 +16,9 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:144583660"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, Member of snixzz hacking site, Dismay, gDaap dakilla123, BAN ME FOREVER",
+	["STEAM_0:0:86385858"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, Member of snixzz hacking site, Dismay, gDaap dakilla123, BAN ME FOREVER",
+	["STEAM_0:0:60971854"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, Member of snixzz hacking site, Dismay, gDaap dakilla123, BAN ME FOREVER",
 	["STEAM_0:1:5106123"] = "Vorducas Zizroth/thevordutron, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:61854803"] = "Jay/gmodisbae, VAC banned, Member of snixzz hacking site, Member of hack/troll groups: annoyingprogamers,snixzznet",
 	["STEAM_0:1:57310790"] = "Blue_Penguins, Member of snixzz hacking site, Member of hack/troll group: antibirusnet",
@@ -476,8 +479,6 @@ local Skiddies = {
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
 	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
 	["STEAM_0:0:67939418"] = "Explicity/BootyPride/HalfBakedWaldo, attempted server crash, friend of cheater 'dakilla345/OJ', BAN ME FOREVER",
-	["STEAM_0:0:86385858"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names alt, DDoS, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
-	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, DDoS, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
 	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
 	["STEAM_0:0:109030719"] = "Cpt Sunshine Hoovy/castor troy/Troll names alt, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
