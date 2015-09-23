@@ -16,6 +16,13 @@ local Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:1:121163033"] = "Moosicorn alt/Owlicorn/officialowlicorn/Dick Duffy, VAC banned, Member of snixzz hacking site",
+	["STEAM_0:0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn, VAC banned, Member of snixzz hacking site",
+	["STEAM_0:1:121163033"] = "What is Love/Vlad/Troll names, Member of snixzz hacking site, Banned",
+	["STEAM_0:1:114522307"] = "rekteffect/Super/Troll names, MPGH, attempted anticheat bypass, SirFluffysServers: aimbot, seed manipulation",
 	["STEAM_0:0:144583660"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, Member of snixzz hacking site, Dismay, gDaap dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:86385858"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, Member of snixzz hacking site, Dismay, gDaap dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:60971854"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, Member of snixzz hacking site, Dismay, gDaap dakilla123, BAN ME FOREVER",
@@ -153,7 +160,6 @@ local Skiddies = {
 	["STEAM_0:0:44427696"] = "Obama/Snip/Snipwnage/Troll names, C++ hacks, Member of snixzz hacking site, MPGH, Member of hack/troll groups, BAN ME",
 	["STEAM_0:1:92084115"] = "Obama/Snip/Snipwnage/Troll names alt, C++ hacks, Member of snixzz hacking site, MPGH, Member of hack/troll groups, BAN ME",
 	["STEAM_0:1:43064859"] = "SKILLMEN/CookieCrumbles/Troll names, Member of snixzz hacking site, Member of hack/troll groups",
-	["STEAM_0:0:107992661"] = "Moosicorn/officialmoosicorn, Member of snixzz hacking site",
 	["STEAM_0:0:80615189"] = "Ashley/mashirokaana/Cubed, 2x VAC bans, Member of hack/troll groups",
 	["STEAM_0:0:41026068"] = "tehghost/dudebro mcnoknife/Troll names, VAC banned, Member of hack/troll group: fuckufaggetazuisleet",
 	["STEAM_0:1:98901009"] = "Rei/Troll names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: Dango_Mafia_Fan_club",
