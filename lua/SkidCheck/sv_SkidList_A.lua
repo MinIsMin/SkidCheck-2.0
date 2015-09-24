@@ -17,8 +17,12 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:126153968"] = "luis7882/luis, Member of snixzz hacking site",
+	["STEAM_0:0:84408790"] = "sp00k/The Terminator/Troll names, 4x VAC bans, Member of snixzz hacking site, Member of hack/troll group: myg0t_international",
+	["STEAM_0:0:61994279"] = "kokoc_9/Crivbass/ovsk, 2x VAC bans, MPGH, releasing hacks",
+	["STEAM_0:0:119674973"] = "h0wl/ieternality/Troll names, 2x VAC bans, Member of hack/troll group: MEMEWARE, BAN ME FOREVER",
+	["STEAM_0:1:100758935"] = "dsd/100% Troll/hack names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: druglordddosers",
+	["STEAM_0:0:145764388"] = "asdasd, Member of snixzz hacking site",
 	["STEAM_0:1:121163033"] = "Moosicorn alt/Owlicorn/officialowlicorn/Dick Duffy, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:121163033"] = "What is Love/Vlad/Troll names, Member of snixzz hacking site, Banned",
@@ -374,7 +378,11 @@ local Skiddies = {
 	["STEAM_0:0:62551614"] = "yungdewp/Troll names, DDoS, Bluebot,Luabot",
 	["STEAM_0:0:91797597"] = "ProGamer29/ProGaMeR/Vanoss, Mapex",
 	["STEAM_0:1:105581179"] = "KQLYFornia/JWonderchild, 2x VAC bans",
-	["STEAM_0:1:87877095"] = "Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller",
+	
+	
+	["STEAM_0:1:129777789"] = "fruit_shoot alt of Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller, Ban evasion (Alt of STEAM_0:1:87877095)",
+	["STEAM_0:1:87877095"] = "Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller, Ban evasion (Alt STEAM_0:1:129777789)",
+	
 	["STEAM_0:0:74304413"] = "StickyTron, VAC banned, AHack, asking for hacks",
 	["STEAM_0:1:63172579"] = "El_Kebabo/Mats Holmkvist, Falcos scripts",
 	["STEAM_0:1:113605163"] = "Patrick/Yentin3/QueenKitty, 3x VAC bans, big skiddie, member of 3 hack/troll groups",
@@ -547,7 +555,6 @@ local Skiddies = {
 	["STEAM_0:0:37321330"] = "Pepper/isisisforniggers/Mike Wheels/Troll names, ban me",
 	["STEAM_0:0:984454"] = "Mike Jones/ayy40000, VAC banned, Member of hack/troll group: faggothackers",
 	["STEAM_0:1:87397038"] = "y0gurt/Todd Reese/Troll names, Aimware, Member of hack/troll group: gayweedddads",
-	["STEAM_0:0:84408790"] = "sp00k/The Terminator/Troll names, 3x VAC bans, Member of hack/troll group: myg0t_international",
 	
 	["STEAM_0:1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME FOREVER",
 	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME FOREVER",
@@ -706,7 +713,7 @@ local Skiddies = {
 	["STEAM_0:1:61639885"] = "Honk Friend/Troll names, selling hacks, bridgehack, ban me",
 	["STEAM_0:1:34411781"] = "Nomad, Lennys, Member of hack/troll group: TrollSquad9000",
 	["STEAM_0:0:127231310"] = "Rob/DVoid/Catastro, gm_exploited, troll/hacking groups",
-	["STEAM_0:1:4154719"] = "Warden1142/deltasword100/DarkCide/dmrradio/Serverwatch, speedhacks, propkiller, releasing hacks, ban me",
+	["STEAM_0:1:4154719"] = "Warden1142/deltasword100/DarkCide/dmrradio/Serverwatch, speedhacks, admitted C++ hacks, propkiller, releasing hacks, BAN ME FOREVER",
 	["STEAM_0:0:35810412"] = "KraN/kransurf/Gmodpwnz, Stealing files, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
 	["STEAM_0:0:89116170"] = "KraN/kransurf/Gmodpwnz alt, Stealing files, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
 	["STEAM_0:0:107971845"] = "Incognito/Troll names, C++ hacks,VAC banned,propkiller,Lennys,nanohack,ahack,mapex,falcos,bluebot,illya,razor,Ban evasion (Alt: STEAM_0:1:64947049), BAN ME FOREVER",
