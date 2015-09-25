@@ -17,6 +17,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:35840153"] = "Skalias Pablo Relt2014/Skalias, Member of snixzz hacking site",
+	["STEAM_0:1:75763136"] = "devilish/devilishinferno/Puts, Member of snixzz hacking site, Member of hack/troll group: eupk",
 	["STEAM_0:1:73281504"] = "Smile/MoonBass/Simon, Hera, anxition, lua/defiance.lua",
 	["STEAM_0:0:72423494"] = "OptiJack/Jack, Mapex, Lennys scripts",
 	["STEAM_0:0:126153968"] = "luis7882/luis, Member of snixzz hacking site",
