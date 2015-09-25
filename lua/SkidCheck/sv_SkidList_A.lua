@@ -17,6 +17,14 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:90527737"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:1:86830160"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:1:38132042"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:1:87676208"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:0:84587132"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:1:128396973"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans",
+	
+	["STEAM_0:1:121066578"] = "good eye might/gewdeyemight, Member of snixzz hacking site",
 	["STEAM_0:0:35840153"] = "Skalias Pablo Relt2014/Skalias, Member of snixzz hacking site",
 	["STEAM_0:1:75763136"] = "devilish/devilishinferno/Puts, Member of snixzz hacking site, Member of hack/troll group: eupk",
 	["STEAM_0:1:73281504"] = "Smile/MoonBass/Simon, Hera, anxition, lua/defiance.lua",
@@ -174,7 +182,7 @@ local Skiddies = {
 	["STEAM_0:0:80172964"] = "Zak/Troll names, stealing files, FIVE VAC bans, Member of snixzz hacking site, Member of 11 hack/troll groups, huge skid, 2S: Unknown hack",
 	["STEAM_0:1:48186822"] = "Kifersucks/Tom Connor Bob Billy Fred Joe, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:97258774"] = "aker/Nick/gmodlivestream/Troll names, VAC banned, Member of hack/troll group: myg0t_international",
-	["STEAM_0:0:47565254"] = "Yung 2cash/2cash/Troll names, 4x VAC bans, Member of snixzz hacking site, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME",
+	["STEAM_0:0:47565254"] = "Yung 2cash/2cash/Troll names, 4x VAC bans, Member of snixzz hacking site, total skiddie, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:0:118225675"] = "IzeHazAids/igot42tb/Alexander BeastMude/Troll names, Member of snixzz hacking site",
 	["STEAM_0:0:103305234"] = "FBN Chappie/fbnchappie/Ajax Hunter, Member of snixzz hacking site",
 	["STEAM_0:0:76233099"] = "foregrass/Troll names, VAC banned, Member of snixzz hacking site",
@@ -1795,17 +1803,9 @@ local Skiddies = {
 	["STEAM_0:0:89060338"] = "Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:1:29758973"] = "Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:1:1910219"] = "Boring, Troll names",
-	
 	["STEAM_0:0:90141564"] = "killerblisk, selling hacks on MPGH",
 	["STEAM_0:0:57189193"] = "Troll name, 2x VAC bans",
-	
-	["STEAM_0:0:90527737"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
-	["STEAM_0:1:86830160"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
-	["STEAM_0:1:38132042"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
-	["STEAM_0:1:87676208"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
-	["STEAM_0:0:84587132"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
 	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
-	
 	["STEAM_0:1:15789263"] = "Banlist",
 	["STEAM_0:0:22247737"] = "SP2: Baconbot",
 	["STEAM_0:0:17231232"] = "CrowBarGaming: CG Nayr",
