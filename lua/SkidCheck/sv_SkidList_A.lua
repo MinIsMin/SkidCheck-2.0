@@ -16,7 +16,11 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, Member of hack/troll group: MPGH",
+	["STEAM_0:0:42729462"] = "Liquid Obsidian/liquidobsidian/Seth/Sethxi/Troll names, VAC banned, Member of hack/troll group: VACBINS",
+	["STEAM_0:1:48034246"] = "Happy99/JeremyID3, Troll",
+	["STEAM_0:1:64829570"] = "fuck707/Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: complimentmyvacban",
+	["STEAM_0:0:47543801"] = "Harry Pothead/Kira, attacking the server, name exploiting (newline), BAN ME FOREVER",
 	["STEAM_0:0:90527737"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
 	["STEAM_0:1:86830160"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
 	["STEAM_0:1:38132042"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
@@ -3425,7 +3429,7 @@ local Skiddies = {
 	["STEAM_0:1:39718652"] = "saints",
 	["STEAM_0:1:43977202"] = "Skiddie",
 	["STEAM_0:0:32199091"] = "Banlist",
-	["STEAM_0:0:39385804"] = "Cheats, OH: Caelum19",
+	["STEAM_0:0:39385804"] = "Caelum, DDoS, cheats, OubHack: Caelum19",
 	["STEAM_0:0:27332827"] = "SP2: Unknown",
 	["STEAM_0:1:3084246"] = "Skiddie",
 	["STEAM_0:1:70288484"] = "JohnAppleseed, ban me, AHack",
