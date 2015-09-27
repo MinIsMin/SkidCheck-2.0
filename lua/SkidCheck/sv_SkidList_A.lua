@@ -16,6 +16,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:49214336"] = "ChickenNest/igo rojao, anxition, lua/defiance.lua",
 	["STEAM_0:1:41571873"] = "dvla/WGHaven/StormzysDisStormzysDat, Member of snixzz hacking site, Member of hack/troll groups",
 	["STEAM_0:0:105412345"] = "x0s/4oo/Nate Kulkarni/Troll names, C++ cheats, admitted hacking, Member of hack/troll group: bombasscombo",
 	["STEAM_0:0:25840130"] = "x0s/4oo/Nate Kulkarni/Troll names alt, C++ cheats, admitted hacking, Member of hack/troll group: bombasscombo",
