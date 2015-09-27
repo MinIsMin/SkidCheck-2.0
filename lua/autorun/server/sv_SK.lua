@@ -9,10 +9,12 @@ if HAC then
 end
 
 Skid.WaitFor 	= 35 --Seconds to wait before message
-Skid.sk_kick 	= CreateConVar("sk_kick",	0, FCVAR_ARCHIVE, "Prevent players who are in the DB from joining")
-Skid.sk_omit 	= CreateConVar("sk_omit",	1, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question (Useless if sk_kick or sk_admin is 1)")
-Skid.sk_admin	= CreateConVar("sk_admin",	0, FCVAR_ARCHIVE, "Only send SK messages to admins (Useless if sk_kick or sk_omit is 1)")
-Skid.sk_sync	= CreateConVar("sk_sync",	6, FCVAR_ARCHIVE, "Allow list sync from GitHub? value == hours to check for updates (0 to disable)")
+Skid.sk_sync	= CreateConVar("sk_sync",	6, FCVAR_ARCHIVE, "Allow list sync from GitHub? value = hours to check for updates (0 to disable)")
+
+Skid.sk_silent	= CreateConVar("sk_silent",	0, FCVAR_ARCHIVE, "Disable all SK messages? (WILL STILL KICK if sk_kick is 1)")
+Skid.sk_kick 	= CreateConVar("sk_kick",	0, FCVAR_ARCHIVE, "Prevent players on the database from joining")
+Skid.sk_admin	= CreateConVar("sk_admin",	0, FCVAR_ARCHIVE, "ONLY send SK messages to admins, no one else (Useless if sk_kick or sk_omit is 1)")
+Skid.sk_omit 	= CreateConVar("sk_omit",	1, FCVAR_ARCHIVE, "Send SK message to everyone BUT the cheater (Useless if sk_kick or sk_admin is 1)")
 
 
 AddCSLuaFile("autorun/sh_SK.lua")
@@ -42,15 +44,21 @@ HAC = nil
 
 
 
-//Check
-function Skid.Check(server_only)
-	//Get admins, used for sk_admin
+
+local function GetAdmins()
 	local Admins = {}
 	for k,v in pairs( player.GetHumans() ) do
 		if v:IsAdmin() then
 			table.insert(Admins, v)
 		end
 	end
+	return Admins
+end
+
+//Check
+function Skid.Check(server_only)
+	//Get admins, used for sk_admin
+	local Admins = GetAdmins()
 	
 	//Go!
 	for k,v in pairs( player.GetHumans() ) do
@@ -58,7 +66,7 @@ function Skid.Check(server_only)
 		if not Reason then continue end
 		
 		//Hook
-		if hook.Run("OnSkid", v, Reason, (not server_only) ) then return end
+		if hook.Run("OnSkid", v, Reason, (not server_only) ) then continue end
 		
 		//Log
 		file.Append("sk_encounters.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), v:SteamID(), Reason) )
@@ -77,25 +85,31 @@ function Skid.Check(server_only)
 		MsgC(Skid.GREY, "> ")
 		MsgC(Skid.GREY, "is on the ")
 		MsgC(Skid.ORANGE, "HAC database\n\n")
+		if server_only then continue end
 		
-		if not server_only then
-			//Tell clients
-			net.Start("Skid.Msg")
-				net.WriteEntity(v)
-				net.WriteString(Reason)
-				
-			//Send to everyone BUT cheater
-			if Skid.sk_omit:GetBool() then
-				net.SendOmit(v)
-			else
-				//Admins
-				if Skid.sk_admin:GetBool() and #Admins > 0 then
-					net.Send(Admins) --Don't send if no admins and sk_admin is 1, OTHERWISE WILL SEND TO EVERYONE.
-				else
-					//Everyone
-					net.Broadcast()
-				end
-			end
+		
+		//Tell
+		local sk_admin = Skid.sk_admin:GetBool()
+		if Skid.sk_silent:GetBool() or ( sk_admin and #Admins == 0 ) then
+			continue --If silent, or sk_admin is 1 and no admins are online, DON'T SEND TO ANYONE
+		end
+		
+		net.Start("Skid.Msg")
+			net.WriteBit(true)
+			net.WriteEntity(v)
+			net.WriteString(Reason)
+			
+		if sk_admin then
+			//Admins
+			net.Send(Admins)
+			
+		elseif Skid.sk_omit:GetBool() then
+			//Everyone BUT cheater
+			net.SendOmit(v)
+			
+		else
+			//Everyone
+			net.Broadcast()
 		end
 	end
 end
@@ -146,11 +160,21 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	MsgC(Skid.GREY, ")")
 	MsgC(Skid.GREY, " <")
 	MsgC(Skid.RED, Reason)
-	MsgC(Skid.GREY, ">")
+	MsgC(Skid.GREY, ">\n")
 	
-	//Block if enabled
+	
+	//Block if sk_kick
 	if Skid.sk_kick:GetBool() then
 		return false, "[SkidCheck] You're on the naughty list: "..SID.."\n<"..Reason..">"
+		
+	else
+		//Sound, to admins. Will match up with the server's join message in the chat
+		local Admins = GetAdmins()
+		if #Admins > 0 and not Skid.sk_silent:GetBool() then
+			net.Start("Skid.Msg")
+				net.WriteBit(false)
+			net.Send(Admins)
+		end
 	end
 end
 hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)

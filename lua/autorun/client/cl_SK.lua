@@ -6,10 +6,17 @@
 
 //Message
 function Skid.Msg()
-	local self 	 = net.ReadEntity()
-	local Reason = net.ReadString()
+	//Sound
+	if net.ReadBit() == 0 then
+		surface.PlaySound("vo/npc/male01/herecomehacks0"..math.random(1,2)..".wav")
+		return
+	end
+	
 	
 	//Message
+	local self	 = net.ReadEntity()
+	local Reason = net.ReadString()
+	
 	chat.AddText(
 		Skid.GREY, "[",
 		Skid.WHITE, "Skid",

@@ -17,13 +17,11 @@ local Skiddies = {
 
 
 
-
-	["STEAM_0:0:93519566"] = "pepperscodegod/Neko/Troll names, Member of hack/troll group: pasters",
-	
 	["STEAM_0:0:105412345"] = "x0s/4oo/Nate Kulkarni/Troll names, C++ cheats, admitted hacking, Member of hack/troll group: bombasscombo",
 	["STEAM_0:0:25840130"] = "x0s/4oo/Nate Kulkarni/Troll names alt, C++ cheats, admitted hacking, Member of hack/troll group: bombasscombo",
 	["STEAM_0:0:16659"] = "x0s/4oo/Nate Kulkarni/Troll names, C++ cheats, admitted hacking, Member of hack/troll group: bombasscombo",
 	
+	["STEAM_0:0:93519566"] = "pepperscodegod/Neko/Troll names, Member of hack/troll group: pasters",
 	["STEAM_0:1:2167449"] = "Invisible name/sleaze_/staral_sperm, Member of snixzz hacking site, Member of hack/troll group: n9neeleven",
 	["STEAM_0:1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, Member of hack/troll group: MPGH",
 	["STEAM_0:0:42729462"] = "Liquid Obsidian/liquidobsidian/Seth/Sethxi/Troll names, VAC banned, Member of hack/troll group: VACBINS",
@@ -261,7 +259,7 @@ local Skiddies = {
 	["STEAM_0:0:58191084"] = "perl/Alex, Admitted DDoS, propkiller",
 	["STEAM_0:0:29540342"] = "Iced Coffee/jack pendrick?, Member of hack/troll group: poki, Ban evasion (Alt: STEAM_0:0:26479054)",
 	["STEAM_0:0:26479054"] = "jack pendrick/Iced Coffee alt, Member of hack/troll group: poki, Ban evasion (Alt of STEAM_0:0:29540342)",
-	["STEAM_0:0:67538183"] = "Sinclair/xFzNox, 3x VAC bans, selling exploits",
+	["STEAM_0:0:67538183"] = "Sinclair/xFzNox, 3x VAC bans, selling exploits, MPGH, ban me",
 	["STEAM_0:0:83454535"] = "LordSyru cake bob/lordkooot/Emil, forced sv_allowcslua, lua/ttt3.lua Ahack, lua/defcon.lua aimbots",
 	["STEAM_0:1:95188096"] = "Yaroslav, 2x VAC bans, Mapex, lua/sasha.lua aimbot",
 	["STEAM_0:0:130835242"] = "Dentan/Dentan S/Simme007, VAC banned, Lennys scripts, Ban Evasion (Alt of STEAM_0:0:60575957)",
@@ -799,7 +797,6 @@ local Skiddies = {
 	["STEAM_0:1:99708404"] = "Ghillie, Backdoor/Exploits in workshop addons, JSP cheat (stealing files), ban me",
 	["STEAM_0:0:42138604"] = "Liquidsocks/Pengo/Troll names, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
 	["STEAM_0:1:68768379"] = "Liquidsocks/Pengo/Troll names, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
-	["STEAM_0:0:62184463"] = "Juggle Bubblels/The Tech Pony, stealing files, Aimware, gDaap DB: TheTechPony, BAN ME FOREVER",
 	["STEAM_0:0:376620"] = "fnox/troll names, VAC banned, troll, skiddie, Member of hack/troll group",
 	["STEAM_0:0:85513655"] = "Kiotaa, exploits,VAC banned,speedhack,sv_allowcslua,z0mgBot,nyx,cvar3,anxition,mapex,rhook, BAN ME FOREVER",
 	["STEAM_0:1:55710792"] = "GOMMB, bluebot,mapex,AHack",
