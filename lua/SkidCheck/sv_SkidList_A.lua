@@ -16,6 +16,11 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:92640942"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt of STEAM_0:0:62184463), BAN ME FOREVER",
+	["STEAM_0:0:62184463"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt STEAM_0:1:92640942), BAN ME FOREVER",
+	["STEAM_0:0:87858531"] = "Le ZamBie/infectedxzombie/Daniel, Member of snixzz hacking site",
+	["STEAM_0:0:67522120"] = "XQuantumForceX, 3x VAC bans, Member of snixzz hacking site, Member of hack/troll group: hduaihduiwahh2111",
 	["STEAM_0:0:76452339"] = "Tortoise_DevilBoy, gmodpickles, mapex, propkiller",
 	["STEAM_0:1:49214336"] = "ChickenNest/igo rojao, anxition, lua/defiance.lua",
 	["STEAM_0:1:41571873"] = "dvla/WGHaven/StormzysDisStormzysDat, Member of snixzz hacking site, Member of hack/troll groups",
