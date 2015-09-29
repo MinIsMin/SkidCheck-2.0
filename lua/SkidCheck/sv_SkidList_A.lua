@@ -16,7 +16,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:81504650"] = "Mint/Alex/Troll names, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:92640942"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt of STEAM_0:0:62184463), BAN ME FOREVER",
 	["STEAM_0:0:62184463"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt STEAM_0:1:92640942), BAN ME FOREVER",
 	["STEAM_0:0:87858531"] = "Le ZamBie/infectedxzombie/Daniel, Member of snixzz hacking site",
@@ -8483,3 +8483,7 @@ table.MergeEx(Skiddies, HAC.Skiddies)
 
 
 
+if istable(skid) then
+	skid.list 		= {}
+	skid.addlist 	= function() end
+end

@@ -4,7 +4,7 @@
 */
 
 if HAC then
-	ErrorNoHalt("\n[SkidCheck] Disabled. Please remove HAC and restart the server\n")
+	ErrorNoHalt("\n[SkidCheck] Disabled. Please remove HAC and restart the server\n\n")
 	return
 end
 
@@ -52,7 +52,7 @@ local function GetAdmins()
 			table.insert(Admins, v)
 		end
 	end
-	return Admins
+	return #Admins != 0 and Admins or false
 end
 
 //Check
@@ -64,9 +64,6 @@ function Skid.Check(server_only)
 	for k,v in pairs( player.GetHumans() ) do
 		local Reason = Skid.HAC_DB[ v:SteamID() ]
 		if not Reason then continue end
-		
-		//Hook
-		if hook.Run("OnSkid", v, Reason, (not server_only) ) then continue end
 		
 		//Log
 		file.Append("sk_encounters.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), v:SteamID(), Reason) )
@@ -85,12 +82,15 @@ function Skid.Check(server_only)
 		MsgC(Skid.GREY, "> ")
 		MsgC(Skid.GREY, "is on the ")
 		MsgC(Skid.ORANGE, "HAC database\n\n")
+		
+		//Hook
+		if hook.Run("OnSkid", v, Reason, (not server_only) ) then continue end
 		if server_only then continue end
 		
 		
 		//Tell
 		local sk_admin = Skid.sk_admin:GetBool()
-		if Skid.sk_silent:GetBool() or ( sk_admin and #Admins == 0 ) then
+		if Skid.sk_silent:GetBool() or ( sk_admin and not Admins ) then
 			continue --If silent, or sk_admin is 1 and no admins are online, DON'T SEND TO ANYONE
 		end
 		
@@ -163,14 +163,17 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	MsgC(Skid.GREY, ">\n")
 	
 	
-	//Block if sk_kick
-	if Skid.sk_kick:GetBool() then
-		return false, "[SkidCheck] You're on the naughty list: "..SID.."\n<"..Reason..">"
+	//Hook
+	local Block,Res = hook.Run("BlockSkidConnect", user,SID, Reason)
+	
+	//Block if sk_kick or BlockSkidConnect true
+	if Block or Skid.sk_kick:GetBool() then
+		return false, Res or "[SkidCheck] You're on the naughty list: "..SID.."\n\n<"..Reason..">"
 		
 	else
 		//Sound, to admins. Will match up with the server's join message in the chat
 		local Admins = GetAdmins()
-		if #Admins > 0 and not Skid.sk_silent:GetBool() then
+		if Admins and not Skid.sk_silent:GetBool() then
 			net.Start("Skid.Msg")
 				net.WriteBit(false)
 			net.Send(Admins)
@@ -216,6 +219,7 @@ timer.Simple(1, Skid.Ready)
 local Check = Skid.Check
 timer.Simple(6, function()
 	if Skid.Check == Check then return end
+	ErrorNoHalt("\n[SkidCheck] Disabled due to DarkRP update. Please see console for details\n\n")
 	
 	MsgC(Skid.GREY, 	"\n\n  [")
 	MsgC(Skid.WHITE2, 	"Skid")
