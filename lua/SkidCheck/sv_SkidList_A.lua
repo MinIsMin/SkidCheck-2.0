@@ -15,7 +15,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:88979854"] = "Funny Face/notupsice/Mark, 4x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:1:81504650"] = "Mint/Alex/Troll names, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:92640942"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt of STEAM_0:0:62184463), BAN ME FOREVER",
 	["STEAM_0:0:62184463"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt STEAM_0:1:92640942), BAN ME FOREVER",
