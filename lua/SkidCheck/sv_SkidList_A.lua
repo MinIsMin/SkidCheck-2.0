@@ -15,6 +15,14 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:146382291"] = "dukakompis, Member of snixzz hacking site",
+	["STEAM_0:1:82736207"] = "izahmoose/instinct, VAC banned, Member of snixzz hacking site",
+	
+	["STEAM_0:0:83847070"] = "Deagler, Dismay (stealing files), nanohack, Member of snixzz hacking site, dHack, BAN ME",
+	["STEAM_0:1:32634764"] = "Deagler, Dismay (stealing files), nanohack, Member of snixzz hacking site, dHack, BAN ME",
+	["STEAM_0:0:124979748"] = "Deagler, Dismay (stealing files), nanohack, Member of snixzz hacking site, dHack, BAN ME",
+	
 	["STEAM_0:0:88979854"] = "Funny Face/notupsice/Mark, 4x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:1:81504650"] = "Mint/Alex/Troll names, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:92640942"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt of STEAM_0:0:62184463), BAN ME FOREVER",
@@ -842,9 +850,6 @@ local Skiddies = {
 	["STEAM_0:1:58058392"] = "Tyler/snixzz/0xymoron, writing & giving away many hacks, 2x VAC bans, running hack site, troll, BAN ME FOREVER",
 	["STEAM_0:0:93571604"] = "Tyler/snixzz/0xymoron, writing & giving away many hacks, 2x VAC bans, running hack site, troll, BAN ME FOREVER",
 	
-	["STEAM_0:0:83847070"] = "Deagler new, dHack, Dismay (stealing files) ban me",
-	["STEAM_0:1:32634764"] = "Deagler, dHack, Dismay (stealing files) ban me",
-	["STEAM_0:0:124979748"] = "Deagler alt, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:0:37916732"] = "RoflWaffle/shitfucker86/Troll names, 2x VAC bans",
 	["STEAM_0:1:54454921"] = "Scaro/FunkeyDunkey, aim-flex C++ cheats, skiddie",
 	["STEAM_0:0:43504172"] = "mahmood good the niga socrates, Troll names",
