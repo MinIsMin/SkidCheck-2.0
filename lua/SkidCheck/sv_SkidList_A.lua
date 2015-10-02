@@ -13,9 +13,10 @@ local Skiddies = {
 
 
 
-
-
-
+	["STEAM_0:0:137824786"] = "FaNaT M9ICHIKA, Member of snixzz hacking site",
+	["STEAM_0:0:144633612"] = "paszaBiceps/DandySpace, 2x VAC bans, Member of snixzz hacking site",
+	["STEAM_0:1:116576465"] = "Goodie/tingerliger, Member of snixzz hacking site",
+	["STEAM_0:0:109547403"] = "lord123/skep, Member of snixzz hacking site",
 	["STEAM_0:1:146382291"] = "dukakompis, Member of snixzz hacking site",
 	["STEAM_0:1:82736207"] = "izahmoose/instinct, VAC banned, Member of snixzz hacking site",
 	
@@ -213,7 +214,10 @@ local Skiddies = {
 	["STEAM_0:0:97258774"] = "aker/Nick/gmodlivestream/Troll names, VAC banned, Member of hack/troll group: myg0t_international",
 	["STEAM_0:0:47565254"] = "Yung 2cash/2cash/Troll names, 4x VAC bans, Member of snixzz hacking site, total skiddie, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:0:118225675"] = "IzeHazAids/igot42tb/Alexander BeastMude/Troll names, Member of snixzz hacking site",
+	
 	["STEAM_0:0:103305234"] = "FBN Chappie/fbnchappie/Ajax Hunter, Member of snixzz hacking site",
+	["STEAM_0:1:81942762"] = "Chappie1/chappieishappy1/lecoben, attempted anticheat bypass, Member of snixzz hacking site, Banned, MPGH",
+	
 	["STEAM_0:0:76233099"] = "foregrass/Troll names, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:114785523"] = "Zombiiju/dud, Member of snixzz hacking site",
 	["STEAM_0:0:36945367"] = "CookieBagels/jadenmartin3, VAC banned, Member of snixzz hacking site",
@@ -267,7 +271,6 @@ local Skiddies = {
 	["STEAM_0:0:50056272"] = "Sven/swisssven/svenurechtm alt, sv_allowcslua,VAC banned, JSP,AHack,SMEG,murder,prophunt hacks, Ban Evasion (Alt STEAM_0:0:103612004)",
 	["STEAM_0:1:70244605"] = "Jack_The_Ripper/Felix/3571598246, Mapex",
 	["STEAM_0:0:62219797"] = "TGOD BLAZE1911/TaylorGang_blazRu, lua/defiance.lua, anxition, AHack",
-	["STEAM_0:1:81942762"] = "Chappie1/chappieishappy1, attempted anticheat bypass, MPGH",
 	["STEAM_0:0:29593863"] = "Ultimate/7771535164/John Melon, Stealing files, VAC banned, Dark scripts, bypasses, JSP,bh_menu,LORDHack,SH",
 	["STEAM_0:1:39052921"] = "fiveo33/big ass mike/Pulga/Troll names, Member of hack/troll groups, 12 year old skid. Ban me forever",
 	["STEAM_0:0:51934966"] = "he7e6/skripTER/Troll names, Member of hack/troll groups, 12 year old skid. Ban me forever",
