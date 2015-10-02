@@ -13,29 +13,29 @@
 How to use:
 Nothing is needed to configure or set up (Unless you want to).
 
-By default, for any IDs in the database, this addon will do a warning message and
-sound when those players spawn in the server.
-It will also update the lists from GitHub on server map change, and every 6 hours.
+By default, for any IDs in the database, this addon will do a warning message & sound
+in the chat when those players spawn in the server.
+It will also update the lists from GitHub on map change, and then every 6 hours.
 
 It can not *detect* cheaters, nor can it punish anyone it finds. It can only do the
 following:
 
 
-CVars:
+CVars (Add to your server.cfg if you want to change default options):
 sk_kick  0/1  --Prevent players on the naughty list from joining.
-OFF by default
+0 by default
 
 sk_omit  1/0  --Send SK message to everyone BUT the known cheater
-ON by default, useless if sk_kick or sk_admin is 1
+1 by default, useless if sk_kick or sk_admin is 1
 
 sk_admin 0/1  --ONLY send SK messages to admins, no one else
-OFF by default, useless if sk_kick or sk_omit is 1
+0 by default, useless if sk_kick or sk_omit is 1
 
 sk_sync  6/0  --Allow list sync from GitHub?
-ON by default, value = hours to check for updates (0 to disable)
+6 by default, value = hours to check for updates (0 to disable)
 
 sk_silent 0/1 --Disable all SK messages? (WILL STILL KICK if sk_kick is 1)
-OFF by default
+0 by default
 
 
 

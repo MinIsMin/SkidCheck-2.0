@@ -47,6 +47,14 @@ end
 net.Receive("Skid.Msg", Skid.Msg)
 
 
+//Console message
+timer.Simple(1, function()
+	MsgC(Skid.GREY, 	"\n[")
+	MsgC(Skid.WHITE2, 	"Skid")
+	MsgC(Skid.BLUE, 	"Check")
+	MsgC(Skid.GREY, 	"] ")
+	MsgC(Skid.GREEN, 	"Ready :)\n")
+end)
 
 
 
