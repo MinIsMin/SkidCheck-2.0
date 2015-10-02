@@ -8491,7 +8491,7 @@ table.MergeEx(Skiddies, HAC.Skiddies)
 
 
 
-if istable(skid) then
+if istable and istable(skid) then
 	skid.list 		= {}
 	skid.addlist 	= function() end
 end
