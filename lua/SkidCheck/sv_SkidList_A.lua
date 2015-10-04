@@ -13,6 +13,19 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+	["STEAM_0:0:59727915"] = "kimi raikkonen/deaglemon/Possible phoon Snorflake alt, Member of snixzz hacking site, Banned",
+	["STEAM_0:0:41973844"] = "Firedraft, Member of snixzz hacking site",
+	["STEAM_0:0:104982093"] = "ling ling rap/Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: faggothackers",
+	["STEAM_0:1:47792913"] = "fawkescn/Fawkesby Idle/Troll names, Troll, 12 year old, BAN ME",
+	["STEAM_0:1:56918710"] = "100% Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: MEMEWARE, BAN ME FOREVER",
+	["STEAM_0:1:82211977"] = "xITzDarK/DarK, VAC banned, Member of snixzz hacking site",
+	["STEAM_0:1:119634470"] = "Optimal/yoitssoptimallll/Troll names, 2x VAC bans, Member of snixzz hacking site",
+	["STEAM_0:0:56838146"] = "moth/Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: snixzznet",
 	["STEAM_0:0:137824786"] = "FaNaT M9ICHIKA, Member of snixzz hacking site",
 	["STEAM_0:0:144633612"] = "paszaBiceps/DandySpace, 2x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:1:116576465"] = "Goodie/tingerliger, Member of snixzz hacking site",
