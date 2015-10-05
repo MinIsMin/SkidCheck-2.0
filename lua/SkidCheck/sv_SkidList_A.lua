@@ -16,8 +16,9 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:57950062"] = "Tommy, Member of snixzz hacking site",
+	["STEAM_0:1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS, VAC banned, C++ hacks, Member of snixzz hacking site, Member of hack/troll groups, BAN ME FOREVER",
+	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS, VAC banned, C++ hacks, Member of snixzz hacking site, Member of hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:0:59727915"] = "kimi raikkonen/deaglemon/Possible phoon Snorflake alt, Member of snixzz hacking site, Banned",
 	["STEAM_0:0:41973844"] = "Firedraft, Member of snixzz hacking site",
 	["STEAM_0:0:104982093"] = "ling ling rap/Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: faggothackers",
@@ -612,10 +613,6 @@ local Skiddies = {
 	["STEAM_0:0:37321330"] = "Pepper/isisisforniggers/Mike Wheels/Troll names, ban me",
 	["STEAM_0:0:984454"] = "Mike Jones/ayy40000, VAC banned, Member of hack/troll group: faggothackers",
 	["STEAM_0:1:87397038"] = "y0gurt/Todd Reese/Troll names, Aimware, Member of hack/troll group: gayweedddads",
-	
-	["STEAM_0:1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME FOREVER",
-	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME FOREVER",
-	
 	["STEAM_0:0:39907011"] = "Kappa/Turtle Justice/Troll names, Member of hack/troll group: Rule-De-Game",
 	["STEAM_0:1:68606171"] = "Troll names, VAC banned",
 	["STEAM_0:0:43081833"] = "xKnight/Fragen,stayler999, VAC banned, Member of hack/troll group: Rule-De-Game",
