@@ -15,7 +15,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:49923007"] = "Nizzl/Ryan Proshack, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:1:57952254"] = "2MistyM8/dylanboy1427/soccerbaseballpoop, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:45006801"] = "FlubberKid/Spooderman/79070707568, Member of snixzz hacking site",
 	["STEAM_0:0:57950062"] = "Tommy, Member of snixzz hacking site",
@@ -124,7 +124,7 @@ local Skiddies = {
 	["STEAM_0:1:82661656"] = "Teh Chosen Juan/dark9081/Juan C. Garza/RabidRunner, Member of snixzz hacking site",
 	["STEAM_0:1:104971837"] = "HappyRipper, VAC Banned, Member of snixzz hacking site",
 	["STEAM_0:0:142275477"] = "All4n/'bich', Member of snixzz hacking site",
-	["STEAM_0:0:33099483"] = "polivilas/Troll names, stealing files,aimware,VAC banned, Member of snixzz hacking site, hera,member of 3 hack/troll groups, BAN ME FOREVER",
+	["STEAM_0:0:33099483"] = "polivilas/100% Troll names, stealing files, aimware, VAC banned, Member of snixzz hacking site, hera, member of 16 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:0:118787869"] = "TheDuckMaster/theduckmastersteamaccount/Zachary/RubbyDuckModz, VAC banned, selling hacks, member of hack groups: DuckyHacks4Sale,HowAreCodeKills, BAN ME FOREVER",
 	["STEAM_0:0:42792328"] = "aethi/Ratteh/__asmr/Troll names, attacking & crashing servers, VAC banned, Member of snixzz hacking site, gDaap: Ratty, Member of hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:50524201"] = "og squad/Jay/no_one/Troll names, 2S: Unknown hack, Member of hack/troll group: big_codens",
