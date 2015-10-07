@@ -15,6 +15,9 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:40942351"] = "Shadow/NovaTeamer, Hera, Member of snixzz hacking site, Member of 14 hack/troll groups, DDoS",
+	["STEAM_0:1:117548645"] = "Invisible name, Member of snixzz hacking site, ban me",
 	["STEAM_0:1:49923007"] = "Nizzl/Ryan Proshack, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:1:57952254"] = "2MistyM8/dylanboy1427/soccerbaseballpoop, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:45006801"] = "FlubberKid/Spooderman/79070707568, Member of snixzz hacking site",
@@ -3311,7 +3314,6 @@ local Skiddies = {
 	["STEAM_0:0:19430925"] = "2S: Bluebot",
 	["STEAM_0:0:30480788"] = "Banlist",
 	["STEAM_0:1:18276928"] = "gDaap DB: Tanman4231 ([TG] Baman)",
-	["STEAM_0:0:40942351"] = "Hera",
 	["STEAM_0:0:31886312"] = "Banlist",
 	["STEAM_0:0:19216916"] = "Banlist",
 	["STEAM_0:1:42397636"] = "Banlist",
