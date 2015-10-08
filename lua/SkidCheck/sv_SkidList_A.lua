@@ -15,7 +15,10 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:75531"] = "Neri/nerihax/joey salads/Troll names, Member of snixzz hacking site, Member of hack/troll group: SEGAwarfare",
+	["STEAM_0:0:125833142"] = "fl0w, Member of snixzz hacking site",
+	["STEAM_0:0:65413233"] = "Fluffeh/Mr. Farty McFarticuss, Member of snixzz hacking site, Member of 4 hack/troll groups",
+	["STEAM_0:0:134501538"] = "Le Turtle/whitesharpie/Tom, Member of snixzz hacking site, Member of hack/troll group: stealthyfuckers",
 	["STEAM_0:0:40942351"] = "Shadow/NovaTeamer, Hera, Member of snixzz hacking site, Member of 14 hack/troll groups, DDoS",
 	["STEAM_0:1:117548645"] = "Invisible name, Member of snixzz hacking site, ban me",
 	["STEAM_0:1:49923007"] = "Nizzl/Ryan Proshack, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
