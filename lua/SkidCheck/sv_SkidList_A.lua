@@ -14,7 +14,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:47958702"] = "Brucektrain/scp173/Slenderman, Attempted anticheat bypass, STEALING FILES, cvar3, BAN ME FOREVER",
+	["STEAM_0:1:94708746"] = "Spyderco/lomeesss, VAC banned, sv_cheas bypass, speedhacks",
 	["STEAM_0:1:75531"] = "Neri/nerihax/joey salads/Troll names, Member of snixzz hacking site, Member of hack/troll group: SEGAwarfare",
 	["STEAM_0:0:125833142"] = "fl0w, Member of snixzz hacking site",
 	["STEAM_0:0:65413233"] = "Fluffeh/Mr. Farty McFarticuss, Member of snixzz hacking site, Member of 4 hack/troll groups",
