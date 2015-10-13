@@ -13,7 +13,15 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:106487301"] = "Ysero/Daquan/Troll names, Member of snixzz hacking site",
+	["STEAM_0:0:47786482"] = "Leo4Eck/mineeden/Leonard Viereck, AHack",
+	
+	["STEAM_0:1:118269461"] = "Tehhkp/TEMPER/Kayla/Ryuzaki, Dismay (stealing files), VAC banned, Ban evasion (5 alts, List_A), Member of 7 hack/troll groups, 12 year old skiddie, BAN ME",
+	["STEAM_0:0:141483636"] = "Tehhkp/TEMPER/Kayla/Ryuzaki, Dismay (stealing files), VAC banned, Ban evasion (5 alts, List_A), Member of 7 hack/troll groups, 12 year old skiddie, BAN ME",
+	["STEAM_0:1:28861"] = "Tehhkp/TEMPER/Kayla/Ryuzaki, Dismay (stealing files), VAC banned, Ban evasion (5 alts, List_A), Member of 7 hack/troll groups, 12 year old skiddie, BAN ME",
+	["STEAM_0:1:58655290"] = "Tehhkp/TEMPER/Kayla/Ryuzaki, Dismay (stealing files), VAC banned, Ban evasion (5 alts, List_A), Member of 7 hack/troll groups, 12 year old skiddie, BAN ME",
+	["STEAM_0:0:77823910"] = "Tehhkp/TEMPER/Kayla/Ryuzaki, Dismay (stealing files), VAC banned, Ban evasion (5 alts, List_A), Member of 7 hack/troll groups, 12 year old skiddie, BAN ME",
+	
 	["STEAM_0:1:121189028"] = "ethugs.DFROGZ/dfr0gz, Member of snixzz hacking site",
 	["STEAM_0:0:102962334"] = "Touctouc/touctoucisgud/Kyle/MelachiKon, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:1563400"] = "Viva la Vivi/vivalavivi/kcqzy/Johnathan/Troll names, Member of snixzz hacking site, Member of hack/troll group: MEMEWARE",
@@ -7087,7 +7095,6 @@ local Skiddies = {
 	["STEAM_0:0:48333991"] = "Nox: Speedhacking",
 	["STEAM_0:0:17413058"] = "Skiddie",
 	["STEAM_0:1:25946562"] = "Skiddie",
-	["STEAM_0:0:77823910"] = "XoXo Kayla  CPC XoXo, Dismay (stealing files), Hacks, ban me",
 	["STEAM_0:1:21082736"] = "Zyke, ban me, AHack",
 	["STEAM_0:1:31582139"] = "2S: Cheats",
 	["STEAM_0:1:28935122"] = "Banlist",
@@ -8238,7 +8245,6 @@ local Skiddies = {
 	["STEAM_0:1:24500739"] = "Banlist",
 	["STEAM_0:1:35688208"] = "key coder AE 7",
 	["STEAM_0:0:6171488"] = "Banlist",
-	["STEAM_0:1:58655290"] = "Tehhkp/TEMPER/Kayla 3, ban me, Ban Evasion (STEAM_0:0:77823910, sasha)",
 	["STEAM_0:0:48465218"] = "gDaap DB: darkkill987",
 	["STEAM_0:1:6788895"] = "nughuffer/phuzzz",
 	["STEAM_0:0:50130445"] = "rickybob137, deus friend",
