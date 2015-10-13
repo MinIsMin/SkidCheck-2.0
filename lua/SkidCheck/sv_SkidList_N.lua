@@ -26,6 +26,19 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:0:136742430"] = "Member of hack/troll group: LittleGurls",
+	["STEAM_0:1:52279064"] = "Member of hack/troll group: LittleGurls",
+	["STEAM_0:0:119182339"] = "Member of hack/troll group: LittleGurls",
+	["STEAM_0:0:119043531"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:110098246"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:147385880"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:98193670"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:147390682"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:126915632"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:42732794"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:51046476"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:17917980"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:32248501"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:32756893"] = "Member of hack/troll group: Lolisports",
 	["STEAM_0:1:107571691"] = "Member of hack/troll group: Lolisports",
 	["STEAM_0:0:35881270"] = "Member of hack/troll group: Lolisports",

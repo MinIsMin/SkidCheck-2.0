@@ -13,6 +13,22 @@ local Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:0:55728528"] = "strazyyy/Troll names, Member of snixzz hacking site, Member of hack/troll group: tabernaclehacking",
+	
+	["STEAM_0:1:19405109"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:1:86309474"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:1:26966820"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:1:34058739"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:0:25687098"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:1:84889629"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:1:86271998"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:0:37652268"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:0:60573909"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	["STEAM_0:1:97275088"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, Member of snixzz hacking site, FUCKING BAN ME",
+	
 	["STEAM_0:0:106487301"] = "Ysero/Daquan/Troll names, Member of snixzz hacking site",
 	["STEAM_0:0:47786482"] = "Leo4Eck/mineeden/Leonard Viereck, AHack",
 	
@@ -729,18 +745,6 @@ local Skiddies = {
 	["STEAM_0:0:128711600"] = "Haruki/l1m3w1r3, leaking code, 'OJ' cheat, attempted bypass, MPGH",
 	["STEAM_0:1:51838685"] = "VeRage, speedhacks",
 	["STEAM_0:1:62956661"] = "Klutch, VAC banned",
-	
-	["STEAM_0:1:19405109"] = "Possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me Member of hack/troll group: complimentmyvacban",
-	["STEAM_0:1:86309474"] = "Invisible name, possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
-	["STEAM_0:1:26966820"] = "Ronin ltas, VAC banned, possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
-	["STEAM_0:1:34058739"] = "Andrias/possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
-	["STEAM_0:0:25687098"] = "JamieH, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
-	["STEAM_0:1:84889629"] = "Possible JamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
-	["STEAM_0:1:86271998"] = "deathderki, JamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
-	["STEAM_0:0:37652268"] = "Josh, JamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
-	["STEAM_0:0:60573909"] = "JamieH alt, Member of hack/troll group: complimentmyvacban, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
-	["STEAM_0:1:97275088"] = "FluffyUnicorn/JamieH alt, Lennys, pasting hacks, stealing files, leaking code, fucking ban me",
-	
 	["STEAM_0:1:22619812"] = "Heading, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
 	["STEAM_0:1:24638359"] = "Maverick, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
 	["STEAM_0:1:26002823"] = "Delta, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
