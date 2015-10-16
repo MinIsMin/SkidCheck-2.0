@@ -79,6 +79,8 @@ handled yourself in this hook!
 
 
 
+List format:
+["SteamID_Here"] = "Names/Known/As, Reason",
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
