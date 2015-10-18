@@ -15,6 +15,9 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:135089594"] = "herres/bonkthebigboi/BigBoi/kebabmeister, Member of snixzz hacking site, Member of hack/troll group: ARMYSIDO, BAN ME FOREVER",
+	["STEAM_0:1:38792211"] = "DeadMan/ineedonlyone/TaeganYancey, 2x VAC bans, Member of snixzz hacking site, 2S: Mapex",
 	["STEAM_0:1:147126271"] = "Corey Fehringer/killaman199, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:121696613"] = "Hauntex/Phoenix/Kraken/theterabyte/Troll names, writing cheats, Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:0:55728528"] = "strazyyy/Troll names, Member of snixzz hacking site, Member of hack/troll group: tabernaclehacking",
@@ -6120,7 +6123,6 @@ local Skiddies = {
 	["STEAM_0:0:44321488"] = "SP2: Code injection (Sethhack)",
 	["STEAM_0:0:40040421"] = "2S: Lenny",
 	["STEAM_0:1:16471299"] = "Hera, 2S: Hera",
-	["STEAM_0:1:38792211"] = "2S: Mapex",
 	["STEAM_0:1:16534089"] = "s0beit",
 	["STEAM_0:1:23853816"] = "Blackops.cfg",
 	["STEAM_0:0:17605909"] = "SP2: Sethhack",
