@@ -14,7 +14,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:40439202"] = "Hanuko/tunnelsnejks/Troll names, DDoS, VAC banned, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:0:51150658"] = "raeF/jesustheturtle/nFxTricks, 2x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:0:135089594"] = "herres/bonkthebigboi/BigBoi/kebabmeister, Member of snixzz hacking site, Member of hack/troll group: ARMYSIDO, BAN ME FOREVER",
 	["STEAM_0:1:38792211"] = "DeadMan/ineedonlyone/TaeganYancey, 2x VAC bans, Member of snixzz hacking site, 2S: Mapex",
@@ -302,7 +302,6 @@ local Skiddies = {
 	["STEAM_0:0:140048952"] = "Trey Hufstetler/garrysbhopalt/garrysbhop/Troll names, VAC banned, Member of hack/troll group: gmodhvh",
 	["STEAM_0:1:47723510"] = "Trey Hufstetler/garrysbhopalt/garrysbhop/Troll names, VAC banned, Member of hack/troll group: gmodhvh",
 	["STEAM_0:1:16852271"] = "Mobius, Lennys",
-	["STEAM_0:1:40439202"] = "Saylor Twift/tunnelsnejks/Troll names, DDoS, VAC banned, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:1:50164415"] = "Michael J. Caboose/pinkothecherub, DDoS",
 	["STEAM_0:1:44227737"] = "Yunie/IPAUL, propkiller, 8 cheating scripts, Member of hack/troll groups: lolicocks, VACBINS",
 	
@@ -857,7 +856,7 @@ local Skiddies = {
 	["STEAM_0:0:42138604"] = "Liquidsocks/Pengo/Troll names, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
 	["STEAM_0:1:68768379"] = "Liquidsocks/Pengo/Troll names, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
 	["STEAM_0:0:376620"] = "fnox/troll names, VAC banned, troll, skiddie, Member of hack/troll group",
-	["STEAM_0:0:85513655"] = "Kiotaa, exploits,VAC banned,speedhack,sv_allowcslua,z0mgBot,nyx,cvar3,anxition,mapex,rhook, BAN ME FOREVER",
+	["STEAM_0:0:85513655"] = "Kiotaa, exploits, 2x VAC bans, speedhack,sv_allowcslua,z0mgBot,nyx,cvar3,anxition,mapex,rhook, BAN ME FOREVER",
 	["STEAM_0:1:55710792"] = "GOMMB, bluebot,mapex,AHack",
 	
 	["STEAM_0:0:5991293"] = "Alex/Function/Troll names, DDoS,JSP,VAC Banned,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
