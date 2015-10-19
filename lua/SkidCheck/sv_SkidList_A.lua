@@ -15,7 +15,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:51150658"] = "raeF/jesustheturtle/nFxTricks, 2x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:0:135089594"] = "herres/bonkthebigboi/BigBoi/kebabmeister, Member of snixzz hacking site, Member of hack/troll group: ARMYSIDO, BAN ME FOREVER",
 	["STEAM_0:1:38792211"] = "DeadMan/ineedonlyone/TaeganYancey, 2x VAC bans, Member of snixzz hacking site, 2S: Mapex",
 	["STEAM_0:1:147126271"] = "Corey Fehringer/killaman199, VAC banned, Member of snixzz hacking site",
