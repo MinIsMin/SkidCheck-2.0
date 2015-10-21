@@ -12,7 +12,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:30671841"] = "SaintLuther/KKLMNOP, DDoS threat, skiddie",
 	["STEAM_0:1:61843598"] = "sentry_buster alt, 2x VAC bans, Member of hack/troll group: AnonOficial",
 	["STEAM_0:1:122832176"] = "sentry_buster, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: AnonOficial",
 	["STEAM_0:0:81049098"] = "aculic3, Admitted to buying hacks, ban me",
