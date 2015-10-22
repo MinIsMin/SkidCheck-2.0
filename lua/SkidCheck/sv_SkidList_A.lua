@@ -12,7 +12,13 @@ local Skiddies = {
 
 
 
-	["STEAM_0:1:30671841"] = "SaintLuther/KKLMNOP, DDoS threat, skiddie",
+
+
+	["STEAM_0:1:100976380"] = "GrimTheDerp/Alexander Parr/grimderp, lua/smeg_hack.lua, anxition, Mapex",
+	["STEAM_0:0:80116979"] = "WhyMEE, 2x VAC bans, Ban evasion (Alt STEAM_0:0:67365439)",
+	["STEAM_0:0:67365439"] = "WhyMEE, 2x VAC bans, Ban evasion (Alt of STEAM_0:0:80116979)",
+	["STEAM_0:1:617597"] = "SKYZOR/fuckthatkid/Maxime/boo_397, Member of snixzz hacking site, Member of hack/troll group: wowmuchtroll",
+	["STEAM_0:1:30671841"] = "SaintLuther/KKLMNOP, DDoS threat, stealing files, skiddie, BAN ME",
 	["STEAM_0:1:61843598"] = "sentry_buster alt, 2x VAC bans, Member of hack/troll group: AnonOficial",
 	["STEAM_0:1:122832176"] = "sentry_buster, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: AnonOficial",
 	["STEAM_0:0:81049098"] = "aculic3, Admitted to buying hacks, ban me",
