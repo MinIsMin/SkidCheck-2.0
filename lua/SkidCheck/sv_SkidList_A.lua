@@ -14,6 +14,9 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:59441191"] = "butmun/i_am_butmunz/Darius Reme, Writing hacks, Member of hack/troll group: ParallaxScript",
 	["STEAM_0:1:100976380"] = "GrimTheDerp/Alexander Parr/grimderp, lua/smeg_hack.lua, anxition, Mapex",
 	["STEAM_0:0:80116979"] = "WhyMEE, 2x VAC bans, Ban evasion (Alt STEAM_0:0:67365439)",
 	["STEAM_0:0:67365439"] = "WhyMEE, 2x VAC bans, Ban evasion (Alt of STEAM_0:0:80116979)",
@@ -6236,7 +6239,7 @@ local Skiddies = {
 	["STEAM_0:0:54785233"] = "2S: Aimbot",
 	["STEAM_0:1:23629652"] = "Blackops.cfg",
 	["STEAM_0:0:53327858"] = "2S: BlueBot",
-	["STEAM_0:0:51860542"] = "Mr.Watermelon, Elebot, falcos",
+	["STEAM_0:0:51860542"] = "l33tofficial3/Troll names, Elebot, falcos, 4x VAC bans, ParallaxScripts, ban me",
 	["STEAM_0:0:1114530"] = "Skiddie",
 	["STEAM_0:1:18502671"] = "gDaap DB: nissen1502 (Lee Wenham)",
 	["STEAM_0:0:31641787"] = "Tested Faythe",
