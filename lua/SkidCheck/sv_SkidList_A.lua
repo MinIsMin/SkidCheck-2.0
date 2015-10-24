@@ -15,7 +15,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:50714411"] = "Hackcraft/Chunkminecraft, Dark scripts, Falcos, Hera, addons/hackcraft's_aimbot+wallhack",
+	["STEAM_0:1:36050416"] = "lDDl Darkminion/G6Darkminion, VAC banned, admitted hacking 'my aimbot is so much better Ill come hack on your server now'",
+	["STEAM_0:1:128608781"] = "X00UDEF, 'self proclaimed hacker', Member of hack/troll group: Niggest",
 	["STEAM_0:0:59441191"] = "butmun/i_am_butmunz/Darius Reme, Writing hacks, Member of hack/troll group: ParallaxScript",
 	["STEAM_0:1:100976380"] = "GrimTheDerp/Alexander Parr/grimderp, lua/smeg_hack.lua, anxition, Mapex",
 	["STEAM_0:0:80116979"] = "WhyMEE, 2x VAC bans, Ban evasion (Alt STEAM_0:0:67365439)",
@@ -302,8 +304,8 @@ local Skiddies = {
 	["STEAM_0:0:59878557"] = "Waterboyz/gagerino/James Kyle Lawfield, Member of hack/troll group: TubSquad,pa$ters,",
 	["STEAM_0:1:28561407"] = "Charged/Russell Powell/tdbrooster, 4x VAC Bans, Member of snixzz hacking site",
 	
-	["STEAM_0:1:53661328"] = "Capn/0x666/Synch CyniikuhL/Troll names, 16 cheat scripts, 2x VAC bans, Member of hack/troll group: SKlDSQUAD",
-	["STEAM_0:1:35179721"] = "Capn/0x666/Synch CyniikuhL/Troll names alt, 16 cheat scripts, 2x VAC bans, Member of hack/troll group: SKlDSQUAD",
+	["STEAM_0:1:53661328"] = "Capn/0x666/Synch CyniikuhL/Troll names, 16 cheat scripts, 2x VAC bans, Member of hack/troll group: SKlDSQUAD, BAN ME FOREVER",
+	["STEAM_0:1:35179721"] = "Capn/0x666/Synch CyniikuhL/Troll names alt, 16 cheat scripts, 2x VAC bans, Member of hack/troll group: SKlDSQUAD, BAN ME FOREVER",
 	
 	["STEAM_0:1:52828414"] = "XboxIssues/FaZe Rain, VAC banned, propkiller, Member of hack/troll group: gmodpropkills",
 	["STEAM_0:1:112303096"] = "S_H_A_D_O_W/katietheduck, MPGH",

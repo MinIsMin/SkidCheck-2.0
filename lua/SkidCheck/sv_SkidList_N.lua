@@ -22,6 +22,8 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:1:104531041"] = "Member of hack/troll group: ParallaxScript",
+	["STEAM_0:1:107290036"] = "Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:1:76875692"] = "Member of hack/troll group: propkillingisgood",
 	["STEAM_0:0:44803305"] = "Member of hack/troll group: plainandsimple420",
 	["STEAM_0:1:66979180"] = "Member of hack/troll group: plainandsimple420",
@@ -1448,7 +1450,6 @@ local ExtraSkiddies = {
 	["STEAM_0:1:55266914"] = "NTFG Nax/naxiscool, Lennys scripts",
 	["STEAM_0:0:80191842"] = "Mr_Nobody, Lennys scripts",
 	["STEAM_0:0:137028834"] = "T3/idieforblood, Lennys scripts",
-	["STEAM_0:1:50714411"] = "Hackcraft, Dark scripts",
 	["STEAM_0:1:42865137"] = "Ripaaur/987651234569876531245828, Dark scripts",
 	["STEAM_0:0:37727558"] = "Maledict Tormentor, Dark scripts",
 	["STEAM_0:1:56996565"] = "Member of hack/troll group: freetools",
