@@ -13,9 +13,9 @@ local Skiddies = {
 
 
 
-
-
-	["STEAM_0:1:50714411"] = "Hackcraft/Chunkminecraft, Dark scripts, Falcos, Hera, addons/hackcraft's_aimbot+wallhack",
+	["STEAM_0:1:61739679"] = "Aqua/420_69_lol/Gemstone, Member of snixzz hacking site",
+	["STEAM_0:1:53221029"] = "jay owen/mynewprofilelink/Greyhound, Attempted anticheat bypass, Member of snixzz hacking site, Member of hack/troll group: MEMEWARE, BAN ME FOREVER",
+	["STEAM_0:1:50714411"] = "Hackcraft/Chunkminecraft, Dark scripts, Falcos, Hera, writing hacks, addons/hackcraft's_aimbot+wallhack",
 	["STEAM_0:1:36050416"] = "lDDl Darkminion/G6Darkminion, VAC banned, admitted hacking 'my aimbot is so much better Ill come hack on your server now'",
 	["STEAM_0:1:128608781"] = "X00UDEF, 'self proclaimed hacker', Member of hack/troll group: Niggest",
 	["STEAM_0:0:59441191"] = "butmun/i_am_butmunz/Darius Reme, Writing hacks, Member of hack/troll group: ParallaxScript",
