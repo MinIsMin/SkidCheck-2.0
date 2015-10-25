@@ -7128,7 +7128,10 @@ local Skiddies = {
 	["STEAM_0:1:32976363"] = "Banlist",
 	["STEAM_0:0:17574951"] = "SP2: Baconbot",
 	["STEAM_0:0:31011603"] = "Kiyoshi/troll names",
-	["STEAM_0:1:24971849"] = "Shocky aimbot, SHack, ban me",
+	
+	["STEAM_0:1:24971849"] = "Scriptis/dakota99/dakota98, admitted hacking, SHack, Ban evasion (Alt STEAM_0:0:68616382), ban me",
+	["STEAM_0:0:68616382"] = "Scriptis/dakota99/dakota98, admitted hacking, SHack, Ban evasion (Alt of STEAM_0:1:24971849), ban me",
+	
 	["STEAM_0:0:50346105"] = "2S: Lenny",
 	["STEAM_0:1:31762271"] = "Banlist",
 	["STEAM_0:0:11097472"] = "Banlist",
