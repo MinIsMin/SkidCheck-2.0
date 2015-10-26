@@ -13,6 +13,10 @@ local Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:0:57432085"] = "OneTapMiss/supercheese200, Member of snixzz hacking site, 2S: Lenny",
 	["STEAM_0:1:61739679"] = "Aqua/420_69_lol/Gemstone, Member of snixzz hacking site",
 	["STEAM_0:1:53221029"] = "jay owen/mynewprofilelink/Greyhound, Attempted anticheat bypass, Member of snixzz hacking site, Member of hack/troll group: MEMEWARE, BAN ME FOREVER",
 	["STEAM_0:1:50714411"] = "Hackcraft/Chunkminecraft, Dark scripts, Falcos, Hera, writing hacks, addons/hackcraft's_aimbot+wallhack",
@@ -7726,7 +7730,6 @@ local Skiddies = {
 	["STEAM_0:1:29669927"] = "GLDB: mitchel254, Cheats detected",
 	["STEAM_0:1:49249815"] = "lemonthefruit1",
 	["STEAM_0:0:29791283"] = "EliteGecko",
-	["STEAM_0:0:57432085"] = "2S: Lenny",
 	["STEAM_0:1:18586851"] = "Banlist",
 	["STEAM_0:1:62187033"] = "2S: Mapex",
 	["STEAM_0:0:17434439"] = "Banlist",
