@@ -15,9 +15,10 @@ local Skiddies = {
 
 
 
-
-
-
+	["STEAM_0:1:103608784"] = "Vasko/Vasil/bggamer/ant456/snupar_xd/Troll names, VAC banned, 12 year old, Ban evasion (Alt STEAM_0:1:70309097)",
+	["STEAM_0:1:70309097"] = "Vasko/Vasil/bggamer/ant456/snupar_xd/Troll names, VAC banned, 12 year old, Ban evasion (Alt of STEAM_0:1:103608784)",
+	["STEAM_0:0:33139933"] = "Nicky Wa/Nick/lostmyshitofficial/Troll names, admitted hacking, 3x VAC bans, BAN ME",
+	["STEAM_0:1:77779522"] = "fultz/yeezus/Troll names, Member of hack/troll group: NationalAssociationOfWhitePeople, BAN ME FOREVER",
 	["STEAM_0:0:40735032"] = "TheGreatNacho/Nacho, writing hacks, TGN Nacho Scripts, ban me",
 	["STEAM_0:0:54183047"] = "Chez/therealcheesewheelz/Ethan/Troll names, TGN Nacho Script",
 	["STEAM_0:0:43906476"] = "Alex/alex_lee/Troll names, TGN Nacho Scripts, Member of hack/troll group: MEMEWARE",
