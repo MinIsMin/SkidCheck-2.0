@@ -16,6 +16,13 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:40735032"] = "TheGreatNacho/Nacho, writing hacks, TGN Nacho Scripts, ban me",
+	["STEAM_0:0:54183047"] = "Chez/therealcheesewheelz/Ethan/Troll names, TGN Nacho Script",
+	["STEAM_0:0:43906476"] = "Alex/alex_lee/Troll names, TGN Nacho Scripts, Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:43082890"] = "Fuzz/tf2ease/ZmDz Shadowz, Parallax Scripts",
+	["STEAM_0:1:119451750"] = "Nova31/Mathias ju, TGN Nacho Scripts",
 	["STEAM_0:0:57432085"] = "OneTapMiss/supercheese200, Member of snixzz hacking site, 2S: Lenny",
 	["STEAM_0:1:61739679"] = "Aqua/420_69_lol/Gemstone, Member of snixzz hacking site",
 	["STEAM_0:1:53221029"] = "jay owen/mynewprofilelink/Greyhound, Attempted anticheat bypass, Member of snixzz hacking site, Member of hack/troll group: MEMEWARE, BAN ME FOREVER",
@@ -7029,7 +7036,7 @@ local Skiddies = {
 	["STEAM_0:1:36227887"] = "Weorge Gashington",
 	["STEAM_0:0:17338989"] = "Banlist",
 	["STEAM_0:1:29306433"] = "Banlist",
-	["STEAM_0:0:49821628"] = "VACUBANU, bluekirby51",
+	["STEAM_0:0:49821628"] = "VACUBANU/rideshangout/Kris/bluekirby51/Troll names, VAC banned, writing hacks, ban me",
 	["STEAM_0:1:17174283"] = "Skiddie",
 	["STEAM_0:1:32806003"] = "Banlist",
 	["STEAM_0:1:70978987"] = "DDoS",
