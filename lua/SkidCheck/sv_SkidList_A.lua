@@ -15,6 +15,11 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:147230020"] = "yoshi fox, Member of snixzz hacking site",
+	["STEAM_0:0:91351292"] = "zomkiller93/Troll names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: fallenbackdoor",
+	["STEAM_0:1:22857859"] = "RealTree/Austin/realtreecamo, 3x VAC bans, Member of snixzz hacking site, Member of hack/troll group: TriggerAimVip",
 	["STEAM_0:1:103608784"] = "Vasko/Vasil/bggamer/ant456/snupar_xd/Troll names, VAC banned, 12 year old, Ban evasion (Alt STEAM_0:1:70309097)",
 	["STEAM_0:1:70309097"] = "Vasko/Vasil/bggamer/ant456/snupar_xd/Troll names, VAC banned, 12 year old, Ban evasion (Alt of STEAM_0:1:103608784)",
 	["STEAM_0:0:33139933"] = "Nicky Wa/Nick/lostmyshitofficial/Troll names, admitted hacking, 3x VAC bans, BAN ME",
@@ -1387,7 +1392,7 @@ local Skiddies = {
 	["STEAM_0:0:46993016"] = "LeYeezus, troll names, troll group, BAN ME",
 	["STEAM_0:0:24771801"] = "Troll names/group",
 	["STEAM_0:0:74126069"] = "VOIDxPAIN, asking for hacks on MPGH",
-	["STEAM_0:1:47750028"] = "fast_gamer, VAC banned, lots of hacks, skiddie",
+	["STEAM_0:1:47750028"] = "fast_gamer/knownhacker/Troll names, VAC banned, lots of hacks, skiddie, BAN ME",
 	["STEAM_0:0:2826620"] = "Nabe, VAC banned, lots of hacks, HUGE skiddie",
 	["STEAM_0:0:15975890"] = "Poseiden/AquaMan, aimbots and hacks, 2x VAC bans",
 	["STEAM_0:1:42816217"] = "absolutelytheworst, Troll names",
@@ -7818,7 +7823,6 @@ local Skiddies = {
 	["STEAM_0:1:34543854"] = "Banlist",
 	["STEAM_0:1:14682870"] = "SethHack",
 	["STEAM_0:1:13402942"] = "Skiddie",
-	["STEAM_0:1:22857859"] = "Skiddie",
 	["STEAM_0:1:46988409"] = "gDaap DB: i pin u (i pin u)",
 	["STEAM_0:1:9584607"] = "Banlist",
 	["STEAM_0:1:46523548"] = "2S: Lenny",
