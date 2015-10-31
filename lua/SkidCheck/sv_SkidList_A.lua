@@ -15,8 +15,16 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:29230290"] = "Saw/saw249, Member of snixzz hacking site",
+	["STEAM_0:1:20368103"] = "Oreo/CookeshShwag/Troll names, 4x VAC ban, Member of snixzz hacking site, Skiddie, 2S: Hera",
+	["STEAM_0:1:105897377"] = "xModZ/N0xii3a/iTzNoexi, 3x VAC bans, Member of snixzz hacking site",
+	["STEAM_0:0:114190150"] = "K0IN, Member of snixzz hacking site",
+	["STEAM_0:0:44078987"] = "Big Server Man/Troll names, Member of snixzz hacking site, ban me",
+	["STEAM_0:1:116213098"] = "nickccp2/Troll names, 12 year old skiddie, Member of hack/troll group: argbhrtdfgbvsdfgb",
+	["STEAM_0:1:42409809"] = "Hayhay/Haydn/hayhay666, C++ hacks, Member of hack/troll group: antibirusnet",
+	["STEAM_0:0:79619768"] = "kittenkruncher/jacob winterbourne, Member of snixzz hacking site",
+	["STEAM_0:1:63124517"] = "Arma/Shwangdi, Member of snixzz hacking site",
+	["STEAM_0:1:18408"] = "16x/koski5/Troll names, admitted hacking",
 	["STEAM_0:0:147230020"] = "yoshi fox, Member of snixzz hacking site",
 	["STEAM_0:0:91351292"] = "zomkiller93/Troll names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: fallenbackdoor",
 	["STEAM_0:1:22857859"] = "RealTree/Austin/realtreecamo, 3x VAC bans, Member of snixzz hacking site, Member of hack/troll group: TriggerAimVip",
@@ -275,7 +283,7 @@ local Skiddies = {
 	["STEAM_0:1:60777146"] = "!Az/customurlisbesturl/Azrael/Kodikos, 2x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:0:59742095"] = "!Az/customurlisbesturl/Azrael/Kodikos alt, 2x VAC bans, Member of snixzz hacking site",
 	
-	["STEAM_0:0:1085292"] = "Marcus/iamthelaw/Troll names, Member of snixzz hacking site, Member of 8 hack/troll groups",
+	["STEAM_0:0:1085292"] = "Marcus/pangles/iamthelaw/Troll names, Member of snixzz hacking site, Member of 8 hack/troll groups",
 	["STEAM_0:0:72477292"] = "LK4SNIPER, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:49385206"] = "Average bloke/baevid/Muggy/Troll names, Member of snixzz hacking site, Member of hack/troll group: ValvesAntiCheatSquad, possible function alt",
 	["STEAM_0:0:144747522"] = "xaNe/nostainxane, Member of snixzz hacking site",
@@ -399,7 +407,7 @@ local Skiddies = {
 	["STEAM_0:0:67344431"] = "026, phishing bot, added me just to send scam link",
 	["STEAM_0:1:47897611"] = "Pascal/Ditzon, sv_allowcslua, gmcl_cat_win32.dll, Mapex, defcon, sasha hack",
 	["STEAM_0:0:90623980"] = "MoJnoen/dontbeazehma/AprixZ, Lennys scripts",
-	["STEAM_0:1:117651240"] = "ilikeableton/Ele0t/Leedle, C++ hacks, Member of hack/troll group: antibirusnet",
+	["STEAM_0:1:117651240"] = "ilikeableton/Ele0t/Leedle/quefstain, VAC banned, C++ hacks, Member of hack/troll groups: antibirusnet, antibirus",
 	["STEAM_0:0:47530077"] = "SL Stilker/CL43SY/Strekker, Mapex",
 	["STEAM_0:1:71646656"] = "Ger Rus Sascha, 2x VAC bans, AHack",
 	["STEAM_0:1:85820490"] = "Pools Closed/Liam, FIVE VAC Bans!, sv_allowcslua, kawaii_bypass,Hera,sasha,defcon,AHack, Member of hack/troll group: annoyingprogamers",
@@ -5767,7 +5775,6 @@ local Skiddies = {
 	["STEAM_0:1:20359225"] = "Banlist",
 	["STEAM_0:1:22565197"] = "Banlist",
 	["STEAM_0:0:18700046"] = "Banlist",
-	["STEAM_0:1:20368103"] = "Skiddie, 2S: Hera",
 	["STEAM_0:0:20742342"] = "SethHack",
 	["STEAM_0:0:20465650"] = "Banlist",
 	["STEAM_0:1:27791499"] = "SP2: Sethhack",

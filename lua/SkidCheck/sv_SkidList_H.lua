@@ -3300,7 +3300,6 @@ local ExtraSkiddies = {
 	["STEAM_0:1:107584740"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:1:105717240"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:1:94195903"] = "Member of hack/troll group: antibirusnet",
-	["STEAM_0:1:42409809"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:0:65030789"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:1:112790995"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:0:133719946"] = "Communications/antibirus, Member of hack/troll group: antibirusnet",
