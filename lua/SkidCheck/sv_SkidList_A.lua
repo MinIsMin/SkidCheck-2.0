@@ -15,6 +15,20 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:58547118"] = "meowlet/Riley, VAC banned, Member of snixzz hacking site, Member of 2 hack/troll groups, BAN ME FOREVER",
+	["STEAM_0:0:62545093"] = "Ashes/4685976432197/TACTIX, VAC banned, Member of snixzz hacking site, Banned",
+	["STEAM_0:1:39335033"] = "sommy125/Nubbs/floodly44/Nubby/Troll names, 12 year old",
+	["STEAM_0:0:143790494"] = "ravioli/lawlawlawlnotasmurferini/100% Troll names, Member of snixzz hacking site, BAN ME FOREVER",
+	["STEAM_0:1:40576954"] = "Virulence/Joe/virus_5976, Member of snixzz hacking site",
+	["STEAM_0:0:40433730"] = "Fluffy54605, Member of snixzz hacking site",
+	["STEAM_0:1:59795253"] = "Electro740/Joseph Eberle/Troll names, Member of snixzz hacking site",
+	["STEAM_0:1:65046186"] = "BlackOreo/sugarslut, Member of snixzz hacking site",
+	["STEAM_0:1:59738639"] = "PRIME Bitch/ahunt659/NANO_GhOsT_10, Member of snixzz hacking site, Banned",
+	["STEAM_0:1:100159514"] = "MannyTheMammoth/SeanBevan/bevanjemma, stealing files, cvar3,Mapex,Bluebot,Hera,Sasha,AHack,anxiton,SmegHack, 15 year old skiddie, BAN ME",
+	["STEAM_0:1:85853454"] = "Khaotic Unicorn/michael/KhaoticUnicorn, Dark scripts, rhook, lua/justatestesp.lua",
+	["STEAM_0:1:146428223"] = "Yukki/Yukk, Member of snixzz hacking site",
 	["STEAM_0:1:29230290"] = "Saw/saw249, Member of snixzz hacking site",
 	["STEAM_0:1:20368103"] = "Oreo/CookeshShwag/Troll names, 4x VAC ban, Member of snixzz hacking site, Skiddie, 2S: Hera",
 	["STEAM_0:1:105897377"] = "xModZ/N0xii3a/iTzNoexi, 3x VAC bans, Member of snixzz hacking site",
