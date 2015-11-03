@@ -16,7 +16,10 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:56112345"] = "ninjaboyxd/THAIWONDER/Troll names/Possible oub alt, selling hacks, stealing files, writing hacks, Attempted anticheat bypass, BAN ME FOREVER",
+	["STEAM_0:1:34029133"] = "Oubliette/Oub/bigbelly63, selling hacks, stealing files, writing hacks, Attempted anticheat bypass, BAN ME FOREVER",
+	["STEAM_0:1:24452164"] = "Oubliette/Oub/bigbelly63 alt, selling hacks, stealing files, writing hacks, Attempted anticheat bypass, BAN ME FOREVER",
+	
 	["STEAM_0:1:58547118"] = "meowlet/Riley, VAC banned, Member of snixzz hacking site, Member of 2 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:0:62545093"] = "Ashes/4685976432197/TACTIX, VAC banned, Member of snixzz hacking site, Banned",
 	["STEAM_0:1:39335033"] = "sommy125/Nubbs/floodly44/Nubby/Troll names, 12 year old",
@@ -2403,7 +2406,6 @@ local Skiddies = {
 	["STEAM_0:1:49850807"] = "2S: BlueBot",
 	["STEAM_0:0:17546475"] = "Phygar, warcraft1dude",
 	["STEAM_0:1:20137994"] = "Banlist",
-	["STEAM_0:1:34029133"] = "Oubliette, Oub, bigbelly63, selling hacks, stealing files, attempted bypass",
 	["STEAM_0:1:39063143"] = "Speedhacking",
 	["STEAM_0:1:5106968"] = "Ban Evasion (STEAM_0:0:41842891)",
 	["STEAM_0:0:39054245"] = "Blackops.cfg",
@@ -2782,7 +2784,6 @@ local Skiddies = {
 	["STEAM_0:0:25706354"] = "Propkiller",
 	["STEAM_0:0:19022425"] = "Blackops.cfg",
 	["STEAM_0:1:35214598"] = "SethHack",
-	["STEAM_0:1:24452164"] = "Oub alt, selling hacks, stealing files, attempted bypass",
 	["STEAM_0:0:40994659"] = "2S: Unknown hack",
 	["STEAM_0:1:20323314"] = "Banlist",
 	["STEAM_0:0:65093181"] = "go.lua",
