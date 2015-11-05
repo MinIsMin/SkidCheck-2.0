@@ -16,6 +16,13 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:90332026"] = "Eugene Sin Socket/thumbupyourass/Troll names, Member of snixzz hacking site",
+	
+	["STEAM_0:0:140048952"] = "Trey Hufstetler/wvtch/garrysbhop/Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: gmodhvh",
+	["STEAM_0:1:47723510"] = "Trey Hufstetler/wvtch/garrysbhop/Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: gmodhvh",
+	
+	["STEAM_0:0:46583557"] = "cycpl/Troll names, Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:1:56112345"] = "ninjaboyxd/THAIWONDER/Troll names/Possible oub alt, selling hacks, stealing files, writing hacks, Attempted anticheat bypass, BAN ME FOREVER",
 	["STEAM_0:1:34029133"] = "Oubliette/Oub/bigbelly63, selling hacks, stealing files, writing hacks, Attempted anticheat bypass, BAN ME FOREVER",
 	["STEAM_0:1:24452164"] = "Oubliette/Oub/bigbelly63 alt, selling hacks, stealing files, writing hacks, Attempted anticheat bypass, BAN ME FOREVER",
@@ -356,8 +363,6 @@ local Skiddies = {
 	["STEAM_0:1:104446267"] = "FaZe ThUnDeR, Dark scripts",
 	["STEAM_0:1:87507733"] = "ShootMyKnife DF, Dark scripts",
 	["STEAM_0:0:143149903"] = "Austere10, Falcos scripts",
-	["STEAM_0:0:140048952"] = "Trey Hufstetler/garrysbhopalt/garrysbhop/Troll names, VAC banned, Member of hack/troll group: gmodhvh",
-	["STEAM_0:1:47723510"] = "Trey Hufstetler/garrysbhopalt/garrysbhop/Troll names, VAC banned, Member of hack/troll group: gmodhvh",
 	["STEAM_0:1:16852271"] = "Mobius, Lennys",
 	["STEAM_0:1:50164415"] = "Michael J. Caboose/pinkothecherub, DDoS",
 	["STEAM_0:1:44227737"] = "Yunie/IPAUL, propkiller, 8 cheating scripts, Member of hack/troll groups: lolicocks, VACBINS",
