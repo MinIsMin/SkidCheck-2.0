@@ -16,7 +16,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:67163102"] = "Qwifo/PAK/PRO100Vasiliy, stealing files, BACKDOOR EXPLOITS (gpwn), C++ hacks, exploiting addons, sv_allowcslua bypass, BAN ME FOR ETERNITY",
+	["STEAM_0:0:95042997"] = "CH1CK3NW1NGZ/2spooky4me2dank4you, Lennys scripts, 12 year old",
+	["STEAM_0:0:149402046"] = "xH4cker/luke_berkler/Luke Berkler, 'i sell mod menus and hacks 4 gmod'",
 	["STEAM_0:1:116307599"] = "deeze_nuts/Luke/Troll names, Member of snixzz hacking site",
 	["STEAM_0:0:55309471"] = "doubleuman/Tomas/Troll names, VAC banned, Member of snixzz hacking site, 2S: AHack, Member of hack/troll group: antibirusnet, BAN ME",
 	["STEAM_0:1:51426267"] = "Mr. RiceKing/4253465101/RiceKing, Member of snixzz hacking site",
