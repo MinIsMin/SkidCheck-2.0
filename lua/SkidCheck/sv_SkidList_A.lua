@@ -16,6 +16,8 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:86498008"] = "Angel 7/Anbiguio/biladeirodarkness/Alex Rios Mendonca, Asking for hacks, MPGH, Member of hack/troll group: officialunityhacks, 15 year old skiddie",
 	["STEAM_0:1:67163102"] = "Qwifo/PAK/PRO100Vasiliy, stealing files, BACKDOOR EXPLOITS (gpwn), C++ hacks, exploiting addons, sv_allowcslua bypass, BAN ME FOR ETERNITY",
 	["STEAM_0:0:95042997"] = "CH1CK3NW1NGZ/2spooky4me2dank4you, Lennys scripts, 12 year old",
 	["STEAM_0:0:149402046"] = "xH4cker/luke_berkler/Luke Berkler, 'i sell mod menus and hacks 4 gmod'",

@@ -1835,7 +1835,6 @@ local ExtraSkiddies = {
 	["STEAM_0:1:5222200"] = "Member of hack/troll group: officialunityhacks",
 	["STEAM_0:1:9930356"] = "Member of hack/troll group: officialunityhacks",
 	["STEAM_0:1:129653600"] = "Member of hack/troll group: officialunityhacks",
-	["STEAM_0:0:86498008"] = "Member of hack/troll group: officialunityhacks",
 	["STEAM_0:0:105446479"] = "Member of hack/troll group: officialunityhacks",
 	["STEAM_0:0:78822138"] = "Member of hack/troll group: officialunityhacks",
 	["STEAM_0:0:139769062"] = "Member of hack/troll group: officialunityhacks",

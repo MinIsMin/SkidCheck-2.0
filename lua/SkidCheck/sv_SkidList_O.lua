@@ -13,6 +13,21 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:1:127864874"] = "Member of hack/troll group: officialunityhacks",
+	["STEAM_0:0:121121999"] = "Member of hack/troll group: officialunityhacks",
+	["STEAM_0:0:147133962"] = "Member of hack/troll group: officialunityhacks",
+	["STEAM_0:1:121440961"] = "Member of hack/troll group: officialunityhacks",
+	["STEAM_0:1:30682856"] = "Member of hack/troll group: officialunityhacks",
+	["STEAM_0:1:86495028"] = "Member of hack/troll group: officialunityhacks",
+	["STEAM_0:0:136463128"] = "Member of hack/troll group: officialunityhacks",
+	["STEAM_0:1:100881273"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:149336768"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:90976910"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:13582992"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:66818537"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:78373029"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:51269083"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:59879561"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:65340917"] = "Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:1:129337994"] = "Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:1:100609110"] = "Member of hack/troll group: MEMEWARE",
