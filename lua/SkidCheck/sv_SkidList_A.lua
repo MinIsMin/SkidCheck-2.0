@@ -16,6 +16,9 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:66253839"] = "Malaria Mike/Troll names, 12 year old skiddie",
+	["STEAM_0:0:83965844"] = "chiken/MtnDew/Troll names, VAC banned, Member of hack/troll groups",
+	["STEAM_0:1:63102957"] = "GubbleBum/Lost, VAC banned, Lennys scripts, Member of hack/troll group: ClannenFag",
 	["STEAM_0:1:39557859"] = "Rintime165, 2x VAC bans",
 	["STEAM_0:1:84261135"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans, admitted cheating, Member of hack/troll group: PeopleAgainstFaggots",
 	["STEAM_0:1:51468409"] = "xMinecraftSkillerHD/robinkonter2k/Robinkonter, 2x VAC bans",
