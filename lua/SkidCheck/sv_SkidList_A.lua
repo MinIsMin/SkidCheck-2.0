@@ -15,7 +15,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:62543594"] = "zippy36jr/Brian Zollo, admitted hacking, asking for aimbot help, 'zmod'",
 	["STEAM_0:1:66253839"] = "Malaria Mike/Troll names, 12 year old skiddie",
 	["STEAM_0:0:83965844"] = "chiken/MtnDew/Troll names, VAC banned, Member of hack/troll groups",
 	["STEAM_0:1:63102957"] = "GubbleBum/Lost, VAC banned, Lennys scripts, Member of hack/troll group: ClannenFag",
