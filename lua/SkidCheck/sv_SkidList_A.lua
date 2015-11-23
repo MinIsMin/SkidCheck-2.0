@@ -14,7 +14,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:126136615"] = "Jumpy/originaljumpy/Ex1Lez_Jumpy, VAC banned, MPGH",
 	["STEAM_0:1:62543594"] = "zippy36jr/Brian Zollo, admitted hacking, asking for aimbot help, 'zmod'",
 	["STEAM_0:1:66253839"] = "Malaria Mike/Troll names, 12 year old skiddie",
 	["STEAM_0:0:83965844"] = "chiken/MtnDew/Troll names, VAC banned, Member of hack/troll groups",
@@ -139,8 +139,11 @@ local Skiddies = {
 	["STEAM_0:1:57952254"] = "2MistyM8/dylanboy1427/soccerbaseballpoop, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:45006801"] = "FlubberKid/Spooderman/79070707568, Member of snixzz hacking site",
 	["STEAM_0:0:57950062"] = "Tommy, Member of snixzz hacking site",
+	
+	["STEAM_0:1:121524040"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS, VAC banned, C++ hacks, Member of snixzz hacking site, Member of hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS, VAC banned, C++ hacks, Member of snixzz hacking site, Member of hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS, VAC banned, C++ hacks, Member of snixzz hacking site, Member of hack/troll groups, BAN ME FOREVER",
+	
 	["STEAM_0:0:59727915"] = "kimi raikkonen/deaglemon/Possible phoon Snorflake alt, Member of snixzz hacking site, Banned",
 	["STEAM_0:0:41973844"] = "Firedraft, Member of snixzz hacking site",
 	["STEAM_0:0:104982093"] = "ling ling rap/Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: faggothackers",
