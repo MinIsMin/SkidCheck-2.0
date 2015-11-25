@@ -2,33 +2,6 @@
 
 
 local ExtraSkiddies = {
-
-
-
-
-
-
-	["STEAM_0:1:78573085"] = "Member of hack/troll group: gengiskuntlol",
-	["STEAM_0:1:5404780"] = "Member of hack/troll group: gengiskuntlol",
-	["STEAM_0:0:73220195"] = "Member of hack/troll group: gengiskuntlol",
-	["STEAM_0:1:106958741"] = "Member of hack/troll group: gengiskuntlol",
-	["STEAM_0:1:60188767"] = "Member of hack/troll group: gengiskuntlol",
-	["STEAM_0:0:55068526"] = "Member of hack/troll group: gengiskuntlol",
-	["STEAM_0:0:55283524"] = "Member of hack/troll group: PaKiPK",
-	["STEAM_0:0:78023637"] = "Member of hack/troll group: faggothackers",
-	["STEAM_0:1:75693110"] = "Member of hack/troll group: faggothackers",
-	["STEAM_0:1:75450504"] = "Member of hack/troll group: faggothackers",
-	["STEAM_0:1:43090602"] = "Member of hack/troll group: faggothackers",
-	["STEAM_0:0:23317266"] = "Member of hack/troll group: faggothackers",
-	["STEAM_0:1:110878856"] = "Member of hack/troll group: faggothackers",
-	["STEAM_0:1:109065808"] = "Member of hack/troll group: faggothackers",
-	["STEAM_0:1:61502215"] = "Member of hack/troll group: orderoftheprop",
-	["STEAM_0:0:27280520"] = "Member of hack/troll group: orderoftheprop",
-	["STEAM_0:0:41498468"] = "Member of hack/troll group: orderoftheprop",
-	["STEAM_0:0:58225805"] = "Member of hack/troll group: orderoftheprop",
-	["STEAM_0:1:39374563"] = "Member of hack/troll group: orderoftheprop",
-	["STEAM_0:1:44465687"] = "Member of hack/troll group: orderoftheprop",
-	["STEAM_0:1:41641080"] = "Member of hack/troll group: orderoftheprop",
 	["STEAM_0:1:43508646"] = "Member of hack/troll group: orderoftheprop",
 	["STEAM_0:0:64005202"] = "Member of hack/troll group: orderoftheprop",
 	["STEAM_0:1:52991943"] = "Member of hack/troll group: orderoftheprop",

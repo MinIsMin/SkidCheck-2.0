@@ -14,6 +14,9 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:90331660"] = "kufte/Bobby_DragenBG, Member of hack/troll group: OpenGriefing",
 	["STEAM_0:1:126136615"] = "Jumpy/originaljumpy/Ex1Lez_Jumpy, VAC banned, MPGH",
 	["STEAM_0:1:62543594"] = "zippy36jr/Brian Zollo, admitted hacking, asking for aimbot help, 'zmod'",
 	["STEAM_0:1:66253839"] = "Malaria Mike/Troll names, 12 year old skiddie",
@@ -769,8 +772,8 @@ local Skiddies = {
 	["STEAM_0:1:58022559"] = "AnUnlaidEgg, VAC banned",
 	["STEAM_0:1:95997606"] = "DANGO Jay/Neko/Troll names, VAC banned, Member of hack/troll group: DangoMafia, BAN ME",
 	["STEAM_0:0:18368432"] = "kl9kcaRIP/kl9kcaTHEVACMAN, 19 VAC BANS!!!",
+	["STEAM_0:1:15435635"] = "Failwhale8/Troll names, VAC banned,C++ hacks,Ban Evasion, Member of 4 hack/troll groups, BAN ME FOREVER",
 	
-	["STEAM_0:1:15435635"] = "Failwhale8/Troll names, VAC banned,C++ hacks,Ban Evasion, Member of 4 hack/troll groups",
 	["STEAM_0:1:116253136"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:1:114266012"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:0:27853779"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",

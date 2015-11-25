@@ -2,6 +2,13 @@
 
 
 local ExtraSkiddies = {
+	["STEAM_0:1:61502215"] = "Member of hack/troll group: orderoftheprop",
+	["STEAM_0:0:27280520"] = "Member of hack/troll group: orderoftheprop",
+	["STEAM_0:0:41498468"] = "Member of hack/troll group: orderoftheprop",
+	["STEAM_0:0:58225805"] = "Member of hack/troll group: orderoftheprop",
+	["STEAM_0:1:39374563"] = "Member of hack/troll group: orderoftheprop",
+	["STEAM_0:1:44465687"] = "Member of hack/troll group: orderoftheprop",
+	["STEAM_0:1:41641080"] = "Member of hack/troll group: orderoftheprop",
 	["STEAM_0:1:46633020"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:0:121201484"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:0:36564817"] = "Member of hack/troll group: MEMEWARE",

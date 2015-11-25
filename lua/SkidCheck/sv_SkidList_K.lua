@@ -2,6 +2,20 @@
 
 
 local ExtraSkiddies = {
+	["STEAM_0:1:78573085"] = "Member of hack/troll group: gengiskuntlol",
+	["STEAM_0:1:5404780"] = "Member of hack/troll group: gengiskuntlol",
+	["STEAM_0:0:73220195"] = "Member of hack/troll group: gengiskuntlol",
+	["STEAM_0:1:106958741"] = "Member of hack/troll group: gengiskuntlol",
+	["STEAM_0:1:60188767"] = "Member of hack/troll group: gengiskuntlol",
+	["STEAM_0:0:55068526"] = "Member of hack/troll group: gengiskuntlol",
+	["STEAM_0:0:55283524"] = "Member of hack/troll group: PaKiPK",
+	["STEAM_0:0:78023637"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:75693110"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:75450504"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:43090602"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:0:23317266"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:110878856"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:109065808"] = "Member of hack/troll group: faggothackers",
 	["STEAM_0:1:51768337"] = "Member of hack/troll group: Lolisports",
 	["STEAM_0:0:120324659"] = "Member of hack/troll group: Lolisports",
 	["STEAM_0:1:21941052"] = "Member of hack/troll group: Lolisports",
