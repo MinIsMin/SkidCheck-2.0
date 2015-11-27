@@ -15,6 +15,10 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:151222935"] = "Brax/Lombardi/ido/Troll names alt, C++ hacks, VAC banned, Aimbot, Smeghack, sv_allowcslua, Ban Evasion (Alt of STEAM_0:0:36544687)",
+	["STEAM_0:0:36544687"] = "Brax/Lombardi/ido/Troll names, C++ hacks, VAC banned, Aimbot, Smeghack, sv_allowcslua, Ban Evasion (Alt STEAM_0:1:151222935)",
+	
 	["STEAM_0:0:114102025"] = "PanicOfficial/P4N1C/Razon91, writing and giving away hacks, MPGH",
 	["STEAM_0:1:90331660"] = "kufte/Bobby_DragenBG, Member of hack/troll group: OpenGriefing",
 	["STEAM_0:1:126136615"] = "Jumpy/originaljumpy/Ex1Lez_Jumpy, VAC banned, MPGH",
