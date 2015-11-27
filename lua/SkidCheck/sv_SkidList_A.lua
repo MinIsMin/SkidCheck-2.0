@@ -15,7 +15,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:114102025"] = "PanicOfficial/P4N1C/Razon91, writing and giving away hacks, MPGH",
 	["STEAM_0:1:90331660"] = "kufte/Bobby_DragenBG, Member of hack/troll group: OpenGriefing",
 	["STEAM_0:1:126136615"] = "Jumpy/originaljumpy/Ex1Lez_Jumpy, VAC banned, MPGH",
 	["STEAM_0:1:62543594"] = "zippy36jr/Brian Zollo, admitted hacking, asking for aimbot help, 'zmod'",
