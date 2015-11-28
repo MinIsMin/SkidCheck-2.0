@@ -14,6 +14,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:90583172"] = "Razvy/idkom/Manaila Razvan/Sad al Din, 2x VAC bans",
 	["STEAM_0:1:29327756"] = "XTracer/kek_lua_hack/Romario, stealing files, attempted anticheat bypass, injecting code, aimbot,ESP, BAN ME FOREVER",
 	["STEAM_0:0:80615566"] = "lennon/lennonr2000, sv_allowcslua bypass",
 	["STEAM_0:1:97955471"] = "mlg_no_scope/Andreas/Hobo_mist/Troll names, Hera,AHack,Lennys,Mapex,defcon, gmcl_cat_win32,gmcl_spreadthebutter",
