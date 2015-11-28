@@ -14,8 +14,10 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:29327756"] = "XTracer/kek_lua_hack/Romario, stealing files, attempted anticheat bypass, injecting code, aimbot,ESP, BAN ME FOREVER",
+	["STEAM_0:0:80615566"] = "lennon/lennonr2000, sv_allowcslua bypass",
+	["STEAM_0:1:97955471"] = "mlg_no_scope/Andreas/Hobo_mist/Troll names, Hera,AHack,Lennys,Mapex,defcon, gmcl_cat_win32,gmcl_spreadthebutter",
+	
 	["STEAM_0:1:151222935"] = "Brax/Lombardi/ido/Troll names alt, C++ hacks, VAC banned, Aimbot, Smeghack, sv_allowcslua, Ban Evasion (Alt of STEAM_0:0:36544687)",
 	["STEAM_0:0:36544687"] = "Brax/Lombardi/ido/Troll names, C++ hacks, VAC banned, Aimbot, Smeghack, sv_allowcslua, Ban Evasion (Alt STEAM_0:1:151222935)",
 	
@@ -4557,7 +4559,6 @@ local Skiddies = {
 	["STEAM_0:1:5166810"] = "highlander2607",
 	["STEAM_0:0:41081212"] = "celux, cheats",
 	["STEAM_0:0:54582524"] = "DoW/Gravity Cat Demands Stuff, cvar3",
-	["STEAM_0:1:29327756"] = "XTracer",
 	["STEAM_0:0:32211033"] = "Skiddie",
 	["STEAM_0:0:68223739"] = "2S: Lenny",
 	["STEAM_0:0:24053454"] = "[ZCC] Darkness",
