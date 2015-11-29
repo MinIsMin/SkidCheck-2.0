@@ -11,6 +11,12 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:0:122771956"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:84305607"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:41598941"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:147299112"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:121075014"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:84680094"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:151305927"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:0:83428953"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:67978166"] = "Member of hack/troll group: MEMEWARE",

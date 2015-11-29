@@ -22,7 +22,9 @@
 function Skid.Msg()
 	//Sound
 	if net.ReadBit() == 0 then
-		surface.PlaySound("vo/npc/male01/herecomehacks0"..math.random(1,2)..".wav")
+		timer.Simple(1.8, function()
+			surface.PlaySound("vo/npc/male01/herecomehacks0"..math.random(1,2)..".wav")
+		end)
 		return
 	end
 	
