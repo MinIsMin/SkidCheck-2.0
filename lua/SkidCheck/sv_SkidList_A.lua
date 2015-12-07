@@ -15,6 +15,10 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:137994304"] = "JOT PE RuNzerOR3V/wojtek waliszewski, ShittyScripts",
+	["STEAM_0:1:75332436"] = "Deez Nuts POWER/Kitty/Noa1nl, VAC banned, Member of hack/troll group: ExploitersAndHackers",
+	["STEAM_0:0:41243831"] = "Alpha/liampiscool/TrueGamer/Smitty, VAC banned, Member of hack/troll group: PerfectHacksDotNet",
 	["STEAM_0:1:97348982"] = "fin/Fairy Tail, 3x VAC bans",
 	["STEAM_0:0:90583172"] = "Razvy/idkom/Manaila Razvan/Sad al Din, 2x VAC bans",
 	["STEAM_0:1:29327756"] = "XTracer/kek_lua_hack/Romario, stealing files, attempted anticheat bypass, injecting code, aimbot,ESP, BAN ME FOREVER",
@@ -910,8 +914,8 @@ local Skiddies = {
 	["STEAM_0:0:19101478"] = "cancerwarrior/troll names, BAN ME FOREVER",
 	["STEAM_0:1:46754113"] = "SamMO, member of DDoS group",
 	
-	["STEAM_0:1:102681943"] = "Xavier/xaviermettle/Troll names alt, VAC banned, DDoS group, C++ hacks, Member of snixzz hacking site, BigHack, Member of many hack/troll groups",
-	["STEAM_0:1:70694849"] = "Xavier/xaviermettle/Troll names, VAC banned, DDoS group, C++ hacks, Member of snixzz hacking site, BigHack, Member of many hack/troll groups",
+	["STEAM_0:1:102681943"] = "Xavier/xaviermettle/Troll names alt, VAC banned, DDoS, C++ hacks, Member of snixzz hacking site, BigHack, Member of many hack/troll groups, BAN ME FOREVER",
+	["STEAM_0:1:70694849"] = "Xavier/xaviermettle/Troll names, VAC banned, DDoS, C++ hacks, Member of snixzz hacking site, BigHack, Member of many hack/troll groups, BAN ME FOREVER",
 	
 	["STEAM_0:1:36699586"] = "BENBOOST/BB9/BH4x0r/BH4X alt, hacks, VAC banned, troll names",
 	["STEAM_0:1:116184381"] = "BENBOOST/BB9/BH4x0r/BH4X alt, hacks, VAC banned, troll names",
@@ -1169,7 +1173,7 @@ local Skiddies = {
 	["STEAM_0:1:93075479"] = "TURNUP4WUT, HVH server cheat logs, Ban me",
 	["STEAM_0:1:87034614"] = "DEAD, HVH server cheat logs, Ban me",
 	["STEAM_0:0:50718768"] = "BR SWING, HVH server cheat logs, Ban me",
-	["STEAM_0:1:88773505"] = "AUS, HVH server cheat logs, Ban me",
+	["STEAM_0:1:88773505"] = "taurp/AUS, HVH server cheat logs, Ban me",
 	["STEAM_0:0:55999587"] = "HG FAZE BOBO, HVH server cheat logs, Ban me",
 	["STEAM_0:1:81559956"] = "ENT_REMOVE, HVH server cheat logs, Ban me",
 	["STEAM_0:0:43748698"] = "JAKE FROM STATE FARM, HVH server cheat logs, Ban me",
@@ -1880,7 +1884,7 @@ local Skiddies = {
 	["STEAM_0:1:84017837"] = "zohondekids, Lennys scripts",
 	["STEAM_0:1:42670209"] = "bloodyspare, Lennys scripts",
 	["STEAM_0:1:62419016"] = "rank0s, Lennys scripts",
-	["STEAM_0:1:48581872"] = "808HawaiiPlayer, Lennys scripts",
+	["STEAM_0:1:48581872"] = "808HawaiiPlayer/ayyolmao/Troll names, Lennys scripts, admitted hacking, Member of 14 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:38741492"] = "speshul, Lennys scripts",
 	["STEAM_0:0:62233010"] = "slayer12spitfire, Lennys scripts",
 	["STEAM_0:1:18093014"] = "lksyourstalker, Spammer, Lennys scripts",
