@@ -15,7 +15,11 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:123693509"] = "Dragon/Troll names alt, 2x VAC bans, C++ hacks, 15 cheat scripts, Member of hack/troll groups: vacbanus,AIMWARE, Ban Evasion (Alt of STEAM_0:1:89006384), BAN ME FOREVER",
+	["STEAM_0:1:89006384"] = "Dragon/Troll names, 2x VAC bans, C++ hacks, 15 cheat scripts, Member of hack/troll group: vacbanus,AIMWARE, Ban Evasion (Alt STEAM_0:1:123693509), BAN ME FOREVER",
+	
+	["STEAM_0:1:74403291"] = "GeT_FuCkEd/Paul, Stealing files, forced sv_cheats, 2x VAC bans, nospread,memeware,gDaap,Mapex,pony",
+	["STEAM_0:0:54139660"] = "Anders, Backdoor/Exploit in workshop addon, giving himself health",
 	["STEAM_0:0:137994304"] = "JOT PE RuNzerOR3V/wojtek waliszewski, ShittyScripts",
 	["STEAM_0:1:75332436"] = "Deez Nuts POWER/Kitty/Noa1nl, VAC banned, Member of hack/troll group: ExploitersAndHackers",
 	["STEAM_0:0:41243831"] = "Alpha/liampiscool/TrueGamer/Smitty, VAC banned, Member of hack/troll group: PerfectHacksDotNet",
@@ -45,7 +49,6 @@ local Skiddies = {
 	["STEAM_0:1:116307599"] = "deeze_nuts/Luke/Troll names, Member of snixzz hacking site",
 	["STEAM_0:0:55309471"] = "doubleuman/Tomas/Troll names, VAC banned, Member of snixzz hacking site, 2S: AHack, Member of hack/troll group: antibirusnet, BAN ME",
 	["STEAM_0:1:51426267"] = "Mr. RiceKing/4253465101/RiceKing, Member of snixzz hacking site",
-	["STEAM_0:1:89006384"] = "Dragon/Troll names, VAC banned, cvar3,Lennys,BlueBot,memeware,Mapex,SH,anxition,gscripts,nospread,speedhacks, BAN ME",
 	["STEAM_0:0:40808781"] = "uncle rob/rtorr724/rob, VAC banned, Member of hack/troll groups: nigge_rs, VACBINS, 67643436452679",
 	["STEAM_0:0:90714736"] = "PotetoL0rd/tbagmax/Maya _Nous/daniel goldfeld, lua/sasha.lua",
 	["STEAM_0:0:90332026"] = "Eugene Sin Socket/thumbupyourass/Troll names, Member of snixzz hacking site",
