@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:64662999"] = "lRoberth/roberth1230, VAC banned, writing addon backdoors, BAN ME",
 	["STEAM_0:1:83647694"] = "A02/3ANK, forced sv_cheats, AHack",
 	["STEAM_0:1:123693509"] = "Dragon/Troll names alt, 2x VAC bans, C++ hacks, 15 cheat scripts, Member of hack/troll groups: vacbanus,AIMWARE, Ban Evasion (Alt of STEAM_0:1:89006384), BAN ME FOREVER",
 	["STEAM_0:1:89006384"] = "Dragon/Troll names, 2x VAC bans, C++ hacks, 15 cheat scripts, Member of hack/troll group: vacbanus,AIMWARE, Ban Evasion (Alt STEAM_0:1:123693509), BAN ME FOREVER",
