@@ -13,8 +13,14 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:72001582"] = "SavageTurtle/mintcrew, 2x VAC bans, google his steamID, previous anticheat detections",
+	
+	["STEAM_0:0:82569863"] = "I 3 Red Chair/iloveredhair/TomasTosecky, VAC banned, Backdoor/Exploit in workshop addon, giving himself superadmin, Ban evasion (Alt STEAM_0:0:49679575)",
+	["STEAM_0:0:49679575"] = "I 3 Red Chair/iloveredhair/TomasTosecky, VAC banned, Backdoor/Exploit in workshop addon, giving himself superadmin, Ban evasion (Alt of STEAM_0:0:82569863)",
+	
+	["STEAM_0:1:152731847"] = "kalis0/kals0/Troll names, admitted hacking, troll, ban me",
+	["STEAM_0:1:46940901"] = "RuneGalin/Michel AckerPaquin/NEKSTGENMEMER, Member of hack/troll group: powershells",
+	["STEAM_0:0:72930439"] = "Common Pepe/Mr.WiJ/wijies/UltimateBoss12345, BlueBot,elebot,Mapex,dead_aimbot,ShittyScripts",
 	["STEAM_0:1:93493581"] = "sasha gray/alex mercer, AHack",
 	["STEAM_0:0:94045163"] = "red/Super batman, VAC banned, Mapex, speedhacks",
 	["STEAM_0:0:64662999"] = "lRoberth/roberth1230, VAC banned, writing addon backdoors, BAN ME",
@@ -5209,7 +5215,7 @@ local Skiddies = {
 	["STEAM_0:1:36927998"] = "SP2: Unknown",
 	["STEAM_0:0:36346527"] = "Hacking, 2S: BHop script",
 	["STEAM_0:1:46113191"] = "billsanders19/hexxus",
-	["STEAM_0:0:18355021"] = "Ownage/coldkillz/realossum, Sethhack",
+	["STEAM_0:0:18355021"] = "Ownage/coldkillz/realossum/ownage741, Sethhack, NooblerScript",
 	["STEAM_0:1:37601395"] = "Blackops.cfg",
 	["STEAM_0:1:55969724"] = "2S: AHack",
 	["STEAM_0:1:77198122"] = "Lennys_Group",

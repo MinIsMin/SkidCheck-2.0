@@ -2,14 +2,35 @@
 
 
 local ExtraSkiddies = {
-
-
-
-
-
-
-
-
+	["STEAM_0:1:65087059"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:55124859"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:117919856"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:124620326"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:80325347"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:49779733"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:44413917"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:150879108"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:89696922"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:47535326"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:87670531"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:146750723"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:52351194"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:101241600"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:112536289"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:59942616"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:147429198"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:19371282"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:99689037"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:41925179"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:151382969"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:151420423"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:61671449"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:126115892"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:65485771"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:86787548"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:66064073"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:97575021"] = "Member of hack/troll group: darkscriptsv1",
+	["STEAM_0:0:77086671"] = "Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:1:87331905"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:70153854"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:86180129"] = "Member of hack/troll group: MEMEWARE",
