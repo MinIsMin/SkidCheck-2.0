@@ -8,6 +8,21 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:0:141063060"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:102488905"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:150438562"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:15631344"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:40139000"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:125207187"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:130945532"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:102529829"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:145276336"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:86146513"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:124704094"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:26708445"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:152240084"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:83914926"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:71392567"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:0:92990156"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:54442903"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:63453473"] = "Member of hack/troll group: MEMEWARE",
