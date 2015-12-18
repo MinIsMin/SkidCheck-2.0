@@ -13,6 +13,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:141313376"] = "Adolf Hitler/Nie interesuj sie/medicPL/XxXfreddyfazebearXxX, ShittyScripts",
 	["STEAM_0:0:72001582"] = "SavageTurtle/mintcrew, 2x VAC bans, google his steamID, previous anticheat detections",
 	
 	["STEAM_0:0:82569863"] = "I 3 Red Chair/iloveredhair/TomasTosecky, VAC banned, Backdoor/Exploit in workshop addon, giving himself superadmin, Ban evasion (Alt STEAM_0:0:49679575)",
