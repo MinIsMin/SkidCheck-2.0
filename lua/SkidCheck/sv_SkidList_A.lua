@@ -13,6 +13,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:81160339"] = "karabiber03, Stealing files, gmcl_cat_win32.dll, gmcl_cvar3_win32.dll, ,nospread, SmegHack, defcon.lua aimbot, BAN ME",
 	["STEAM_0:1:86786830"] = "xSeel SBF/Seel/YuriKo ou Seel/Anissa, VAC banned, lua/ayyyy.lua aimbot",
 	["STEAM_0:0:141313376"] = "Adolf Hitler/Nie interesuj sie/medicPL/XxXfreddyfazebearXxX, ShittyScripts",
 	["STEAM_0:0:72001582"] = "SavageTurtle/mintcrew, 2x VAC bans, google his steamID, previous anticheat detections",
