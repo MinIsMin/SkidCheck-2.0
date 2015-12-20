@@ -13,6 +13,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:86786830"] = "xSeel SBF/Seel/YuriKo ou Seel/Anissa, VAC banned, lua/ayyyy.lua aimbot",
 	["STEAM_0:0:141313376"] = "Adolf Hitler/Nie interesuj sie/medicPL/XxXfreddyfazebearXxX, ShittyScripts",
 	["STEAM_0:0:72001582"] = "SavageTurtle/mintcrew, 2x VAC bans, google his steamID, previous anticheat detections",
 	
@@ -5025,7 +5026,7 @@ local Skiddies = {
 	["STEAM_0:1:12543005"] = "Blackops.cfg",
 	["STEAM_0:0:40457063"] = "CrowBarGaming: Aspergers",
 	["STEAM_0:0:11940682"] = "Hacks",
-	["STEAM_0:0:25812285"] = "Nomical, Helium/BoxBot",
+	["STEAM_0:0:25812285"] = "Nomical/Nautical/wildmamacannon/Wattled Walnut/onebadcow, VAC banned, C++ hacks, MPGH, Helium,BoxBot, BAN ME FOREVER",
 	["STEAM_0:0:20088064"] = "Skiddie",
 	["STEAM_0:1:54755525"] = "NEWTMrDJthib, mapex",
 	["STEAM_0:0:29239364"] = "MissBot",
