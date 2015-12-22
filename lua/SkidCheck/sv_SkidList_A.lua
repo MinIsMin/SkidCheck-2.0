@@ -13,6 +13,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:60779867"] = "bork/trapdoor/chris/Troll names, Member of hack/troll group: AIMWARE, 12 year old. BAN ME FOREVER",
 	["STEAM_0:1:81160339"] = "karabiber03, Stealing files, gmcl_cat_win32.dll, gmcl_cvar3_win32.dll, ,nospread, SmegHack, defcon.lua aimbot, BAN ME",
 	["STEAM_0:1:86786830"] = "xSeel SBF/Seel/YuriKo ou Seel/Anissa, VAC banned, lua/ayyyy.lua aimbot",
 	["STEAM_0:0:141313376"] = "Adolf Hitler/Nie interesuj sie/medicPL/XxXfreddyfazebearXxX, ShittyScripts",
@@ -3477,7 +3478,7 @@ local Skiddies = {
 	["STEAM_0:1:27090208"] = "Skiddie",
 	["STEAM_0:1:51476887"] = "Lennys_Group",
 	["STEAM_0:1:48358744"] = "Blackops.cfg",
-	["STEAM_0:0:33545602"] = "2S: AHack",
+	["STEAM_0:0:33545602"] = "Amos/MrAmos123, MPGH, C++ hacks, 2S: AHack, BAN ME FOREVER",
 	["STEAM_0:1:19084184"] = "G-Force Connections, Blackops.cfg",
 	["STEAM_0:1:43665839"] = "gDaap DB: Sour (remmi)",
 	["STEAM_0:1:36928215"] = "Blackops.cfg",
@@ -5126,7 +5127,7 @@ local Skiddies = {
 	["STEAM_0:1:38706401"] = "Mikethanh",
 	["STEAM_0:1:12355332"] = "HeinKein [ALT]",
 	["STEAM_0:0:22349391"] = "SP2: Code injection (Sethhack)",
-	["STEAM_0:1:53748525"] = "2S: sv_allowcslua",
+	["STEAM_0:1:53748525"] = "Layne Staley/utsu p/primus/1121973/Troll names, forced sv_allowcslua, 2x VAC bans, Mapex, 2S: sv_allowcslua",
 	["STEAM_0:1:49885332"] = "2S: AHack",
 	["STEAM_0:1:21835225"] = "Blackops.cfg",
 	["STEAM_0:0:20043407"] = "SP2: Code injection (Sethhack)",
