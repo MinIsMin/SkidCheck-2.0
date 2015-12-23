@@ -12,7 +12,12 @@ local Skiddies = {
 
 
 
-
+	
+	["STEAM_0:0:58550527"] = "Hikkler/Thomas Crum, falcos scripts, Member of hack/troll group: gayweedddads",
+	
+	["STEAM_0:1:149464883"] = "DogeTV/alan bodnar/Piesek/sk8erkill3r, lua/sasha.lua aimbot, VAC banned, Ban Evasion (Alt of STEAM_0:0:103267327)",
+	["STEAM_0:0:103267327"] = "DogeTV/alan bodnar/Piesek/sk8erkill3r, lua/sasha.lua aimbot, VAC banned, Ban Evasion (Alt STEAM_0:1:149464883)",
+	
 	["STEAM_0:1:60779867"] = "bork/trapdoor/chris/Troll names, Member of hack/troll group: AIMWARE, 12 year old. BAN ME FOREVER",
 	["STEAM_0:1:81160339"] = "karabiber03, Stealing files, gmcl_cat_win32.dll, gmcl_cvar3_win32.dll, ,nospread, SmegHack, defcon.lua aimbot, BAN ME",
 	["STEAM_0:1:86786830"] = "xSeel SBF/Seel/YuriKo ou Seel/Anissa, VAC banned, lua/ayyyy.lua aimbot",
