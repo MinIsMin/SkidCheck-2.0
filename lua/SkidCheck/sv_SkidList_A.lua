@@ -12,7 +12,8 @@ local Skiddies = {
 
 
 
-	
+
+	["STEAM_0:1:91989002"] = "Blackman/Blackman1337, Stealing files, cvar3,nospread,SmegHack,defcon aimbot,sv_allowcslua bypass,gmcl_cat_win32",
 	["STEAM_0:0:58550527"] = "Hikkler/Thomas Crum, falcos scripts, Member of hack/troll group: gayweedddads",
 	
 	["STEAM_0:1:149464883"] = "DogeTV/alan bodnar/Piesek/sk8erkill3r, lua/sasha.lua aimbot, VAC banned, Ban Evasion (Alt of STEAM_0:0:103267327)",
