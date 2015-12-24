@@ -727,7 +727,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:18642000"] = "Member of hack/troll group: LSSOWNS",
 	["STEAM_0:0:103908358"] = "Member of hack/troll group: ORGANNER",
 	["STEAM_0:0:43530812"] = "Member of hack/troll group: TF2Xploits",
-	["STEAM_0:0:50329026"] = "Member of hack/troll group: dummYx0r",
 	["STEAM_0:1:6120367"] = "Member of hack/troll group: IMMUNITYCSS",
 	["STEAM_0:0:21453774"] = "Member of hack/troll group: ORGANNER",
 	["STEAM_0:1:107315116"] = "SirFluffysServers: SFS Calzafy, aimbot",

@@ -13,6 +13,8 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:50329026"] = "Sir Det Rape/sirdetrape/Dzire, VAC banned, troll, Member of 21 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:91989002"] = "Blackman/Blackman1337, Stealing files, cvar3,nospread,SmegHack,defcon aimbot,sv_allowcslua bypass,gmcl_cat_win32",
 	["STEAM_0:0:58550527"] = "Hikkler/Thomas Crum, falcos scripts, Member of hack/troll group: gayweedddads",
 	
