@@ -14,6 +14,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:55068344"] = "Rookie/picklerookie, VAC banned, Mapex",
 	["STEAM_0:1:63504901"] = "DRKANDYKILLA/ed, 'Gmod New Hack 2015', gmcl_cat_win32.dll, kawaii_bypass, defcon aimbot, Extreme Injector, sasha.lua",
 	["STEAM_0:1:87632643"] = "S0lid Blue Eric Cohen/frank_000, gmcl_cat_win32.dll, dead_aimbot, defcon.lua",
 	["STEAM_0:1:52179777"] = "ThatCrazyGuy/crazyslooneybin/Nathan, Lennys scripts",
