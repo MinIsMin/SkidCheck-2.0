@@ -14,6 +14,19 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:81524689"] = "Shayking/Troll names, Stealing files, SwagServers: JSP cheat",
+	
+	["STEAM_0:1:147870220"] = "Blurft/rui/amaedasvossasmaes/Troll names, VAC banned, Hera aimbot, Ban Evasion (Alt of STEAM_0:0:43893816)",
+	["STEAM_0:0:43893816"] = "Blurft/rui/amaedasvossasmaes/Troll names, VAC banned, Hera aimbot, Ban Evasion (Alt STEAM_0:1:147870220)",
+	
+	["STEAM_0:0:75135324"] = "lolman0409, VAC banned, sv_allowcslua bypass, AHack",
+	["STEAM_0:0:76205405"] = "Flex__28/Troll names, VAC banned, AHack",
+	["STEAM_0:0:100669201"] = "Kringles FAB/Fabio/byF4bl3r, AHack",
+	["STEAM_0:0:101536584"] = "Hobbit Hunter/Christoph, VAC banned, sv_allowcslua bypass, AHack",
+	["STEAM_0:1:106134560"] = "Serp6nt/Serp6nt the Bae/oliver/Zehmo, Hera aimbot",
+	["STEAM_0:0:85564915"] = "The Beast/M4RR0/Maro, 2x VAC bans, sasha aimbot",
 	["STEAM_0:0:55068344"] = "Rookie/picklerookie, VAC banned, Mapex",
 	["STEAM_0:1:63504901"] = "DRKANDYKILLA/ed, 'Gmod New Hack 2015', gmcl_cat_win32.dll, kawaii_bypass, defcon aimbot, Extreme Injector, sasha.lua",
 	["STEAM_0:1:87632643"] = "S0lid Blue Eric Cohen/frank_000, gmcl_cat_win32.dll, dead_aimbot, defcon.lua",

@@ -4058,7 +4058,6 @@ local ExtraSkiddies = {
 	["STEAM_0:1:102252530"] = "SwagServers: Damn, sv_cheats = 1",
 	["STEAM_0:1:42894319"] = "SwagServers: seven eleven inside job, crashing server",
 	["STEAM_0:0:86388891"] = "SwagServers: Slendie, Attempting to crash server",
-	["STEAM_0:1:81524689"] = "SwagServers: Shayking, Bad file: C:/jsp/jsp.lua",
 	["STEAM_0:0:62585515"] = "SwagServers: KHiLL, Bad file",
 	["STEAM_0:1:59598227"] = "SwagServers: Jay Worley, Bad file: lua/car.lua",
 	["STEAM_0:1:98515694"] = "SwagServers: aadrian03, Speedhacking",
