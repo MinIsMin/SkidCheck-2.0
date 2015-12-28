@@ -14,9 +14,12 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:45189895"] = "CandleJack/Sookme0ff/detrayhaus, Member of hack/troll group: auto-aiming",
+	["STEAM_0:0:96933728"] = "Velkon/velkon_gmod, stealing files, SteamID spoofing, C++ hacks, Member of hack/troll group: imadethem, BAN ME FOREVER",
 	["STEAM_0:0:154068169"] = "ohunsexyme/Troll names, BAN ME FOREVER",
 	["STEAM_0:0:145849302"] = "worldstarballsdeep/Troll names, VAC banned, Member of hack/troll group: memewaremang, BAN ME FOREVER",
-	["STEAM_0:0:155906673"] = "muscleman/mr muscle/muscular_figure, C++ hacks, Mapex, speedhacks, likely alt of skid, BAN ME",
+	["STEAM_0:0:155906673"] = "muscleman/mr muscle/muscular_figure, Stealing & leaking files, C++ hacks, Mapex, speedhacks, likely alt of skid, BAN ME FOREVER",
 	["STEAM_0:1:81524689"] = "Shayking/Troll names, Stealing files, SwagServers: JSP cheat",
 	
 	["STEAM_0:1:147870220"] = "Blurft/rui/amaedasvossasmaes/Troll names, VAC banned, Hera aimbot, Ban Evasion (Alt of STEAM_0:0:43893816)",
