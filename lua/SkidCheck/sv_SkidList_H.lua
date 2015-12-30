@@ -4150,7 +4150,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:78437449"] = "SwagServers: Syonix20, Bad file: lua/defcon.lua",
 	["STEAM_0:0:41908082"] = "SwagServers: ScaleM8, sv_cheats = 1",
 	["STEAM_0:1:43263128"] = "SwagServers: 3PX2, sv_cheats = 1",
-	["STEAM_0:0:46709807"] = "SwagServers: KNAB AppleJackSmith, sv_cheats = 1",
 	["STEAM_0:1:59354965"] = "SwagServers: Unknown, Speed Hacking",
 	["STEAM_0:0:32986169"] = "SwagServers: MUDMONKEY, Attempt to crash server",
 	

@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:46709807"] = "TQuaidZn/AppleJackSmith/DaBest, 2x VAC bans, SwagServers: sv_cheats = 1, Member of hack/troll group: MPGH",
 	["STEAM_0:0:83634798"] = "Ben/Dwang, Member of hack/troll group: ididnothither",
 	["STEAM_0:0:45189895"] = "CandleJack/Sookme0ff/detrayhaus, Member of hack/troll group: auto-aiming",
 	["STEAM_0:0:96933728"] = "Velkon/velkon_gmod, stealing files, SteamID spoofing, C++ hacks, Member of hack/troll group: imadethem, BAN ME FOREVER",
@@ -758,7 +759,7 @@ local Skiddies = {
 	
 	["STEAM_0:0:75582092"] = "Raser/mirrorzplay, C++ hacks, VAC banned, AHack",
 	["STEAM_0:1:93715261"] = "Jason, C++ hacks, lua/sasha.lua, aimbot",
-	["STEAM_0:0:47591039"] = "Meanyacho/Meanacho1, buying Ampris hack",
+	["STEAM_0:0:47591039"] = "Congressman/goodnightsaigon/Riflemen 81/Meanyacho/Meanacho1, buying Ampris hack",
 	["STEAM_0:1:60663324"] = "thekingninny/Dan/Ninny, buying Ampris hack, Member of hack/troll group: imnnigggger",
 	["STEAM_0:1:49151402"] = "Ampnode/Robby Phisher/Ampris, selling hacks",
 	["STEAM_0:0:49044220"] = "ampriskeybot, bot used for selling GMod hack 'Ampris'",
