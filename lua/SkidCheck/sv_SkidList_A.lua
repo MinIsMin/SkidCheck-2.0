@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:5992527"] = "The Commander/commandernz/Troll names, SteamID spoofing, Member of hack/troll group: BigServerMen, BAN ME",
 	["STEAM_0:0:46709807"] = "TQuaidZn/AppleJackSmith/DaBest, 2x VAC bans, SwagServers: sv_cheats = 1, Member of hack/troll group: MPGH",
 	["STEAM_0:0:83634798"] = "Ben/Dwang, Member of hack/troll group: ididnothither",
 	["STEAM_0:0:45189895"] = "CandleJack/Sookme0ff/detrayhaus, Member of hack/troll group: auto-aiming",
