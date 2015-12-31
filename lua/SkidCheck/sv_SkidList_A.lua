@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:123888780"] = "Carl/dolphinswrg, forced sv_cheats, forced sv_allowcslua, Lennys scripts",
 	["STEAM_0:0:5992527"] = "The Commander/commandernz/Troll names, SteamID spoofing, Member of hack/troll group: BigServerMen, BAN ME",
 	["STEAM_0:0:46709807"] = "TQuaidZn/AppleJackSmith/DaBest, 2x VAC bans, SwagServers: sv_cheats = 1, Member of hack/troll group: MPGH",
 	["STEAM_0:0:83634798"] = "Ben/Dwang, Member of hack/troll group: ididnothither",
@@ -4018,11 +4019,11 @@ local Skiddies = {
 	["STEAM_0:1:25555698"] = "SethHack",
 	["STEAM_0:0:56280098"] = "2S: Cheats",
 	
-	["STEAM_0:1:65860748"] = "Aaron/DayzPlayer/key coder/Rhelash, member of DDoS group,cvar3,AnXition, Ban evasion",
-	["STEAM_0:1:92268284"] = "Aaron/DayzPlayer/key coder/Rhelash new, member of DDoS group,cvar3,AnXition, Ban evasion Alt of STEAM_0:1:65860748",
-	["STEAM_0:1:69497763"] = "Aaron/DayzPlayer/key coder/Rhelash/AggressiveExile, DDoS group,cvar3,AnXition, Ban evasion Alt of STEAM_0:1:65860748",
-	["STEAM_0:0:68848540"] = "Aaron/DayzPlayer/key coder/Rhelash, member of DDoS group,cvar3,AnXition, Ban evasion Alt of STEAM_0:1:65860748",
-	["STEAM_0:0:48252970"] = "Aaron/DayzPlayer/key coder/Rhelash, member of DDoS group,cvar3,AnXition, Ban evasion Alt of STEAM_0:1:65860748",
+	["STEAM_0:1:65860748"] = "Aaron/DayzPlayer/key coder/Rhelash, member of DDoS group,cvar3,AnXition, Ban evasion, BAN ME FOREVER",
+	["STEAM_0:1:92268284"] = "Aaron/DayzPlayer/key coder/Rhelash new, member of DDoS group,cvar3,AnXition, Ban evasion Alt of STEAM_0:1:65860748, BAN ME FOREVER",
+	["STEAM_0:1:69497763"] = "Aaron/DayzPlayer/key coder/Rhelash/AggressiveExile, DDoS group,cvar3,AnXition, Ban evasion Alt of STEAM_0:1:65860748, BAN ME FOREVER",
+	["STEAM_0:0:68848540"] = "Aaron/DayzPlayer/key coder/Rhelash, member of DDoS group,cvar3,AnXition, Ban evasion Alt of STEAM_0:1:65860748, BAN ME FOREVER",
+	["STEAM_0:0:48252970"] = "Aaron/DayzPlayer/key coder/Rhelash, member of DDoS group,cvar3,AnXition, Ban evasion Alt of STEAM_0:1:65860748, BAN ME FOREVER",
 	
 	["STEAM_0:1:30766017"] = "Ban Evasion (STEAM_0:0:91100482)",
 	["STEAM_0:0:36940612"] = "SP2: Code injection (Sethhack)",
