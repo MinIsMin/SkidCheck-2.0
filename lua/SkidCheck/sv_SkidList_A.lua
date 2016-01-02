@@ -15,6 +15,13 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:90725646"] = "zaki2001, Hera",
+	
+	["STEAM_0:0:144948145"] = "cieslar2003/Epic0creeper12/n00b_slayer, Stealing files, cvar3,JSP,nospread,mapex,anxition,hera,SmegHack, Ban Evasion (Alt of STEAM_0:0:62947148)",
+	["STEAM_0:0:62947148"] = "cieslar2003/Epic0creeper12/n00b_slayer, Stealing files, cvar3,JSP,nospread,mapex,anxition,hera,SmegHack, Ban Evasion (Alt: STEAM_0:0:144948145)",
+	
+	["STEAM_0:0:54867551"] = "Fresh BBC/fresh_bbc_forever/Anatoliy/Troll names, forced sv_allowcslua, defcon.lua, gmcl_cat_win32.dll, mat_fullbright",
+	["STEAM_0:1:84572156"] = "Kingston2111, sv_allowcslua bypass",
 	["STEAM_0:1:54398816"] = "Exploderguy/DatFancyChicken/John, SteamID spoofing, BAN ME FOREVER",
 	["STEAM_0:1:123888780"] = "Carl/dolphinswrg, forced sv_cheats, forced sv_allowcslua, Lennys scripts",
 	["STEAM_0:0:5992527"] = "The Commander/commandernz/Troll names, SteamID spoofing, Member of hack/troll group: BigServerMen, BAN ME",
@@ -748,7 +755,10 @@ local Skiddies = {
 	["STEAM_0:1:37501294"] = "the swat dk, VAC banned, Lennys scripts",
 	["STEAM_0:0:40798816"] = "Latchy/Troll names, VAC banned, 2S: Cheats",
 	["STEAM_0:1:97494426"] = "wez/woodi, dead_aimbot, cvar3",
-	["STEAM_0:1:53003486"] = "pyro/DarkPyro, Falcos scripts, darkness/hera, Member of hack/troll group: imadeumad",
+	
+	["STEAM_0:1:53003486"] = "pyro/DarkPyro/xbeastguyx, Falcos scripts, darkness, hera, Member of hack/troll group: imadeumad",
+	["STEAM_0:0:5211929"] = "pyro/DarkPyro/xbeastguyx new, Falcos scripts, darkness, hera, Member of hack/troll group: imadeumad",
+	
 	["STEAM_0:0:59915803"] = "xbeastguyx, VAC banned, Lennys scripts, Member of hack/troll group: imadeumad",
 	["STEAM_0:0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, Member of hack/troll group: NoNAnonPub",
 	["STEAM_0:0:41045922"] = "Josh/Troll names, XMenu cheat, uSkid, lua/uskid.lua",
