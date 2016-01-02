@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:91784752"] = "WeizN, Mapex, AHack, 2S: AXpublic",
 	["STEAM_0:1:90725646"] = "zaki2001, Hera",
 	
 	["STEAM_0:0:144948145"] = "cieslar2003/Epic0creeper12/n00b_slayer, Stealing files, cvar3,JSP,nospread,mapex,anxition,hera,SmegHack, Ban Evasion (Alt of STEAM_0:0:62947148)",
@@ -1906,7 +1907,6 @@ local Skiddies = {
 	["STEAM_0:0:40788796"] = "2S: sv_allowcslua bypass",
 	["STEAM_0:1:54614026"] = "2S: AHack",
 	["STEAM_0:1:50718419"] = "2S: sv_allowcslua bypass",
-	["STEAM_0:0:91784752"] = "2S: AXpublic",
 	["STEAM_0:1:52778842"] = "2S: sv_allowcslua bypass",
 	["STEAM_0:1:52842326"] = "2S: Mapex",
 	["STEAM_0:0:85105998"] = "2S: AHack",
