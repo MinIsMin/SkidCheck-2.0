@@ -4138,7 +4138,6 @@ local ExtraSkiddies = {
 	["STEAM_0:1:19365913"] = "SwagServers: Bones, sv_cheats = 1",
 	["STEAM_0:1:65806060"] = "SwagServers: Selena Koffe, sv_cheats = 1",
 	["STEAM_0:0:93892495"] = "SwagServers: Jen, Bad file: C:/Users/CustomDave/Desktop/lua/Bunnyhop.lua",
-	["STEAM_0:1:39546947"] = "SwagServers: Samurai, sv_cheats = 1",
 	["STEAM_0:0:12189101"] = "SwagServers: Acer, sv_cheats = 1",
 	["STEAM_0:1:48490394"] = "SwagServers: Blazin, sv_cheats = 1",
 	["STEAM_0:0:48937072"] = "SwagServers: Unterstein, trying to crash server",

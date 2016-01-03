@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:39546947"] = "HighVoltage Lubbock/Devin Rivalsi/Devin281/Devin28198/Devinyo98, sv_allowcslua bypass, MPGH, SwagServers: Samurai, sv_cheats = 1",
 	["STEAM_0:0:91784752"] = "WeizN, Mapex, AHack, 2S: AXpublic",
 	["STEAM_0:1:90725646"] = "zaki2001, Hera",
 	
