@@ -15,6 +15,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:46709807"] = "TQuaidZn, Stealing files, SteamID spoofing, 2x VAC bans, 16 bad DLLs, 27 lua hacks, SwagServers: sv_cheats = 1, Member of 3 hack/troll groups, BAN ME FOREVER",
+	["STEAM_0:0:80834455"] = "thecreephunter3478/Roman, VAC banned, Dark scripts, Lennys scripts",
 	["STEAM_0:1:104783604"] = "Familia Bernd, AHack",
 	["STEAM_0:0:154107160"] = "Mae/MAx KiEffE, sv_cheats",
 	["STEAM_0:1:39546947"] = "HighVoltage Lubbock/Devin Rivalsi/Devin281/Devin28198/Devinyo98, sv_allowcslua bypass, MPGH, SwagServers: Samurai, sv_cheats = 1",
@@ -29,7 +31,6 @@ local Skiddies = {
 	["STEAM_0:1:54398816"] = "Exploderguy/DatFancyChicken/John, SteamID spoofing, BAN ME FOREVER",
 	["STEAM_0:1:123888780"] = "Carl/dolphinswrg, forced sv_cheats, forced sv_allowcslua, Lennys scripts",
 	["STEAM_0:0:5992527"] = "The Commander/commandernz/Troll names, SteamID spoofing, Member of hack/troll group: BigServerMen, BAN ME",
-	["STEAM_0:0:46709807"] = "TQuaidZn/AppleJackSmith/DaBest, 2x VAC bans, SwagServers: sv_cheats = 1, Member of hack/troll group: MPGH",
 	["STEAM_0:0:83634798"] = "Ben/Dwang, Member of hack/troll group: ididnothither",
 	["STEAM_0:0:45189895"] = "CandleJack/Sookme0ff/detrayhaus, Member of hack/troll group: auto-aiming",
 	["STEAM_0:0:96933728"] = "Velkon/velkon_gmod, stealing files, SteamID spoofing, C++ hacks, Member of hack/troll group: imadethem, BAN ME FOREVER",
