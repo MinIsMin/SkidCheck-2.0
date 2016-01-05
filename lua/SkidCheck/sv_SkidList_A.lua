@@ -15,6 +15,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:72001582"] = "SavageTurtle/mintcrew/Troll names, STEALING FILES, 2x VAC bans, SteamID spoofing, cvar3,nospread,JSP, ahack,Lennys,SH, BAN ME FOREVER",
+	["STEAM_0:1:24123574"] = "atb7195/Daniel Bialy, sv_allowcslua bypass",
 	["STEAM_0:0:46709807"] = "TQuaidZn, Stealing files, SteamID spoofing, 2x VAC bans, 16 bad DLLs, 27 lua hacks, SwagServers: sv_cheats = 1, Member of 3 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:0:80834455"] = "thecreephunter3478/Roman, VAC banned, Dark scripts, Lennys scripts",
 	["STEAM_0:1:104783604"] = "Familia Bernd, AHack",
@@ -63,7 +65,6 @@ local Skiddies = {
 	["STEAM_0:1:81160339"] = "karabiber03, Stealing files, gmcl_cat_win32.dll, gmcl_cvar3_win32.dll, ,nospread, SmegHack, defcon.lua aimbot, BAN ME",
 	["STEAM_0:1:86786830"] = "xSeel SBF/Seel/YuriKo ou Seel/Anissa, VAC banned, lua/ayyyy.lua aimbot",
 	["STEAM_0:0:141313376"] = "Adolf Hitler/Nie interesuj sie/medicPL/XxXfreddyfazebearXxX, ShittyScripts",
-	["STEAM_0:0:72001582"] = "SavageTurtle/mintcrew, 2x VAC bans, google his steamID, previous anticheat detections",
 	
 	["STEAM_0:0:82569863"] = "I 3 Red Chair/iloveredhair/TomasTosecky, VAC banned, Backdoor/Exploit in workshop addon, giving himself superadmin, Ban evasion (Alt STEAM_0:0:49679575)",
 	["STEAM_0:0:49679575"] = "I 3 Red Chair/iloveredhair/TomasTosecky, VAC banned, Backdoor/Exploit in workshop addon, giving himself superadmin, Ban evasion (Alt of STEAM_0:0:82569863)",

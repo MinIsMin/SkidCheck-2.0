@@ -2,50 +2,6 @@
 
 
 local ExtraSkiddies = {
-
-
-
-
-
-
-
-
-	["STEAM_0:0:90018276"] = "Member of hack/troll group: MPGH",
-	["STEAM_0:1:77057113"] = "Member of hack/troll group: MPGH",
-	["STEAM_0:1:118552891"] = "Member of hack/troll group: MPGH",
-	["STEAM_0:1:156902608"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:156646459"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:0:156738115"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:61430043"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:85436109"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:0:52040665"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:157150832"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:40433903"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:48427671"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:0:157137352"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:83903576"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:103703559"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:0:46200834"] = "Member of hack/troll group: VACCollector",
-	["STEAM_0:0:90671416"] = "Member of hack/troll group: donotlewdcats",
-	["STEAM_0:0:9832590"] = "Member of hack/troll group: donotlewdcats",
-	["STEAM_0:1:157116906"] = "Member of hack/troll group: darkscriptsv1",
-	["STEAM_0:1:114996079"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:69342908"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:19304052"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:147754433"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:104579228"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:6807362"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:81778694"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:1:97011093"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:78115464"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:1:151144159"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:59768433"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:1:112700588"] = "Member of hack/troll group: MEMEWARE",
-	["STEAM_0:0:90399763"] = "Member of hack/troll group: MPGH",
-	["STEAM_0:1:146410478"] = "Member of hack/troll group: MPGH",
-	["STEAM_0:0:83468911"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:0:134635764"] = "Member of hack/troll group: AIMWARE",
-	["STEAM_0:1:93945580"] = "Member of hack/troll group: AIMWARE",
 	["STEAM_0:1:119387989"] = "Member of hack/troll group: AIMWARE",
 	["STEAM_0:1:91004084"] = "Member of hack/troll group: AIMWARE",
 	["STEAM_0:0:108489875"] = "Member of hack/troll group: AIMWARE",
