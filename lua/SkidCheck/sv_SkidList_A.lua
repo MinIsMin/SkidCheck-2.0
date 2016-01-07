@@ -14,7 +14,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:92870734"] = "DonVespucci/Kalcom, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot, Lennys scripts",
+	["STEAM_0:0:54649593"] = "Sexy Batman/KsJMaX, Stealing files, cvar3,JSP,nospread,mapex,anxition,dead_aimbot,SmegHack, Member of hack/troll group: xSweg",
+	
 	["STEAM_0:1:41432673"] = "MOOSEMAN/Troll names, Backdoor/Exploit in workshop addon",
 	["STEAM_0:0:68268019"] = "Terminally Chill/soipelez/Nick, VAC banned, Backdoor/Exploit in workshop addon, Member of hack/troll group: yunglean",
 	["STEAM_0:1:111266550"] = "abdul/abdul11111111111111111, Backdoor/Exploit in workshop addon",
@@ -289,10 +291,10 @@ local Skiddies = {
 	["STEAM_0:0:61994279"] = "kokoc_9/Crivbass/ovsk, 2x VAC bans, MPGH, releasing hacks",
 	["STEAM_0:0:119674973"] = "h0wl/ieternality/Troll names, 2x VAC bans, Member of hack/troll group: MEMEWARE, BAN ME FOREVER",
 	["STEAM_0:1:100758935"] = "dsd/100% Troll/hack names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: druglordddosers",
-	["STEAM_0:0:145764388"] = "asdasd, Member of snixzz hacking site",
-	["STEAM_0:1:121163033"] = "Moosicorn alt/Owlicorn/officialowlicorn/Dick Duffy, VAC banned, Member of snixzz hacking site",
+	["STEAM_0:0:145764388"] = "asdasd, Member of snixzz hacking site",	
 	["STEAM_0:0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn, VAC banned, Member of snixzz hacking site",
-	["STEAM_0:1:121163033"] = "What is Love/Vlad/Troll names, Member of snixzz hacking site, Banned",
+	["STEAM_0:0:125521578"] = "Moosicorn alt/Owlicorn/officialowlicorn/Vlad/Dick Duffy, VAC banned, Member of snixzz hacking site",
+	["STEAM_0:1:121163033"] = "What is Love/Vlad/Troll names, Member of snixzz hacking site, Banned, BAN ME FOREVER",
 	["STEAM_0:1:114522307"] = "rekteffect/Super/Troll names, MPGH, attempted anticheat bypass, SirFluffysServers: aimbot, seed manipulation",
 	["STEAM_0:0:144583660"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, Member of snixzz hacking site, Dismay, gDaap dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:86385858"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, Member of snixzz hacking site, Dismay, gDaap dakilla123, BAN ME FOREVER",
