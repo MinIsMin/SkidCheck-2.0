@@ -23,7 +23,7 @@ if HAC then
 end
 
 Skid.WaitFor 	= 35 --Seconds to wait before message
-Skid.sk_sync	= CreateConVar("sk_sync",	6, FCVAR_ARCHIVE, "Allow list sync from GitHub? value = hours to check for updates (0 to disable)")
+Skid.sk_sync	= CreateConVar("sk_sync",	8, FCVAR_ARCHIVE, "Allow list sync from GitHub? value = hours to check for updates (0 to disable)")
 
 Skid.sk_silent	= CreateConVar("sk_silent",	0, FCVAR_ARCHIVE, "Disable all SK messages? (WILL STILL KICK if sk_kick is 1)")
 Skid.sk_kick 	= CreateConVar("sk_kick",	0, FCVAR_ARCHIVE, "Prevent players on the database from joining")
@@ -45,10 +45,10 @@ function table.MergeEx(from,dest)
 	from = nil
 end
 
+//Must load in reverse order! 9 > 1
 Skid.Lists = file.Find("lua/SkidCheck/sv_SkidList*.lua", "GAME", "nameasc")
 
-HAC = { Skiddies = {} }
-	//Must load in reverse order! 9 > 1
+HAC = { Skiddies = {} }	
 	for k,v in pairs(Skid.Lists) do
 		include("SkidCheck/"..v)
 	end

@@ -11,14 +11,16 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 How to use:
+Download the Zip > Extract to the server's addons folder and restart.
+
 Nothing is needed to configure or set up (Unless you want to).
 
 By default, for any IDs in the database, this addon will do a warning message & sound
 in the chat when those players spawn in the server.
-It will also update the lists from GitHub on map change, and then every 6 hours.
+It will also download the latest DB from GitHub on map change, and then every 6 hours.
 
-It can not *detect* cheaters, nor can it punish anyone it finds. It can only do the
-following:
+It can not *detect* cheaters, nor can it punish anyone it finds. (Unless you hook it)
+It can only do the following:
 
 
 CVars (Add to your server.cfg if you want to change default options):
@@ -31,8 +33,8 @@ sk_omit  1/0  --Send SK message to everyone BUT the known cheater
 sk_admin 0/1  --ONLY send SK messages to admins, no one else
 0 by default, useless if sk_kick or sk_omit is 1
 
-sk_sync  6/0  --Allow list sync from GitHub?
-6 by default, value = hours to check for updates (0 to disable)
+sk_sync  8/0  --Allow list sync from GitHub?
+8 by default, value = hours to check for updates (0 to disable)
 
 sk_silent 0/1 --Disable all SK messages? (WILL STILL KICK if sk_kick is 1)
 0 by default
@@ -40,7 +42,7 @@ sk_silent 0/1 --Disable all SK messages? (WILL STILL KICK if sk_kick is 1)
 
 
 Commands:
-sk            --Re-play the sound and message of any cheaters in game.
+sk            --Re-play the sound and message if any cheaters in game.
 
 sk_update     --Sync all lists rignt now, usually runs every sk_sync hours
 
@@ -56,7 +58,7 @@ sk_encounters.txt    --Logs every known cheater that spawns (if sk_kick is 0)
 Hooks (SERVER side):
 
 hook.Add("BlockSkidConnect", "SK", function(user,SID, Reason)
-	return true, "You're not welcome here.\n<"..Reason..">" --Reject connection
+	return true, "You're not welcome here "..user.." ("..SID..")\n<"..Reason..">" --Reject connection
 end)
 
 Called when a known cheater connects.
@@ -75,12 +77,12 @@ Return true to stop the default message and handle it yourself
 Return nil for default message & sound (if sk_kick, sk_silent and sk_admin are 0)
 
 sk_kick must be 0 for this to work, which will ALLOW them to join your server unless
-handled yourself in this hook!
+handled yourself in BlockSkidConnect!
 
 
 
 List format:
-["SteamID_Here"] = "Names/Known/As, Reason",
+["SteamID_Here"] = "Names/Known/As, Reasons,here",
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
