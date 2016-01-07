@@ -15,6 +15,14 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:41432673"] = "MOOSEMAN/Troll names, Backdoor/Exploit in workshop addon",
+	["STEAM_0:0:68268019"] = "Terminally Chill/soipelez/Nick, VAC banned, Backdoor/Exploit in workshop addon, Member of hack/troll group: yunglean",
+	["STEAM_0:1:111266550"] = "abdul/abdul11111111111111111, Backdoor/Exploit in workshop addon",
+	["STEAM_0:1:27835274"] = "BOT Naruto/coecoepops/Troll names, Backdoor/Exploit in workshop addon, Member of hack/troll group: yunglean",
+	
+	["STEAM_0:1:61689966"] = "Teemo/David/Frik22, AHack,Mapex",
+	["STEAM_0:0:93430585"] = "Fajkalala/Simon/CHALLENGER, Lennys scripts",
+	["STEAM_0:0:99587216"] = "jonacreepy/jona.schober, AHack",
 	["STEAM_0:0:72001582"] = "SavageTurtle/mintcrew/Troll names, STEALING FILES, 2x VAC bans, SteamID spoofing, cvar3,nospread,JSP, ahack,Lennys,SH, BAN ME FOREVER",
 	["STEAM_0:1:24123574"] = "atb7195/Daniel Bialy, sv_allowcslua bypass",
 	["STEAM_0:0:46709807"] = "TQuaidZn, Stealing files, SteamID spoofing, 2x VAC bans, 16 bad DLLs, 27 lua hacks, SwagServers: sv_cheats = 1, Member of 3 hack/troll groups, BAN ME FOREVER",
