@@ -14,6 +14,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:57264320"] = "D3n Sn4Gge K0ssAn/choklad/, Lennys scripts",
 	["STEAM_0:1:92870734"] = "DonVespucci/Kalcom, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot, Lennys scripts",
 	["STEAM_0:0:54649593"] = "Sexy Batman/KsJMaX, Stealing files, cvar3,JSP,nospread,mapex,anxition,dead_aimbot,SmegHack, Member of hack/troll group: xSweg",
 	
