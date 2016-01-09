@@ -14,6 +14,10 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:123921822"] = "Haza212/spork, Dark scripts, ShittyScripts",
+	["STEAM_0:1:51042236"] = "OM SuperOllieWorld/Oliver Richardson, VAC banned, Lennys scripts",
 	["STEAM_0:0:104846705"] = "Thunderkunts ReaperHD/tehgr8sakau/Dr.DeathdefiyingHD, Lennys scripts",
 	["STEAM_0:1:57264320"] = "D3n Sn4Gge K0ssAn/choklad/, Lennys scripts",
 	["STEAM_0:1:92870734"] = "DonVespucci/Kalcom, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot, Lennys scripts",
@@ -44,7 +48,7 @@ local Skiddies = {
 	["STEAM_0:1:84572156"] = "Kingston2111, sv_allowcslua bypass",
 	["STEAM_0:1:54398816"] = "Exploderguy/DatFancyChicken/John, SteamID spoofing, BAN ME FOREVER",
 	["STEAM_0:1:123888780"] = "Carl/dolphinswrg, forced sv_cheats, forced sv_allowcslua, Lennys scripts",
-	["STEAM_0:0:5992527"] = "The Commander/commandernz/Troll names, SteamID spoofing, Member of hack/troll group: BigServerMen, BAN ME",
+	["STEAM_0:0:5992527"] = "The Commander/commandernz/Troll names, SteamID spoofing, Member of hack/troll group, BAN ME",
 	["STEAM_0:0:83634798"] = "Ben/Dwang, Member of hack/troll group: ididnothither",
 	["STEAM_0:0:45189895"] = "CandleJack/Sookme0ff/detrayhaus, Member of hack/troll group: auto-aiming",
 	["STEAM_0:0:96933728"] = "Velkon/velkon_gmod, stealing files, SteamID spoofing, C++ hacks, Member of hack/troll group: imadethem, BAN ME FOREVER",
