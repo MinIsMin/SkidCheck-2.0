@@ -16,6 +16,9 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:69004763"] = "RollDan/rolldansk, AHack",
+	["STEAM_0:0:89574677"] = "Stan/stan369/Troll names, SteamID spoofing, VAC banned, attempted server crashing, MPGH",
 	["STEAM_0:0:123921822"] = "Haza212/spork, Dark scripts, ShittyScripts",
 	["STEAM_0:1:51042236"] = "OM SuperOllieWorld/Oliver Richardson, VAC banned, Lennys scripts",
 	["STEAM_0:0:104846705"] = "Thunderkunts ReaperHD/tehgr8sakau/Dr.DeathdefiyingHD, Lennys scripts",
@@ -5695,7 +5698,7 @@ local Skiddies = {
 	["STEAM_0:0:5446290"] = "Ban Evasion (STEAM_0:1:71319811)",
 	["STEAM_0:0:82003739"] = "Troll/Hacks",
 	["STEAM_0:1:70974036"] = "Snake3947",
-	["STEAM_0:1:56794279"] = "Ben Da Man, Hera, cvar3",
+	["STEAM_0:1:56794279"] = "Ben Da Man/Troll names, Hera, cvar3, troll, BAN ME",
 	["STEAM_0:0:63856243"] = "Ban Evasion (Alt of STEAM_0:1:54945805)",
 	["STEAM_0:0:14005138"] = "SSDB: BadRCC",
 	["STEAM_0:0:49741808"] = "drae, mythik friend, ban me",
