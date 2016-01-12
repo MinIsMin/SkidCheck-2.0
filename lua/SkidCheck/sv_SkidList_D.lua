@@ -2015,7 +2015,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:28297594"] = "Member of hack/troll group: gayweedddads",
 	["STEAM_0:1:53726671"] = "Member of hack/troll group: 22cheatx",
 	["STEAM_0:1:84677069"] = "Member of hack/troll group: WeCheatAtGames",
-	["STEAM_0:0:30632194"] = "Member of hack/troll group: h8ogniK",
 	["STEAM_0:1:43997377"] = "Member of hack/troll group: ORGANNER",
 	["STEAM_0:1:49221568"] = "Member of hack/troll group: x22usercheat",
 	["STEAM_0:0:41838071"] = "Member of hack/troll group: autismawards",
