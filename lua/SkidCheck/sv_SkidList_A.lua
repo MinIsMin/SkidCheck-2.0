@@ -16,7 +16,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:79524916"] = "NewondeR/Cem/byckorjinal/Johan Sins/SirPrime, VAC banned, attempted anticheat bypass",
 	["STEAM_0:0:69004763"] = "RollDan/rolldansk, AHack",
 	["STEAM_0:0:89574677"] = "Stan/stan369/Troll names, SteamID spoofing, VAC banned, attempted server crashing, MPGH",
 	["STEAM_0:0:123921822"] = "Haza212/spork, Dark scripts, ShittyScripts",
