@@ -14,8 +14,10 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:65399131"] = "lulzpiratemicallord/Integra/Troll names, sv_allowcslua,speedhacks,25 cheats,cvar3,2x VAC bans, Member of hack/troll group: Lulz_Pirates",
+	["STEAM_0:0:139464353"] = "Shay/deadeevee/Troll names, admitted hacking",
+	["STEAM_0:1:62414147"] = "Rikimarka/rikimarka10/Alexender Sobolev/Rikimarka2012, Attempted anticheat bypass, 3x VAC bans",
+	["STEAM_0:0:817135"] = "zorenoxr/csaddiction/Troll names, Banned",
 	["STEAM_0:0:30632194"] = "IrZipher, SteamID spoofing, VAC Banned, MPGH, Member of hack/troll group: h8ogniK",
 	["STEAM_0:1:79524916"] = "NewondeR/Cem/byckorjinal/Johan Sins/SirPrime, VAC banned, attempted anticheat bypass",
 	["STEAM_0:0:69004763"] = "RollDan/rolldansk, AHack",
