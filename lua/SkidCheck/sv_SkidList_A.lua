@@ -14,6 +14,15 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:111893202"] = "Zombiiju/Troll names, Attempted anticheat bypass, VAC banned,Speedhacks,Member of snixzz hacking site,Hack group: 2cash, Ban Evasion (Alt STEAM_0:0:114785523)",
+	["STEAM_0:0:114785523"] = "Zombiiju/Troll names, Attempted anticheat bypass, VAC banned,Speedhacks,Member of snixzz hacking site,Hack group: 2cash, Ban Evasion (Alt of STEAM_0:1:111893202)",
+	
+	["STEAM_0:0:71452983"] = "ProPrestigeGamer/PPG/carlosortegamunoz/Zirius, Mapex",
+	["STEAM_0:0:50171828"] = "The Great Papyrus/ebirdhd/Kanner, Sasha aimbot",
+	["STEAM_0:0:110411007"] = "Dr3dd/dr3ddsuninon, VAC banned, Mapex",
+	["STEAM_0:0:123385472"] = "PoPkiss/11111111carrie/Artem/EzfuckGame/interdiscount, sv_allowcslua bypass, BridgeHack,ShittyScripts,defcon,gravko,BH",
 	["STEAM_0:1:65399131"] = "lulzpiratemicallord/Integra/Troll names, sv_allowcslua,speedhacks,25 cheats,cvar3,2x VAC bans, Member of hack/troll group: Lulz_Pirates",
 	["STEAM_0:0:139464353"] = "Shay/deadeevee/Troll names, admitted hacking",
 	["STEAM_0:1:62414147"] = "Rikimarka/rikimarka10/Alexender Sobolev/Rikimarka2012, Attempted anticheat bypass, 3x VAC bans",
@@ -461,7 +470,6 @@ local Skiddies = {
 	["STEAM_0:1:81942762"] = "Chappie1/chappieishappy1/lecoben, attempted anticheat bypass, Member of snixzz hacking site, Banned, MPGH",
 	
 	["STEAM_0:0:76233099"] = "foregrass/Troll names, VAC banned, Member of snixzz hacking site",
-	["STEAM_0:0:114785523"] = "Zombiiju/dud, Member of snixzz hacking site",
 	["STEAM_0:0:36945367"] = "CookieBagels/jadenmartin3, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:15442832"] = "NightmareInMyHead/Sin1z/Troll&hack names, VAC banned, Member of snixzz hacking site, Skiddie, ban me",
 	["STEAM_0:0:56021974"] = "Erza/Raf, Member of snixzz hacking site, Member of hack/troll group: ExploitersAndHackers",
