@@ -15,7 +15,13 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:96350652"] = "Blue Reagan Black FTW/reagantheoneandonly/Reagan, Dark scripts",
+	["STEAM_0:0:99544499"] = "Run2Die/run2die123/Run2DieHD/Ryan, C++ hacks, VAC banned",
+	["STEAM_0:0:125965710"] = "Angelkiller666, Cracked steam (GreenLuma)",
+	["STEAM_0:1:55011198"] = "Woeful Wolf/Stormshadow/cpvdm10, Lennys scripts",
+	["STEAM_0:0:42326180"] = "Leo/leoman280/lazaro, Mapex, Lennys scripts",
+	["STEAM_0:1:48292677"] = "jaycanfly/Jay, Hera",
+	["STEAM_0:0:44321329"] = "Mister Tisker, Speedhacks,cvar3,Nospread,Lennys scripts,ampris,SmegHack",
 	["STEAM_0:1:111893202"] = "Zombiiju/Troll names, Attempted anticheat bypass, VAC banned,Speedhacks,Member of snixzz hacking site,Hack group: 2cash, Ban Evasion (Alt STEAM_0:0:114785523)",
 	["STEAM_0:0:114785523"] = "Zombiiju/Troll names, Attempted anticheat bypass, VAC banned,Speedhacks,Member of snixzz hacking site,Hack group: 2cash, Ban Evasion (Alt of STEAM_0:1:111893202)",
 	
