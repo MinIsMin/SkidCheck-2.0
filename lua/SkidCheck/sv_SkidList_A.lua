@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:72074308"] = "AER-95/AER95, Mapex,aimbot",
 	["STEAM_0:1:96350652"] = "Blue Reagan Black FTW/reagantheoneandonly/Reagan, Dark scripts",
 	["STEAM_0:0:99544499"] = "Run2Die/run2die123/Run2DieHD/Ryan, C++ hacks, VAC banned",
 	["STEAM_0:0:125965710"] = "Angelkiller666, Cracked steam (GreenLuma)",
