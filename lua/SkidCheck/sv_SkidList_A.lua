@@ -15,6 +15,12 @@ local Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:1:43832341"] = "Slyvk, 2x VAC bans, sv_allowcslua bypass,20 cheat scripts,cvar3, Exploits/asking for hacks",
+	["STEAM_0:0:84747760"] = "maksim071204, NooblerScripts,PKMafia Script",
+	["STEAM_0:1:115110567"] = "Angel/Jaydon Catino, sv_allowcslua/sv_cheats bypass, Hera,BlueBot,codinglizard,defcon,precisionbot,reichbot",
 	["STEAM_0:0:72074308"] = "AER-95/AER95, Mapex,aimbot",
 	["STEAM_0:1:96350652"] = "Blue Reagan Black FTW/reagantheoneandonly/Reagan, Dark scripts",
 	["STEAM_0:0:99544499"] = "Run2Die/run2die123/Run2DieHD/Ryan, C++ hacks, VAC banned",
@@ -1150,7 +1156,6 @@ local Skiddies = {
 	["STEAM_0:1:96000942"] = "Invisible name, VAC banned, Exploits/asking for hacks/Member of hack/troll group: formatmefans",
 	["STEAM_0:0:121038730"] = "Crona/thegreatenate, VAC banned, Exploits, asking for hacks, using hacks (dark scripts)",
 	["STEAM_0:0:53629195"] = "William Jack, Exploits/asking for hacks",
-	["STEAM_0:1:43832341"] = "Slyvk, VAC banned, Exploits/asking for hacks",
 	["STEAM_0:1:106804361"] = "AAP Panda, Exploits/asking for hacks",
 	["STEAM_0:1:67929624"] = "Nahuel, VAC banned, Member of hack/troll group: Fuck Vac I Hack, Exploits/asking for hacks, 'I find money exploits in gmod for items'",
 	["STEAM_0:0:72127989"] = "Mech, VAC banned, Exploits/asking for hacks",
