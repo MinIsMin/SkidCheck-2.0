@@ -17,7 +17,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:157810189"] = "DeadMan/WiseMan/TaeganYancey, Stealing files, sv_allowcslua,2x VAC bans,cvar3,23 cheats,Member of snixzz hacking site,2S Ban, Ban Evasion (Alt of STEAM_0:1:38792211)",
+	["STEAM_0:1:38792211"] = "DeadMan/WiseMan/TaeganYancey, Stealing files, sv_allowcslua,2x VAC bans,cvar3,23 cheats,Member of snixzz hacking site,2S Ban, Ban Evasion (Alt STEAM_0:1:157810189)",
+	
 	["STEAM_0:1:43832341"] = "Slyvk, 2x VAC bans, sv_allowcslua bypass,20 cheat scripts,cvar3, Exploits/asking for hacks",
 	["STEAM_0:0:84747760"] = "maksim071204, NooblerScripts,PKMafia Script",
 	["STEAM_0:1:115110567"] = "Angel/Jaydon Catino, sv_allowcslua/sv_cheats bypass, Hera,BlueBot,codinglizard,defcon,precisionbot,reichbot",
@@ -221,7 +223,6 @@ local Skiddies = {
 	["STEAM_0:1:40439202"] = "Hanuko/tunnelsnejks/Troll names, DDoS, VAC banned, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:0:51150658"] = "raeF/jesustheturtle/nFxTricks, 2x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:0:135089594"] = "herres/bonkthebigboi/BigBoi/kebabmeister, Member of snixzz hacking site, Member of hack/troll group: ARMYSIDO, BAN ME FOREVER",
-	["STEAM_0:1:38792211"] = "DeadMan/ineedonlyone/TaeganYancey, 2x VAC bans, Member of snixzz hacking site, 2S: Mapex",
 	["STEAM_0:1:147126271"] = "Corey Fehringer/killaman199, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:121696613"] = "Hauntex/Phoenix/Kraken/theterabyte/Troll names, writing cheats, Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:0:55728528"] = "strazyyy/Troll names, Member of snixzz hacking site, Member of hack/troll group: tabernaclehacking",
