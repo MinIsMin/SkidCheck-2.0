@@ -17,6 +17,15 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:121675057"] = "fgfdes11/fkikiuop, sv_cheats bypass, sasha,SmegHack,Bluebot,defcon,SH,xhack,uSkid,Exploits, Ban Evasion (STEAM_0:0:139169991)",
+	["STEAM_0:0:139169991"] = "fgfdes11/fkikiuop, sv_cheats bypass, sasha,SmegHack,Bluebot,defcon,SH,xhack,uSkid,Exploits, Ban Evasion (Alt of STEAM_0:1:121675057)",
+	
+	["STEAM_0:1:107122088"] = "G612 NoScope/hartkeks101/Ben, VAC banned, Mapex,anxition,defiance,pony,defcon",
+	["STEAM_0:0:122182828"] = "StevenThegod/dgsgsw/steven, Mapex",
+	["STEAM_0:0:71552371"] = "Tyr/s1rsloth/Troll names, sv_allowcslua bypass, AHack,Lennys,Defcon,SmegHack,RONALDHACK,Dynasty,RONALDHACK, Member of troll group: fatkids",
+	["STEAM_0:0:17788567"] = "Reptilian Cousin/Cousin Beans/Troll names",
+	["STEAM_0:0:96663927"] = "suku303/Lasse Kamphausen, Speedhacks, AHack",
+	
 	["STEAM_0:1:157810189"] = "DeadMan/WiseMan/TaeganYancey, Stealing files, sv_allowcslua,2x VAC bans,cvar3,23 cheats,Member of snixzz hacking site,2S Ban, Ban Evasion (Alt of STEAM_0:1:38792211)",
 	["STEAM_0:1:38792211"] = "DeadMan/WiseMan/TaeganYancey, Stealing files, sv_allowcslua,2x VAC bans,cvar3,23 cheats,Member of snixzz hacking site,2S Ban, Ban Evasion (Alt STEAM_0:1:157810189)",
 	
