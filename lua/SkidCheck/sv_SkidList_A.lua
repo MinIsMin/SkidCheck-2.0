@@ -16,7 +16,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:71900473"] = "Cyan/Alex, Backdoor in workshop addon (CustomizableWeaponry_2)",
+	["STEAM_0:1:40676900"] = "Autopilot/justinis235, Backdoor in workshop addon (CustomizableWeaponry_2)",
+	
 	["STEAM_0:1:121675057"] = "fgfdes11/fkikiuop, sv_cheats bypass, sasha,SmegHack,Bluebot,defcon,SH,xhack,uSkid,Exploits, Ban Evasion (STEAM_0:0:139169991)",
 	["STEAM_0:0:139169991"] = "fgfdes11/fkikiuop, sv_cheats bypass, sasha,SmegHack,Bluebot,defcon,SH,xhack,uSkid,Exploits, Ban Evasion (Alt of STEAM_0:1:121675057)",
 	
