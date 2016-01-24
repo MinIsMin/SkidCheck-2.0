@@ -16,6 +16,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:155788065"] = "Mitch/Mitchell_, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot",
 	["STEAM_0:1:71900473"] = "Cyan/Alex, Backdoor in workshop addon (CustomizableWeaponry_2)",
 	["STEAM_0:1:40676900"] = "Autopilot/justinis235, Backdoor in workshop addon (CustomizableWeaponry_2)",
 	
