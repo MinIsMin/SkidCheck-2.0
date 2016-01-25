@@ -16,6 +16,12 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:98834234"] = "Tyler/Troll names",
+	
+	["STEAM_0:1:49185657"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans,BlueBot,trollhook,admitted cheating, Member of troll group: PeopleAgainstFaggots, Ban evasion (3 alts, List_A)",
+	["STEAM_0:0:143455079"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans,BlueBot,trollhook,admitted cheating, Member of troll group: PeopleAgainstFaggots, Ban evasion (3 alts, List_A)",
+	["STEAM_0:1:84261135"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans,BlueBot,trollhook,admitted cheating, Member of troll group: PeopleAgainstFaggots, Ban evasion (3 alts, List_A)",
+	
 	["STEAM_0:1:155788065"] = "Mitch/Mitchell_, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot",
 	["STEAM_0:1:71900473"] = "Cyan/Alex, Backdoor in workshop addon (CustomizableWeaponry_2)",
 	["STEAM_0:1:40676900"] = "Autopilot/justinis235, Backdoor in workshop addon (CustomizableWeaponry_2)",
@@ -160,7 +166,6 @@ local Skiddies = {
 	["STEAM_0:0:83965844"] = "chiken/MtnDew/Troll names, VAC banned, Member of hack/troll groups",
 	["STEAM_0:1:63102957"] = "GubbleBum/Lost, VAC banned, Lennys scripts, Member of hack/troll group: ClannenFag",
 	["STEAM_0:1:39557859"] = "Rintime165, 2x VAC bans",
-	["STEAM_0:1:84261135"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans, admitted cheating, Member of hack/troll group: PeopleAgainstFaggots",
 	["STEAM_0:1:51468409"] = "xMinecraftSkillerHD/robinkonter2k/Robinkonter, 2x VAC bans",
 	["STEAM_0:0:86498008"] = "Angel 7/Anbiguio/biladeirodarkness/Alex Rios Mendonca, Asking for hacks, MPGH, Member of hack/troll group: officialunityhacks, 15 year old skiddie",
 	["STEAM_0:1:67163102"] = "Qwifo/PAK/PRO100Vasiliy, stealing files, BACKDOOR EXPLOITS (gpwn), C++ hacks, exploiting addons, sv_allowcslua bypass, BAN ME FOR ETERNITY",
