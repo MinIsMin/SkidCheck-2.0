@@ -16,6 +16,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:136415774"] = "UnCharted Gamers Jarvis/Jarvis Blaze, Attempted anticheat bypass, 2x VAC bans, BAN ME FOREVER",
+	["STEAM_0:1:61387324"] = "PWasney/IGD Paul, Mapex",
 	["STEAM_0:0:98834234"] = "Tyler/Troll names",
 	
 	["STEAM_0:1:49185657"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans,BlueBot,trollhook,admitted cheating, Member of troll group: PeopleAgainstFaggots, Ban evasion (3 alts, List_A)",
