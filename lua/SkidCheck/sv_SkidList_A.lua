@@ -16,6 +16,11 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:116271858"] = "DEXTRE/ScorpionTheDead/SongMan, sv_allowcslua bypass, defcon aimbot, gmcl_cat_win32.dll, Ban Evasion (Alt of STEAM_0:0:143814585)",
+	["STEAM_0:0:143814585"] = "DEXTRE/ScorpionTheDead/SongMan, sv_allowcslua bypass, defcon aimbot, gmcl_cat_win32.dll, Ban Evasion (STEAM_0:1:116271858)",
+	
+	["STEAM_0:1:39151256"] = "xxtrugz/Jonathon/TNSM/Troll names, AHack,Sethhack",
 	["STEAM_0:0:136415774"] = "UnCharted Gamers Jarvis/Jarvis Blaze, Attempted anticheat bypass, 2x VAC bans, BAN ME FOREVER",
 	["STEAM_0:1:61387324"] = "PWasney/IGD Paul, Mapex",
 	["STEAM_0:0:98834234"] = "Tyler/Troll names",
