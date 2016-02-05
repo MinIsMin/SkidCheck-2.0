@@ -16,6 +16,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:138153096"] = "piloboy21/alexandre, sv_allowcslua bypass,gmcl_cat_win32,FapHack,SH,sasha,SmegHack,defcon,pony",
 	["STEAM_0:0:79310418"] = "buckballs, VAC banned, speedhacks",
 	
 	["STEAM_0:1:116271858"] = "DEXTRE/ScorpionTheDead/SongMan, sv_allowcslua bypass, defcon aimbot, gmcl_cat_win32.dll, Ban Evasion (Alt of STEAM_0:0:143814585)",
