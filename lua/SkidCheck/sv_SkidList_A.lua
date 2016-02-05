@@ -16,6 +16,10 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:159924006"] = "TheFinestSurgeon/MtnDewBunney/Mitchell, Ban evasion (Alt of STEAM_0:0:82154876)",
+	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell/TheFinestSurgeon, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition, Ban evasion (Alt STEAM_0:1:159924006)",
+	
 	["STEAM_0:0:138153096"] = "piloboy21/alexandre, sv_allowcslua bypass,gmcl_cat_win32,FapHack,SH,sasha,SmegHack,defcon,pony",
 	["STEAM_0:0:79310418"] = "buckballs, VAC banned, speedhacks",
 	
@@ -823,7 +827,6 @@ local Skiddies = {
 	["STEAM_0:0:23511506"] = "Philip/getrekttime/codeking1998, 2x VAC bans, AHack, attempted server crash",
 	["STEAM_0:0:42989816"] = "Katock, 3x VAC bans, sv_allowcslua, FMurder,toggle_wallhack,dead_aimbot, Member of hack/troll group: WildNiggas",
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
-	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
 	["STEAM_0:0:67939418"] = "Explicity/BootyPride/HalfBakedWaldo, attempted server crash, friend of cheater 'dakilla345/OJ', BAN ME FOREVER",
 	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
 	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
