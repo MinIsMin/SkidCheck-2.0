@@ -16,7 +16,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:60718546"] = "Ekans/wearnopants/NamoCat/ASSEY/Troll names, Cheating,running hacks, possible alt of Nanocat",
+	
 	["STEAM_0:1:159924006"] = "TheFinestSurgeon/MtnDewBunney/Mitchell, Ban evasion (Alt of STEAM_0:0:82154876)",
 	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell/TheFinestSurgeon, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition, Ban evasion (Alt STEAM_0:1:159924006)",
 	
@@ -3172,7 +3173,10 @@ local Skiddies = {
 	["STEAM_0:1:62310477"] = "2S: AHack",
 	["STEAM_0:1:70919442"] = "2S: sv_allowcslua",
 	["STEAM_0:0:31027248"] = "2S: Aimbot",
-	["STEAM_0:1:42964759"] = "Nanocat/ks_uw, stealing files, VAC banned, nanohack,  ban me",
+	
+	["STEAM_0:1:42964759"] = "Nanocat/ks_uw, stealing files, VAC banned, nanohack, C++ hacks, ban me FOREVER",
+	["STEAM_0:0:57521974"] = "Nanocat/ks_uw alt, stealing files, VAC banned, nanohack, C++ hacks, ban me FOREVER",
+	
 	["STEAM_0:1:39618360"] = "2S: Cheats",
 	["STEAM_0:1:75073952"] = "Hera",
 	["STEAM_0:0:68384794"] = "2S: sv_allowcslua",
@@ -3492,7 +3496,6 @@ local Skiddies = {
 	["STEAM_0:1:2901828"] = "boggle66",
 	["STEAM_0:0:22954333"] = "Skiddie",
 	["STEAM_0:0:39121710"] = "gDaap DB: Lear (Lear)",
-	["STEAM_0:0:57521974"] = "Nanocat alt, ks_uw, nanohack, stealing files, ban me",
 	["STEAM_0:0:31219365"] = "Skiddie",
 	["STEAM_0:0:11799654"] = "SP2: SethHack(edit)",
 	["STEAM_0:1:32979564"] = "SP2: Code injection (Sethhack)",
