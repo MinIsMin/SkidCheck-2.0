@@ -16,6 +16,11 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:38100739"] = "phooniisadime/Troll names, 3x VAC bans, attempted anticheat bypass, Aimbot,inertia,SH",
+	["STEAM_0:0:102851034"] = "Exeption Freakyyy/joghurt115/Troll names, sv_allowcslua bypass, gmcl_cat_win32.dll",
+	["STEAM_0:0:60746227"] = "PoWnY/Kolo, FOUR VAC bans, Mapex",
+	["STEAM_0:1:37943075"] = "matthis33440/matthis ducazeaux, Stealing files, JSP, VAC banned, cvar3,SmegHack",
+	["STEAM_0:0:146086201"] = "jordangame17/Yorudan60/Jordan, Dark Scripts, ShittyScripts, 12 year old",
 	["STEAM_0:0:60718546"] = "Ekans/wearnopants/NamoCat/ASSEY/Troll names, Cheating,running hacks, possible alt of Nanocat",
 	
 	["STEAM_0:1:159924006"] = "TheFinestSurgeon/MtnDewBunney/Mitchell, Ban evasion (Alt of STEAM_0:0:82154876)",
