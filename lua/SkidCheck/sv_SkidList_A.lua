@@ -13,9 +13,9 @@ local Skiddies = {
 
 
 
-
-
-
+	["STEAM_0:1:108995973"] = "Enlichtenddead, AW Hack",
+	["STEAM_0:1:108896997"] = "andys2283, AW Hack",
+	["STEAM_0:1:123778836"] = "Jan Pawel III/Troll names, Troll, BAN ME",
 	["STEAM_0:1:83594418"] = "vibex5, Lennys scripts",
 	["STEAM_0:0:96636343"] = "Hendrik4567, Cracked steam (RevEmu,GreenLuma)",
 	["STEAM_0:0:142787592"] = "Crumbles/Cookie/cookiedebugger, Stealing files, 136 cheat scripts, JSP,BH,Speedhacks,cvar3,Lennys,nospread,Falcos,Dark scripts, BAN ME FOREVER",
@@ -5337,7 +5337,7 @@ local Skiddies = {
 	["STEAM_0:1:17749887"] = "SP2: Baconbot",
 	["STEAM_0:1:76459400"] = "Nox: Speedhacking",
 	["STEAM_0:1:35632189"] = "SSDB: BadRCC",
-	["STEAM_0:1:2057323"] = "King_Czar",
+	["STEAM_0:1:2057323"] = "King_Czar/GOOSE/baubhauba/Troll names, ShittyScripts, Troll, BAN ME",
 	["STEAM_0:1:19457286"] = "Grey Bullet (ThePCGamingGuys)",
 	["STEAM_0:0:47386951"] = "Lennys_Group",
 	["STEAM_0:0:16319183"] = "SP2: Code injection (Sethhack)",
