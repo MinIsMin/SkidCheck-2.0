@@ -13,6 +13,9 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:56102047"] = "Vianney/Laurent Gina/vianney78, Backdoor in workshop addon",
 	["STEAM_0:1:108995973"] = "Enlichtenddead, AW Hack",
 	["STEAM_0:1:108896997"] = "andys2283, AW Hack",
 	["STEAM_0:1:123778836"] = "Jan Pawel III/Troll names, Troll, BAN ME",
@@ -3928,7 +3931,7 @@ local Skiddies = {
 	["STEAM_0:0:14084529"] = "SethHack",
 	["STEAM_0:0:34483728"] = "SP2: Code injection (Sethhack)",
 	["STEAM_0:1:19807342"] = "mare",
-	["STEAM_0:0:80088445"] = "trollaux, permaban me",
+	["STEAM_0:0:80088445"] = "trollaux, huge cheater, troll, BAN ME FOREVER",
 	["STEAM_0:1:39737468"] = "SSDB: BadMetatable",
 	["STEAM_0:0:45250716"] = "mtm96",
 	["STEAM_0:0:44719051"] = "Skiddie",
