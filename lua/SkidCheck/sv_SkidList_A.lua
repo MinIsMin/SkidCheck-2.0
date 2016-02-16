@@ -17,6 +17,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:33685014"] = "Whale Tits/Troll names, DDoS, VAC banned, Member of hack/troll group: poki, BAN ME FOREVER",
+	["STEAM_0:0:85226505"] = "Break0ut, Stealing files, attempted crash, Nospread,JSP,cvar3,Shitty/DarkScripts,Falcos,Lennys,PKMafia, Member of hack/troll group: PropkillMafia",
 	["STEAM_0:0:58696330"] = "Miss Muffet/Muffet, DarkScripts",
 	
 	["STEAM_0:0:28478760"] = "Aslan/MaiKawasumi/Axel1337/Troll names, 2x VAC bans, troll, Falcos,DarkScripts,ShittyScripts,Gravko, propkiller, 2S: Unknown hack",
