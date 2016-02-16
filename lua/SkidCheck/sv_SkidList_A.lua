@@ -15,6 +15,11 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:20046983"] = "dannelorg/Dan/DannelorGy, backdoor in workshop addon (BD018_AfterShock_Gaming)",
+	["STEAM_0:1:54591765"] = "Looz/Chatterbox, VAC banned, backdoor in workshop addon (BD018_AfterShock_Gaming), Member of troll group: ThunderCuntMingeSquad",
+	["STEAM_0:0:26625390"] = "David Katz/MCiLuZiioNz/doctorjew, VAC banned, backdoor in workshop addon (BD018_AfterShock_Gaming)",
+	["STEAM_0:1:106291370"] = "calenn/Domantas/Troll names, Troll, BAN ME",
 	["STEAM_0:1:56102047"] = "Vianney/Laurent Gina/vianney78, Backdoor in workshop addon",
 	["STEAM_0:1:108995973"] = "Enlichtenddead, AW Hack",
 	["STEAM_0:1:108896997"] = "andys2283, AW Hack",
