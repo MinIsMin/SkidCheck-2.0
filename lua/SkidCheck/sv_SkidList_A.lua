@@ -16,6 +16,14 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:58696330"] = "Miss Muffet/Muffet, DarkScripts",
+	
+	["STEAM_0:0:28478760"] = "Aslan/MaiKawasumi/Axel1337/Troll names, 2x VAC bans, troll, Falcos,DarkScripts,ShittyScripts,Gravko, propkiller, 2S: Unknown hack",
+	["STEAM_0:1:3987728"] = "Aslan/MaiKawasumi/Axel1337/Troll names alt, 2x VAC bans, troll, Falcos,DarkScripts,ShittyScripts,Gravko, propkiller, 2S: Unknown hack",
+	
+	["STEAM_0:0:88532441"] = "JynxxD/jynxxm8/Troll names, Mapex,Falcos,Speedhacks,Dark/Parallax/jynxx scripts,Propkiller, Member of hack/troll group: PropKillersGG",
+	["STEAM_0:1:98633573"] = "Renat546/PEHAT, AW Hack",
 	["STEAM_0:1:20046983"] = "dannelorg/Dan/DannelorGy, backdoor in workshop addon (BD018_AfterShock_Gaming)",
 	["STEAM_0:1:54591765"] = "Looz/Chatterbox, VAC banned, backdoor in workshop addon (BD018_AfterShock_Gaming), Member of troll group: ThunderCuntMingeSquad",
 	["STEAM_0:0:26625390"] = "David Katz/MCiLuZiioNz/doctorjew, VAC banned, backdoor in workshop addon (BD018_AfterShock_Gaming)",
@@ -2320,7 +2328,10 @@ local Skiddies = {
 	["STEAM_0:0:31991429"] = "Skiddie",
 	["STEAM_0:1:76481120"] = "gDaap DB: Alecgrecify (lWGl spec)",
 	["STEAM_0:0:53234320"] = "2S: Mapex",
-	["STEAM_0:0:58954980"] = "Shpped",
+	
+	["STEAM_0:0:58954980"] = "Shpped/Sondre, Attempted RCON access, Ban evasion (Alt STEAM_0:0:98006363)",
+	["STEAM_0:0:98006363"] = "Shpped/Sondre alt, Attempted RCON access, Ban evasion (Alt of STEAM_0:0:58954980)",
+	
 	["STEAM_0:0:41970918"] = "2S: Aimbot",
 	["STEAM_0:0:56452773"] = "sv_allowcslua, 2S: BHop script",
 	["STEAM_0:0:37832583"] = "LESP",
@@ -6370,8 +6381,6 @@ local Skiddies = {
 	["STEAM_0:0:49660408"] = "Garry Nelson, Mapex,AHack, Ban Evasion (STEAM_0:1:89001107)",
 	["STEAM_0:0:17488508"] = "CBC Golden Microdisease/mint/glump, stealing files, Sethhack, Skiddie",
 	["STEAM_0:1:39971225"] = "2S: AHack",
-	["STEAM_0:0:28478760"] = "Aslan/MaiKawasumi/Axel1337/Troll names, 2x VAC bans, troll, skiddie, propkiller, 2S: Unknown hack",
-	["STEAM_0:1:3987728"] = "Aslan/MaiKawasumi/Axel1337/Troll names alt, 2x VAC bans, troll, skiddie, propkiller, 2S: Unknown hack",
 	["STEAM_0:1:18655301"] = "Skiddie",
 	["STEAM_0:1:75664275"] = "Dismay (stealing files), 2S: Mapex, ban me",
 	["STEAM_0:1:29473782"] = "JABJAB",
