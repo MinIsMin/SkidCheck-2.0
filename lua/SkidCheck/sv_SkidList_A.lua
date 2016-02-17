@@ -21,8 +21,8 @@ local Skiddies = {
 	["STEAM_0:0:85226505"] = "Break0ut, Stealing files, attempted crash, Nospread,JSP,cvar3,Shitty/DarkScripts,Falcos,Lennys,PKMafia, Member of hack/troll group: PropkillMafia",
 	["STEAM_0:0:58696330"] = "Miss Muffet/Muffet, DarkScripts",
 	
-	["STEAM_0:0:28478760"] = "Aslan/MaiKawasumi/Axel1337/Troll names, 2x VAC bans, troll, Falcos,DarkScripts,ShittyScripts,Gravko, propkiller, 2S: Unknown hack",
-	["STEAM_0:1:3987728"] = "Aslan/MaiKawasumi/Axel1337/Troll names alt, 2x VAC bans, troll, Falcos,DarkScripts,ShittyScripts,Gravko, propkiller, 2S: Unknown hack",
+	["STEAM_0:0:28478760"] = "MaiKawasumi/Axel1337/Troll names, 2x VAC bans, troll, Falcos,DarkScripts,ShittyScripts,Gravko, propkiller, 2S: Unknown hack",
+	["STEAM_0:1:3987728"] = "MaiKawasumi/Axel1337/Troll names alt, 2x VAC bans, troll, Falcos,DarkScripts,ShittyScripts,Gravko, propkiller, 2S: Unknown hack",
 	
 	["STEAM_0:0:88532441"] = "JynxxD/jynxxm8/Troll names, Mapex,Falcos,Speedhacks,Dark/Parallax/jynxx scripts,Propkiller, Member of hack/troll group: PropKillersGG",
 	["STEAM_0:1:98633573"] = "Renat546/PEHAT, AW Hack",
@@ -42,7 +42,10 @@ local Skiddies = {
 	["STEAM_0:1:158378753"] = "John Reese/CakeRP/cookierp, asking for hacks",
 	["STEAM_0:1:42844056"] = "Bjoern90/bjorn tonnesen, asking for hacks",
 	["STEAM_0:1:38849150"] = "scraatch/Erick/Troll names, sv_allowcslua bypass,2x VAC bans, 7 cheats,FESP,Propkiller, Member of 8 hack/troll groups",
+	
+	["STEAM_0:0:73449809"] = "Boris Polis/iamyour/Dim4s/PolisNature alt, Attempted anticheat bypass, VAC banned, asking for hacks, MPGH, Member of hack/troll group: 7-Sky",
 	["STEAM_0:1:58468379"] = "Boris Polis/iamyour/Dim4s/PolisNature, Attempted anticheat bypass, VAC banned, asking for hacks, MPGH, Member of hack/troll group: 7-Sky",
+	
 	["STEAM_0:0:38100739"] = "phooniisadime/Troll names, 3x VAC bans, attempted anticheat bypass, Aimbot,inertia,SH, likely alt of Phoon",
 	["STEAM_0:0:102851034"] = "Exeption Freakyyy/joghurt115/Troll names, sv_allowcslua bypass, gmcl_cat_win32.dll",
 	["STEAM_0:0:60746227"] = "PoWnY/Kolo, FOUR VAC bans, Mapex",
