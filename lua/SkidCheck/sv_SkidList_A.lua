@@ -19,6 +19,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:69942914"] = "olas2002/kamils2001, SmoothAimScript",
 	["STEAM_0:0:40106175"] = "Casia/casiavanya/BADASS/Cultist Turtleist, MPGH",
 	["STEAM_0:0:53951831"] = "christ-chan/Dr Skeltal/MrSkeltalSr/Troll names, VAC banned, MPGH",
 	["STEAM_0:0:49598803"] = "Wiz Khalifa/finniebox/Finn/coelenjoenen, C++ hacks, VAC banned, MPGH",
