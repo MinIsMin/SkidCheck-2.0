@@ -17,6 +17,12 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:40106175"] = "Casia/casiavanya/BADASS/Cultist Turtleist, MPGH",
+	["STEAM_0:0:53951831"] = "christ-chan/Dr Skeltal/MrSkeltalSr/Troll names, VAC banned, MPGH",
+	["STEAM_0:0:49598803"] = "Wiz Khalifa/finniebox/Finn/coelenjoenen, C++ hacks, VAC banned, MPGH",
+	["STEAM_0:1:114007217"] = "4ngel/massivefatcock/hazza72, Member of hack/troll group: MPGH",
 	["STEAM_0:1:33685014"] = "Whale Tits/Troll names, DDoS, VAC banned, Member of hack/troll group: poki, BAN ME FOREVER",
 	["STEAM_0:0:85226505"] = "Break0ut, Stealing files, attempted crash, Nospread,JSP,cvar3,Shitty/DarkScripts,Falcos,Lennys,PKMafia, Member of hack/troll group: PropkillMafia",
 	["STEAM_0:0:58696330"] = "Miss Muffet/Muffet, DarkScripts",
@@ -730,7 +736,7 @@ local Skiddies = {
 	["STEAM_0:0:40474879"] = "BENDO/Jeezy, 2x VAC bans",
 	["STEAM_0:1:70239499"] = "SPVT NIKK_KILLER, Mapex, AHack, VAC banned",
 	["STEAM_0:1:112789937"] = "RaikizPro, DDoS threat",
-	["STEAM_0:1:49002548"] = "spawnkilla98/Zanehood/Troll names, VAC banned, Member of hack/troll group: complimentmyvacban, MPGH",
+	["STEAM_0:1:49002548"] = "spawnkilla98/Zane Hood/CODfan3221/Troll names, VAC banned, Member of hack/troll group: complimentmyvacban, Posting hacks on MPGH",
 	["STEAM_0:0:50378334"] = "Miffo/miffo15/Troll names, sv_cheats, VAC banned, copypasted baconbot",
 	["STEAM_0:1:61681502"] = "Haroon/MonsieurLaCrepe/Jordan/suckurmudda, Mapex, VAC banned, 2S: Mapex",
 	["STEAM_0:1:53391542"] = "DeLiGiT/delight, Aimbot, Member of hack/troll group: DLGT",
