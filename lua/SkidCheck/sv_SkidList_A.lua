@@ -19,6 +19,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:160073439"] = "SlaxzHD/677555/jimmy, sv_allowcslua bypass, gmcl_cat_win32.dll,SmegHack,defcon aimbot,BridgeHack",
+	["STEAM_0:1:91109350"] = "Pink Guy/Akhmed/Jake, Stealing files, smeghack,ShittyScripts,nospread,cvar3,SH",
 	["STEAM_0:1:69942914"] = "olas2002/kamils2001, SmoothAimScript",
 	["STEAM_0:0:40106175"] = "Casia/casiavanya/BADASS/Cultist Turtleist, MPGH",
 	["STEAM_0:0:53951831"] = "christ-chan/Dr Skeltal/MrSkeltalSr/Troll names, VAC banned, MPGH",
