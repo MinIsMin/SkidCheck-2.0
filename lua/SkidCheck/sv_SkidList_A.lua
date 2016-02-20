@@ -719,7 +719,10 @@ local Skiddies = {
 	["STEAM_0:0:69784311"] = "Scorn/huskerbooty, VAC banned, Lennys",
 	["STEAM_0:1:68338662"] = "BONUS DUCKS XD, Lennys",
 	["STEAM_0:0:97717172"] = "ticklishpicklewickle, Lennys",
-	["STEAM_0:0:76031579"] = "Cvaxbull/tnt93dale/IPH Cheese/alwayschangingmyname, Lennys",
+	
+	["STEAM_0:1:75145332"] = "Cvaxbull/tnt93dale/IPH Cheese/alwayschangingmyname, VAC banned, Lennys, Ban evasion (Alt of STEAM_0:0:76031579)",
+	["STEAM_0:0:76031579"] = "Cvaxbull/tnt93dale/IPH Cheese/alwayschangingmyname, Lennys, Ban evasion (Alt STEAM_0:1:75145332)",
+	
 	["STEAM_0:1:83137368"] = "Onii Chan is Senpai, Lennys",
 	["STEAM_0:0:24308736"] = "Niff, Lennys",
 	["STEAM_0:0:39707658"] = "Horace Wimp, Lennys",
