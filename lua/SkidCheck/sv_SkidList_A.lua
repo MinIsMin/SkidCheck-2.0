@@ -19,6 +19,10 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:128809866"] = "Kid/Randy/Troll names, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (Alt of STEAM_0:0:55614311)",
+	["STEAM_0:0:55614311"] = "Kid/Randy/Troll names, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (STEAM_0:0:128809866)",
+	
 	["STEAM_0:1:39674563"] = "Leo5gg, VAC banned, propkiller, Member of hack/troll group: eupk",
 	["STEAM_0:0:160073439"] = "SlaxzHD/677555/jimmy, sv_allowcslua bypass, gmcl_cat_win32.dll,SmegHack,defcon aimbot,BridgeHack",
 	["STEAM_0:1:91109350"] = "Pink Guy/Akhmed/Jake, Stealing files, smeghack,ShittyScripts,nospread,cvar3,SH",
