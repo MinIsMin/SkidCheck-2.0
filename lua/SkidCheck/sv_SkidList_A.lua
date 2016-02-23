@@ -18,10 +18,13 @@ local Skiddies = {
 
 
 
-
-
-	["STEAM_0:0:128809866"] = "Kid/Randy/Troll names, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (Alt of STEAM_0:0:55614311)",
-	["STEAM_0:0:55614311"] = "Kid/Randy/Troll names, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (STEAM_0:0:128809866)",
+	["STEAM_0:0:67100462"] = "Mutum/Mort/777mort777, Member of 3 hack/troll groups: hduaihduiwahh2111,supremefaggots,Letsraidgmodservers",
+	["STEAM_0:0:75205071"] = "GalaxyAwaken/justsayinjesus/Troll names, DDoS threats, idiot",
+	
+	["STEAM_0:1:162738267"] = "Kid/Randy/Troll names alt 3, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (Alt of STEAM_0:0:55614311)",
+	["STEAM_0:1:113173785"] = "Kid/Randy/Troll names alt 2, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (Alt of STEAM_0:0:55614311)",
+	["STEAM_0:0:128809866"] = "Kid/Randy/Troll names alt 1, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (Alt of STEAM_0:0:55614311)",
+	["STEAM_0:0:55614311"] = "Kid/Randy/Troll names, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (3 alts, List_A)",
 	
 	["STEAM_0:1:39674563"] = "Leo5gg, VAC banned, propkiller, Member of hack/troll group: eupk",
 	["STEAM_0:0:160073439"] = "SlaxzHD/677555/jimmy, sv_allowcslua bypass, gmcl_cat_win32.dll,SmegHack,defcon aimbot,BridgeHack",
