@@ -18,6 +18,9 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:67742700"] = "Splerge/Spencer/2014shiggydig, Admitted hacking, Member of hack/troll group: ididnothither",
 	["STEAM_0:0:67100462"] = "Mutum/Mort/777mort777, Member of 3 hack/troll groups: hduaihduiwahh2111,supremefaggots,Letsraidgmodservers",
 	["STEAM_0:0:75205071"] = "GalaxyAwaken/justsayinjesus/Troll names, DDoS threats, idiot",
 	
@@ -1147,7 +1150,7 @@ local Skiddies = {
 	["STEAM_0:1:2115760"] = "j, Skiddie",
 	["STEAM_0:1:73027696"] = "Ray Ray, Skiddie",
 	["STEAM_0:0:13541"] = "0x/lazyness/hxzc/'evil hex'/Troll names, 'I'm da master of all cheaters', member of cheating groups",
-	["STEAM_0:1:55608548"] = "meharryp, 'Tbh the only thing I've been coding outside of scriptfodder is shitty Lua hacks'",
+	["STEAM_0:1:55608548"] = "meharryp, Admitted hacking, 'Tbh the only thing I've been coding outside of scriptfodder is shitty Lua hacks'",
 	["STEAM_0:1:110286191"] = "mrsuperunknown/Unknown Gamer, admitted to stealing files",
 	["STEAM_0:0:84796290"] = "mrsuperunknown/Unknown Gamer, admitted to stealing files",
 	["STEAM_0:0:67232605"] = "Troll names, Member of hack/troll groups, BAN ME FOREVER",
