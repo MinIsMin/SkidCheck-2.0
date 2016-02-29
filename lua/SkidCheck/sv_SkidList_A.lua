@@ -20,6 +20,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:21704354"] = "adventdawns, Member of hack/troll groups: tearnliquid-pro, bigmemers",
 	["STEAM_0:1:67742700"] = "Splerge/Spencer/2014shiggydig, Admitted hacking, Member of hack/troll group: ididnothither",
 	["STEAM_0:0:67100462"] = "Mutum/Mort/777mort777, Member of 3 hack/troll groups: hduaihduiwahh2111,supremefaggots,Letsraidgmodservers",
 	["STEAM_0:0:75205071"] = "GalaxyAwaken/justsayinjesus/Troll names, DDoS threats, idiot",
