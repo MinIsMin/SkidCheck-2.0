@@ -19,7 +19,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:69527423"] = "Aireesan/therealaireesan/Troll names, Stealing files, C++ hacks, lua bypass, Hera",
+	["STEAM_0:0:24308736"] = "Niff/infinityencoder/Doge, Lennys scripts",
+	["STEAM_0:0:157241525"] = "zakowski9999, Jynxx Script,SRSkill",
 	["STEAM_0:0:21704354"] = "adventdawns, Member of hack/troll groups: tearnliquid-pro, bigmemers",
 	["STEAM_0:1:67742700"] = "Splerge/Spencer/2014shiggydig, Admitted hacking, Member of hack/troll group: ididnothither",
 	["STEAM_0:0:67100462"] = "Mutum/Mort/777mort777, Member of 3 hack/troll groups: hduaihduiwahh2111,supremefaggots,Letsraidgmodservers",
@@ -738,7 +740,6 @@ local Skiddies = {
 	["STEAM_0:0:76031579"] = "Cvaxbull/tnt93dale/IPH Cheese/alwayschangingmyname, Lennys, Ban evasion (Alt STEAM_0:1:75145332)",
 	
 	["STEAM_0:1:83137368"] = "Onii Chan is Senpai, Lennys",
-	["STEAM_0:0:24308736"] = "Niff, Lennys",
 	["STEAM_0:0:39707658"] = "Horace Wimp, Lennys",
 	["STEAM_0:1:80156659"] = "Infinity, Lennys",
 	["STEAM_0:0:64406639"] = "CG Crazykid33, Lennys",
