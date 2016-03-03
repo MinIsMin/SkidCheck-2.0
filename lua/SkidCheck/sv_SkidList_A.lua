@@ -19,6 +19,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:70826"] = "dreihunna/@@@@/Troll names, MPGH, Member of 10 hack/troll groups, BAN ME",
 	["STEAM_0:0:69527423"] = "Aireesan/therealaireesan/Troll names, Stealing files, C++ hacks, lua bypass, Hera",
 	["STEAM_0:0:24308736"] = "Niff/infinityencoder/Doge, Lennys scripts",
 	["STEAM_0:0:157241525"] = "zakowski9999, Jynxx Script,SRSkill",
@@ -135,7 +136,7 @@ local Skiddies = {
 	["STEAM_0:0:30632194"] = "IrZipher, SteamID spoofing, VAC Banned, MPGH, Member of hack/troll group: h8ogniK",
 	["STEAM_0:1:79524916"] = "NewondeR/Cem/byckorjinal/Johan Sins/SirPrime, VAC banned, attempted anticheat bypass",
 	["STEAM_0:0:69004763"] = "RollDan/rolldansk, AHack",
-	["STEAM_0:0:89574677"] = "Stan/stan369/Troll names, SteamID spoofing, VAC banned, attempted server crashing, MPGH",
+	["STEAM_0:0:89574677"] = "Stan/stan369/Troll names, SteamID spoofing, VAC banned, attempted server crashing, MPGH, BAN ME FOREVER",
 	["STEAM_0:0:123921822"] = "Haza212/spork, Dark scripts, ShittyScripts",
 	["STEAM_0:1:51042236"] = "OM SuperOllieWorld/Oliver Richardson, VAC banned, Lennys scripts",
 	["STEAM_0:0:104846705"] = "Thunderkunts ReaperHD/tehgr8sakau/Dr.DeathdefiyingHD, Lennys scripts",
@@ -4461,7 +4462,7 @@ local Skiddies = {
 	["STEAM_0:0:48289801"] = "Spawn",
 	["STEAM_0:0:8345987"] = "SP2: Unknown",
 	["STEAM_0:0:10713231"] = "SP2: Code injection (Sethhack)",
-	["STEAM_0:1:73426095"] = "Kami/Kirby/Troll names, 4x VAC bans, 2S: BlueBot, BAN ME FOREVER",
+	["STEAM_0:1:73426095"] = "Kami/Luke/Kirby/Troll names, 5x VAC bans, 2S: BlueBot, BAN ME FOREVER",
 	["STEAM_0:0:17711590"] = "Mr Eazy",
 	["STEAM_0:0:36250162"] = "Blackops.cfg",
 	["STEAM_0:0:43688624"] = "Blackops.cfg",
