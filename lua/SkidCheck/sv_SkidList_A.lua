@@ -19,8 +19,9 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:67122051"] = "dael72, SRSkill scripts",
 	["STEAM_0:0:70826"] = "dreihunna/@@@@/Troll names, MPGH, Member of 10 hack/troll groups, BAN ME",
-	["STEAM_0:0:69527423"] = "Aireesan/therealaireesan/Troll names, Stealing files, C++ hacks, lua bypass, Hera",
+	["STEAM_0:0:69527423"] = "Aireesan/therealaireesan/Fiiily/Troll names, Stealing files, C++ hacks, lua bypass, Hera",
 	["STEAM_0:0:24308736"] = "Niff/infinityencoder/Doge, Lennys scripts",
 	["STEAM_0:0:157241525"] = "zakowski9999, Jynxx Script,SRSkill",
 	["STEAM_0:0:21704354"] = "adventdawns, Member of hack/troll groups: tearnliquid-pro, bigmemers",
@@ -351,7 +352,7 @@ local Skiddies = {
 	["STEAM_0:1:75531"] = "Neri/nerihax/joey salads/Troll names, Member of snixzz hacking site, Member of hack/troll group: SEGAwarfare",
 	["STEAM_0:0:125833142"] = "fl0w, Member of snixzz hacking site",
 	["STEAM_0:0:65413233"] = "Fluffeh/Mr. Farty McFarticuss, Member of snixzz hacking site, Member of 4 hack/troll groups",
-	["STEAM_0:0:134501538"] = "bredcrumbz/whitesharpie/Tom/Troll names, Member of snixzz hacking site, Writing hacks, Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:134501538"] = "bredcrumbz/whitesharpie/Tom/Mokushiroku/Troll names,snixzz hacking site,Writing hacks,propkiller,Member of hack/troll group: stealthyfuckers, BAN ME",
 	["STEAM_0:0:40942351"] = "Shadow/NovaTeamer, Hera, Member of snixzz hacking site, Member of 14 hack/troll groups, DDoS",
 	["STEAM_0:1:117548645"] = "Invisible name, Member of snixzz hacking site, ban me",
 	["STEAM_0:1:49923007"] = "Nizzl/Ryan Proshack, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
@@ -4329,7 +4330,6 @@ local Skiddies = {
 	["STEAM_0:1:50246362"] = "Lennys_Group",
 	["STEAM_0:0:1462964"] = "Skiddie",
 	["STEAM_0:0:16458788"] = "Helix",
-	["STEAM_0:1:24101589"] = "Drocsid",
 	["STEAM_0:0:82573724"] = "gDaap DB: Mazzimo (Mazzimo)",
 	["STEAM_0:1:33362072"] = "Lennys_Group",
 	["STEAM_0:0:19293437"] = "SP2: Code injection (Sethhack)",
@@ -5783,7 +5783,11 @@ local Skiddies = {
 	["STEAM_0:0:5100034"] = "SP2: Unknown",
 	["STEAM_0:1:15847137"] = "2S: AHack",
 	["STEAM_0:1:50025011"] = "Sir Fluffed, Mapex,Hera",
-	["STEAM_0:1:79762836"] = "Alt of STEAM_0:1:24101589",
+	
+	["STEAM_0:1:5897"] = "Discord/Drocsid/Holz/Adonic, Stealing files,Writing hacks,Sethhack,Attempted AC bypass, Ban evasion (Alt STEAM_0:1:24101589)",
+	["STEAM_0:1:79762836"] = "Discord/Drocsid/Holz/Adonic, Stealing files,Writing hacks,Sethhack,Attempted AC bypass, Ban evasion (Alt STEAM_0:1:24101589)",
+	["STEAM_0:1:24101589"] = "Discord/Drocsid/Holz/Adonic, Stealing files,Writing hacks,Sethhack,Attempted AC bypass, Ban evasion (Alt STEAM_0:1:79762836)",
+	
 	["STEAM_0:1:41423673"] = "Charming im sure No sound, Mapex",
 	["STEAM_0:0:27960330"] = "Falcos",
 	["STEAM_0:1:45998172"] = "[JellyNation] Ness (hera)",
