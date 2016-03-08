@@ -1242,6 +1242,7 @@ local Skiddies = {
 	["STEAM_0:0:37633127"] = "NIN, hacks",
 	["STEAM_0:1:21125463"] = "Mike/h0p3l355, hacks",
 	
+	["STEAM_0:1:55079621"] = "Star1/okie/Leystryku alt, DDoS, VAC banned, Hera",
 	["STEAM_0:0:42194705"] = "Leystryku, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
 	["STEAM_0:0:101348488"] = "Leystryku new, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
 	["STEAM_0:0:83376334"] = "Leystryku, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
@@ -4598,7 +4599,6 @@ local Skiddies = {
 	["STEAM_0:0:30599736"] = "AUSTENxTHExNINJA",
 	["STEAM_0:1:15671127"] = "Skiddie",
 	["STEAM_0:0:68371474"] = "Troll/Hacks",
-	["STEAM_0:1:55079621"] = "Star1, Hera",
 	["STEAM_0:0:34620850"] = "edbaxley",
 	["STEAM_0:0:83575122"] = "2S: Lenny",
 	["STEAM_0:0:26492128"] = "2S: Unknown hack",
