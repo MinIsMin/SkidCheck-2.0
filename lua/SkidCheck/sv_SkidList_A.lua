@@ -19,6 +19,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:42257098"] = "Masson/masont50, MPGH, using hacks, Member of hack/troll group: ARMYSIDO",
 	["STEAM_0:1:118352415"] = "sappily1/Cory French/newbcraft/Troll names, admitted stealing files, VAC banned, MPGH, Member of 3 hack/troll groups",
 	["STEAM_0:1:67605440"] = "TheSilentBoot/Gregg, VAC banned, MPGH",
 	["STEAM_0:1:67122051"] = "dael72, SRSkill scripts",
