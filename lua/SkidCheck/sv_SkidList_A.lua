@@ -18,7 +18,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:64336684"] = "thedankmaymay/Felix/Troll names, Member of hack/troll group: nigge_rs, BAN ME FOREVER",
+	["STEAM_0:0:72457577"] = "g-modder/Frobro3.0, 2x VAC bans, Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:0:105904279"] = "Hectic, AW Hack",
 	["STEAM_0:0:5236318"] = "Supreme/supremecheats/MrLethalVids/Troll names, VAC banned, C++ hacks, Member of hack/troll group: antibirusnet",
 	["STEAM_0:1:58825993"] = "Mark/tamsakeer/lipothegreat, MPGH, admitted hacking, Member of hack/troll group: ididnothither",
