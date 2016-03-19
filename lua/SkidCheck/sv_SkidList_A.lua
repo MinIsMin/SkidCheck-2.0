@@ -16,8 +16,10 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, Member of snixzz hacking site, Member of hack/troll group: MPGH",
+	["STEAM_0:0:50861534"] = "venom0us/noimnotacrackaddict, 3x VAC bans, Member of snixzz hacking site",
+	["STEAM_0:1:55079621"] = "Star1/okie/Leystryku alt, DDoS, VAC banned, Hera, Member of snixzz hacking site, BAN ME FOREVER",
+	["STEAM_0:0:102250807"] = "Clamp/Deimos, cvar3,multihack",
 	["STEAM_0:1:64336684"] = "thedankmaymay/Felix/Troll names, Member of hack/troll group: nigge_rs, BAN ME FOREVER",
 	["STEAM_0:0:72457577"] = "g-modder/Frobro3.0, 2x VAC bans, Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:0:105904279"] = "Hectic, AW Hack",
@@ -405,7 +407,6 @@ local Skiddies = {
 	
 	["STEAM_0:0:93519566"] = "pepperscodegod/Neko/Troll names, Member of hack/troll group: pasters",
 	["STEAM_0:1:2167449"] = "Invisible name/sleaze_/staral_sperm, Member of snixzz hacking site, Member of hack/troll group: n9neeleven",
-	["STEAM_0:1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, Member of hack/troll group: MPGH",
 	["STEAM_0:0:42729462"] = "Liquid Obsidian/liquidobsidian/Seth/Sethxi/Troll names, VAC banned, Member of hack/troll group: VACBINS",
 	["STEAM_0:1:48034246"] = "Happy99/JeremyID3, Member of snixzz hacking site, Troll",
 	["STEAM_0:1:64829570"] = "fuck707/Troll names, VAC banned, Member of snixzz hacking site, Member of hack/troll group: complimentmyvacban",
@@ -1197,6 +1198,7 @@ local Skiddies = {
 	["STEAM_0:0:693787"] = "Ilya/sophresh, VAC banned, cheats",
 	["STEAM_0:0:122556442"] = "Thatguy12, VAC banned, troll names",
 	
+	["STEAM_0:1:87863773"] = "Tyler/snixzz/0xymoron, writing & giving away many hacks, 2x VAC bans, running hack site, troll, BAN ME FOREVER",
 	["STEAM_0:0:48926883"] = "Tyler/snixzz/0xymoron, writing & giving away many hacks, 2x VAC bans, running hack site, troll, BAN ME FOREVER",
 	["STEAM_0:0:85580722"] = "Tyler/snixzz/0xymoron, writing & giving away many hacks, 2x VAC bans, running hack site, troll, BAN ME FOREVER",
 	["STEAM_0:0:48937510"] = "Tyler/snixzz/0xymoron, writing & giving away many hacks, 2x VAC bans, running hack site, troll, BAN ME FOREVER",
@@ -1249,7 +1251,6 @@ local Skiddies = {
 	["STEAM_0:0:37633127"] = "NIN, hacks",
 	["STEAM_0:1:21125463"] = "Mike/h0p3l355, hacks",
 	
-	["STEAM_0:1:55079621"] = "Star1/okie/Leystryku alt, DDoS, VAC banned, Hera",
 	["STEAM_0:0:42194705"] = "Leystryku, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
 	["STEAM_0:0:101348488"] = "Leystryku new, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
 	["STEAM_0:0:83376334"] = "Leystryku, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
