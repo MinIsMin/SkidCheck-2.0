@@ -18,6 +18,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:144501674"] = "pharaoh200zzzzzz/PIKA/PHARAOH/Hecz, AHack, Mapex",
 	["STEAM_0:1:149245518"] = "highwindspeeds/Kerp/Troll names, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:26244933"] = "Verideth/Troll names, C++ hacks, writing cheats, MPGH",
 	["STEAM_0:1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, Member of snixzz hacking site, Member of hack/troll group: MPGH",
