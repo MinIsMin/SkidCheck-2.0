@@ -16,6 +16,10 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:149245518"] = "highwindspeeds/Kerp/Troll names, VAC banned, Member of snixzz hacking site",
+	["STEAM_0:1:26244933"] = "Verideth/Troll names, C++ hacks, writing cheats, MPGH",
 	["STEAM_0:1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, Member of snixzz hacking site, Member of hack/troll group: MPGH",
 	["STEAM_0:0:50861534"] = "venom0us/noimnotacrackaddict, 3x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:1:55079621"] = "Star1/okie/Leystryku alt, DDoS, VAC banned, Hera, Member of snixzz hacking site, BAN ME FOREVER",
@@ -219,7 +223,6 @@ local Skiddies = {
 	["STEAM_0:0:82569863"] = "I 3 Red Chair/iloveredhair/TomasTosecky, VAC banned, Backdoor/Exploit in workshop addon, giving himself superadmin, Ban evasion (Alt STEAM_0:0:49679575)",
 	["STEAM_0:0:49679575"] = "I 3 Red Chair/iloveredhair/TomasTosecky, VAC banned, Backdoor/Exploit in workshop addon, giving himself superadmin, Ban evasion (Alt of STEAM_0:0:82569863)",
 	
-	["STEAM_0:1:152731847"] = "kalis0/kals0/Troll names, admitted hacking, troll, ban me",
 	["STEAM_0:1:46940901"] = "RuneGalin/Michel AckerPaquin/NEKSTGENMEMER, Member of hack/troll group: powershells",
 	["STEAM_0:0:72930439"] = "Common Pepe/Mr.WiJ/wijies/UltimateBoss12345, BlueBot,elebot,Mapex,dead_aimbot,ShittyScripts",
 	["STEAM_0:1:93493581"] = "sasha gray/alex mercer, AHack",
@@ -1079,6 +1082,7 @@ local Skiddies = {
 	["STEAM_0:0:58223149"] = "Deyron, Hera,AHack,Sasha hack",
 	["STEAM_0:1:33966080"] = "Vorox Goodman/Afroman/pierremitou/sirvolmog, Backdoor/Exploits in addons (sv_purge,voroxwep,mayordeathdemote)",
 	
+	["STEAM_0:1:152731847"] = "kalis0/kals0/cdriza, stealing & leaking files,C++ hacks,VAC bans,Member of snixzz hacking site,skid,2S ban, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
 	["STEAM_0:0:155906673"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,Member of snixzz hacking site,skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
 	["STEAM_0:1:125274704"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,Member of snixzz hacking site,skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
 	["STEAM_0:0:136834592"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,Member of snixzz hacking site,skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
