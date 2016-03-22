@@ -18,6 +18,9 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:154504370"] = "Steve/olsteve/steve buscemi, Writing & releasing hacks (SRSscript), troll, Member of snixzz hacking site, BAN ME FOREVER",
+	["STEAM_0:1:62467177"] = "empty/el_leet/Dmitriy/Troll names, DDoS attack, STEALING FILES, C++ hacks, propkiller,nanohack, BAN ME FOREVER",
+	["STEAM_0:1:160878638"] = "Eric ANDRE/erichandre, STEALING FILES, sv_allowcslua bypass, nospread,amplify,Mapex,propkiller,Falcos,MythX",
 	["STEAM_0:0:144501674"] = "pharaoh200zzzzzz/PIKA/PHARAOH/Hecz, AHack, Mapex",
 	["STEAM_0:1:149245518"] = "highwindspeeds/Kerp/Troll names, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:26244933"] = "Verideth/Troll names, C++ hacks, writing cheats, MPGH",
@@ -77,7 +80,6 @@ local Skiddies = {
 	["STEAM_0:0:96636343"] = "Hendrik4567, Cracked steam (RevEmu,GreenLuma)",
 	["STEAM_0:0:142787592"] = "Crumbles/Cookie/cookiedebugger, Stealing files, 136 cheat scripts, JSP,BH,Speedhacks,cvar3,Lennys,nospread,Falcos,Dark scripts, BAN ME FOREVER",
 	["STEAM_0:0:64924665"] = "Sans/WoG FreZz/mxfrezz/Maks, BlueBot,sasha",
-	["STEAM_0:0:154504370"] = "Steve/olsteve/steve buscemi, Writing & releasing hacks (SRSscript), troll, BAN ME NOW",
 	["STEAM_0:1:158378753"] = "John Reese/CakeRP/cookierp, asking for hacks",
 	["STEAM_0:1:42844056"] = "Bjoern90/bjorn tonnesen, asking for hacks",
 	["STEAM_0:1:38849150"] = "scraatch/Erick/Troll names, sv_allowcslua bypass,2x VAC bans, 7 cheats,FESP,Propkiller, Member of 8 hack/troll groups",

@@ -11,6 +11,23 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:1:101768763"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:427651"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:24109468"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:151163334"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:98731803"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:122851737"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:157118193"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:26384561"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:103322024"] = "Member of hack/troll group: partyofnationalsocialism",
+	["STEAM_0:1:119297658"] = "Member of hack/troll group: ididnothither",
+	["STEAM_0:0:67570248"] = "Member of hack/troll group: ididnothither",
+	["STEAM_0:0:93267366"] = "Member of hack/troll group: ididnothither",
+	["STEAM_0:1:55027362"] = "Member of hack/troll group: ididnothither",
+	["STEAM_0:1:156459284"] = "Member of hack/troll group: lifesuckskillyourself",
+	["STEAM_0:1:83371198"] = "Member of hack/troll group: aimerware",
+	["STEAM_0:0:51231533"] = "Member of hack/troll group: aimerware",
+	["STEAM_0:1:147822870"] = "Member of hack/troll group: aimerware",
 	["STEAM_0:0:100138074"] = "Member of hack/troll group: AIMWARE",
 	["STEAM_0:0:165303448"] = "Member of hack/troll group: AIMWARE",
 	["STEAM_0:0:151051337"] = "Member of hack/troll group: AIMWARE",
