@@ -19,7 +19,7 @@ local Skiddies = {
 
 
 	["STEAM_0:0:154504370"] = "Steve/olsteve/steve buscemi, Writing & releasing hacks (SRSscript), troll, Member of snixzz hacking site, BAN ME FOREVER",
-	["STEAM_0:1:62467177"] = "empty/el_leet/Dmitriy/Troll names, DDoS attack, STEALING FILES, C++ hacks, propkiller,nanohack, BAN ME FOREVER",
+	["STEAM_0:1:62467177"] = "empty/el_leet/Dmitriy/Troll names, MULTIPLE DDoS ATTACKS, STEALING FILES, C++ hacks, propkiller,nanohack, BAN ME FOREVER",
 	["STEAM_0:1:160878638"] = "Eric ANDRE/erichandre, STEALING FILES, sv_allowcslua bypass, nospread,amplify,Mapex,propkiller,Falcos,MythX",
 	["STEAM_0:0:144501674"] = "pharaoh200zzzzzz/PIKA/PHARAOH/Hecz, AHack, Mapex",
 	["STEAM_0:1:149245518"] = "highwindspeeds/Kerp/Troll names, VAC banned, Member of snixzz hacking site",
@@ -503,12 +503,12 @@ local Skiddies = {
 	["STEAM_0:0:57562902"] = "Baner/TryHardBaner, Member of snixzz hacking site, Member of hack/troll group: snixzznet",
 	["STEAM_0:1:119980635"] = "perfectpain/Yung Pain, Member of snixzz hacking site",
 	
-	["STEAM_0:1:49588519"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
-	["STEAM_0:1:88621207"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
-	["STEAM_0:0:138707334"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
-	["STEAM_0:1:88629101"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
-	["STEAM_0:1:87376544"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
-	["STEAM_0:1:69870677"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
+	["STEAM_0:1:49588519"] = "Aerico/KQLY/Astari/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
+	["STEAM_0:1:88621207"] = "Aerico/KQLY/Astari/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
+	["STEAM_0:0:138707334"] = "Aerico/KQLY/Astari/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
+	["STEAM_0:1:88629101"] = "Aerico/KQLY/Astari/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
+	["STEAM_0:1:87376544"] = "Aerico/KQLY/Astari/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
+	["STEAM_0:1:69870677"] = "Aerico/KQLY/Astari/ruben/aknur, stealing files,3x VAC bans,Member of snixzz hacking site,7 cheat scripts,propkiller,Ban evasion (6 Alts in List_A)",
 	
 	["STEAM_0:1:98811587"] = "Piratex/piratex129/Michael/kawaiineth/Krav alt, Member of snixzz hacking site, Member of hack/troll group: cuntflap,Dango_Mafia_Fan_club",
 	["STEAM_0:0:119603877"] = "Piratex/piratex129/Michael/kawaiineth/Krav, Member of snixzz hacking site, Member of hack/troll group: cuntflap,Dango_Mafia_Fan_club",
