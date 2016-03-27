@@ -1401,7 +1401,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:54410940"] = "The Xeno Phantom/thexenophantom, Lennys",
 	["STEAM_0:1:108486043"] = "Aiden trade.tf/aiden6583628, Lennys",
 	["STEAM_0:1:46043290"] = "Reboil Wise/kanestick, Lennys",
-	["STEAM_0:0:94897427"] = "Anatrax, Lennys",
 	["STEAM_0:0:49378612"] = "Chuck Norris/alpaybykyvz, VAC banned, Lennys",
 	["STEAM_0:1:61581551"] = "entity.GabrielPBC.name/pokeblackcommon88, Lennys",
 	["STEAM_0:1:104378723"] = "Invisible name/portal2turret1985, Lennys",

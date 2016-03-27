@@ -18,9 +18,13 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:36769118"] = "xDarkStarrx/Darky, 5x VAC bans, MPGH, 2S: AHack",
+	["STEAM_0:0:94897427"] = "Anatrax/Pepe, Member of snixzz hacking site, Lennys scripts, Member of hack/troll group: GaingRape",
+	["STEAM_0:0:167052716"] = "Anitamoellerga, Member of snixzz hacking site",
+	["STEAM_0:0:147425418"] = "TGOD xLegit/T007/100% Troll names, 2x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:1:86722139"] = "Saud8814, Member of snixzz hacking site, Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:1:37788600"] = "Yolo/rare/Avanic/Warhammer/Troll names, Member of snixzz hacking site, Member of hack/troll group: ididnothither",
-	["STEAM_0:0:154504370"] = "Steve/olsteve/steve buscemi, Writing & releasing hacks (SRSscript), troll, Member of snixzz hacking site, BAN ME FOREVER",
+	["STEAM_0:0:154504370"] = "Steve/olsteve/steve buscemi/Troll names, Writing & releasing hacks (SRSscript), troll, Member of snixzz hacking site, BAN ME FOREVER",
 	["STEAM_0:1:62467177"] = "empty/el_leet/Dmitriy/Troll names, MULTIPLE DDoS ATTACKS, STEALING FILES, C++ hacks, propkiller,nanohack, BAN ME FOREVER",
 	["STEAM_0:1:160878638"] = "Eric ANDRE/erichandre, STEALING FILES, sv_allowcslua bypass, nospread,amplify,Mapex,propkiller,Falcos,MythX",
 	["STEAM_0:0:144501674"] = "pharaoh200zzzzzz/PIKA/PHARAOH/Hecz, AHack, Mapex",
@@ -1838,7 +1842,6 @@ local Skiddies = {
 	["STEAM_0:1:69368616"] = "2S: BHop script",
 	["STEAM_0:1:57560406"] = "2S: AXpublic",
 	["STEAM_0:0:80163089"] = "2S: Mapex",
-	["STEAM_0:0:36769118"] = "2S: AHack",
 	["STEAM_0:0:59352527"] = "2S: sv_allowcslua bypass",
 	["STEAM_0:1:41351428"] = "2S: Unknown hack",
 	["STEAM_0:0:77431611"] = "2S: AHack",
