@@ -18,6 +18,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:60718546"] = "Ekans/wearnopants/NamoCat/ASSEY/Nam0/Troll names, Cheating, running hacks, Member of snixzz hacking site, possible alt of Nanocat",
 	["STEAM_0:0:36769118"] = "xDarkStarrx/Darky, 5x VAC bans, MPGH, 2S: AHack",
 	["STEAM_0:0:94897427"] = "Anatrax/Pepe, Member of snixzz hacking site, Lennys scripts, Member of hack/troll group: GaingRape",
 	["STEAM_0:0:167052716"] = "Anitamoellerga, Member of snixzz hacking site",
@@ -98,7 +99,6 @@ local Skiddies = {
 	["STEAM_0:0:60746227"] = "PoWnY/Kolo, FOUR VAC bans, Mapex",
 	["STEAM_0:1:37943075"] = "matthis33440/matthis ducazeaux, Stealing files, JSP, VAC banned, cvar3,SmegHack",
 	["STEAM_0:0:146086201"] = "jordangame17/Yorudan60/Jordan, Dark Scripts, ShittyScripts, 12 year old",
-	["STEAM_0:0:60718546"] = "Ekans/wearnopants/NamoCat/ASSEY/Troll names, Cheating,running hacks, possible alt of Nanocat",
 	
 	["STEAM_0:1:159924006"] = "TheFinestSurgeon/MtnDewBunney/Mitchell, Ban evasion (Alt of STEAM_0:0:82154876)",
 	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell/TheFinestSurgeon, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition, Ban evasion (Alt STEAM_0:1:159924006)",
@@ -6655,7 +6655,7 @@ local Skiddies = {
 	["STEAM_0:0:28614059"] = "PNPS Lz.Jwad",
 	["STEAM_0:1:7308244"] = "StonedPotatoes Banlist 2010, 2S: Cheats",
 	["STEAM_0:0:28938661"] = "Troll names, VAC banned, Exploits, StonedPotatoes Banlist 2010",
-	["STEAM_0:0:39593848"] = "KingChicken, StonedPotatoes Banlist 2010",
+	["STEAM_0:0:39593848"] = "KingChicken/alexrussell, 4x VAC bans, Lennys,AHack,Falcos,razorsharp, StonedPotatoes Banlist 2010",
 	["STEAM_0:1:24216096"] = "StonedPotatoes Banlist 2010, 2S: Cheats",
 	["STEAM_0:1:22565488"] = "StonedPotatoes Banlist 2010, 2S: BHop script",
 
