@@ -18,6 +18,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:52543705"] = "Ale711, Member of hack/troll group: MPGH",
 	["STEAM_0:1:57234919"] = "Benjamin/skywastaken/Sky, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:125356872"] = "Ger Sean/jumpz2105/Sean, STEALING FILES, Bridgehack, defcon aimbot, net exploits",
 	["STEAM_0:0:60718546"] = "Ekans/wearnopants/NamoCat/ASSEY/Nam0/Troll names, Cheating, running hacks, Member of snixzz hacking site, possible alt of Nanocat",
