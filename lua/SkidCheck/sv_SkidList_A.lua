@@ -18,6 +18,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:129136618"] = "jessica59v, Jynxx Script3",
 	["STEAM_0:0:54052778"] = "Kolorek/doswave, STEALING FILES, 5x VAC Bans, Cheat engine bypass, bridgehack, Lennys, Hera",
 	["STEAM_0:0:52543705"] = "Ale711, Member of hack/troll group: MPGH",
 	["STEAM_0:1:57234919"] = "Benjamin/skywastaken/Sky, VAC banned, Member of snixzz hacking site",
