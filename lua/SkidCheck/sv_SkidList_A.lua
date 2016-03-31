@@ -851,9 +851,12 @@ local Skiddies = {
 	["STEAM_0:0:115219037"] = "aGangster Toaster/toctep/tooret fock/Troll names, C++ hacks, Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:56736013"] = "Super-poney, Mapex,FMurder,ESP",
 	["STEAM_0:1:110371064"] = "social_justice_warrior_hipster/bubbins/cheat to win/Troll names, VAC banned",
-	["STEAM_0:0:135903246"] = "Solaris/Gnome alt 2, VAC banned, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (Alt of STEAM_0:1:49507627)",
-	["STEAM_0:0:65800028"] = "Solaris/Gnome alt, VAC banned, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (Alt of STEAM_0:1:49507627)",
-	["STEAM_0:1:49507627"] = "Solaris/Gnome, VAC banned, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (STEAM_0:0:65800028)",
+	
+	["STEAM_0:1:160470405"] = "Solaris/Gnome alt 3, 2x VAC bans, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (Alt of STEAM_0:1:49507627)",
+	["STEAM_0:0:135903246"] = "Solaris/Gnome alt 2, 2x VAC bans, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (Alt of STEAM_0:1:49507627)",
+	["STEAM_0:0:65800028"] = "Solaris/Gnome alt, 2x VAC bans, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (Alt of STEAM_0:1:49507627)",
+	["STEAM_0:1:49507627"] = "Solaris/Gnome, 2x VAC bans, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (STEAM_0:0:65800028)",
+	
 	["STEAM_0:0:128059000"] = "100% Troll names, VAC banned, Member of hack/troll group: _tophvh_top_dank_meymeyz",
 	["STEAM_0:1:38747623"] = "Koala/oilkoala/Wil$t r1, 3x VAC bans, Member of hack/troll group: omniscientscripts",
 	["STEAM_0:0:96096672"] = "Koala/Troll names, ban me",
