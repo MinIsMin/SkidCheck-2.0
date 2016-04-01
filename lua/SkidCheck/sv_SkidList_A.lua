@@ -18,6 +18,14 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:91561727"] = "Gulian/julianownsstuff, Lennys, custom hacks (pasted), ",
+	["STEAM_0:1:97955471"] = "mlg_no_scope/Andreas/Hobo_mist/Troll names, Hera,AHack,Lennys,Mapex,defcon, gmcl_cat_win32,gmcl_spreadthebutter, Member of snixzz hacking site",
+	["STEAM_0:1:73518760"] = "AE Royal Blood/brammi, forced sv_allowcslua, sv_cheats, AHack",
+	["STEAM_0:0:167339219"] = "Mackarona/kickaread/Troll names, Member of snixzz hacking site",
+	["STEAM_0:0:160809891"] = "waizygmrz, Hera, AHack, Pony",
+	["STEAM_0:0:48194892"] = "TheFrostyTiger, SmegHack, Hera",
 	["STEAM_0:1:129136618"] = "jessica59v, Jynxx Script3",
 	["STEAM_0:0:54052778"] = "Kolorek/doswave, STEALING FILES, 5x VAC Bans, Cheat engine bypass, bridgehack, Lennys, Hera",
 	["STEAM_0:0:52543705"] = "Ale711, Member of hack/troll group: MPGH",
@@ -256,7 +264,6 @@ local Skiddies = {
 	["STEAM_0:0:90583172"] = "Razvy/idkom/Manaila Razvan/Sad al Din, 2x VAC bans",
 	["STEAM_0:1:29327756"] = "XTracer/kek_lua_hack/Romario, stealing files, attempted anticheat bypass, injecting code, aimbot,ESP, BAN ME FOREVER",
 	["STEAM_0:0:80615566"] = "lennon/lennonr2000, sv_allowcslua bypass",
-	["STEAM_0:1:97955471"] = "mlg_no_scope/Andreas/Hobo_mist/Troll names, Hera,AHack,Lennys,Mapex,defcon, gmcl_cat_win32,gmcl_spreadthebutter",
 	
 	["STEAM_0:1:151222935"] = "Brax/Lombardi/ido/Troll names alt, C++ hacks, VAC banned, Aimbot, Smeghack, sv_allowcslua, Ban Evasion (Alt of STEAM_0:0:36544687)",
 	["STEAM_0:0:36544687"] = "Brax/Lombardi/ido/Troll names, C++ hacks, VAC banned, Aimbot, Smeghack, sv_allowcslua, Ban Evasion (Alt STEAM_0:1:151222935)",
