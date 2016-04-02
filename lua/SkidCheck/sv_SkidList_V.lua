@@ -10,6 +10,23 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:1:19755591"] = "Member of hack/troll group: PremiumNiggas",
+	["STEAM_0:1:74739896"] = "Member of hack/troll group: PremiumNiggas",
+	["STEAM_0:0:18858360"] = "Member of hack/troll group: DDOSSTOP",
+	["STEAM_0:0:45609188"] = "Member of hack/troll group: Specials",
+	["STEAM_0:0:72682489"] = "Member of hack/troll group: Specials",
+	["STEAM_0:0:52530689"] = "Member of hack/troll group: Specials",
+	["STEAM_0:1:46394367"] = "Member of hack/troll group: Specials",
+	["STEAM_0:0:78164617"] = "Member of hack/troll group: Specials",
+	["STEAM_0:0:54185281"] = "Member of hack/troll group: Specials",
+	["STEAM_0:1:81203346"] = "Member of hack/troll group: Specials",
+	["STEAM_0:1:39956505"] = "Member of hack/troll group: Specials",
+	["STEAM_0:1:50859796"] = "Member of hack/troll group: Specials",
+	["STEAM_0:0:36436101"] = "Member of hack/troll group: Specials",
+	["STEAM_0:0:44081528"] = "Member of hack/troll group: Specials",
+	["STEAM_0:0:42319117"] = "Member of hack/troll group: Specials",
+	["STEAM_0:1:164507649"] = "Member of hack/troll group: Specials",
+	["STEAM_0:1:55410961"] = "Member of hack/troll group: Specials",
 	["STEAM_0:1:109108451"] = "Member of hack/troll group: AIMWARE",
 	["STEAM_0:1:151453578"] = "Member of hack/troll group: AIMWARE",
 	["STEAM_0:1:156306109"] = "Member of hack/troll group: AIMWARE",

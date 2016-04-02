@@ -19,6 +19,12 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:25812285"] = "Nautical/Josh/Nomical/wildmamacannon/Wattled Walnut/onebadcow, STEALING FILES, C++ hacks, Attempted anticheat bypass, VAC banned, MPGH, BAN ME FOREVER",
+	["STEAM_0:1:46006016"] = "Matt Campbell/Anthony Alepee/sphinter/Kryox, Bridgehack, AHack, smeghack, Game banned",
+	["STEAM_0:0:159570163"] = "Kolorek/doswave alt 2, STEALING FILES, RCON HACKING,5x VAC Bans, Cheatengine bypass,bridgehack,Lennys,Hera, Ban evasion (3 alts, List_A)",
+	["STEAM_0:1:78134482"] = "Kolorek/doswave alt, STEALING FILES, RCON HACKING,5x VAC Bans, Cheatengine bypass,bridgehack,Lennys,Hera, Ban evasion (3 alts, List_A)",
+	["STEAM_0:0:54052778"] = "Kolorek/doswave, STEALING FILES, RCON HACKING,5x VAC Bans, Cheatengine bypass,bridgehack,Lennys,Hera, Ban evasion (3 alts, List_A)",
+	
 	["STEAM_0:1:92902260"] = "Obama Llama/Jordan/URDEAD548, Member of snixzz hacking site",
 	["STEAM_0:1:91561727"] = "Gulian/julianownsstuff, Lennys, custom hacks (pasted), ",
 	["STEAM_0:1:97955471"] = "mlg_no_scope/Andreas/Hobo_mist/Troll names, Hera,AHack,Lennys,Mapex,defcon, gmcl_cat_win32,gmcl_spreadthebutter, Member of snixzz hacking site",
@@ -27,7 +33,6 @@ local Skiddies = {
 	["STEAM_0:0:160809891"] = "waizygmrz, Hera, AHack, Pony",
 	["STEAM_0:0:48194892"] = "TheFrostyTiger, SmegHack, Hera",
 	["STEAM_0:1:129136618"] = "jessica59v, Jynxx Script3",
-	["STEAM_0:0:54052778"] = "Kolorek/doswave, STEALING FILES, 5x VAC Bans, Cheat engine bypass, bridgehack, Lennys, Hera",
 	["STEAM_0:0:52543705"] = "Ale711, Member of hack/troll group: MPGH",
 	["STEAM_0:1:57234919"] = "Benjamin/skywastaken/Sky, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:125356872"] = "Ger Sean/jumpz2105/Sean, STEALING FILES, Bridgehack, defcon aimbot, net exploits",
@@ -5257,7 +5262,6 @@ local Skiddies = {
 	["STEAM_0:1:12543005"] = "Blackops.cfg",
 	["STEAM_0:0:40457063"] = "CrowBarGaming: Aspergers",
 	["STEAM_0:0:11940682"] = "Hacks",
-	["STEAM_0:0:25812285"] = "Nomical/Nautical/wildmamacannon/Wattled Walnut/onebadcow, VAC banned, C++ hacks, MPGH, Helium,BoxBot, BAN ME FOREVER",
 	["STEAM_0:0:20088064"] = "Skiddie",
 	["STEAM_0:1:54755525"] = "NEWTMrDJthib, mapex",
 	["STEAM_0:0:29239364"] = "MissBot",
@@ -6316,7 +6320,6 @@ local Skiddies = {
 	["STEAM_0:0:30626912"] = "SP2: Baconbot",
 	["STEAM_0:1:18606489"] = "Skiddie",
 	["STEAM_0:1:27733290"] = "SSDB: BadMetatable",
-	["STEAM_0:1:25812285"] = "Nautical, attempted bypass",
 	["STEAM_0:1:66829348"] = "2S: Aimbot",
 	["STEAM_0:0:26845704"] = "Skiddie",
 	["STEAM_0:1:41967153"] = "SSDB: BadRCC",
