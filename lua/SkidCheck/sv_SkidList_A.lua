@@ -19,7 +19,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:92902260"] = "Obama Llama/Jordan/URDEAD548, Member of snixzz hacking site",
 	["STEAM_0:1:91561727"] = "Gulian/julianownsstuff, Lennys, custom hacks (pasted), ",
 	["STEAM_0:1:97955471"] = "mlg_no_scope/Andreas/Hobo_mist/Troll names, Hera,AHack,Lennys,Mapex,defcon, gmcl_cat_win32,gmcl_spreadthebutter, Member of snixzz hacking site",
 	["STEAM_0:1:73518760"] = "AE Royal Blood/brammi, forced sv_allowcslua, sv_cheats, AHack",
