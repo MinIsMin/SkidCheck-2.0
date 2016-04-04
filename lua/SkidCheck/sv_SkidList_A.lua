@@ -19,6 +19,13 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:124201304"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt of STEAM_0:0:46517749)",
+	["STEAM_0:0:46517749"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt STEAM_0:1:124201304)",
+	
+	["STEAM_0:0:51674343"] = "Michak89/michak89, VAC banned, Lennys scripts",
+	["STEAM_0:1:59962001"] = "Ahtoh Kaptoh/Ros, Jynxx Script",
 	["STEAM_0:1:25812285"] = "Nautical/Josh/Nomical/wildmamacannon/Wattled Walnut/onebadcow, STEALING FILES, C++ hacks, Attempted anticheat bypass, VAC banned, MPGH, BAN ME FOREVER",
 	["STEAM_0:1:46006016"] = "Matt Campbell/Anthony Alepee/sphinter/Kryox, Bridgehack, AHack, smeghack, Game banned",
 	["STEAM_0:0:159570163"] = "Kolorek/doswave alt 2, STEALING FILES, RCON HACKING,5x VAC Bans, Cheatengine bypass,bridgehack,Lennys,Hera, Ban evasion (3 alts, List_A)",
