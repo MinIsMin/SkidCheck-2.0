@@ -19,8 +19,8 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:158157085"] = "deeznutz2big4u/King/TheTrueKing, C++ hacks, MPGH",
+	["STEAM_0:1:60255736"] = "c3301exploits/c3301, Member of snixzz hacking site",
 	["STEAM_0:1:124201304"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt of STEAM_0:0:46517749)",
 	["STEAM_0:0:46517749"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt STEAM_0:1:124201304)",
 	
@@ -1154,12 +1154,16 @@ local Skiddies = {
 	["STEAM_0:1:34411781"] = "Nomad, Lennys, Member of hack/troll group: TrollSquad9000",
 	["STEAM_0:0:127231310"] = "Rob/DVoid/Catastro, gm_exploited, troll/hacking groups",
 	["STEAM_0:1:4154719"] = "Warden1142/deltasword100/DarkCide/dmrradio/Serverwatch, speedhacks, admitted C++ hacks, propkiller, releasing hacks, BAN ME FOREVER",
+	
 	["STEAM_0:0:35810412"] = "KraN/kransurf/Gmodpwnz, Stealing files, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
 	["STEAM_0:0:89116170"] = "KraN/kransurf/Gmodpwnz alt, Stealing files, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
+	
 	["STEAM_0:0:107971845"] = "Incognito/Troll names, C++ hacks,VAC banned,propkiller,Lennys,nanohack,ahack,mapex,falcos,bluebot,illya,razor,Ban evasion (Alt: STEAM_0:1:64947049), BAN ME FOREVER",
 	["STEAM_0:1:64947049"] = "Incognito/Troll names, C++ hacks,VAC banned,propkiller,Lennys,nanohack,ahack,mapex,falcos,bluebot,illya,razor,Ban evasion (Alt: STEAM_0:0:107971845), BAN ME FOREVER",
+	
 	["STEAM_0:0:37245779"] = "Komol/Ikaros alt, Writing C++ hacks for skids, 'Fake.pAim->EdgeAntiAim(pLocal, pCmd, 360.f)', Member of hack/troll group: QuikHop",
 	["STEAM_0:1:90890"] = "Komol/Ikaros, Writing C++ hacks for skids, 'Fake.pAim->EdgeAntiAim(pLocal, pCmd, 360.f)', Member of hack/troll group: QuikHop",
+	
 	["STEAM_0:0:128704682"] = "degeso/Reim/rei, new, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
 	["STEAM_0:0:47960003"] = "degeso/Reim/rei, Blue bot, cheating on alt",
 	["STEAM_0:0:2237880"] = "degeso/Reim/rei, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
