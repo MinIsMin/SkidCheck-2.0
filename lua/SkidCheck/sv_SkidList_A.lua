@@ -19,6 +19,10 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:45270658"] = "Death, Dark scripts, Falcos scripts, propkiller",
+	["STEAM_0:0:93925982"] = "krokeme01/FaZe_Adapt, AHack,Smeghack, 2x VAC bans",
 	["STEAM_0:1:158157085"] = "deeznutz2big4u/King/TheTrueKing, C++ hacks, MPGH",
 	["STEAM_0:1:60255736"] = "c3301exploits/c3301, Member of snixzz hacking site",
 	["STEAM_0:1:124201304"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt of STEAM_0:0:46517749)",
