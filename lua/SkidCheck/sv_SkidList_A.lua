@@ -21,6 +21,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:132700390"] = "Minecrafter LP/Alex, AHack, sasha.lua",
 	["STEAM_0:0:45270658"] = "Death, Dark scripts, Falcos scripts, propkiller",
 	["STEAM_0:0:93925982"] = "krokeme01/FaZe_Adapt, AHack,Smeghack, 2x VAC bans",
 	["STEAM_0:1:158157085"] = "deeznutz2big4u/King/TheTrueKing, C++ hacks, MPGH",
