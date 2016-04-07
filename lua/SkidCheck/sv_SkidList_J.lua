@@ -2,6 +2,14 @@
 
 
 local ExtraSkiddies = {
+
+	["STEAM_0:1:108777205"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:121069541"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:152143158"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:138483162"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:31701001"] = "Member of hack/troll group: KKKRACISTS",
+	["STEAM_0:0:69141735"] = "Member of hack/troll group: BKSWPAIP",
+	["STEAM_0:0:61261934"] = "Member of hack/troll group: darkscriptsv1",
 	["STEAM_0:0:44178487"] = "Member of hack/troll group: OldSchoolHacks",
 	["STEAM_0:0:70145721"] = "Member of hack/troll group: OldSchoolHacks",
 	["STEAM_0:0:82635322"] = "Member of hack/troll group: OldSchoolHacks",
@@ -567,7 +575,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:121258154"] = "Member of hack/troll group: Dankware",
 	["STEAM_0:1:502603"] = "Member of hack/troll group: Dankware",
 	["STEAM_0:1:28517908"] = "Member of hack/troll group: Dankware",
-	["STEAM_0:1:36699586"] = "Member of hack/troll group: Aim-Style",
 	["STEAM_0:0:39864040"] = "Member of hack/troll group: Aim-Style",
 	["STEAM_0:1:13537801"] = "Member of hack/troll group: Aim-Style",
 	["STEAM_0:0:101290869"] = "Member of hack/troll group: jjjjjh",

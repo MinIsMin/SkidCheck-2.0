@@ -2,6 +2,16 @@
 
 
 local ExtraSkiddies = {
+	["STEAM_0:0:5682491"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:161082960"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:1769086"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:150093884"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:88169879"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:98944932"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:157125128"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:160758519"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:20265908"] = "Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:39992582"] = "Member of hack/troll group: AIMWARE",
 	["STEAM_0:0:54660585"] = "Member of hack/troll group: VACLifetimeMembership",
 	["STEAM_0:0:55343238"] = "Member of hack/troll group: coolestkidsontheblock",
 	["STEAM_0:1:38696852"] = "Member of hack/troll group: coolestkidsontheblock",
@@ -4048,7 +4058,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:50703784"] = "Member of hack/troll group: DLGT",
 	["STEAM_0:1:86002421"] = "Member of hack/troll group: DLGT",
 	["STEAM_0:0:91792138"] = "Member of hack/troll group: DLGT",
-	["STEAM_0:0:42188210"] = "Banlist, Member of hack/troll group: DLGT",
 	["STEAM_0:1:52579888"] = "SwagServers: Spectre, Bad file: lua/ahack.lua, Member of hack/troll group: DLGT",
 	["STEAM_0:1:34444519"] = "SwagServers: Unknown, Claims to have hacked the server",
 	["STEAM_0:1:62251079"] = "SwagServers: FlyingMygga, Bad file: lua/holyhax.lua",
