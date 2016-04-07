@@ -21,6 +21,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:79604266"] = "ACE BennyS/Kevin, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot, ",
 	["STEAM_0:0:132700390"] = "Minecrafter LP/Alex, AHack, sasha.lua",
 	["STEAM_0:0:45270658"] = "Death, Dark scripts, Falcos scripts, propkiller",
 	["STEAM_0:0:93925982"] = "krokeme01/FaZe_Adapt, AHack,Smeghack, 2x VAC bans",
