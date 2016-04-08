@@ -21,6 +21,12 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:60147209"] = "Delfyni, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt STEAM_0:0:104342775)",
+	["STEAM_0:0:104342775"] = "Delfyni 1, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of STEAM_0:1:60147209)",
+	["STEAM_0:1:116473238"] = "Delfyni 2, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of STEAM_0:1:60147209)",
+	["STEAM_0:1:127095279"] = "Delfyni 3, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of STEAM_0:1:60147209)",
+	
+	["STEAM_0:1:89950412"] = "Emc2/Quackalot, Mapex",
 	["STEAM_0:1:29372458"] = "Dr Drunk/Monenerund/Troll names, Triggerbot, 2x VAC bans",
 	["STEAM_0:1:79604266"] = "ACE BennyS/Kevin, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot, ",
 	["STEAM_0:0:132700390"] = "Minecrafter LP/Alex, AHack, sasha.lua",
