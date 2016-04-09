@@ -18,6 +18,10 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:89343200"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt STEAM_0:1:148090858)",
+	["STEAM_0:1:148090858"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt of STEAM_0:1:89343200)",
+	
+	["STEAM_0:0:58588089"] = "KineticVoid/felix321/Troll names, Member of snixzz hacking site, Member of hack/troll group: kkkuats",
 	["STEAM_0:1:70945753"] = "alexhun/Alexander Kozak/kozakalex2000, MPGH, C++ hacks",
 	["STEAM_0:0:137853946"] = "Zekiar/ebg_cogbeard, VAC banned, Member of snixzz hacking site",
 	
@@ -68,7 +72,7 @@ local Skiddies = {
 	["STEAM_0:1:160878638"] = "Eric ANDRE/erichandre, STEALING FILES, sv_allowcslua bypass, nospread,amplify,Mapex,propkiller,Falcos,MythX",
 	["STEAM_0:0:144501674"] = "pharaoh200zzzzzz/PIKA/PHARAOH/Hecz, AHack, Mapex",
 	["STEAM_0:1:149245518"] = "highwindspeeds/Kerp/Troll names, VAC banned, Member of snixzz hacking site",
-	["STEAM_0:1:26244933"] = "Verideth/Troll names, C++ hacks, writing cheats, MPGH, Member of hack/troll group: gluacopypasters",
+	["STEAM_0:1:26244933"] = "Verideth/Troll names, C++ hacks, writing cheats, MPGH, Member of hack/troll group: gluacopypasters, Game banned",
 	["STEAM_0:1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, Member of snixzz hacking site, Member of hack/troll group: MPGH",
 	["STEAM_0:0:50861534"] = "venom0us/noimnotacrackaddict, 3x VAC bans, Member of snixzz hacking site, Member of hack/troll group: snixzzdotnet",
 	["STEAM_0:1:55079621"] = "Star1/okie/Leystryku alt, DDoS, VAC banned, Hera, Member of snixzz hacking site, BAN ME FOREVER",
