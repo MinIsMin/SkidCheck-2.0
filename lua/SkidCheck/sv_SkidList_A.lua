@@ -18,9 +18,9 @@ local Skiddies = {
 
 
 
-
-
-
+	["STEAM_0:1:70945753"] = "alexhun/Alexander Kozak/kozakalex2000, MPGH, C++ hacks",
+	["STEAM_0:0:137853946"] = "Zekiar/ebg_cogbeard, VAC banned, Member of snixzz hacking site",
+	
 	["STEAM_0:1:60147209"] = "Delfyni, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt STEAM_0:0:104342775)",
 	["STEAM_0:0:104342775"] = "Delfyni 1, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of STEAM_0:1:60147209)",
 	["STEAM_0:1:116473238"] = "Delfyni 2, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of STEAM_0:1:60147209)",
@@ -68,7 +68,7 @@ local Skiddies = {
 	["STEAM_0:1:160878638"] = "Eric ANDRE/erichandre, STEALING FILES, sv_allowcslua bypass, nospread,amplify,Mapex,propkiller,Falcos,MythX",
 	["STEAM_0:0:144501674"] = "pharaoh200zzzzzz/PIKA/PHARAOH/Hecz, AHack, Mapex",
 	["STEAM_0:1:149245518"] = "highwindspeeds/Kerp/Troll names, VAC banned, Member of snixzz hacking site",
-	["STEAM_0:1:26244933"] = "Verideth/Troll names, C++ hacks, writing cheats, MPGH",
+	["STEAM_0:1:26244933"] = "Verideth/Troll names, C++ hacks, writing cheats, MPGH, Member of hack/troll group: gluacopypasters",
 	["STEAM_0:1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, Member of snixzz hacking site, Member of hack/troll group: MPGH",
 	["STEAM_0:0:50861534"] = "venom0us/noimnotacrackaddict, 3x VAC bans, Member of snixzz hacking site, Member of hack/troll group: snixzzdotnet",
 	["STEAM_0:1:55079621"] = "Star1/okie/Leystryku alt, DDoS, VAC banned, Hera, Member of snixzz hacking site, BAN ME FOREVER",
@@ -125,7 +125,7 @@ local Skiddies = {
 	["STEAM_0:0:96636343"] = "Hendrik4567, Cracked steam (RevEmu,GreenLuma)",
 	["STEAM_0:0:142787592"] = "Crumbles/Cookie/cookiedebugger, Stealing files, 136 cheat scripts, JSP,BH,Speedhacks,cvar3,Lennys,nospread,Falcos,Dark scripts, BAN ME FOREVER",
 	["STEAM_0:0:64924665"] = "Sans/WoG FreZz/mxfrezz/Maks, BlueBot,sasha",
-	["STEAM_0:1:158378753"] = "John Reese/CakeRP/cookierp, asking for hacks",
+	["STEAM_0:1:158378753"] = "Vloxan/John Reese/CakeRP/cookierp, asking for hacks",
 	["STEAM_0:1:42844056"] = "Bjoern90/bjorn tonnesen, asking for hacks",
 	["STEAM_0:1:38849150"] = "scraatch/Erick/Troll names, sv_allowcslua bypass,2x VAC bans, 7 cheats,FESP,Propkiller, Member of 8 hack/troll groups",
 	
