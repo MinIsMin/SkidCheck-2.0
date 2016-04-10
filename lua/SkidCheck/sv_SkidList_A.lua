@@ -17,7 +17,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:131926092"] = "Sup3rNinj4z/itzgrim_, MPGH, C++ hacks, admitted sv_allowcslua bypass",
+	["STEAM_0:1:53516280"] = "forestpunk/F0r357Punk, Bridgehack, Member of hack/troll group: jtrp2015",
+	
 	["STEAM_0:1:89343200"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt STEAM_0:1:148090858)",
 	["STEAM_0:1:148090858"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt of STEAM_0:1:89343200)",
 	
@@ -38,6 +40,7 @@ local Skiddies = {
 	["STEAM_0:0:93925982"] = "krokeme01/FaZe_Adapt, AHack,Smeghack, 2x VAC bans",
 	["STEAM_0:1:158157085"] = "deeznutz2big4u/King/TheTrueKing, C++ hacks, MPGH",
 	["STEAM_0:1:60255736"] = "c3301exploits/c3301, Member of snixzz hacking site",
+	
 	["STEAM_0:1:124201304"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt of STEAM_0:0:46517749)",
 	["STEAM_0:0:46517749"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt STEAM_0:1:124201304)",
 	
@@ -45,6 +48,7 @@ local Skiddies = {
 	["STEAM_0:1:59962001"] = "Ahtoh Kaptoh/Ros, Jynxx Script",
 	["STEAM_0:1:25812285"] = "Nautical/Josh/Nomical/wildmamacannon/Wattled Walnut/onebadcow, STEALING FILES, C++ hacks, Attempted anticheat bypass, VAC banned, MPGH, BAN ME FOREVER",
 	["STEAM_0:1:46006016"] = "Matt Campbell/Anthony Alepee/sphinter/Kryox, Bridgehack, AHack, smeghack, Game banned",
+	
 	["STEAM_0:0:159570163"] = "Kolorek/doswave alt 2, STEALING FILES, RCON HACKING,5x VAC Bans, Cheatengine bypass,bridgehack,Lennys,Hera, Ban evasion (3 alts, List_A)",
 	["STEAM_0:1:78134482"] = "Kolorek/doswave alt, STEALING FILES, RCON HACKING,5x VAC Bans, Cheatengine bypass,bridgehack,Lennys,Hera, Ban evasion (3 alts, List_A)",
 	["STEAM_0:0:54052778"] = "Kolorek/doswave, STEALING FILES, RCON HACKING,5x VAC Bans, Cheatengine bypass,bridgehack,Lennys,Hera, Ban evasion (3 alts, List_A)",
@@ -187,6 +191,7 @@ local Skiddies = {
 	["STEAM_0:0:42326180"] = "Leo/leoman280/lazaro, Mapex, Lennys scripts",
 	["STEAM_0:1:48292677"] = "jaycanfly/Jay, Hera",
 	["STEAM_0:0:44321329"] = "Mister Tisker, Speedhacks,cvar3,Nospread,Lennys scripts,ampris,SmegHack",
+	
 	["STEAM_0:1:111893202"] = "Zombiiju/Troll names, Attempted anticheat bypass, VAC banned,Speedhacks,Member of snixzz hacking site,Hack group: 2cash, Ban Evasion (Alt STEAM_0:0:114785523)",
 	["STEAM_0:0:114785523"] = "Zombiiju/Troll names, Attempted anticheat bypass, VAC banned,Speedhacks,Member of snixzz hacking site,Hack group: 2cash, Ban Evasion (Alt of STEAM_0:1:111893202)",
 	
