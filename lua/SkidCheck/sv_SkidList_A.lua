@@ -17,6 +17,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:88077672"] = "pinkels567, Member of snixzz hacking site",
 	["STEAM_0:0:131926092"] = "Sup3rNinj4z/itzgrim_, MPGH, C++ hacks, admitted sv_allowcslua bypass",
 	["STEAM_0:1:53516280"] = "forestpunk/F0r357Punk, Bridgehack, Member of hack/troll group: jtrp2015",
 	
