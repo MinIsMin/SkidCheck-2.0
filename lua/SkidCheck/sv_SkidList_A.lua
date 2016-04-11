@@ -17,6 +17,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:144093123"] = "t_____t/100% Troll names, VAC banned, Member of 60+ hack/troll groups!, BAN ME FOR ETERNITY",
 	["STEAM_0:1:88077672"] = "pinkels567, Member of snixzz hacking site",
 	["STEAM_0:0:131926092"] = "Sup3rNinj4z/itzgrim_, MPGH, C++ hacks, admitted sv_allowcslua bypass",
 	["STEAM_0:1:53516280"] = "forestpunk/F0r357Punk, Bridgehack, Member of hack/troll group: jtrp2015",
@@ -455,7 +456,7 @@ local Skiddies = {
 	["STEAM_0:1:81504650"] = "Mint/Alex/Troll names, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:92640942"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt of STEAM_0:0:62184463), BAN ME FOREVER",
 	["STEAM_0:0:62184463"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt STEAM_0:1:92640942), BAN ME FOREVER",
-	["STEAM_0:0:87858531"] = "Le ZamBie/infectedxzombie/Daniel, Member of snixzz hacking site",
+	["STEAM_0:0:87858531"] = "Le ZamBie/infectedxzombie/Daniel/Troll names, Member of snixzz hacking site",
 	["STEAM_0:0:67522120"] = "XQuantumForceX, 3x VAC bans, Member of snixzz hacking site, Member of hack/troll group: hduaihduiwahh2111",
 	["STEAM_0:0:76452339"] = "Tortoise_DevilBoy, gmodpickles, mapex, propkiller",
 	["STEAM_0:1:49214336"] = "ChickenNest/igo rojao, anxition, lua/defiance.lua",
