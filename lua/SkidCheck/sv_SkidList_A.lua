@@ -16,7 +16,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:126325256"] = "TheHomieKOS/thehomiekillonsight/Troll names, MPGH, big skid, ban me",
+	["STEAM_0:1:121937724"] = "lolyou/samuel_bergsten01/Troll names, Hera,Mapex,AHack, VAC banned",
 	["STEAM_0:0:144093123"] = "t_____t/100% Troll names, VAC banned, Member of 60+ hack/troll groups!, BAN ME FOR ETERNITY",
 	["STEAM_0:1:88077672"] = "pinkels567, Member of snixzz hacking site",
 	["STEAM_0:0:131926092"] = "Sup3rNinj4z/itzgrim_, MPGH, C++ hacks, admitted sv_allowcslua bypass",
