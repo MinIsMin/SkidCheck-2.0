@@ -16,6 +16,10 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:120280102"] = "100% Troll names, Member of snixzz hacking site, Member of hack/troll group: AIMWARE, BAN ME",
+	["STEAM_0:0:94630443"] = "Enderxenomorph, VAC banned, Member of snixzz hacking site, Member of hack/troll group: MPGH",
 	["STEAM_0:1:126325256"] = "TheHomieKOS/thehomiekillonsight/Troll names, MPGH, big skid, ban me",
 	["STEAM_0:1:121937724"] = "lolyou/samuel_bergsten01/Troll names, Hera,Mapex,AHack, VAC banned",
 	["STEAM_0:0:144093123"] = "t_____t/100% Troll names, VAC banned, Member of 60+ hack/troll groups!, BAN ME FOR ETERNITY",
