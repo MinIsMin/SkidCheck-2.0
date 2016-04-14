@@ -18,6 +18,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:79556883"] = "Xtailleur/jeux/quentin, STEALING FILES, 3x VAC bans",
 	["STEAM_0:0:95610845"] = "TheLegendVinny/vinnyisawesome, 4x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:0:99764002"] = "Chris/officialcrobox/GOOFY GOOBER/Troll names, VAC banned, Member of snixzz hacking site, Member of 6 hack/troll groups",
 	["STEAM_0:1:120280102"] = "100% Troll names, Member of snixzz hacking site, Member of hack/troll group: AIMWARE, BAN ME",
@@ -471,7 +472,7 @@ local Skiddies = {
 	
 	["STEAM_0:0:105412345"] = "x0s/4oo/Nate Kulkarni/Troll names, C++ cheats, admitted hacking, Member of hack/troll group: bombasscombo",
 	["STEAM_0:0:25840130"] = "x0s/4oo/Nate Kulkarni/Troll names alt, C++ cheats, admitted hacking, Member of hack/troll group: bombasscombo",
-	["STEAM_0:0:16659"] = "x0s/4oo/Nate Kulkarni/Troll names, C++ cheats, admitted hacking, Member of hack/troll group: bombasscombo",
+	["STEAM_0:0:16659"] = "x0s/4oo/Nate Kulkarni/Troll names, C++ cheats, admitted hacking, Member of 6 hack/troll groups",
 	
 	["STEAM_0:0:93519566"] = "pepperscodegod/Neko/Troll names, Member of hack/troll group: pasters",
 	["STEAM_0:1:2167449"] = "Invisible name/sleaze_/staral_sperm, Member of snixzz hacking site, Member of hack/troll group: n9neeleven",
