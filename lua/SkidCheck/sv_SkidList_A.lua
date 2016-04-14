@@ -18,6 +18,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:95610845"] = "TheLegendVinny/vinnyisawesome, 4x VAC bans, Member of snixzz hacking site",
+	["STEAM_0:0:99764002"] = "Chris/officialcrobox/GOOFY GOOBER/Troll names, VAC banned, Member of snixzz hacking site, Member of 6 hack/troll groups",
 	["STEAM_0:1:120280102"] = "100% Troll names, Member of snixzz hacking site, Member of hack/troll group: AIMWARE, BAN ME",
 	["STEAM_0:0:94630443"] = "Enderxenomorph, VAC banned, Member of snixzz hacking site, Member of hack/troll group: MPGH",
 	["STEAM_0:1:126325256"] = "TheHomieKOS/thehomiekillonsight/Troll names, MPGH, big skid, ban me",
@@ -300,7 +302,7 @@ local Skiddies = {
 	["STEAM_0:0:54139660"] = "Anders, Backdoor/Exploit in workshop addon, giving himself health",
 	["STEAM_0:0:137994304"] = "JOT PE RuNzerOR3V/wojtek waliszewski, ShittyScripts",
 	["STEAM_0:1:75332436"] = "Deez Nuts POWER/Kitty/Noa1nl, VAC banned, Member of hack/troll group: ExploitersAndHackers",
-	["STEAM_0:0:41243831"] = "Alpha/liampiscool/TrueGamer/Smitty, VAC banned, Member of hack/troll group: PerfectHacksDotNet",
+	["STEAM_0:0:41243831"] = "Alpha/liampiscool/TrueGamer/Smitty, 2x VAC bans, Member of hack/troll group: PerfectHacksDotNet",
 	["STEAM_0:1:97348982"] = "fin/Fairy Tail, 3x VAC bans",
 	["STEAM_0:0:90583172"] = "Razvy/idkom/Manaila Razvan/Sad al Din, 2x VAC bans",
 	["STEAM_0:1:29327756"] = "XTracer/kek_lua_hack/Romario, stealing files, attempted anticheat bypass, injecting code, aimbot,ESP, BAN ME FOREVER",
