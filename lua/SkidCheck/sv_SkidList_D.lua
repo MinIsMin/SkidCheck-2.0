@@ -4658,7 +4658,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:51700844"] = "Member of hack/troll group: gayweedddads",
 	["STEAM_0:1:44982620"] = "Member of hack/troll group: gayweedddads",
 	["STEAM_0:0:57256349"] = "Member of hack/troll group: TF2Xploits",
-	["STEAM_0:0:121124088"] = "Member of hack/troll group: CheatinVideoGames",
 	["STEAM_0:0:49833417"] = "Member of hack/troll group: wtfvalvefixit (VAC bans)",
 	["STEAM_0:0:37124720"] = "Member of hack/troll group: gayweedddads",
 	["STEAM_0:1:23872132"] = "Member of hack/troll group: gayweedddads",
