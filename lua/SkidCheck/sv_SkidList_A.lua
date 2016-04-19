@@ -19,6 +19,8 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:85922799"] = "dodgy_dave/Davey Cameron/Troll names, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:1:154037086"] = "Venuh, Bridgehack, VAC banned",
 	["STEAM_0:0:121124088"] = "Cr4zy/69kkk69/Bob/Troll names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: CheatinVideoGames",
 	["STEAM_0:1:163994333"] = "Temmi3/Troll names, Member of snixzz hacking site, Member of hack/troll group: srchax",
