@@ -29,6 +29,7 @@ local Skiddies = {
 	["STEAM_0:0:144246851"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt STEAM_0:0:158567680)",
 	["STEAM_0:0:158567680"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt of STEAM_0:0:144246851)",
 	["STEAM_0:1:30635340"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt of STEAM_0:0:144246851)",
+	["STEAM_0:0:45229946"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt of STEAM_0:0:144246851)",
 	
 	["STEAM_0:1:105954994"] = "SchmooveySchmoove/Troll names, attempted anticheat bypass",
 	["STEAM_0:1:80657671"] = "jassim3003/jassim5005/Troll names, 4x VAC Bans, MPGH, Backdoors, Game banned",
