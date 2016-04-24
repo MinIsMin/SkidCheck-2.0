@@ -20,6 +20,11 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:166226787"] = "MOM_NOODLES/nodlesmom, cvar3,nospread, ShittyScripts,Lennys,Falcos,NooblerScript,Dark scripts, propkiller",
+	["STEAM_0:1:16716622"] = "shigbeard/192 troll names, VAC banned, Member of hack/troll group: TooMuchHax, Previous member of hack/troll group: MPGH",
+	["STEAM_0:0:120916998"] = "xp457pl, ShittyScripts",
+	["STEAM_0:1:62071814"] = "Mayne/cdnmayne, BaconBot, NINE VAC BANS, gmcl_deco.dll, Member of hack/troll group: darkscriptsv1, VACISAJOKE, VACBINS",
+	["STEAM_0:0:145127096"] = "Deadsoulreaper1/Jordan wood, sv_allowcslua bypass, gmcl_cat_win32, defcon aimbot",
 	["STEAM_0:1:85922799"] = "dodgy_dave/Davey Cameron/Troll names, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:1:154037086"] = "Venuh, Bridgehack, VAC banned",
 	["STEAM_0:0:121124088"] = "Cr4zy/69kkk69/Bob/Troll names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: CheatinVideoGames",
