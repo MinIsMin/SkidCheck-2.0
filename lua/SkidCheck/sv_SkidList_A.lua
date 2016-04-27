@@ -1,9 +1,7 @@
 --#1 - Banned by HAC/discovered from forums/cheats/steam profiles, etc. The main list.
 
-
-local Skiddies = {
-
-
+local Group 	= "Member of hack/troll group:"
+local Skiddies 	= {
 
 
 
@@ -20,6 +18,12 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:22689778"] = "UnknownOne/nexus123, SYEALING FILES, 3x VAC bans, BridgeHack,SH",
+	["STEAM_0:0:89343149"] = "anubis2048/Warden/Dr.Anus/Troll names, MPGH, admitted hacking, ban me",
+	["STEAM_0:1:112541237"] = "BassBat/TacosCANrap, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
+	["STEAM_0:0:11009918"] = "anton/The best angel/Troll names, Jynxx Script3",
 	["STEAM_0:1:166226787"] = "MOM_NOODLES/nodlesmom, cvar3,nospread, ShittyScripts,Lennys,Falcos,NooblerScript,Dark scripts, propkiller",
 	["STEAM_0:1:16716622"] = "shigbeard/192 troll names, VAC banned, Member of hack/troll group: TooMuchHax, Previous member of hack/troll group: MPGH",
 	["STEAM_0:0:120916998"] = "xp457pl, ShittyScripts",
@@ -857,7 +861,7 @@ local Skiddies = {
 	["STEAM_0:0:130048326"] = "VACc1ne GOML, Lennys",
 	["STEAM_0:1:71387004"] = "superfrogsgaming, Lennys",
 	["STEAM_0:0:40474879"] = "BENDO/Jeezy, 2x VAC bans",
-	["STEAM_0:1:70239499"] = "SPVT NIKK_KILLER, Mapex, AHack, VAC banned",
+	["STEAM_0:1:70239499"] = "SPVT NIKK_KILLER/Troll names, Mapex, AHack, VAC banned",
 	["STEAM_0:1:112789937"] = "RaikizPro, DDoS threat",
 	["STEAM_0:1:49002548"] = "spawnkilla98/Zane Hood/CODfan3221/Troll names, VAC banned, Member of hack/troll group: complimentmyvacban, Posting hacks on MPGH",
 	["STEAM_0:0:50378334"] = "Miffo/miffo15/Troll names, sv_cheats, VAC banned, copypasted baconbot",
@@ -1693,16 +1697,16 @@ local Skiddies = {
 	["STEAM_0:0:44641968"] = "Jordan_, hacks",
 	["STEAM_0:1:57618487"] = "Troll names, hacks",
 	["STEAM_0:0:100011237"] = "copyandpaster/Troll names, DDoS threat, Member of hack/troll group: imanigga, BAN ME FOREVER",
-	["STEAM_0:0:68756654"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
-	["STEAM_0:1:73307194"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
-	["STEAM_0:1:87481408"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
-	["STEAM_0:1:51241289"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
-	["STEAM_0:0:59136769"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
-	["STEAM_0:1:41878091"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
-	["STEAM_0:0:66021191"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
-	["STEAM_0:1:60391567"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
+	["STEAM_0:0:68756654"] = Group.." 8Bit_Pro (exploits)",
+	["STEAM_0:1:73307194"] = Group.." 8Bit_Pro (exploits)",
+	["STEAM_0:1:87481408"] = Group.." 8Bit_Pro (exploits)",
+	["STEAM_0:1:51241289"] = Group.." 8Bit_Pro (exploits)",
+	["STEAM_0:0:59136769"] = Group.." 8Bit_Pro (exploits)",
+	["STEAM_0:1:41878091"] = Group.." 8Bit_Pro (exploits)",
+	["STEAM_0:0:66021191"] = Group.." 8Bit_Pro (exploits)",
+	["STEAM_0:1:60391567"] = Group.." 8Bit_Pro (exploits)",
 	["STEAM_0:0:59647314"] = "rconrconrcon, Member of hack/troll group: 8Bit_Pro (exploits)",
-	["STEAM_0:1:37017413"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
+	["STEAM_0:1:37017413"] = Group.." 8Bit_Pro (exploits)",
 	["STEAM_0:1:105201433"] = "Ashley, selling exploits, hacking, Member of hack/troll group: 8Bit_Pro (exploits)",
 	["STEAM_0:1:33236954"] = "Troll names, VAC banned",
 	["STEAM_0:0:50279410"] = "Troll names",
@@ -5965,7 +5969,7 @@ local Skiddies = {
 	["STEAM_0:0:5035105"] = "go.lua",
 	["STEAM_0:1:52122527"] = "2S: AHack",
 	["STEAM_0:1:25961258"] = "krystalmeth/HezzAU",
-	["STEAM_0:1:38717786"] = "Zero The Fallen, stealing and leaking code, VAC banned, FUCKING BAN ME FOREVER",
+	["STEAM_0:1:38717786"] = "Zero The Fallen, stealing and leaking code, C++ hacks, VAC banned, FUCKING BAN ME FOREVER",
 	["STEAM_0:1:5859270"] = "SSDB: ModuleErr",
 	["STEAM_0:0:77002440"] = "gDaap DB: bigbue (sitthiz50)",
 	["STEAM_0:0:85987143"] = "2S: Unknown hack",
