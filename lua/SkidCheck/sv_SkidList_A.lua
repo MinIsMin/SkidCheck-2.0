@@ -20,6 +20,7 @@ local Skiddies 	= {
 
 
 
+	["STEAM_0:0:69756596"] = "PanDaKittY/XxBeastxX/robin/Queen Of Luck/KennyAss, sv_allowcslua bypass, SmegHack, Sasha aimbot",
 	["STEAM_0:1:86324817"] = "Heilerde/Renate B/DatHeilerde, AW Hack",
 	["STEAM_0:0:77302682"] = "przemgra/filipgra, Schlingel Hak",
 	["STEAM_0:1:22689778"] = "UnknownOne/nexus123, SYEALING FILES, 3x VAC bans, BridgeHack,SH",

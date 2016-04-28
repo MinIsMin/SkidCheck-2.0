@@ -133,7 +133,7 @@ function Skid.Sync.Download(self, v)
 				MsgN("Download complete, lists up to date."..(Diff > 0 and " "..sDiff.." new IDs :)" or "") )
 				
 				if Diff > 500 then
-					MsgN("\n\nLocal lists differ by more than "..sDiff.." IDs.\nRe-download the addon from GitHub to be sure of updates!\n")
+					MsgN(":\n\nLocal lists differ by more than "..sDiff.." IDs.\nRe-download the addon from GitHub to be sure of updates!\n")
 				end
 				
 				Skid.CanSync = " Sync complete :)"

@@ -201,7 +201,7 @@ hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)
 //List sync from GitHub
 Skid.CanSync = ""
 if Skid.sk_sync:GetBool() then
-	Skid.CanSync = " (Will sync on map change)"
+	Skid.CanSync = " (Will sync now, and @ map change)"
 	
 	include("sk_Sync.lua")
 end
