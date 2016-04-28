@@ -20,6 +20,8 @@ local Skiddies 	= {
 
 
 
+	["STEAM_0:1:86324817"] = "Heilerde/Renate B/DatHeilerde, AW Hack",
+	["STEAM_0:0:77302682"] = "przemgra/filipgra, Schlingel Hak",
 	["STEAM_0:1:22689778"] = "UnknownOne/nexus123, SYEALING FILES, 3x VAC bans, BridgeHack,SH",
 	["STEAM_0:0:89343149"] = "anubis2048/Warden/Dr.Anus/Troll names, MPGH, admitted hacking, ban me",
 	["STEAM_0:1:112541237"] = "BassBat/TacosCANrap, Member of snixzz hacking site, Member of hack/troll group: annoyingprogamers",
@@ -6556,7 +6558,6 @@ local Skiddies 	= {
 	["STEAM_0:0:39712792"] = "FuttBucker",
 	["STEAM_0:1:25168866"] = "SC-TTT: sv_allowcslua",
 	["STEAM_0:1:21099910"] = "GBot",
-	["STEAM_0:1:22689778"] = "Skiddie",
 	["STEAM_0:1:57849600"] = "2S: sv_allowcslua",
 	["STEAM_0:0:41245536"] = "2S: Hacks",
 	["STEAM_0:1:18361092"] = "SP2: Baconbot",
