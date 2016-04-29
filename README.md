@@ -84,7 +84,13 @@ handled yourself in BlockSkidConnect!
 
 
 List format:
-["SteamID_Here"] = "Names/Known/As, Reasons,here",
+SK = "STEAM_0:"
+GG = "Member of hack/troll group:"
+
+So STEAM_0:0:1337 becomes:
+
+[SK.."0:1337"] = GG.." FuckVacIHack",
+
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
