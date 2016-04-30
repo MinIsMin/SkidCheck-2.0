@@ -36,7 +36,7 @@ local Skiddies 	= {
 	[SK.."1:112541237"] = "BassBat/TacosCANrap, "..Snix..", "..Group.." annoyingprogamers",
 	[SK.."0:11009918"] = "anton/The best angel/Troll names, Jynxx Script3",
 	[SK.."1:166226787"] = "MOM_NOODLES/nodlesmom, cvar3,nospread, ShittyScripts,Lennys,Falcos,NooblerScript,Dark scripts, propkiller",
-	[SK.."1:16716622"] = "shigbeard/192 troll names, VAC banned, "..Group.." TooMuchHax, Previous "..Group.." MPGH",
+	[SK.."1:16716622"] = "shigbeard/[HDG] Mr DeeJay/192 troll names, VAC banned, "..Group.." TooMuchHax, Previous "..Group.." MPGH",
 	[SK.."0:120916998"] = "xp457pl, ShittyScripts",
 	[SK.."1:62071814"] = "Mayne/cdnmayne, BaconBot, NINE VAC BANS, gmcl_deco.dll, "..Group.." darkscriptsv1, VACISAJOKE, VACBINS",
 	[SK.."0:145127096"] = "Deadsoulreaper1/Jordan wood, sv_allowcslua bypass, gmcl_cat_win32, defcon aimbot",
@@ -894,9 +894,9 @@ local Skiddies 	= {
 	[SK.."0:91797597"] = "ProGamer29/ProGaMeR/Vanoss, Mapex",
 	[SK.."1:105581179"] = "KQLYFornia/JWonderchild, 2x VAC bans",
 	
-	
-	[SK.."1:129777789"] = "fruit_shoot alt of Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller, Ban evasion (Alt of STEAM_0:1:87877095)",
-	[SK.."1:87877095"] = "Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller, Ban evasion (Alt STEAM_0:1:129777789)",
+	[SK.."1:87980642"] = "Pineapple/oliver/oyolo/fruit_shoot alt 2, sv_allowcslua bypass,defcon aimbot,propkiller,Lennys,VAC banned, Ban evasion (Alt of STEAM_0:1:87877095)",
+	[SK.."1:129777789"] = "Pineapple/oliver/oyolo/fruit_shoot alt, sv_allowcslua bypass, defcon aimbot, propkiller, Lennys, Ban evasion (Alt of STEAM_0:1:87877095)",
+	[SK.."1:87877095"] = "Pineapple/oliver/oyolo/fruit_shoot, sv_allowcslua bypass, defcon aimbot, propkiller, Lennys, Ban evasion (Alt STEAM_0:1:129777789)",
 	
 	[SK.."0:74304413"] = "StickyTron, VAC banned, AHack, asking for hacks",
 	[SK.."1:63172579"] = "El_Kebabo/Mats Holmkvist, Falcos scripts",
