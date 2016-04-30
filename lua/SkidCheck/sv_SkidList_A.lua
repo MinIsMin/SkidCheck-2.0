@@ -22,7 +22,12 @@ local Skiddies 	= {
 
 
 
-
+	[SK.."0:155990710"] = "Titan Scream/jonaszboostowany/KennyS/Paszabiceps, STEALING FILES, JSP,SmegHack,cvar3,nospread",
+	[SK.."0:61472465"] = "borat/boratdegoede/TMGwhite/Troll names/LOLYOU alt?, anxition, VAC banned",
+	
+	[SK.."0:58814162"] = "Dubstepper/Jacob Markison/Vape Lord Dub, STEALING FILES, C++ hacks, 2x VAC bans, AHack,cvar3,Nospread,propkiller, Ban Evasion (Alt STEAM_0:0:141566223)",
+	[SK.."0:141566223"] = "Dubstepper/Jacob Markison/Vape Lord Dub, STEALING FILES, C++ hacks, 2x VAC bans, AHack,cvar3,Nospread,propkiller, Ban Evasion (Alt of STEAM_0:0:58814162)",
+	
 	[SK.."0:69756596"] = "PanDaKittY/XxBeastxX/robin/Queen Of Luck/KennyAss, sv_allowcslua bypass, SmegHack, Sasha aimbot",
 	[SK.."1:86324817"] = "Heilerde/Renate B/DatHeilerde, AW Hack",
 	[SK.."0:77302682"] = "przemgra/filipgra, Schlingel Hak",
@@ -280,7 +285,7 @@ local Skiddies 	= {
 	[SK.."0:144948145"] = "cieslar2003/Epic0creeper12/n00b_slayer, Stealing files, cvar3,JSP,nospread,mapex,anxition,hera,SmegHack, Ban Evasion (Alt of STEAM_0:0:62947148)",
 	[SK.."0:62947148"] = "cieslar2003/Epic0creeper12/n00b_slayer, Stealing files, cvar3,JSP,nospread,mapex,anxition,hera,SmegHack, Ban Evasion (Alt: STEAM_0:0:144948145)",
 	
-	[SK.."0:54867551"] = "Fresh BBC/fresh_bbc_forever/Anatoliy/Troll names, forced sv_allowcslua, defcon.lua, gmcl_cat_win32.dll, mat_fullbright",
+	[SK.."0:54867551"] = "Fresh BBC/fresh_bbc_forever/Anatoliy/Troll names, Attempted anticheat bypass, forced sv_allowcslua, defcon.lua,gmcl_cat_win32.dll,mat_fullbright",
 	[SK.."1:84572156"] = "Kingston2111, sv_allowcslua bypass",
 	[SK.."1:54398816"] = "Exploderguy/DatFancyChicken/John, SteamID spoofing, BAN ME FOREVER",
 	[SK.."1:123888780"] = "Carl/dolphinswrg, forced sv_cheats, forced sv_allowcslua, Lennys scripts",
