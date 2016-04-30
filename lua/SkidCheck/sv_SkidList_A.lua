@@ -22,6 +22,7 @@ local Skiddies 	= {
 
 
 
+	[SK.."1:108703607"] = "djamidu659, anxition, defcon aimbot",
 	[SK.."0:155990710"] = "Titan Scream/jonaszboostowany/KennyS/Paszabiceps, STEALING FILES, JSP,SmegHack,cvar3,nospread",
 	[SK.."0:61472465"] = "borat/boratdegoede/TMGwhite/Troll names/LOLYOU alt?, anxition, VAC banned",
 	
@@ -4364,7 +4365,7 @@ local Skiddies 	= {
 	[SK.."1:22227066"] = "SP2: Code injection (Sethhack)",
 	[SK.."0:27973261"] = "Blackops.cfg",
 	[SK.."1:32890178"] = "the creampie kid, tanex89",
-	[SK.."1:11928918"] = "gHack, 2S: gHack",
+	[SK.."1:11928918"] = "Hera,gHack, 2S: gHack",
 	[SK.."1:56214509"] = "Lou Tenant Brody, Falcos",
 	[SK.."0:44480631"] = "Dismay (stealing files), ban me",
 	[SK.."1:44764731"] = "Nox: Hacks",
@@ -5033,7 +5034,7 @@ local Skiddies 	= {
 	[SK.."1:1217175"] = "Skiddie",
 	[SK.."1:17295839"] = "GreenAurora!, Ban me, HVH",
 	[SK.."0:52007249"] = "2S: sv_allowcslua",
-	[SK.."1:31563384"] = "Hera, 2S: Hera",
+	[SK.."1:31563384"] = "Milky, Hera, 2S: Hera",
 	[SK.."1:20099256"] = "Cheaters.cfg",
 	[SK.."0:41739109"] = "Flashforward x",
 	[SK.."1:9254303"] = "Brisarge",
