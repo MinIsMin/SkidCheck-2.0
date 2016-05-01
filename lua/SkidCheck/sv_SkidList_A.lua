@@ -22,6 +22,13 @@ local Skiddies 	= {
 
 
 
+
+	[SK.."0:30427141"] = "Zero BestProfileName/k1ngof2jzxd/Twizy123/Troll names, sv_allowcslua bypass, 2x VAC bans, Bridgehack,AHack,Mapex,anxition,ShittyScripts,Lennys",
+	
+	[SK.."0:162692151"] = "craigmad8/craig/Dave law/Troll, sv_allowcslua bypass,2x VAC bans,cvar3,nospread,snixzz,Bridge,gHook,jynxx,memeware,defcon,AHack, Ban Evasion (Alt of STEAM_0:1:104862852)",
+	[SK.."1:104862852"] = "craigmad8/craig/Dave law/Troll, sv_allowcslua bypass,2x VAC bans,cvar3,nospread,snixzz,Bridge,gHook,jynxx,memeware,defcon,AHack, Ban Evasion (STEAM_0:0:162692151)",
+	
+	[SK.."1:91557863"] = "Spektros/Donatas/DaSpektros, DDoS threart, 12 year old, pretending to be admin",
 	[SK.."0:76122953"] = "Bunny/Snowie/Troll names, "..Snix,
 	[SK.."0:135087074"] = "killmem8/Connotation/Troll names, Attempted anticheat bypass, sv_allowcslua bypass, 2x VAC bans, memeware,hera,Bridgehack,anxition, 9 cheats, BAN ME FOREVER",
 	[SK.."1:108703607"] = "djamidu659, anxition, defcon aimbot",
