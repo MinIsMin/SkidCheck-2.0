@@ -22,6 +22,8 @@ local Skiddies 	= {
 
 
 
+	[SK.."0:76122953"] = "Bunny/Snowie/Troll names, "..Snix,
+	[SK.."0:135087074"] = "killmem8/Connotation/Troll names, Attempted anticheat bypass, sv_allowcslua bypass, 2x VAC bans, memeware,hera,Bridgehack,anxition, 9 cheats, BAN ME FOREVER",
 	[SK.."1:108703607"] = "djamidu659, anxition, defcon aimbot",
 	[SK.."0:155990710"] = "Titan Scream/jonaszboostowany/KennyS/Paszabiceps, STEALING FILES, JSP,SmegHack,cvar3,nospread",
 	[SK.."0:61472465"] = "borat/boratdegoede/TMGwhite/Troll names/LOLYOU alt?, anxition, VAC banned",
@@ -6525,7 +6527,6 @@ local Skiddies 	= {
 	[SK.."0:25883962"] = "Propkiller",
 	[SK.."0:26707259"] = "SethHack",
 	[SK.."1:22306144"] = "Blackops.cfg",
-	[SK.."0:18706064"] = "[NC] TheBlueWolf",
 	[SK.."0:89888626"] = "CriticalDefence, AHack",
 	[SK.."0:39579852"] = "SSDB: BadRCC",
 	[SK.."0:32098304"] = "SSDB: Detours",
