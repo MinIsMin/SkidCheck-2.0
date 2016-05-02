@@ -23,6 +23,12 @@ local Skiddies 	= {
 
 
 
+
+
+	[SK.."1:44988977"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt STEAM_0:1:33651852)",
+	[SK.."1:33651852"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt of STEAM_0:1:44988977)",
+	[SK.."0:70102994"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt of STEAM_0:1:44988977)",
+	
 	[SK.."0:30427141"] = "Zero BestProfileName/k1ngof2jzxd/Twizy123/Troll names, sv_allowcslua bypass, 2x VAC bans, Bridgehack,AHack,Mapex,anxition,ShittyScripts,Lennys",
 	
 	[SK.."0:162692151"] = "craigmad8/craig/Dave law/Troll, sv_allowcslua bypass,2x VAC bans,cvar3,nospread,snixzz,Bridge,gHook,jynxx,memeware,defcon,AHack, Ban Evasion (Alt of STEAM_0:1:104862852)",
@@ -1031,8 +1037,8 @@ local Skiddies 	= {
 	
 	[SK.."1:53003486"] = "pyro/DarkPyro/xbeastguyx, Falcos scripts, darkness, hera, "..Group.." imadeumad",
 	[SK.."0:5211929"] = "pyro/DarkPyro/xbeastguyx new, Falcos scripts, darkness, hera, "..Group.." imadeumad",
-	
 	[SK.."0:59915803"] = "xbeastguyx, VAC banned, Lennys scripts, "..Group.." imadeumad",
+	
 	[SK.."0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, "..Group.." NoNAnonPub",
 	[SK.."0:41045922"] = "Josh/Troll names, XMenu cheat, uSkid, lua/uskid.lua",
 	[SK.."0:105619279"] = "jordansmith30/Bobby, Xmenu cheat, lua/uskid.lua",
@@ -1853,7 +1859,6 @@ local Skiddies 	= {
 	[SK.."0:47390806"] = "2S: Lenny",
 	[SK.."0:51335294"] = "2S: Mapex",
 	[SK.."0:3061736"] = "2S: Lenny",
-	[SK.."1:44988977"] = "2S: Sethhacks",
 	[SK.."0:83258958"] = "2S: Mapex",
 	[SK.."0:60950076"] = "2S: BHop script",
 	[SK.."0:48057174"] = "2S: AHack",
