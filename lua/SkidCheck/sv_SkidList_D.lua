@@ -7476,7 +7476,6 @@ local ExtraSkiddies = {
 	[SK.."0:51213829"] = GG.." urafagetur",
 	[SK.."1:98403283"] = GG.." SUPERSWAGXXNOCOPINGX420XX",
 	[SK.."0:67543447"] = GG.." urafagetur",
-	[SK.."1:59879279"] = GG.." urafagetur",
 	[SK.."1:29135486"] = GG.." hl1framework",
 	[SK.."0:1620356"] = GG.." 22cheatx",
 	[SK.."0:52301986"] = GG.." urafagetur",
