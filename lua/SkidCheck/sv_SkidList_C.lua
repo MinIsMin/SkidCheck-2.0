@@ -6623,7 +6623,6 @@ local ExtraSkiddies = {
 	[SK.."0:25473648"] = GG.." whatthefuckisthisshithelp",
 	[SK.."1:94971476"] = GG.." whatthefuckisthisshithelp",
 	[SK.."0:96102877"] = GG.." imanigga",
-	[SK.."1:102370353"] = GG.." imanigga",
 	[SK.."0:97459859"] = GG.." imanigga",
 	[SK.."0:96142531"] = GG.." imanigga",
 	[SK.."0:17068621"] = GG.." wydeedrf",

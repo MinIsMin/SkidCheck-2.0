@@ -24,6 +24,12 @@ local Skiddies 	= {
 
 
 
+	[SK.."1:60240953"] = "Devin Thornton/meprofile/Devin8890/Troll names, STEALING FILES, MPGH, Leakforums, 3x VAC bans",
+	
+	[SK.."1:91297145"] = "Clamp/Deimos/ZaZ/ses/LemonGate, cvar3,multihack,Shittyscripts, Ban Evasion (Alt of STEAM_0:0:102250807)",
+	[SK.."0:102250807"] = "Clamp/Deimos/ZaZ/ses/LemonGate, cvar3,multihack,Shittyscripts, Ban Evasion (Alt STEAM_0:1:91297145)",
+	
+	[SK.."1:102370353"] = "Troll names, banned, newsbot, "..GG.." imanigga",
 	[SK.."1:59879279"] = "nenomaifrend/Troll names, VAC banned, attacking servers, "..GG.." urafagetur",
 	
 	[SK.."1:92524764"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, see List_A)",
@@ -150,7 +156,6 @@ local Skiddies 	= {
 	[SK.."1:43309224"] = "RazoR Juiceboot/t3di_graham/Crowbar, VAC banned, "..Snix..", "..GG.." MPGH",
 	[SK.."0:50861534"] = "venom0us/noimnotacrackaddict, 3x VAC bans, "..Snix..", "..GG.." snixzzdotnet",
 	[SK.."1:55079621"] = "Star1/okie/Leystryku alt, DDoS, VAC banned, Hera, "..Snix..", BAN ME FOREVER",
-	[SK.."0:102250807"] = "Clamp/Deimos, cvar3,multihack",
 	[SK.."1:64336684"] = "thedankmaymay/Felix/Troll names, "..GG.." nigge_rs, BAN ME FOREVER",
 	[SK.."0:72457577"] = "g-modder/Frobro3.0, 2x VAC bans, "..GG.." darkscriptsv1",
 	[SK.."0:105904279"] = "Hectic, AW Hack",
