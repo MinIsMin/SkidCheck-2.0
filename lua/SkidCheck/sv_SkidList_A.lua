@@ -25,6 +25,12 @@ local Skiddies 	= {
 
 
 
+	[SK.."1:92524764"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..Group.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, see List_A)",
+	[SK.."0:170792375"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..Group.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, see List_A)",
+	[SK.."0:171082926"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..Group.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, see List_A)",
+	[SK.."0:34824919"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..Group.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, see List_A)",
+	[SK.."1:125836711"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..Group.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, see List_A)",
+	
 	[SK.."1:44988977"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt STEAM_0:1:33651852)",
 	[SK.."1:33651852"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt of STEAM_0:1:44988977)",
 	[SK.."0:70102994"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt of STEAM_0:1:44988977)",
@@ -1147,7 +1153,6 @@ local Skiddies 	= {
 	[SK.."1:41249453"] = "aStonedPenguin/zach, writing hacks (pHack), stealing files 'I was ripping their CS Lua'",
 	[SK.."0:69139712"] = "Dr. Edward Richtofen, stealing files",
 	[SK.."0:88570022"] = "Xildrite, JSP cheat (stealing files)",
-	[SK.."0:34824919"] = "Lulz Denz/troll names, VAC banned, hera, "..Group.." anti-cheatsquad",
 	[SK.."1:70399482"] = "kyuubi/troll names, many hacks, C++ cheats, ban me",
 	
 	[SK.."1:49986466"] = "Coke_Is_Awesome/DarkCoding/John Andres, 2x VAC bans, AutoAim,KasHack,many hacks,C++ cheats,stealing files, ban me",
