@@ -23,7 +23,7 @@ local Skiddies 	= {
 
 
 
-
+	[SK.."1:72363116"] = "VeXaN/NeXaN/Kanal Zamkniety/Cole Studio/cameleoon1/colestudio123, Comment spamming on 7 UH YouTube videos, 'I am banging your mother fucking dog', 12 year old. KICK ME",
 	[SK.."1:60240953"] = "Devin Thornton/meprofile/Devin8890/Troll names, STEALING FILES, MPGH, Leakforums, 3x VAC bans",
 	
 	[SK.."1:91297145"] = "Clamp/Deimos/ZaZ/ses/LemonGate, cvar3,multihack,Shittyscripts, Ban Evasion (Alt of STEAM_0:0:102250807)",
@@ -111,7 +111,7 @@ local Skiddies 	= {
 	[SK.."1:89950412"] = "Emc2/Quackalot, Mapex",
 	[SK.."1:29372458"] = "Dr Drunk/Monenerund/imaultra/Troll names, Aimware C++ hacks, Triggerbot, 2x VAC bans, BAN ME FOREVER",
 	[SK.."1:79604266"] = "ACE BennyS/Kevin, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot, ",
-	[SK.."0:132700390"] = "Minecrafter LP/Alex, AHack, sasha.lua",
+	[SK.."0:132700390"] = "Minecrafter LP/Alex, AHack, sasha.lua, ponyhack",
 	[SK.."0:45270658"] = "Death, Dark scripts, Falcos scripts, propkiller",
 	[SK.."0:93925982"] = "krokeme01/FaZe_Adapt, AHack,Smeghack, 2x VAC bans",
 	[SK.."1:158157085"] = "deeznutz2big4u/King/TheTrueKing, C++ hacks, MPGH",
