@@ -22,6 +22,7 @@ local Skiddies 	= {
 
 
 
+	[SK.."0:153665744"] = "lukas/Lukas CZE LP/CZ LP, AW Hack",
 	[SK.."0:49965219"] = "HAM/ham_is_my_name/HAMismyname/Troll names, MPGH, asking for anticheat bypass",
 	[SK.."1:72363116"] = "VeXaN/NeXaN/Kanal Zamkniety/Cole Studio/cameleoon1/colestudio123, Comment spamming on 7 UH YouTube videos, 'I am banging your mother fucking dog', 12 year old. KICK ME",
 	[SK.."1:60240953"] = "Devin Thornton/meprofile/Devin8890/Troll names, STEALING FILES, MPGH, Leakforums, 3x VAC bans",
