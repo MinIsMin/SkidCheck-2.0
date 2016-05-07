@@ -23,6 +23,15 @@ local Skiddies 	= {
 
 
 
+
+	[SK.."1:120863368"] = "sundial/amiga tech/Troll names, STEALING FILES, Bluebot, possible alt of 'hrst' or 'spirit532909', BAN ME FOREVER",
+	
+	[SK.."1:40765856"] = "spirit532909/Digital Instanity/AKZETA, STEALING FILES, C++ HACKS, big skiddie, Ban evasion (5 alts, List_A), BAN ME FOREVER",
+	[SK.."0:87196433"] = "spirit532909/Digital Instanity/AKZETA alt, STEALING FILES, C++ HACKS, big skiddie, Ban evasion (5 alts, List_A), BAN ME FOREVER",
+	[SK.."1:23097032"] = "spirit532909/Digital Instanity/AKZETA alt, STEALING FILES, C++ HACKS, big skiddie, Ban evasion (5 alts, List_A), BAN ME FOREVER",
+	[SK.."1:19522344"] = "spirit532909/Digital Instanity/AKZETA alt, STEALING FILES, C++ HACKS, big skiddie, Ban evasion (5 alts, List_A), BAN ME FOREVER",
+	[SK.."0:36060721"] = "spirit532909/Digital Instanity/AKZETA alt, STEALING FILES, C++ HACKS, big skiddie, Ban evasion (5 alts, List_A), BAN ME FOREVER",
+	
 	[SK.."0:155772725"] = "PJ/PjPlays2015, sv_allowcslya bypass gmcl_cat_win32.dll, Smeghack,Bridgehack,defcon aimbot, 12 year old",
 	[SK.."1:58616549"] = "Tamed BigD/Kennys/Troll names, "..Snix..", "..GG.." propkillarmy",
 	[SK.."0:153665744"] = "lukas/Lukas CZE LP/CZ LP, AW Hack",
@@ -3216,7 +3225,10 @@ local Skiddies 	= {
 	[SK.."0:41862193"] = "Qdrpl",
 	[SK.."1:42476293"] = "SSDB: pp_pixelrender",
 	[SK.."1:9892737"] = "Mikeums",
-	[SK.."1:89973919"] = "hrst, LOTS of hacks, Ban Evasion (Alt of STEAM_0:1:27308779)",
+	
+	[SK.."1:89973919"] = "hrst/Overwatch Eusion, Dismay (stealing files), LOTS of hacks, Ban Evasion (Alt of STEAM_0:1:27308779), BAN ME",
+	[SK.."1:27308779"] = "hrst/Overwatch Eusion, Dismay (stealing files), LOTS of hacks, Ban Evasion (Alt STEAM_0:1:89973919), BAN ME",
+	
 	[SK.."1:26541611"] = "gDaap DB: DJmaxx (Konrad)",
 	[SK.."1:17042971"] = "SP2: Code injection (Sethhack)",
 	[SK.."0:31682967"] = "gDaap DB: Nebulize (Nebulized)",
@@ -3900,7 +3912,6 @@ local Skiddies 	= {
 	[SK.."1:21961455"] = "Blackops.cfg",
 	[SK.."0:14160421"] = "Skiddie",
 	[SK.."0:1569545"] = "Skiddie",
-	[SK.."1:19522344"] = "SpitFireHacks, digital alt",
 	[SK.."0:9017766"] = "Toster40",
 	[SK.."0:34523451"] = "CaptainHand",
 	[SK.."1:84604600"] = "2S: Lenny",
@@ -3980,7 +3991,6 @@ local Skiddies 	= {
 	[SK.."1:15641236"] = "CrowBarGaming: Mangos",
 	[SK.."1:47525990"] = "alaword, ban me, AHack",
 	[SK.."0:78548724"] = "2S: Lenny",
-	[SK.."0:87196433"] = "Alt of Spirit/Digital",
 	[SK.."1:15029381"] = "Somer, SP2: Whip it good",
 	[SK.."1:20327511"] = "Skiddie",
 	[SK.."1:30106483"] = "dr. Freeman",
@@ -4068,7 +4078,6 @@ local Skiddies 	= {
 	[SK.."1:26203842"] = "PBS",
 	[SK.."1:6796526"] = "Devul",
 	[SK.."1:43064368"] = "NepalixSasori, Hera",
-	[SK.."1:23097032"] = "digital,spirit alt",
 	[SK.."1:29419597"] = "Blackops.cfg",
 	[SK.."1:54787435"] = "MawBot.lua",
 	[SK.."0:35936662"] = "SSDB: pp_pixelrender",
@@ -4540,7 +4549,6 @@ local Skiddies 	= {
 	[SK.."1:7636698"] = "Criminalz",
 	[SK.."1:30673177"] = "SethHack",
 	[SK.."1:78635511"] = "2S: BlueBot",
-	[SK.."0:36060721"] = "Digital Instanity",
 	[SK.."0:22593800"] = "Hera",
 	[SK.."1:27314406"] = "SethHack",
 	[SK.."1:17013516"] = "Interknet",
@@ -5757,7 +5765,6 @@ local Skiddies 	= {
 	[SK.."1:17416034"] = "Zylos[ Everett ] :3",
 	[SK.."0:88422219"] = "Slyck, Lennys, sv_cheats, Ban Evasion (Alt of STEAM_0:1:63587066)",
 	[SK.."0:33612728"] = "key coder, DDoS, VAC banned, huge skid, sv_cheats, ban evasion, Member of 6 hack/troll groups",
-	[SK.."1:27308779"] = "Dismay (stealing files), Overwatch Eusion, ban me",
 	[SK.."0:17574951"] = "SP2: Baconbot",
 	[SK.."0:31011603"] = "Kiyoshi/troll names",
 	
@@ -6376,7 +6383,6 @@ local Skiddies 	= {
 	[SK.."1:29696476"] = "gDaap DB: chicken1199 (PR Sparky), gDaap DB: sparky99456 (Sparky)",
 	[SK.."1:25940653"] = "2S: AHack",
 	[SK.."0:67730420"] = "gDaap DB: JaySquad (Brick Squad)",
-	[SK.."1:40765856"] = "AKZETA, spirit532909",
 	[SK.."0:59342749"] = "2S: AHack",
 	[SK.."0:34634683"] = "2S: AHack",
 	[SK.."0:48944802"] = "2S: Mapex",
