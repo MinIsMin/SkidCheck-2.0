@@ -22,6 +22,9 @@ local Skiddies 	= {
 
 
 
+
+	[SK.."0:155772725"] = "PJ/PjPlays2015, sv_allowcslya bypass gmcl_cat_win32.dll, Smeghack,Bridgehack,defcon aimbot, 12 year old",
+	[SK.."1:58616549"] = "Tamed BigD/Kennys/Troll names, "..Snix..", "..GG.." propkillarmy",
 	[SK.."0:153665744"] = "lukas/Lukas CZE LP/CZ LP, AW Hack",
 	[SK.."0:49965219"] = "HAM/ham_is_my_name/HAMismyname/Troll names, MPGH, asking for anticheat bypass",
 	[SK.."1:72363116"] = "VeXaN/NeXaN/Kanal Zamkniety/Cole Studio/cameleoon1/colestudio123, Comment spamming on 7 UH YouTube videos, 'I am banging your mother fucking dog', 12 year old. KICK ME",
