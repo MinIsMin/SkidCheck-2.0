@@ -36,7 +36,7 @@ local Skiddies 	= {
 	[SK.."1:58616549"] = "Tamed BigD/Kennys/Troll names, "..Snix..", "..GG.." propkillarmy",
 	[SK.."0:153665744"] = "lukas/Lukas CZE LP/CZ LP, AW Hack",
 	[SK.."0:49965219"] = "HAM/ham_is_my_name/HAMismyname/Troll names, MPGH, asking for anticheat bypass",
-	[SK.."1:72363116"] = "VeXaN/NeXaN/Kanal Zamkniety/Cole Studio/cameleoon1/colestudio123, Comment spamming on 7 UH YouTube videos, 'I am banging your mother fucking dog', 12 year old. KICK ME",
+	[SK.."1:72363116"] = "VeXaN/NeXaN/Kanal Zamkniety/Cole Studio/cameleoon1/colestudio123, Spamming on 9 UH YouTube videos using 4 accounts, 'I am banging your mother fucking dog', 12 year old, BAN ME",
 	[SK.."1:60240953"] = "Devin Thornton/meprofile/Devin8890/Troll names, STEALING FILES, MPGH, Leakforums, 3x VAC bans",
 	
 	[SK.."1:91297145"] = "Clamp/Deimos/ZaZ/ses/LemonGate, cvar3,multihack,Shittyscripts, Ban Evasion (Alt of STEAM_0:0:102250807)",
