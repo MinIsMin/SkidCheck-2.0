@@ -749,7 +749,7 @@ local Skiddies 	= {
 	[SK.."1:35179721"] = "Capn/0x666/Synch CyniikuhL/Troll names alt, 16 cheat scripts, 2x VAC bans, "..GG.." SKlDSQUAD, BAN ME FOREVER",
 	
 	[SK.."1:52828414"] = "XboxIssues/FaZe Rain, VAC banned, propkiller, "..GG.." gmodpropkills",
-	[SK.."1:112303096"] = "S_H_A_D_O_W/katietheduck, MPGH",
+	[SK.."1:112303096"] = "S_H_A_D_O_W/katietheduck, MPGH, "..GG.." puppyfuckerz",
 	[SK.."0:849274"] = "Adam/iewd/Troll names, asking for hacks, "..GG.." fickedeinemutter",
 	[SK.."1:48753813"] = "SomeEpicCat, Dark scripts",
 	[SK.."1:104446267"] = "FaZe ThUnDeR, Dark scripts",

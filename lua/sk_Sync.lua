@@ -193,7 +193,8 @@ function Skid.Sync.GetIndex()
 		local Have	= #Skid.Lists
 		local Got	= #Index
 		if Got < Have then
-			Error("GitHub list count error (Got "..Got..", Have "..Have..")")
+			Error("GitHub list count error, the lists have changed by a large ammount (Got "..Got..", Have "..Have..")")
+			Error("Please re-download this addon from https://github.com/MFSiNC/SkidCheck-2.0")
 			return
 		end
 		
