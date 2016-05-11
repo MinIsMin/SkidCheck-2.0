@@ -5,6 +5,21 @@ local SK			= "STEAM_0:"
 local ExtraSkiddies = {
 
 
+	[SK.."1:98312443"] = GG.." AIMWARE",
+	[SK.."0:171465854"] = GG.." AIMWARE",
+	[SK.."1:107867874"] = GG.." AIMWARE",
+	[SK.."0:118635001"] = GG.." AIMWARE",
+	[SK.."0:160946539"] = GG.." AIMWARE",
+	[SK.."1:3805580"] = GG.." AIMWARE",
+	[SK.."1:82467089"] = GG.." darkscriptsv1",
+	[SK.."0:87491375"] = GG.." ididnothither",
+	[SK.."1:54611525"] = GG.." complimentmyvacban",
+	[SK.."0:171620067"] = GG.." ayylmaobox",
+	[SK.."1:501182"] = GG.." aimflex",
+	[SK.."1:62112635"] = GG.." MEMEWARE3",
+	[SK.."1:2142357"] = GG.." cheater",
+	[SK.."0:52631940"] = GG.." cheater",
+	[SK.."1:119756955"] = GG.." cheater",
 	[SK.."1:171922328"] = GG.." AIMWARE",
 	[SK.."0:161253170"] = GG.." AIMWARE",
 	[SK.."0:142164008"] = GG.." AIMWARE",
