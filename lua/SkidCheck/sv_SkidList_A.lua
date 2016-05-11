@@ -24,6 +24,11 @@ local Skiddies 	= {
 
 
 
+
+	[SK.."0:170827760"] = "bj_boy/DerBoy/Sprachchat/Troll names, AHack, VAC banned, Ban Evasion (Alt of STEAM_0:1:58820780)",
+	[SK.."1:58820780"] = "bj_boy/DerBoy/Sprachchat/Troll names, AHack, VAC banned, Ban Evasion (STEAM_0:0:170827760)",
+	
+	[SK.."0:40176316"] = "Ov3rL0aD3/Artur/Arturiana/Troll names, DDoS attacks, 4x VAC bans, MPGH, asking for hacks, 2S: AHack",
 	[SK.."1:120863368"] = "sundial/amiga tech/Troll names, STEALING FILES, Bluebot, possible alt of 'hrst' or 'spirit532909', BAN ME FOREVER",
 	
 	[SK.."1:40765856"] = "spirit532909/Digital Instanity/AKZETA, STEALING FILES, C++ HACKS, big skiddie, Ban evasion (5 alts, List_A), BAN ME FOREVER",
@@ -127,7 +132,7 @@ local Skiddies 	= {
 	[SK.."0:132700390"] = "Minecrafter LP/Alex, AHack, sasha.lua, ponyhack",
 	[SK.."0:45270658"] = "Death, Dark scripts, Falcos scripts, propkiller",
 	[SK.."0:93925982"] = "krokeme01/FaZe_Adapt, AHack,Smeghack, 2x VAC bans",
-	[SK.."1:158157085"] = "deeznutz2big4u/King/TheTrueKing, C++ hacks, MPGH",
+	[SK.."1:158157085"] = "deeznutz2big4u/King/TheTrueKing/bN king, C++ hacks, MPGH",
 	[SK.."1:60255736"] = "c3301exploits/c3301, "..Snix,
 	
 	[SK.."1:124201304"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt of STEAM_0:0:46517749)",
@@ -2005,7 +2010,6 @@ local Skiddies 	= {
 	[SK.."0:73590579"] = "2S: AHack",
 	[SK.."0:78980232"] = "2S: sv_allowcslua bypass",
 	[SK.."1:41029522"] = "2S: AHack",
-	[SK.."0:40176316"] = "2S: AHack",
 	[SK.."0:66852503"] = "2S: AHack",
 	[SK.."0:52381750"] = "2S: AHack",
 	[SK.."0:98197120"] = "2S: Hera",
