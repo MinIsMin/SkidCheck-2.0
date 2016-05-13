@@ -25,6 +25,7 @@ local Skiddies 	= {
 
 
 
+	[SK.."0:150652639"] = "MikolajCCA/Mikolaj, Jynxx Script2",
 	[SK.."0:127400248"] = "Reaper/imamoon/Troll names, Smeghack",
 	[SK.."0:83661830"] = "NitroZ/Nitroz59/Mine59, BlueBot aimbot",
 	[SK.."0:170827760"] = "bj_boy/DerBoy/Sprachchat/Troll names, AHack, VAC banned, Ban Evasion (Alt of STEAM_0:1:58820780)",
