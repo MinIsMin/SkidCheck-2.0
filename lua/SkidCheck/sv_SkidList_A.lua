@@ -25,6 +25,7 @@ local Skiddies 	= {
 
 
 
+	[SK.."0:100115695"] = "Mc.Pozitiv, AW Hack",
 	[SK.."0:150652639"] = "MikolajCCA/Mikolaj, Jynxx Script2",
 	[SK.."0:127400248"] = "Reaper/imamoon/Troll names, Smeghack",
 	[SK.."0:83661830"] = "NitroZ/Nitroz59/Mine59, BlueBot aimbot",
@@ -5161,7 +5162,7 @@ local Skiddies 	= {
 	[SK.."0:39101463"] = "Loweski",
 	[SK.."1:11532489"] = "SSDB: ModuleErr",
 	[SK.."1:39642650"] = "[TA] andy",
-	[SK.."0:42626752"] = "Blackops.cfg",
+	[SK.."0:42626752"] = "ebolaemily/x0m/284 Troll names, 2x VAC bans, Blackops.cfg",
 	[SK.."0:80228235"] = "2S: AHack",
 	[SK.."1:41918177"] = "Blackops.cfg",
 	[SK.."0:33891807"] = "Skiddie",
