@@ -25,6 +25,13 @@ local Skiddies 	= {
 
 
 
+
+
+	[SK.."0:62281102"] = "slmann101/Troll names, STEALING FILES, sv_allowcslua bypass, asking for hacks and exploits,cvar3,nospread,JSP,anxition,MS,frost",
+	
+	[SK.."1:149700631"] = "Bobinio/razoreq/bobinio111/Bobinio222, Sasha aimbot, VAC banned, Ban Evasion (Alt of STEAM_0:0:100904431)",
+	[SK.."0:100904431"] = "Bobinio/razoreq/bobinio111/Bobinio222, Sasha aimbot, VAC banned, Ban Evasion (STEAM_0:1:149700631)",
+	
 	[SK.."0:100115695"] = "Mc.Pozitiv, AW Hack",
 	[SK.."0:150652639"] = "MikolajCCA/Mikolaj, Jynxx Script2",
 	[SK.."0:127400248"] = "Reaper/imamoon/Troll names, Smeghack",
