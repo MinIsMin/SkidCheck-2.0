@@ -27,6 +27,7 @@ local Skiddies 	= {
 
 
 
+	[SK.."0:17067825"] = "Doctur Hecks/Lewis, Falcos scripts, VAC banned",
 	[SK.."0:62281102"] = "slmann101/Troll names, STEALING FILES, sv_allowcslua bypass, asking for hacks and exploits,cvar3,nospread,JSP,anxition,MS,frost",
 	
 	[SK.."1:149700631"] = "Bobinio/razoreq/bobinio111/Bobinio222, Sasha aimbot, VAC banned, Ban Evasion (Alt of STEAM_0:0:100904431)",
@@ -191,11 +192,11 @@ local Skiddies 	= {
 	[SK.."0:5236318"] = "Supreme/supremecheats/MrLethalVids/Troll names, VAC banned, C++ hacks, "..GG.." antibirusnet",
 	[SK.."1:58825993"] = "Mark/tamsakeer/lipothegreat, MPGH, admitted hacking, "..GG.." ididnothither",
 	[SK.."1:42257098"] = "Masson/masont50, MPGH, using hacks, "..GG.." ARMYSIDO",
-	[SK.."1:118352415"] = "sappily1/Cory French/newbcraft/Troll names, admitted stealing files, VAC banned, MPGH, Member of 3 hack/troll groups",
+	[SK.."1:118352415"] = "sappily1/Cory French/newbcraft/Troll names, admitted STEALING FILES, 2x VAC bans, MPGH, Member of 3 hack/troll groups",
 	[SK.."1:67605440"] = "TheSilentBoot/Gregg, VAC banned, MPGH",
 	[SK.."1:67122051"] = "dael72, SRSkill scripts",
 	[SK.."0:70826"] = "dreihunna/@@@@/Troll names, MPGH, Member of 10 hack/troll groups, BAN ME",
-	[SK.."0:69527423"] = "Aireesan/therealaireesan/Fiiily/Troll names, Stealing files, C++ hacks, lua bypass, Hera, "..GG.." anti-cheatsquad",
+	[SK.."0:69527423"] = "Aireesan/therealaireesan/Fiiily/Troll names, STEALING FILES, C++ hacks, lua bypass, Hera, "..GG.." anti-cheatsquad",
 	[SK.."0:24308736"] = "Niff/infinityencoder/Doge, Lennys scripts",
 	[SK.."0:157241525"] = "zakowski9999, Jynxx Script,SRSkill",
 	[SK.."0:21704354"] = "adventdawns, Member of hack/troll groups: tearnliquid-pro, bigmemers",
