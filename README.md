@@ -83,15 +83,26 @@ handled yourself in BlockSkidConnect!
 
 
 
-List format:
+You can also lookup a player in the database yourself, for other scripts etc.
+if Skid then
+	local Reason = Skid.HAC_DB[ ply:SteamID() ]
+	if Reason then
+		--Is on database
+	end
+end
+
+
+
+List format, I have made the files smaller by the following format:
 SK = "STEAM_0:"
 GG = "Member of hack/troll group:"
 
 So STEAM_0:0:1337 becomes:
 
-[SK.."0:1337"] = GG.." FuckVacIHack",
+	[SK.."0:1337"] = GG.." FuckVacIHack",
 
 
+	
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 + If you want your ID removed, post an 'Issue' here with proof that you don't cheat +
