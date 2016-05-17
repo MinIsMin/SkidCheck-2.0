@@ -6898,7 +6898,6 @@ local ExtraSkiddies = {
 	[SK.."0:19123761"] = GG.." 911insidejob",
 	[SK.."1:67401130"] = GG.." 911insidejob",
 	[SK.."0:104836863"] = GG.." 911insidejob",
-	[SK.."0:31724231"] = GG.." 911insidejob",
 	[SK.."1:59138808"] = GG.." 911insidejob",
 	[SK.."0:42279872"] = GG.." 911insidejob",
 	[SK.."0:44869786"] = GG.." 911insidejob",

@@ -24,7 +24,7 @@ local Skiddies 	= {
 
 
 
-
+	[SK.."0:31724231"] = "weebworld/Globalcringe/Anri/Troll names, "..GG.." 911insidejob",
 	[SK.."0:42130579"] = "ondrej008/Ondra, RoyalHack aimbot and wallhack",
 	[SK.."0:74165196"] = "Bubbie/bubbieb/Bubbles/Troll names, sv_allowcslua bypass (Kone), 3 terrible cheat scripts, Member of 15 hack/troll groups",
 	
