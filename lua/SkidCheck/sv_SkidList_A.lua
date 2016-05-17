@@ -25,7 +25,8 @@ local Skiddies 	= {
 
 
 
-
+	[SK.."0:74165196"] = "Bubbie/bubbieb/Bubbles/Troll names, sv_allowcslua bypass (Kone), 3 terrible cheat scripts, Member of 15 hack/troll groups",
+	
 	[SK.."0:54048494"] = "Perdition/Gavin/Tankster/Tankster2002, STEALING FILES, MPGH, VAC banned, "..GG.." psilentaimbot,MPGH, Ban evasion (Alt STEAM_0:0:170540186)",
 	[SK.."0:170540186"] = "Perdition/Gavin/Tankster/Tankster2002, STEALING FILES, MPGH, VAC banned, "..GG.." psilentaimbot,MPGH, Ban evasion (Alt of STEAM_0:0:54048494)",
 	
