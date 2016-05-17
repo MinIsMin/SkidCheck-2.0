@@ -25,12 +25,13 @@ local Skiddies 	= {
 
 
 
+	[SK.."0:42130579"] = "ondrej008/Ondra, RoyalHack aimbot and wallhack",
 	[SK.."0:74165196"] = "Bubbie/bubbieb/Bubbles/Troll names, sv_allowcslua bypass (Kone), 3 terrible cheat scripts, Member of 15 hack/troll groups",
 	
 	[SK.."0:54048494"] = "Perdition/Gavin/Tankster/Tankster2002, STEALING FILES, MPGH, VAC banned, "..GG.." psilentaimbot,MPGH, Ban evasion (Alt STEAM_0:0:170540186)",
 	[SK.."0:170540186"] = "Perdition/Gavin/Tankster/Tankster2002, STEALING FILES, MPGH, VAC banned, "..GG.." psilentaimbot,MPGH, Ban evasion (Alt of STEAM_0:0:54048494)",
 	
-	[SK.."0:17067825"] = "Doctur Hecks/Lewis, Falcos scripts, VAC banned",
+	[SK.."0:17067825"] = "Doctur Hecks/Lewis/Lemmie, Falcos scripts, VAC banned",
 	[SK.."0:62281102"] = "slmann101/Troll names, STEALING FILES, sv_allowcslua bypass, asking for hacks and exploits,cvar3,nospread,JSP,anxition,MS,frost",
 	
 	[SK.."1:149700631"] = "Bobinio/razoreq/bobinio111/Bobinio222, Sasha aimbot, VAC banned, Ban Evasion (Alt of STEAM_0:0:100904431)",
@@ -1262,7 +1263,7 @@ local Skiddies 	= {
 	[SK.."0:87834515"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
 	[SK.."0:37511807"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
 	
-	[SK.."0:30559593"] = "Hafnium/aria/Onyx/_ari/SarcasticSweater41/Troll names, hacks, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
+	[SK.."0:30559593"] = "Hafnium/aria/Onyx/_ari/SarcasticSweater41/_haffy/Troll names, MPGH, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
 	[SK.."0:40575885"] = "DarthKreamer/100% Troll names, "..GG.." urafagetur, BAN ME",
 	[SK.."0:27489475"] = "Chef/L33TH4X00R/Skid, 2x VAC bans, aimware,Lennys,dango,troll names, "..GG.." MPGH, BAN ME",
 	[SK.."0:39379174"] = "DJ SpiderByte/djsb, VAC banned, selling hacks, "..GG.." gayweedddads, BAN ME",
