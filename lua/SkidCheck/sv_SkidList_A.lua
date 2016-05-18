@@ -22,7 +22,7 @@ local Skiddies 	= {
 
 
 
-
+	[SK.."0:39787341"] = "inqntrolx/Natalia Poklonskaya/inQntrol/252 Troll names, 3x VAC bans, "..GG.." 420Fedora,MPGH,KancerKancerKancer,meanmemez",
 	[SK.."0:2678511"] = "dontfollowmeplz/Adolf Hitler/Troll names, Propkiller, "..GG.." Letsraidgmodservers",
 	[SK.."0:31724231"] = "weebworld/Globalcringe/Anri/Troll names, "..GG.." 911insidejob",
 	[SK.."0:42130579"] = "ondrej008/Ondra, RoyalHack aimbot and wallhack",

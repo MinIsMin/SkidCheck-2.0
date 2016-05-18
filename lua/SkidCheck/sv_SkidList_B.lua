@@ -8991,7 +8991,6 @@ local ExtraSkiddies = {
 	[SK.."1:52637543"] = GG.." 420Fedora",
 	[SK.."1:60589825"] = GG.." 420Fedora",
 	[SK.."0:63653787"] = GG.." 420Fedora",
-	[SK.."0:39787341"] = GG.." 420Fedora",
 	[SK.."1:41443504"] = GG.." 420Fedora",
 	[SK.."0:47151335"] = GG.." 420Fedora",
 	[SK.."0:76413856"] = GG.." 420Fedora",
