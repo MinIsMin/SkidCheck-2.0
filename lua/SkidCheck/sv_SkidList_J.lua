@@ -411,7 +411,6 @@ local ExtraSkiddies = {
 	[SK.."0:43877773"] = GG.." Letsraidgmodservers",
 	[SK.."0:81528754"] = GG.." Letsraidgmodservers",
 	[SK.."0:55763588"] = GG.." Letsraidgmodservers",
-	[SK.."0:2678511"] = GG.." Letsraidgmodservers",
 	[SK.."0:85287244"] = GG.." Letsraidgmodservers",
 	[SK.."0:1661379"] = GG.." Letsraidgmodservers",
 	[SK.."0:31190006"] = GG.." Letsraidgmodservers",
