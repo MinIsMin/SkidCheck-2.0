@@ -22,6 +22,12 @@ local Skiddies 	= {
 
 
 
+
+
+
+
+	[SK.."0:143793181"] = "RvAKENol, VAC banned, AW Hack",
+	[SK.."0:69348930"] = "Joseph/2aa/218 Troll names, trying to push malware via steam profile, 2S: sv_allowcslua, OubHack, 2x VAC bans, BAN ME FOREVER",
 	[SK.."0:39787341"] = "inqntrolx/Natalia Poklonskaya/inQntrol/252 Troll names, 3x VAC bans, "..GG.." 420Fedora,MPGH,KancerKancerKancer,meanmemez",
 	[SK.."0:2678511"] = "dontfollowmeplz/Adolf Hitler/Troll names, Propkiller, "..GG.." Letsraidgmodservers",
 	[SK.."0:31724231"] = "weebworld/Globalcringe/Anri/Troll names, "..GG.." 911insidejob",
@@ -2663,7 +2669,6 @@ local Skiddies 	= {
 	[SK.."0:69483596"] = "2S: AHack",
 	[SK.."0:19141207"] = "Why so derp",
 	[SK.."0:63923882"] = "STREET FIGHTER GUNHA, sv_cheats",
-	[SK.."0:69348930"] = "Joseph, 2S: sv_allowcslua, OubHack",
 	[SK.."1:68233882"] = "kazmo, AHack",
 	[SK.."0:6796891"] = "Dr. Phil",
 	[SK.."0:34536928"] = "Blackops.cfg",
