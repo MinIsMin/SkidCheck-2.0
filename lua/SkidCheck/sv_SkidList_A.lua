@@ -26,6 +26,14 @@ local Skiddies 	= {
 
 
 
+
+
+
+
+	[SK.."1:50447707"] = "Redogg/redawg/Pizzadox/Thesavior/quintinos/Savior, C++ hacks, Ampris,Smeghack,cvar3, "..GG.." MPGH, Ban evasion (Alt  of STEAM_0:1:38711856)",
+	[SK.."1:38711856"] = "Redogg/redawg/Pizzadox/Thesavior/quintinos/Savior, C++ hacks, Ampris,Smeghack,cvar3, "..GG.." MPGH, Ban evasion (Alt STEAM_0:1:50447707)",
+	
+	[SK.."1:68697033"] = "sergulz/Elric/buboe/Troll names, 2x VAC bans, MPGH, 2S: Mapex, Member of 25 hack/troll groups",
 	[SK.."0:143793181"] = "RvAKENol, VAC banned, AW Hack",
 	[SK.."0:69348930"] = "Joseph/2aa/218 Troll names, trying to push malware via steam profile, 2S: sv_allowcslua, OubHack, 2x VAC bans, BAN ME FOREVER",
 	[SK.."0:39787341"] = "inqntrolx/Natalia Poklonskaya/inQntrol/252 Troll names, 3x VAC bans, "..GG.." 420Fedora,MPGH,KancerKancerKancer,meanmemez",
@@ -6502,7 +6510,6 @@ local Skiddies 	= {
 	[SK.."0:20471483"] = "p00ner69",
 	[SK.."1:41804354"] = "SSDB: BadRCC@",
 	[SK.."1:42323673"] = "SSDB: BadMetatable",
-	[SK.."1:68697033"] = "2S: Mapex",
 	[SK.."1:73633820"] = "2S: Unknown hack",
 	[SK.."1:41420851"] = "OldGamer (hera)",
 	[SK.."0:68020977"] = "2S: AHack",
