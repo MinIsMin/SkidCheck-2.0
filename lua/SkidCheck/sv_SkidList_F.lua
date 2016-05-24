@@ -1954,7 +1954,6 @@ local ExtraSkiddies = {
 	[SK.."1:4154719"] = GG.." gluacopypasters",
 	[SK.."0:42729462"] = GG.." gluacopypasters",
 	[SK.."1:16071160"] = GG.." gluacopypasters",
-	[SK.."1:27043643"] = GG.." gluacopypasters",
 	[SK.."1:71390919"] = GG.." gluacopypasters",
 	[SK.."1:26244933"] = GG.." gluacopypasters",
 	[SK.."0:31831965"] = GG.." urmamaisdonebyme",

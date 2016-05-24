@@ -76,11 +76,12 @@ function Skid.Check(server_only)
 	
 	//Go!
 	for k,v in pairs( player.GetHumans() ) do
-		local Reason = Skid.HAC_DB[ v:SteamID() ]
+		local SID		= v:SteamID()
+		local Reason 	= Skid.HAC_DB[ SID ]
 		if not Reason then continue end
 		
 		//Log
-		file.Append("sk_encounters.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), v:SteamID(), Reason) )
+		file.Append("sk_encounters.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), SID, Reason) )
 		
 		//Tell server
 		MsgC(Skid.GREY, "\n[")
@@ -89,7 +90,7 @@ function Skid.Check(server_only)
 		MsgC(Skid.GREY, "] ")
 		MsgC(Skid.RED, v:Nick() )
 		MsgC(Skid.GREY, " (")
-		MsgC(Skid.GREEN, v:SteamID() )
+		MsgC(Skid.GREEN, SID)
 		MsgC(Skid.GREY, ")")
 		MsgC(Skid.GREY, " <")
 		MsgC(Skid.RED, Reason)
@@ -128,7 +129,8 @@ function Skid.Check(server_only)
 	end
 end
 
-function Skid.Command()
+function Skid.Command(self,cmd,args)
+	if IsValid(self) and not self:IsAdmin() then return end
 	Skid.Check()
 end
 concommand.Add("sk", Skid.Command)
@@ -197,24 +199,33 @@ end
 hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)
 
 
+//IsOnSK, for easy checking in other addons etc
+local Player = FindMetaTable("Player")
+function Player:IsOnSK()
+	return Skid.HAC_DB[ self:SteamID() ]
+end
+
+
 
 //List sync from GitHub
 Skid.CanSync = ""
 if Skid.sk_sync:GetBool() then
-	Skid.CanSync = " (Will sync now, and @ map change)"
+	Skid.CanSync = " (Will sync on 1st join)"
 	
 	include("sk_Sync.lua")
 end
 
 //Loaded
 function Skid.Ready()
+	Skid.IsReady = true
+	
 	MsgC(Skid.GREY, 	"\n[")
 	MsgC(Skid.WHITE2, 	"Skid")
 	MsgC(Skid.BLUE, 	"Check")
 	MsgC(Skid.GREY, 	"] ")
 	MsgC(Skid.GREEN, 	"Ready. ")
 	MsgC(Skid.RED,		 tostring( table.Count(Skid.HAC_DB) ):Comma() )
-	MsgC(Skid.GREEN, 	" bad players in local lists!"..Skid.CanSync.."\n\n")
+	MsgC(Skid.GREEN, 	" IDs in local lists!"..Skid.CanSync.."\n\n")
 end
 timer.Simple(1, Skid.Ready)
 

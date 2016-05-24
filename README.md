@@ -13,20 +13,20 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 How to use:
-Download the Zip > Extract to the server's addons folder and restart.
+Download the Zip > Extract to the server's /addons folder and restart.
 
 Nothing is needed to configure or set up (Unless you want to).
 
 By default, for any IDs in the database, this addon will do a warning message & sound
-in the chat when those players spawn in the server.
+in the chat if those players spawn in the server.
 It will also download the latest DB from GitHub on map change, and then every 6 hours.
 
-It can not *detect* cheaters, nor can it punish anyone it finds. (Unless you hook it)
+It can not *detect* new cheaters, nor can it punish anyone it finds. (Unless hooked)
 It can only do the following:
 
 
 CVars (Add to your server.cfg if you want to change default options):
-sk_kick  0/1  --Prevent players on the naughty list from joining.
+sk_kick  0/1  --Prevent players on this database from joining at all.
 0 by default
 
 sk_omit  1/0  --Send SK message to everyone BUT the known cheater
@@ -38,15 +38,15 @@ sk_admin 0/1  --ONLY send SK messages to admins, no one else
 sk_sync  8/0  --Allow list sync from GitHub?
 8 by default, value = hours to check for updates (0 to disable)
 
-sk_silent 0/1 --Disable all SK messages? (WILL STILL KICK if sk_kick is 1)
+sk_silent 0/1 --Disable all SK messages? (STILL KICKS if sk_kick is 1)
 0 by default
 
 
 
-Commands:
+Commands, admin only (DON'T add to server.cfg):
 sk            --Re-play the sound and message if any cheaters in game.
 
-sk_update     --Sync all lists rignt now, usually runs every sk_sync hours
+sk_update     --Sync now, runs on map startup, and every sk_sync hours.
 
 
 
@@ -55,8 +55,14 @@ sk_connect.txt       --Logs known cheater join attempts
 sk_encounters.txt    --Logs every known cheater that spawns (if sk_kick is 0)
 
 
+Note:
+The lists will only sync when the 1st player joins the server, due to Lua timers.
+Nothing to worry about.
 
 
+
+
+API:
 Hooks (SERVER side):
 
 hook.Add("BlockSkidConnect", "SK", function(user,SID, Reason)
@@ -83,9 +89,18 @@ handled yourself in BlockSkidConnect!
 
 
 
-You can also lookup a player in the database yourself, for other scripts etc.
+You can also query the database yourself, for other scripts etc.
+//Player
 if Skid then
-	local Reason = Skid.HAC_DB[ ply:SteamID() ]
+	local Reason = ply:IsOnSK()
+	if Reason then
+		--Is on database
+	end
+end
+
+//SteamID lookup, use the above if dealing with active players!
+if Skid then
+	local Reason = Skid.HAC_DB["STEAM_0:0:1337"]
 	if Reason then
 		--Is on database
 	end
@@ -93,13 +108,16 @@ end
 
 
 
-List format, I have made the files smaller by the following format:
+
+
+List format:
+I have made the files smaller by the following format:
 SK = "STEAM_0:"
 GG = "Member of hack/troll group:"
 
 So STEAM_0:0:1337 becomes:
 
-	[SK.."0:1337"] = GG.." FuckVacIHack",
+[SK.."0:1337"] = GG.." FuckVacIHack",
 
 
 	

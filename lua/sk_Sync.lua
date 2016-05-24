@@ -17,15 +17,20 @@
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 */
 
-
 --Update module idea & some code by GGG KILLER
+
+//Run the list files here
 Skid.Sync = {
 	//List of files to download
 	Index 			= {},
 	
-	//Run the list files here
+	//List version, changed when list structure is changed / merged
+	VERSION			= "2.0",
+	
+	//Env
 	HAC 			= {
 		Skiddies	= {},
+		SK_ListVer	= "0"
 	},
 	
 	table 			= {
@@ -48,8 +53,11 @@ local function MsgN(str, err)
 	MsgC(Skid.ORANGE, 	str.."\n")
 end
 
-local function Error(str)
+local function Error(str,Bad)
 	MsgN(str, true)
+	if Bad then
+		MsgN("Please re-download this addon from https://github.com/MFSiNC/SkidCheck-2.0", true)
+	end
 end
 
 
@@ -90,7 +98,7 @@ function Skid.Sync.Download(self, v)
 	http.Fetch(v.URL, function(body)
 		//body
 		if not ( isstring(body) and #body > 9 ) then
-			Error("GitHub download body error (Got "..tostring(body)..")")
+			Error("HTTP Body error (Got "..tostring(body)..")")
 			return
 		end
 		
@@ -98,7 +106,7 @@ function Skid.Sync.Download(self, v)
 		//Compile
 		local List = CompileString(body, Name)
 		if not List then
-			Error("GitHub download, Can't compile "..Name)
+			Error("Can't compile "..Name)
 			return
 		end
 		
@@ -106,45 +114,61 @@ function Skid.Sync.Download(self, v)
 		setfenv(List, Skid.Sync)
 		local ret,err = pcall(List)
 		if err or not ret then
-			Error("GitHub download, Can't load "..Name..": ["..tostring(err).."]\n")
+			Error("Can't load "..Name..": ["..tostring(err).."]\n")
 			return
 		end
 		
 		
 		//Select next
 		timer.Simple(1, function()
-			//Finish
-			if self._Upto == self._Size then
-				//Too small
-				local Size = table.Count(Skid.Sync.HAC.Skiddies)
-				if Size < 48000 then
-					Error("GitHub download, List size mismatch! (Only got "..tostring(Size):Comma()..", way less than local lists!)")
-					return
-				end
-				
-				//Override local lists
-				local New				= table.Count(Skid.Sync.HAC.Skiddies)
-				local Old				= table.Count(Skid.HAC_DB)
-				Skid.HAC_DB 			= Skid.Sync.HAC.Skiddies
-				Skid.Sync.HAC.Skiddies 	= {}
-				
-				local Diff	= New - Old
-				local sDiff	= tostring(Diff):Comma()
-				MsgN("Download complete, lists up to date."..(Diff > 0 and " "..sDiff.." new IDs :)" or "") )
-				
-				if Diff > 500 then
-					MsgN(":\n\nLocal lists differ by more than "..sDiff.." IDs.\nRe-download the addon from GitHub to be sure of updates!\n")
-				end
-				
-				Skid.CanSync = " Sync complete :)"
-				Skid.Ready()
-			else
+			//Next & Finish
+			if self._Upto != self._Size then
 				self:Select()
+				return
 			end
+			
+			
+			//Version
+			local vGit = tostring( Skid.Sync.HAC.Skiddies.VERSION ) --Remote
+			local vLoc = tostring( Skid.HAC_DB.VERSION )			--Local
+			if vGit != vLoc then
+				Error("LIST FORMAT VERSION CHANGE, Can't sync lists! (doesn't happen often)")
+				Error("(vGit: "..vGit.." != vLoc: "..vLoc..")", true)
+				
+				Skid.IsReady 			= false
+				Skid.Sync.HAC.Skiddies 	= {}
+				timer.Destroy("Skid.Sync.GetIndex")
+				return
+			end
+			
+			//Count
+			local Git	= table.Count(Skid.Sync.HAC.Skiddies)
+			local Old	= table.Count(Skid.HAC_DB)
+			local Diff	= Git - Old
+			local sDiff	= tostring(Diff):Comma()
+			
+			if Git < 100000 then
+				Error("Got list size error! ("..tostring(Git):Comma()..", less than "..tostring(Old):Comma().." in local lists!)", true)
+				return
+			end
+			
+			//Override local lists
+			Skid.HAC_DB 			= Skid.Sync.HAC.Skiddies
+			Skid.Sync.HAC.Skiddies	= {}
+			MsgN("Download complete, lists up to date."..(Diff > 0 and " "..sDiff.." new IDs :)" or "") )
+			
+			//Large additions, prompt re-download
+			if Diff > 1000 then
+				Error(":\n\nLocal lists differ by more than "..sDiff.." IDs!\n", true)
+			end
+			
+			//Done
+			Skid.CanSync = " Sync complete :)"
+			Skid.Ready()
 		end)
 		
 	end, function(err)
-		Error("GitHub download error "..(err == "unsuccessful" and "http.Fetch not functioning, blame Garry" or err)..")")
+		Error("GitHub HTTP error: "..(err == "unsuccessful" and "http.Fetch not functioning, blame Garry" or err)..")")
 	end)
 end
 
@@ -152,37 +176,36 @@ end
 
 //Download index
 function Skid.Sync.GetIndex()
-	MsgN("GitHub download, getting index..")
+	if not Skid.IsReady then return end
 	
+	MsgN("Fetching index..")
 	local Index = {}
 	
 	http.Fetch("https://api.github.com/repositories/22792657/contents/lua/SkidCheck", function(body)
 		//body
 		if not ( isstring(body) and #body > 9 ) then
-			Error("GitHub body error (Got "..tostring(body)..")")
+			Error("GetIndex HTTP error (Got "..tostring(body)..")")
 			return
 		end
 		
 		//JSON
 		body = util.JSONToTable(body)
 		if not ( istable(body) and #body >= 9 ) then
-			Error("GitHub JSON decode error (Got "..type(body)..")")
+			Error("GetIndex JSON decode error (Got "..type(body)..")")
 			return
 		end
 		
 		
 		//Files
 		for k,v in pairs(body) do
-			if not v.name then continue end
+			if not v.name or not v.name:StartWith("sv_SkidList") then continue end
 			
-			if v.name:StartWith("sv_SkidList") then
-				table.insert(Index,
-					{
-						URL		= v.download_url,
-						Name 	= v.name,
-					}
-				)
-			end
+			table.insert(Index,
+				{
+					URL		= v.download_url,
+					Name 	= v.name,
+				}
+			)
 		end
 		//Sort
 		table.sort(Index, function(k,v)
@@ -191,10 +214,9 @@ function Skid.Sync.GetIndex()
 		
 		//Make sure they're all there
 		local Have	= #Skid.Lists
-		local Got	= #Index
-		if Got < Have then
-			Error("GitHub list count error, the lists have changed by a large ammount (Got "..Got..", Have "..Have..")")
-			Error("Please re-download this addon from https://github.com/MFSiNC/SkidCheck-2.0")
+		local Git	= #Index
+		if Git < Have then
+			Error("List re-shuffle! large changes to lists @ GitHub (Git: "..Git..", Have: "..Have..")", true)
 			return
 		end
 		
@@ -221,11 +243,17 @@ end
 //Slight delay, to wait for everything to become ready
 timer.Simple(3, Skid.Sync.GetIndex)
 
-//Update every 6 hours
+//Update every
 timer.Create("Skid.Sync.GetIndex", (Skid.sk_sync:GetInt() * 60 * 60), 0, Skid.Sync.GetIndex)
 
 //Manual sync
-function Skid.Sync.Command()
+function Skid.Sync.Command(self,cmd,args)
+	if IsValid(self) and not self:IsAdmin() then return end
+	if not Skid.IsReady then
+		Error("Not ready, sk_update can't be used in server.cfg, please wait for the map to load!")
+		return
+	end
+	
 	Skid.Sync.GetIndex()
 end
 concommand.Add("sk_update", Skid.Sync.Command)

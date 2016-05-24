@@ -1,5 +1,6 @@
 --#1 - Banned by HAC/discovered from forums/cheats/steam profiles, etc. The main list.
 
+local VERSION	= "2.0" --Changed when list structure is changed / merged. Hardcoded in sk_Sync.
 local GG 		= "Member of hack/troll group:"
 local Snix		= "Member of snixzz hacking site"
 local SK		= "STEAM_0:"
@@ -28,8 +29,8 @@ local Skiddies 	= {
 
 
 
-
-
+	[SK.."1:78818587"] = "thedrewguy/Dankerino/Memestar, "..GG.." fatkids,911_Was_Funny,comcastsiegheil,FuckinFaggots",
+	[SK.."1:27043643"] = "VeXan/Parker, 3x VAC bans, "..GG.." gluacopypasters",
 	[SK.."1:50447707"] = "Redogg/redawg/Pizzadox/Thesavior/quintinos/Savior, C++ hacks, Ampris,Smeghack,cvar3, "..GG.." MPGH, Ban evasion (Alt  of STEAM_0:1:38711856)",
 	[SK.."1:38711856"] = "Redogg/redawg/Pizzadox/Thesavior/quintinos/Savior, C++ hacks, Ampris,Smeghack,cvar3, "..GG.." MPGH, Ban evasion (Alt STEAM_0:1:50447707)",
 	
@@ -156,8 +157,11 @@ local Skiddies 	= {
 	[SK.."1:116473238"] = "Delfyni 2, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of STEAM_0:1:60147209)",
 	[SK.."1:127095279"] = "Delfyni 3, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of STEAM_0:1:60147209)",
 	
-	[SK.."1:89950412"] = "Emc2/Quackalot, Mapex",
+	[SK.."0:36570584"] = "Dr Drunk/Monenerund/imaultra/Troll names alt 2, Aimware C++ hacks, Triggerbot, 2x VAC bans, BAN ME FOREVER",
+	[SK.."0:34020548"] = "Dr Drunk/Monenerund/imaultra/Troll names alt 1, Aimware C++ hacks, Triggerbot, 2x VAC bans, BAN ME FOREVER",
 	[SK.."1:29372458"] = "Dr Drunk/Monenerund/imaultra/Troll names, Aimware C++ hacks, Triggerbot, 2x VAC bans, BAN ME FOREVER",
+	
+	[SK.."1:89950412"] = "Emc2/Quackalot, Mapex",
 	[SK.."1:79604266"] = "ACE BennyS/Kevin, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot, ",
 	[SK.."0:132700390"] = "Minecrafter LP/Alex, AHack, sasha.lua, ponyhack",
 	[SK.."0:45270658"] = "Death, Dark scripts, Falcos scripts, propkiller",
@@ -368,7 +372,10 @@ local Skiddies 	= {
 	[SK.."0:5992527"] = "The Commander/commandernz/Troll names, SteamID spoofing, Member of hack/troll groups, BAN ME",
 	[SK.."0:83634798"] = "Ben/Dwang, "..GG.." ididnothither",
 	[SK.."0:45189895"] = "CandleJack/Sookme0ff/detrayhaus, "..GG.." auto-aiming",
-	[SK.."0:96933728"] = "Velkon/velkon_gmod, stealing files, SteamID spoofing, C++ hacks, "..GG.." imadethem, BAN ME FOREVER",
+	
+	[SK.."0:96933728"] = "Velkon/velkon_gmod, stealing files, SteamID spoofing, C++ hacks, Ban evasion (Alt STEAM_0:1:128933424), "..GG.." imadethem, BAN ME FOREVER",
+	[SK.."1:128933424"] = "Velkon/velkon_gmod alt, stealing files, SteamID spoofing, C++ hacks, Ban evasion (Alt of STEAM_0:0:96933728), "..GG.." imadethem, BAN ME FOREVER",
+	
 	[SK.."0:154068169"] = "ohunsexyme/Troll names, BAN ME FOREVER",
 	[SK.."0:145849302"] = "worldstarballsdeep/Troll names, VAC banned, "..GG.." memewaremang, BAN ME FOREVER",
 	[SK.."1:81524689"] = "Shayking/Troll names, Stealing files, SwagServers: JSP cheat",
@@ -6841,7 +6848,7 @@ local Skiddies 	= {
 
 
 table.MergeEx(Skiddies, HAC.Skiddies)
-
+HAC.Skiddies.VERSION = VERSION
 
 
 

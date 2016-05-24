@@ -6904,7 +6904,6 @@ local ExtraSkiddies = {
 	[SK.."1:73395974"] = GG.." fatkids",
 	[SK.."1:83714440"] = GG.." fatkids",
 	[SK.."0:39970555"] = GG.." fatkids",
-	[SK.."1:78818587"] = GG.." fatkids",
 	[SK.."0:62508411"] = GG.." fatkids",
 	[SK.."1:87366869"] = GG.." fatkids",
 	[SK.."1:105558496"] = GG.." fatkids",
