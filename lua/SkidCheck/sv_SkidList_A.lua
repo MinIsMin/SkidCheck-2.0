@@ -27,8 +27,8 @@ local Skiddies 	= {
 
 
 
-
-
+	[SK.."0:87643193"] = "Raze/personalrealraze500/dammedguy, VAC banned, MPGH, "..GG.." WeCheatAtGames,MPGH,VACISAJOKE",
+	[SK.."1:53548020"] = "xwhox/Onxio/Troll names, VAC banned, MPGH, "..GG.." annoyingprogamers",
 	[SK.."1:78818587"] = "thedrewguy/Dankerino/Memestar, "..GG.." fatkids,911_Was_Funny,comcastsiegheil,FuckinFaggots",
 	[SK.."1:27043643"] = "VeXan/Parker, 3x VAC bans, "..GG.." gluacopypasters",
 	[SK.."1:50447707"] = "Redogg/redawg/Pizzadox/Thesavior/quintinos/Savior, C++ hacks, Ampris,Smeghack,cvar3, "..GG.." MPGH, Ban evasion (Alt  of STEAM_0:1:38711856)",
@@ -354,7 +354,10 @@ local Skiddies 	= {
 	[SK.."0:72001582"] = "SavageTurtle/mintcrew/Troll names, STEALING FILES, 2x VAC bans, SteamID spoofing, cvar3,nospread,JSP, ahack,Lennys,SH, BAN ME FOREVER",
 	
 	[SK.."1:24123574"] = "atb7195/Daniel Bialy, sv_allowcslua bypass",
+	
+	[SK.."0:70614886"] = "TQuaidZn alt, Stealing files, SteamID spoofing, 2x VAC bans, 16 bad DLLs, 27 lua hacks, SwagServers: sv_cheats = 1, Member of 3 hack/troll groups, BAN ME FOREVER",
 	[SK.."0:46709807"] = "TQuaidZn, Stealing files, SteamID spoofing, 2x VAC bans, 16 bad DLLs, 27 lua hacks, SwagServers: sv_cheats = 1, Member of 3 hack/troll groups, BAN ME FOREVER",
+	
 	[SK.."0:80834455"] = "thecreephunter3478/Roman, VAC banned, Dark scripts, Lennys scripts",
 	[SK.."1:104783604"] = "Familia Bernd, AHack",
 	[SK.."0:154107160"] = "Mae/MAx KiEffE, sv_cheats",
@@ -5194,7 +5197,7 @@ local Skiddies 	= {
 	[SK.."0:39101463"] = "Loweski",
 	[SK.."1:11532489"] = "SSDB: ModuleErr",
 	[SK.."1:39642650"] = "[TA] andy",
-	[SK.."0:42626752"] = "ebolaemily/x0m/284 Troll names, 2x VAC bans, Blackops.cfg",
+	[SK.."0:42626752"] = "ebolaemily/x0m/287 Troll names, 2x VAC bans, Blackops.cfg, BAN ME",
 	[SK.."0:80228235"] = "2S: AHack",
 	[SK.."1:41918177"] = "Blackops.cfg",
 	[SK.."0:33891807"] = "Skiddie",
