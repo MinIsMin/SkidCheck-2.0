@@ -120,7 +120,7 @@ function Skid.Sync.Download(self, v)
 		
 		
 		//Select next
-		timer.Simple(1, function()
+		timer.Simple(0.4, function()
 			//Next & Finish
 			if self._Upto != self._Size then
 				self:Select()
