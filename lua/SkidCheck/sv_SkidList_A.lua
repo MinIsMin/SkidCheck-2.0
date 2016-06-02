@@ -377,8 +377,8 @@ local Skiddies 	= {
 	[SK.."0:83634798"] = "Ben/Dwang, "..GG.." ididnothither",
 	[SK.."0:45189895"] = "CandleJack/Sookme0ff/detrayhaus, "..GG.." auto-aiming",
 	
-	[SK.."0:96933728"] = "Velkon/velkon_gmod, stealing files, SteamID spoofing, C++ hacks, Ban evasion (Alt STEAM_0:1:128933424), "..GG.." imadethem, BAN ME FOREVER",
-	[SK.."1:128933424"] = "Velkon/velkon_gmod alt, stealing files, SteamID spoofing, C++ hacks, Ban evasion (Alt of STEAM_0:0:96933728), "..GG.." imadethem, BAN ME FOREVER",
+	[SK.."0:96933728"] = "Velkon/velkon_gmod, stealing files, SteamID spoofing, C++ hacks, Falcos, Ban evasion (Alt STEAM_0:1:128933424), "..GG.." imadethem, BAN ME FOREVER",
+	[SK.."1:128933424"] = "Velkon/velkon_gmod alt, stealing files, SteamID spoofing, C++ hacks, Falcos, Ban evasion (Alt of STEAM_0:0:96933728), "..GG.." imadethem, BAN ME FOREVER",
 	
 	[SK.."0:154068169"] = "ohunsexyme/Troll names, BAN ME FOREVER",
 	[SK.."0:145849302"] = "worldstarballsdeep/Troll names, VAC banned, "..GG.." memewaremang, BAN ME FOREVER",
