@@ -3562,7 +3562,6 @@ local ExtraSkiddies = {
 	[SK.."0:28994729"] = GG.." officialunityhacks",
 	[SK.."0:475747"] = GG.." officialunityhacks",
 	[SK.."0:6441064"] = GG.." officialunityhacks",
-	[SK.."1:150706548"] = GG.." officialunityhacks",
 	[SK.."0:150937613"] = GG.." officialunityhacks",
 	[SK.."1:168829722"] = GG.." officialunityhacks",
 	[SK.."0:124924586"] = GG.." officialunityhacks",

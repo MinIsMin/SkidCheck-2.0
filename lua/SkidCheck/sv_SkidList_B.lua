@@ -4222,7 +4222,6 @@ local ExtraSkiddies = {
 	[SK.."0:122615024"] = GG.." ALLHAILLENNY",
 	[SK.."1:10970616"] = GG.." poki",
 	[SK.."0:20450406"] = GG.." poki",
-	[SK.."0:59184558"] = GG.." poki",
 	[SK.."1:25253564"] = GG.." poki",
 	[SK.."1:30670855"] = GG.." poki",
 	[SK.."0:25097176"] = GG.." poki",
