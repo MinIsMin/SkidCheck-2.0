@@ -3109,7 +3109,6 @@ local ExtraSkiddies = {
 	[SK.."0:41201979"] = "Hovolor, Parallax Script",
 	[SK.."0:93291625"] = "roseandguns2, Parallax Script",
 	[SK.."1:79672409"] = "ClynkS, Parallax Script",
-	[SK.."1:61444258"] = "Mushy, Parallax Script",
 	[SK.."1:59048249"] = "Average Average, Parallax Script",
 	[SK.."1:65082757"] = "quak, Falcos",
 	[SK.."0:95953073"] = "HorseMann, Falcos",

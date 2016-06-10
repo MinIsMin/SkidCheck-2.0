@@ -27,10 +27,22 @@ local Skiddies 	= {
 
 
 
+	[SK.."0:79359052"] = "Notorious/Troll names, C++ hacks,19 cheat DLLs, 257 lua cheats/hacks!, ShittyScripts, Member of hack/troll group: pasters, BAN ME",
+	[SK.."1:17728777"] = "MytheMan/deagletimemyfriend/MytheMane/Troll names, Mapex aimbot",
+	[SK.."1:124240024"] = "BeyazBereliZenci/TeKird/iResistable, sv_allowcslua bypass, 2x VAC bans, gmcl_cat_win32, Hera,AHack,Defcon,ShittyScripts",
+	[SK.."1:53098383"] = "Swiftzei, Lennys, snixzz cheat user",
+	[SK.."1:61444258"] = "Mushy/Fagela1/Septicjelly, $w4g H4x,SRSscript,ParallaxScript,ShittyScripts,Lennys,Falcos",
+	[SK.."0:62476063"] = "MoonNinjaLT, ShittyScripts, VAC banned",
+	[SK.."1:111657944"] = "W-G Alien/kane/The_Modder_Guy/Troll names, ShittyScripts,DarkScripts, Propkiller",
+	[SK.."1:96662718"] = "Kevin/JamieWrendall/Anarchy.Venom, Dark scripts",
+	[SK.."1:95806102"] = "Rim3Xx/Nico08/Nico, sv_allowcslua bypass (kone_bypass), AHack, ShittyScripts, Game banned",
+	[SK.."0:106870345"] = "Mikkel2709/Mikkel, BridgeHack, game banned",
+	[SK.."0:38553566"] = "xr_3da/zYnthetic/Invisible name, Admitted DDoS, MPGH",
+	[SK.."1:107648512"] = "FeyNyNey/CoRRy_KliMe, Jynxx Script2",
 	[SK.."1:65241861"] = "MaxDoom/Max Potter, forced sv_cheats,sv_allowcslua bypass,kone_bypass,VAC banned,anxition,defcon,Lennys,vcmodexploit",
 	[SK.."0:67860860"] = "DokCrafter/RedstoneManuel, BridgeHack,DarkScripts,SmegHack,speedhacks,ShittyScripts,Lennys scripts",
-	[SK.."0:173369735"] = "w0rm/100% Troll names, sv_allowcslua bypass, snixzz cheat,amplify,nospread,propkiller, "..GG.." 5btcorelse",
-	[SK.."1:75711027"] = "BlackPwny/pred47or3/, snixzz cheat user, "..GG.." jizzrockets",
+	[SK.."0:173369735"] = "w0rm/100% Troll names, sv_allowcslua bypass, snixzz cheat,amplify,nospread,propkiller, "..GG.." 5btcorelse, possible alt of Kran",
+	[SK.."1:75711027"] = "BlackPwny/pred47or3, snixzz cheat user, "..GG.." jizzrockets",
 	[SK.."0:160852918"] = "Bonk/bestboob, snixzz cheat user",
 	[SK.."0:155482760"] = "Chase, snixzz cheat user",
 	[SK.."1:120200884"] = "stopcallingmefatmom/360scoped123/Troll names, snixzz cheat user, game banned",
@@ -70,7 +82,7 @@ local Skiddies 	= {
 	[SK.."0:143793181"] = "RvAKENol, VAC banned, AW Hack",
 	[SK.."0:69348930"] = "Joseph/2aa/218 Troll names, RCON hacking/Server takeover, trying to push malware via steam profile, 2S: sv_allowcslua, OubHack, 2x VAC bans, BAN ME FOREVER",
 	[SK.."0:39787341"] = "inqntrolx/Natalia Poklonskaya/inQntrol/252 Troll names, 3x VAC bans, "..GG.." 420Fedora,MPGH,KancerKancerKancer,meanmemez",
-	[SK.."0:2678511"] = "dontfollowmeplz/Adolf Hitler/Troll names, Propkiller, "..GG.." Letsraidgmodservers",
+	[SK.."0:2678511"] = "dontfollowmeplz/Adolf Hitler/Troll names, Propkiller, snixzz cheat user @ 06-08-2016, "..GG.." Letsraidgmodservers",
 	[SK.."0:31724231"] = "weebworld/Globalcringe/Anri/Troll names, "..GG.." 911insidejob",
 	[SK.."0:42130579"] = "ondrej008/Ondra, RoyalHack aimbot and wallhack",
 	[SK.."0:74165196"] = "Bubbie/bubbieb/Bubbles/Troll names, sv_allowcslua bypass (Kone), 3 terrible cheat scripts, Member of 15 hack/troll groups",
@@ -119,9 +131,9 @@ local Skiddies 	= {
 	[SK.."0:34824919"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, see List_A)",
 	[SK.."1:125836711"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, see List_A)",
 	
-	[SK.."1:44988977"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt STEAM_0:1:33651852)",
-	[SK.."1:33651852"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt of STEAM_0:1:44988977)",
-	[SK.."0:70102994"] = "Chrispyy/chris19981/Troll names, Nospread,VAC banned,mapex,BigHack,newsbot,memeware,PA,gHook,SpinSquad, 2S: Sethhack, Ban evasion (Alt of STEAM_0:1:44988977)",
+	[SK.."1:44988977"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt STEAM_0:1:33651852)",
+	[SK.."1:33651852"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of STEAM_0:1:44988977)",
+	[SK.."0:70102994"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of STEAM_0:1:44988977)",
 	
 	[SK.."0:30427141"] = "Zero BestProfileName/k1ngof2jzxd/Twizy123/Troll names, sv_allowcslua bypass, 2x VAC bans, Bridgehack,AHack,Mapex,anxition,ShittyScripts,Lennys",
 	
@@ -156,6 +168,7 @@ local Skiddies 	= {
 	[SK.."1:163994333"] = "Temmi3/Troll names, "..Snix..", "..GG.." srchax",
 	[SK.."1:120617069"] = "Noname/Noname0/Troll names, "..Snix..", "..GG.." VACBINS",
 	
+	[SK.."1:161338855"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt STEAM_0:0:158567680)",
 	[SK.."0:144246851"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt STEAM_0:0:158567680)",
 	[SK.."0:158567680"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt of STEAM_0:0:144246851)",
 	[SK.."1:30635340"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt of STEAM_0:0:144246851)",
@@ -592,9 +605,9 @@ local Skiddies 	= {
 	[SK.."0:45006801"] = "FlubberKid/Spooderman/79070707568, "..Snix,
 	[SK.."0:57950062"] = "Tommy, "..Snix,
 	
-	[SK.."1:121524040"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS, VAC banned, C++ hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
-	[SK.."1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS, VAC banned, C++ hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
-	[SK.."1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS, VAC banned, C++ hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	[SK.."1:121524040"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip @ 06-07-2016, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	[SK.."1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip @ 06-07-2016, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	[SK.."1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS,VAC,C++,snixzz vip @ 06-07-2016, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
 	
 	[SK.."0:59727915"] = "kimi raikkonen/deaglemon/Possible phoon Snorflake alt, "..Snix..", Banned",
 	[SK.."0:41973844"] = "Firedraft, "..Snix,
@@ -619,7 +632,7 @@ local Skiddies 	= {
 	[SK.."1:81504650"] = "Mint/Alex/Troll names, VAC banned, "..Snix,
 	[SK.."1:92640942"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt of STEAM_0:0:62184463), BAN ME FOREVER",
 	[SK.."0:62184463"] = "Juggle Bubblels/TheTechPony/Nelson, stealing files, 2x VAC bans, Aimware, gDaap, admitted hacking, Ban evasion (Alt STEAM_0:1:92640942), BAN ME FOREVER",
-	[SK.."0:87858531"] = "Le ZamBie/infectedxzombie/Daniel/Troll names, "..Snix,
+	[SK.."0:87858531"] = "Le ZamBie/infectedxzombie/Daniel/Troll names, snixzz cheat user, "..Snix,
 	[SK.."0:67522120"] = "XQuantumForceX, 3x VAC bans, "..Snix..", "..GG.." hduaihduiwahh2111",
 	[SK.."0:76452339"] = "Tortoise_DevilBoy, gmodpickles, mapex, propkiller",
 	[SK.."1:49214336"] = "ChickenNest/igo rojao, anxition, lua/defiance.lua",
@@ -782,8 +795,8 @@ local Skiddies 	= {
 	[SK.."1:49385206"] = "Average bloke/baevid/Muggy/Troll names, "..Snix..", "..GG.." ValvesAntiCheatSquad, possible function alt",
 	[SK.."0:144747522"] = "xaNe/nostainxane, "..Snix,
 	
-	[SK.."1:61389584"] = "hookdotadd/Jon.Wen/Zayne/Troll names alt, stealing HeX's avatar & name, "..Snix..", "..GG.." ReCoNL33T,snixzznet, BAN ME FOREVER",
-	[SK.."1:68229625"] = "hookdotadd/Jon.Wen/Zayne/Troll names, stealing HeX's avatar & name, "..Snix..", "..GG.." ReCoNL33T,snixzznet, BAN ME FOREVER",
+	[SK.."1:61389584"] = "hookdotadd/Jon.Wen/Zayne/Troll names alt, stealing HeX's avatar & name, snixzz cheat vip user @ 06-08-2016, "..Snix..", "..GG.." snixzznet, BAN ME FOREVER",
+	[SK.."1:68229625"] = "hookdotadd/Jon.Wen/Zayne/Troll names, stealing HeX's avatar & name, snixzz cheat vip user @ 06-08-2016, "..Snix..", "..GG.." snixzznet, BAN ME FOREVER",
 	
 	[SK.."0:55054444"] = "undefined/TheLoyalShark/Troll names, "..Snix..", "..GG.." NiggaNews9,antibirusnet,NiggaNews9",
 	[SK.."1:84114584"] = "W3E InhumanThree1/Inhuman/Robert Fox, "..Snix,
@@ -1342,7 +1355,7 @@ local Skiddies 	= {
 	[SK.."1:61639885"] = "Honk Friend/Troll names, selling hacks, bridgehack, ban me",
 	[SK.."1:34411781"] = "Nomad, Lennys, "..GG.." TrollSquad9000",
 	[SK.."0:127231310"] = "Rob/DVoid/Catastro, gm_exploited, troll/hacking groups",
-	[SK.."1:4154719"] = "Warden1142/deltasword100/DarkCide/dmrradio/Serverwatch, speedhacks, admitted C++ hacks, propkiller, releasing hacks, BAN ME FOREVER",
+	[SK.."1:4154719"] = "Warden1142/deltasword100/DarkCide/dmrradio/Serverwatch, speedhacks, admitted C++ hacks,propkiller,releasing hacks, Member of many hack/troll groups, BAN ME FOREVER",
 	
 	[SK.."0:35810412"] = "KraN/kransurf/Gmodpwnz, Stealing files, RCON hacking/Server takeover, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
 	[SK.."0:89116170"] = "KraN/kransurf/Gmodpwnz alt, Stealing files, RCON hacking/Server takeover, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",

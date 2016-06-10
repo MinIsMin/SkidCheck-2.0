@@ -9410,7 +9410,6 @@ local ExtraSkiddies = {
 	[SK.."1:43837928"] = "The Niggest Bigga, Lennys",
 	[SK.."1:36971571"] = "FaZe_MeLonLoRd_XXX, Lennys",
 	[SK.."0:75888090"] = "notsure_jr, Lennys",
-	[SK.."1:53098383"] = "Swiftzei, Lennys",
 	[SK.."0:15004878"] = "Dutchie, VAC banned, Lennys",
 	[SK.."1:37463823"] = "sync, Lennys",
 	[SK.."1:70918014"] = "Deku-nut-kid, Lennys",
