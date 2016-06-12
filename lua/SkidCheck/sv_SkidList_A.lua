@@ -26,6 +26,7 @@ local Skiddies 	= {
 
 
 
+	[SK.."1:51535527"] = "Obey The Duck/jovkee/Vodka, memesmasher, nospread,gmcl_dickwrap_win32,gmcl_mega_win32",
 	[SK.."1:151824812"] = "MrBloodyboy/Leam, VAC banned, BridgeHack,SmegHack",
 	[SK.."0:57543246"] = "Mr.Sapin/Jaime mettre/KennyS/jeremy2002, Aimware C++ hack, sv_allowcslua bypass,gmcl_cat_win32,SmegHack,defcon,sasha,Game banned, BAN ME FOREVER",
 	
@@ -1545,7 +1546,7 @@ local Skiddies 	= {
 	[SK.."1:54774681"] = "Anime Hunter, Exploits/asking for hacks",
 	[SK.."0:59791191"] = "ItsWind, Exploits/asking for hacks",
 	[SK.."1:39928089"] = "The 403_Forbidden Adv3entur3, VAC banned, Exploits/asking for hacks",
-	[SK.."0:92597893"] = "xXTheDarkOne123/TSWD Gaming, DDoS, allowcslua bypass, asking for hacks, member of 2 hack/troll groups. BAN ME FOREVER",
+	[SK.."0:92597893"] = "xXTheDarkOne123/TSWD Gaming, DDoS, allowcslua bypass, MPGH, asking for hacks, member of 2 hack/troll groups. BAN ME FOREVER",
 	[SK.."1:6060773"] = "Clarkman28/peyto11, asking for help with stealing files/hacks. BAN ME",
 	[SK.."1:88843019"] = "The Churro Master, troll names",
 	[SK.."0:51913704"] = "Troll names, VAC banned, "..GG.." honorableposters",

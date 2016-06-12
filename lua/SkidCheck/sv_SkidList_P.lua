@@ -8454,7 +8454,6 @@ local ExtraSkiddies = {
 	[SK.."0:96922087"] = GG.." MEMEWARE3",
 	[SK.."0:147207649"] = GG.." MEMEWARE3",
 	[SK.."1:93759036"] = GG.." MEMEWARE3",
-	[SK.."1:91884421"] = GG.." MEMEWARE3",
 	[SK.."1:111035591"] = GG.." MEMEWARE3",
 	[SK.."1:120683455"] = GG.." MEMEWARE3",
 	[SK.."0:434800"] = GG.." pasters",
