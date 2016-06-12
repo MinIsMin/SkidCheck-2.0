@@ -24,8 +24,12 @@ local Skiddies 	= {
 
 
 
-
-
+	[SK.."0:124287262"] = "cleymoree/fabian, Forced sv_cheats, BridgeHack,ShittyScripts",
+	[SK.."0:79555317"] = "QuanTheDuckYT/Broseph/QuanTheDuck, forced sv_allowcslua, forced sv_cheats, darkv1bypass,Nospread,cvar3,ShittyScripts",
+	[SK.."1:79335801"] = "OpticDroPShoT12/FaZe rubber duck/golden wolf/McTechWarrioer, ShittyScripts, "..GG.." sscriptsGroup",
+	[SK.."0:125768394"] = "788078/Marwane/chanteloup, forced sv_allowcslua, forced sv_cheats, BridgeHack,ShittyScripts,Lennys",
+	[SK.."0:83341394"] = "HyanAyy/bloodisguudmate/Troll names, VAC banned, MemeSmasher,BridgeHack,Dark bypass,Nospread,gmcl_cat,defcon,Hera,Dark scripts,precisionbot,BlueBot,ShittyScripts",
+	[SK.."1:157511773"] = "im a modder lol/Troll names, STEALING FILES, SmegHack,JSP,cvar3,Nospread, Likely alt",
 	[SK.."1:51535527"] = "Obey The Duck/jovkee/Vodka, memesmasher, nospread,gmcl_dickwrap_win32,gmcl_mega_win32",
 	[SK.."1:151824812"] = "MrBloodyboy/Leam, VAC banned, BridgeHack,SmegHack",
 	[SK.."0:57543246"] = "Mr.Sapin/Jaime mettre/KennyS/jeremy2002, Aimware C++ hack, sv_allowcslua bypass,gmcl_cat_win32,SmegHack,defcon,sasha,Game banned, BAN ME FOREVER",
