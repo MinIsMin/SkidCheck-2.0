@@ -5399,7 +5399,6 @@ local ExtraSkiddies = {
 	[SK.."0:44170890"] = GG.." cheater",
 	[SK.."0:111995701"] = GG.." cheater",
 	[SK.."1:72102518"] = GG.." cheater",
-	[SK.."1:60388232"] = GG.." cheater",
 	[SK.."0:130735034"] = GG.." cheater",
 	[SK.."1:161646079"] = GG.." cheater",
 	[SK.."1:149416"] = GG.." cheater",
