@@ -7303,7 +7303,6 @@ local ExtraSkiddies = {
 	[SK.."0:85459536"] = GG.." ORGANNER",
 	[SK.."1:69093956"] = GG.." wtfvalvefixit (VAC bans)",
 	[SK.."1:65666973"] = GG.." ORGANNER",
-	[SK.."1:39141168"] = GG.." gayweedddads",
 	[SK.."1:56354690"] = GG.." urafagetur",
 	[SK.."1:26622650"] = GG.." TF2Xploits",
 	[SK.."1:35629020"] = GG.." ORGANNER",

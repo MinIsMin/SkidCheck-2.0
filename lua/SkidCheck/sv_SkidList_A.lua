@@ -23,6 +23,22 @@ local Skiddies 	= {
 
 
 
+
+
+	[SK.."1:39141168"] = "Bort/bofbert, Spamming HeX's profile, "..GG.." gayweedddads",
+	[SK.."0:74165196"] = "Bubbie/bubbieb/Bubbles/Troll names, sv_allowcslua bypass (Kone), 3 terrible cheat scripts, Member of 15 hack/troll groups, Spamming HeX's profile",
+	[SK.."1:80378849"] = "Silver the Catgirl/potatosenpai4ife, Spamming HeX's profile, "..GG.." 911insidejob",
+	[SK.."1:84904623"] = "ySycho/ypsycho, Spamming HeX's profile, "..GG.." allhailelso",
+	[SK.."1:72182440"] = "Captain Russia/towergame, Spamming HeX's profile, "..GG.." 911insidejob",
+	[SK.."1:52022674"] = "Zukuto/benzukuto, Spamming HeX's profile, "..GG.." toughguys",
+	[SK.."0:138882573"] = "Will Smith/axtan, Spamming HeX's profile, "..GG.." ididnothither",
+	[SK.."0:53883764"] = "Ducky Quackington/theugliestduckling, Spamming HeX's profile",
+	[SK.."1:73969664"] = "newfags/medbid, Spamming HeX's profile",
+	[SK.."0:81571135"] = "christoKE, Spamming HeX's profile",
+	
+	[SK.."0:35093824"] = "snixzz cheat user @ 06-13-2016",
+	[SK.."0:174777038"] = "snixzz cheat user @ 06-13-2016",
+	[SK.."0:1080802624"] = "snixzz cheat user @ 06-13-2016",
 	[SK.."1:100700661"] = "snixzz cheat user @ 06-12-2016, "..GG.." cheater",
 	[SK.."1:68543392"] = "snixzz cheat user @ 06-13-2016, "..GG.." MajorLeagueCheating",
 	[SK.."0:162015551"] = "snixzz cheat user @ 06-13-2016, "..GG.." csgoani-me",
@@ -135,7 +151,6 @@ local Skiddies 	= {
 	[SK.."0:2678511"] = "dontfollowmeplz/Adolf Hitler/Troll names, Propkiller, snixzz cheat user @ 06-08-2016, "..GG.." Letsraidgmodservers",
 	[SK.."0:31724231"] = "weebworld/Globalcringe/Anri/Troll names, "..GG.." 911insidejob",
 	[SK.."0:42130579"] = "ondrej008/Ondra, RoyalHack aimbot and wallhack",
-	[SK.."0:74165196"] = "Bubbie/bubbieb/Bubbles/Troll names, sv_allowcslua bypass (Kone), 3 terrible cheat scripts, Member of 15 hack/troll groups",
 	
 	[SK.."0:54048494"] = "Perdition/Gavin/Tankster/Tankster2002, STEALING FILES, MPGH, VAC banned, "..GG.." psilentaimbot,MPGH, Ban evasion (Alt STEAM_0:0:170540186)",
 	[SK.."0:170540186"] = "Perdition/Gavin/Tankster/Tankster2002, STEALING FILES, MPGH, VAC banned, "..GG.." psilentaimbot,MPGH, Ban evasion (Alt of STEAM_0:0:54048494)",
