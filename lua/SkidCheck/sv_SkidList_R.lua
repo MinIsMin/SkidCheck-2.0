@@ -8272,7 +8272,6 @@ local ExtraSkiddies = {
 	[SK.."0:102872089"] = GG.." invisible_invisible",
 	[SK.."0:81716280"] = GG.." Gmtower911",
 	[SK.."0:59070708"] = GG.." snixzzdotnet",
-	[SK.."1:65180958"] = GG.." snixzzdotnet",
 	[SK.."0:118390369"] = GG.." shootupaschool",
 	[SK.."0:162720733"] = GG.." shootupaschool",
 	[SK.."1:78597548"] = GG.." shootupaschool",
