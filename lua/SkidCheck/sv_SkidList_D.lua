@@ -5419,7 +5419,6 @@ local ExtraSkiddies = {
 	[SK.."0:66724298"] = GG.." WeCheatAtGames",
 	[SK.."0:122227582"] = GG.." x22",
 	[SK.."0:43822272"] = GG.." NoNAnonPub",
-	[SK.."1:52147813"] = GG.." NoNAnonPub",
 	[SK.."0:15537949"] = GG.." WHFRMK",
 	[SK.."1:41723279"] = GG.." gayweedddads",
 	[SK.."1:13530390"] = GG.." BXNDWIDTH",

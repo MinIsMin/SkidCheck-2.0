@@ -1151,7 +1151,6 @@ local ExtraSkiddies = {
 	[SK.."1:77321431"] = GG.." NORaimwareNO",
 	[SK.."1:94680697"] = GG.." NORaimwareNO",
 	[SK.."0:44535795"] = GG.." MajorLeagueCheating",
-	[SK.."1:68543392"] = GG.." MajorLeagueCheating",
 	[SK.."0:92166270"] = GG.." MajorLeagueCheating",
 	[SK.."0:59757802"] = GG.." _VAC",
 	[SK.."0:81692703"] = GG.." GIANTFUCKINGNIGERCOCKS",
