@@ -38,6 +38,7 @@ local Skiddies 	= {
 	[SK.."1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	[SK.."0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	[SK.."0:51779060"] = "poolgasd, snixzz cheat user @ 06-14-2016, 2S: AXpublic",
 	[SK.."1:53385625"] = "AKX/yvngswag/Tyshawn/tinnnysboyfriend, snixzz cheat user @ 06-13-2016, VAC banned, cdriza friends",
 	[SK.."1:49532056"] = "snixzz cheat user @ 06-13-2016",
 	[SK.."0:32433350"] = "snixzz cheat user @ 06-13-2016",
@@ -3298,7 +3299,6 @@ local Skiddies 	= {
 	[SK.."0:64544385"] = "Mitch, ban me, bluebot",
 	[SK.."1:86105294"] = "gDaap DB: ThetrueMexican97 (ThetrueMexican97)",
 	[SK.."0:145833"] = "Blackops.cfg",
-	[SK.."0:51779060"] = "2S: AXpublic",
 	[SK.."0:32971824"] = "SP2: Code injection (Sethhack)",
 	[SK.."0:40223887"] = "Dismay (stealing files), ban me",
 	[SK.."0:19402729"] = "Skiddie",
