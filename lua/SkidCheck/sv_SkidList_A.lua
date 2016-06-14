@@ -38,6 +38,8 @@ local Skiddies 	= {
 	[SK.."1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	[SK.."0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	[SK.."1:53385625"] = "AKX/yvngswag/Tyshawn/tinnnysboyfriend, snixzz cheat user @ 06-13-2016, VAC banned, cdriza friends",
+	[SK.."1:49532056"] = "snixzz cheat user @ 06-13-2016",
 	[SK.."0:32433350"] = "snixzz cheat user @ 06-13-2016",
 	[SK.."1:65180958"] = "snixzz cheat user @ 06-13-2016, "..GG.." snixzzdotnet",
 	[SK.."0:35093824"] = "snixzz cheat user @ 06-13-2016",
@@ -1155,7 +1157,6 @@ local Skiddies 	= {
 	[SK.."1:38747623"] = "Koala/oilkoala/Wil$t r1, 3x VAC bans, "..GG.." omniscientscripts",
 	[SK.."0:96096672"] = "Koala/Troll names, ban me",
 	[SK.."0:134282504"] = "Troll nanes, cdriza friends",
-	[SK.."1:53385625"] = "AKX, VAC banned, cdriza friends",
 	[SK.."1:116951113"] = "Troll names, VAC banned, cdriza friends",
 	[SK.."0:91895677"] = "Dashing, VAC banned",
 	[SK.."0:600114"] = "DarkSoul Alt 3/Troll names, VAC banned, "..GG.." omniscientscripts",
