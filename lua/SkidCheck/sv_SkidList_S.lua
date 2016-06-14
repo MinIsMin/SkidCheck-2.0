@@ -42,7 +42,6 @@ local ExtraSkiddies = {
 	[SK.."1:60890868"] = GG.." ididnothither",
 	[SK.."0:85621715"] = GG.." Leak_Scripts",
 	[SK.."1:89652278"] = GG.." Leak_Scripts",
-	[SK.."0:141392720"] = GG.." Leak_Scripts",
 	[SK.."1:116650278"] = GG.." Leak_Scripts",
 	[SK.."1:62593861"] = GG.." hydradev",
 	[SK.."0:147330923"] = GG.." VACISAJOKE",

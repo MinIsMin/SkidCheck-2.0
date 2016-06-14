@@ -25,6 +25,7 @@ local Skiddies 	= {
 
 
 
+	[SK.."0:141392720"] = "M.D Hack/makei_22/navihack, STEALING FILES, 114 lua cheats, 26 cheat DLLs, C++ hacks, "..GG.." Leak_Scripts, BAN ME FOREVER",
 	[SK.."1:147962115"] = "polmit, Jynxx Script3",
 	
 	[SK.."1:39141168"] = "Bort/bofbert, Spamming HeX's profile with 10 friends, "..GG.." gayweedddads",
