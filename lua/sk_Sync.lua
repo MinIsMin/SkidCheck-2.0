@@ -25,7 +25,7 @@ Skid.Sync = {
 	Index 			= {},
 	
 	//List version, changed when list structure is changed / merged
-	VERSION			= "2.0",
+	VERSION			= "2.1",
 	
 	//Env
 	HAC 			= {
@@ -33,9 +33,7 @@ Skid.Sync = {
 		SK_ListVer	= "0"
 	},
 	
-	table 			= {
-		MergeEx 	= table.MergeEx,
-	},
+	pairs			= pairs,
 }
 
 
@@ -120,7 +118,7 @@ function Skid.Sync.Download(self, v)
 		
 		
 		//Select next
-		timer.Simple(0.4, function()
+		timer.Simple(0.2, function()
 			//Next & Finish
 			if self._Upto != self._Size then
 				self:Select()
