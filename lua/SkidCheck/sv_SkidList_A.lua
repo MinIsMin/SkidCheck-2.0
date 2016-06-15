@@ -24,7 +24,7 @@ local Skiddies 	= {
 
 
 
-
+	[SK.."0:102870770"] = "BillyBobJr/56 Troll names, Asking for help with hacks on MPGH",
 	[SK.."0:141392720"] = "M.D Hack/makei_22/navihack, STEALING FILES, 114 lua cheats, 26 cheat DLLs, C++ hacks, "..GG.." Leak_Scripts, BAN ME FOREVER",
 	[SK.."1:147962115"] = "polmit, Jynxx Script3",
 	
@@ -39,6 +39,8 @@ local Skiddies 	= {
 	[SK.."1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	[SK.."0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	[SK.."1:61642171"] = "snixzz cheat user @ 06-14-2016",
+	[SK.."1:121696613"] = "Hauntex/Phoenix/Kraken/theterabyte/Troll names, writing cheats, snixzz cheat user @ 06-14-2016, "..GG.." darkscriptsv1",
 	[SK.."0:51779060"] = "poolgasd, snixzz cheat user @ 06-14-2016, 2S: AXpublic",
 	[SK.."1:53385625"] = "AKX/yvngswag/Tyshawn/tinnnysboyfriend, snixzz cheat user @ 06-13-2016, VAC banned, cdriza friends",
 	[SK.."1:49532056"] = "snixzz cheat user @ 06-13-2016",
@@ -250,7 +252,7 @@ local Skiddies 	= {
 	[SK.."1:105954994"] = "SchmooveySchmoove/Troll names, attempted anticheat bypass",
 	[SK.."1:80657671"] = "jassim3003/jassim5005/Troll names, 4x VAC Bans, MPGH, Backdoors, Game banned",
 	[SK.."0:30003219"] = "StacksAMilli/AkTheKilla, MPGH, 2x VAC bans",
-	[SK.."0:81179586"] = "joonas/ThroneCunts/Throne/Troll names, 3x VAC bans, TrooperHack,strafehack,ChrisESP, Member of 6 hack/troll groups",
+	[SK.."0:81179586"] = "joonas/ThroneCunts/Throne/Troll names, C++ hacks, 3x VAC bans, TrooperHack,strafehack,ChrisESP, Member of 6 hack/troll groups, BAN ME FOREVER",
 	[SK.."0:79556883"] = "Xtailleur/jeux/quentin, STEALING FILES, 3x VAC bans",
 	[SK.."0:95610845"] = "TheLegendVinny/vinnyisawesome, 4x VAC bans, "..Snix,
 	[SK.."0:99764002"] = "Chris/officialcrobox/GOOFY GOOBER/Troll names, VAC banned, "..Snix..", Member of 6 hack/troll groups",
@@ -636,7 +638,6 @@ local Skiddies 	= {
 	[SK.."0:51150658"] = "raeF/jesustheturtle/nFxTricks, 2x VAC bans, "..Snix,
 	[SK.."0:135089594"] = "herres/bonkthebigboi/BigBoi/kebabmeister, "..Snix..", "..GG.." ARMYSIDO, BAN ME FOREVER",
 	[SK.."1:147126271"] = "Corey Fehringer/killaman199, VAC banned, "..Snix,
-	[SK.."1:121696613"] = "Hauntex/Phoenix/Kraken/theterabyte/Troll names, writing cheats, "..GG.." darkscriptsv1",
 	[SK.."0:55728528"] = "strazyyy/Troll names, "..Snix..", "..GG.." tabernaclehacking",
 	
 	[SK.."1:19405109"] = "JamieH, STEALING FILES, stealing website, sethhack, leaking code, pasting hacks, "..Snix..", FUCKING BAN ME",
