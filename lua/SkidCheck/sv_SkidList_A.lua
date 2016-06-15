@@ -6974,9 +6974,10 @@ local Skiddies 	= {
 }
 
 
-
-for k,v in pairs(Skiddies) do
-	HAC.Skiddies["STEAM_0:"..k] = v
+if pairs then
+	for k,v in pairs(Skiddies) do
+		HAC.Skiddies["STEAM_0:"..k] = v
+	end
 end
 HAC.Skiddies.VERSION = VERSION
 

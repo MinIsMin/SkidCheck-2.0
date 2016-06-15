@@ -5457,8 +5457,10 @@ local ExtraSkiddies = {
 
 
 
-for k,v in pairs(ExtraSkiddies) do
-	HAC.Skiddies["STEAM_0:"..k] = v
+if pairs then
+	for k,v in pairs(ExtraSkiddies) do
+		HAC.Skiddies["STEAM_0:"..k] = v
+	end
 end
 
 
