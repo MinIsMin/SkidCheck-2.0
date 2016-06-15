@@ -17,11 +17,6 @@
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 */
 
-if HAC then
-	ErrorNoHalt("\n[SkidCheck] Disabled. Please remove HAC and restart the server\n\n")
-	return
-end
-
 Skid.WaitFor 	= 35 --Seconds to wait before message
 Skid.sk_sync	= CreateConVar("sk_sync",	8, FCVAR_ARCHIVE, "Allow list sync from GitHub? value = hours to check for updates (0 to disable)")
 
@@ -37,17 +32,9 @@ AddCSLuaFile("autorun/client/cl_SK.lua")
 util.AddNetworkString("Skid.Msg")
 
 
-//Load lists
-function table.MergeEx(from,dest)
-	for k,v in pairs(from) do
-		dest[k] = v
-	end
-	from = nil
-end
 
-//Must load in reverse order! 9 > 1
+//Load lists, must load in reverse order! 9 > 1
 Skid.Lists = file.Find("lua/SkidCheck/sv_SkidList*.lua", "GAME", "nameasc")
-
 HAC = { Skiddies = {} }	
 	for k,v in pairs(Skid.Lists) do
 		include("SkidCheck/"..v)

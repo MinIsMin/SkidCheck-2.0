@@ -111,14 +111,11 @@ end
 
 
 List format:
-I have made the files smaller by the following format:
-SK = "STEAM_0:"
-GG = "Member of hack/troll group:"
+I've made the files smaller by the following format, so for example:
 
-So STEAM_0:0:1337 becomes:
-
-[SK.."0:1337"] = GG.." FuckVacIHack",
-
+["STEAM_0:0:1337"] = "Member of hack/troll group: FuckVacIHack"
+Becomes:
+["0:1337"] = GG.." FuckVacIHack",
 
 	
 
