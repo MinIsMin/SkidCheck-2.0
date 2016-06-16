@@ -9503,7 +9503,6 @@ local ExtraSkiddies = {
 	["0:53522735"] = GG.." MEMEWARE",
 	["0:47412699"] = GG.." MEMEWARE",
 	["1:118716836"] = GG.." MEMEWARE",
-	["1:93215214"] = GG.." MEMEWARE",
 	["1:60247725"] = GG.." MEMEWARE",
 	["1:113905908"] = GG.." MEMEWARE",
 	["1:32197931"] = GG.." darkscriptsv1",
