@@ -897,7 +897,6 @@ local ExtraSkiddies = {
 	["0:49210205"] = GG.." MPGH",
 	["0:54227775"] = GG.." MPGH",
 	["0:110770065"] = GG.." MPGH",
-	["1:156783099"] = GG.." AIMWARE",
 	["0:121355767"] = GG.." AIMWARE",
 	["1:73467472"] = GG.." AIMWARE",
 	["0:151180819"] = GG.." AIMWARE",

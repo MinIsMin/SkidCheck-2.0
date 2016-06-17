@@ -1684,7 +1684,6 @@ local ExtraSkiddies = {
 	["0:79447750"] = GG.." CuteGirlyBoys",
 	["0:85376667"] = GG.." d3xfans",
 	["0:145372413"] = GG.." AIMWARE",
-	["1:127738295"] = GG.." AIMWARE",
 	["1:127284949"] = GG.." AIMWARE",
 	["1:567920"] = GG.." aimerware",
 	["0:163569042"] = GG.." aimerware",

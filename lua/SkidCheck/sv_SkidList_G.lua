@@ -1501,7 +1501,6 @@ local ExtraSkiddies = {
 	["1:9714560"] = GG.." OPMemers",
 	["0:47537524"] = GG.." OPMemers",
 	["1:77977164"] = GG.." OPMemers",
-	["1:95630159"] = GG.." OPMemers",
 	["0:75886142"] = GG.." OPMemers",
 	["1:65246182"] = GG.." OPMemers",
 	["1:51775988"] = GG.." OPMemers",

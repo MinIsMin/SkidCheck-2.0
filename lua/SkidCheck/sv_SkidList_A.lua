@@ -22,6 +22,48 @@ local Skiddies 	= {
 
 
 
+
+
+
+
+
+
+
+	["1:53792094"] = "UnknownOne/iCeCube, STEALING FILES, r_drawothermodels",
+	["1:89164212"] = "MMD/mmdil/michael, sv_allowcslua bypass, Rootz Simple Injector, BridgeHack,defcon,SmegHack,ShittyScripts",
+	["0:148856320"] = "Server takeovers, "..GG.." segapw,",
+	["0:1621321"] = "Server takeovers, "..GG.." valuev,",
+	["0:52214012"] = "Server takeovers, "..GG.." lithiumcheatsxyz,",
+	["1:126712654"] = "Server takeovers, "..GG.." AIMWARE,",
+	["1:156783099"] = "Server takeovers, "..GG.." AIMWARE,",
+	["0:7737245"] = "Server takeovers, "..GG.." cheateroteam,",
+	["1:1468675"] = "Server takeovers, "..GG.." mybodyisshaking,",
+	["1:90294352"] = "Server takeovers, "..GG.." 1_taps,",
+	["1:127738295"] = "Server takeovers, "..GG.." AIMWARE,",
+	["1:152542333"] = "Server takeovers, "..GG.." stainlesshvh,",
+	["1:11000619"] = "Server takeovers, "..GG.." dunk1n_nerds,",
+	["1:146870355"] = "Server takeovers, "..GG.." ethugs_,",
+	["0:1697238"] = "Server takeovers, "..GG.." ethugs_,",
+	["1:1402802"] = "Server takeovers, "..GG.." spinup,",
+	["0:78048811"] = "Server takeovers, "..GG.." faggothackers,",
+	["1:77777000"] = "Server takeovers, "..GG.." segapw,",
+	["1:170206524"] = "Server takeovers, "..GG.." cheateroteam,",
+	["0:157173928"] = "Server takeovers, "..GG.." audisquad,",
+	["0:313171"] = "Server takeovers, "..GG.." tabernaclehacking,",
+	["1:157165104"] = "Server takeovers, "..GG.." segapw,",
+	["1:68356"] = "Server takeovers, "..GG.." spinup,",
+	["0:1261935"] = "Server takeovers, "..GG.." ethugs_,",
+	["0:167575640"] = "Server takeovers, "..GG.." audisquad,",
+	["0:170424744"] = "Server takeovers, "..GG.." shirtlesshvh,",
+	["0:103011607"] = "Server takeovers, "..GG.." SchoolShooterGang,",
+	["1:40466694"] = "Server takeovers, "..GG.." 71183864759698,",
+	["0:162809546"] = "Server takeovers, "..GG.." theHVHMafia,",
+	["1:95630159"] = "Server takeovers, "..GG.." OPMemers,",
+	["1:28106592"] = "Server takeovers, "..GG.." niggerarmy,",
+	["0:62588856"] = "Server takeovers, "..GG.." _Aesthetic,",
+	["1:1901007"] = "nabe/nbes, VAC banned, Server takeovers, "..GG.." cheater0team",
+	["0:20419525"] = "Bompi/thebompinator/Troll names, Server takeovers, "..GG.." fukfukfukk",
+	["0:174909898"] = "viewangles/Troll names, Server takeovers",
 	
 	["0:102870770"] = "BillyBobJr/56 Troll names, Asking for help with hacks on MPGH",
 	["0:141392720"] = "M.D Hack/makei_22/navihack, STEALING FILES, 114 lua cheats, 26 cheat DLLs, C++ hacks, "..GG.." Leak_Scripts, BAN ME FOREVER",
@@ -38,6 +80,8 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:86830367"] = "snixzz cheat user @ 06-16-2016",
+	["1:57234919"] = "Benjamin/skywastaken/Sky, VAC banned, snixzz cheat user @ 06-16-2016, "..Snix,
 	["1:93215214"] = "snixzz cheat user @ 06-15-2016, "..GG.." MEMEWARE",
 	["1:92902260"] = "Obama Llama/Jordan/URDEAD548, snixzz cheat user @ 06-15-2016, "..Snix,
 	["0:58661557"] = "snixzz cheat user @ 06-15-2016",
@@ -249,6 +293,7 @@ local Skiddies 	= {
 	["1:163994333"] = "Temmi3/Troll names, "..Snix..", "..GG.." srchax",
 	["1:120617069"] = "Noname/Noname0/Troll names, "..Snix..", "..GG.." VACBINS",
 	
+	["0:146650868"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt STEAM_0:0:158567680)",
 	["1:161338855"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt STEAM_0:0:158567680)",
 	["0:144246851"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt STEAM_0:0:158567680)",
 	["0:158567680"] = "evo/evoassop/Mason/0zw, cvar3,nospread,snixzz,memeware,Smeghack,rhook, 2x VAC bans, Member of 3x hack/troll groups, Ban evasion (Alt of STEAM_0:0:144246851)",
@@ -315,7 +360,6 @@ local Skiddies 	= {
 	["0:48194892"] = "TheFrostyTiger, SmegHack, Hera",
 	["1:129136618"] = "jessica59v, Jynxx Script3",
 	["0:52543705"] = "Ale711, "..GG.." MPGH",
-	["1:57234919"] = "Benjamin/skywastaken/Sky, VAC banned, "..Snix,
 	["1:125356872"] = "Ger Sean/jumpz2105/Sean, STEALING FILES, Bridgehack, defcon aimbot, net exploits",
 	["0:60718546"] = "Ekans/wearnopants/NamoCat/ASSEY/Nam0/Troll names, Cheating, running hacks, "..Snix..", possible alt of Nanocat",
 	["0:36769118"] = "xDarkStarrx/Darky, 5x VAC bans, MPGH, 2S: AHack",
@@ -364,7 +408,7 @@ local Skiddies 	= {
 	["0:53951831"] = "christ-chan/Dr Skeltal/MrSkeltalSr/Troll names, VAC banned, MPGH",
 	["0:49598803"] = "Wiz Khalifa/finniebox/Finn/coelenjoenen, C++ hacks, VAC banned, MPGH",
 	["1:114007217"] = "4ngel/massivefatcock/hazza72, "..GG.." MPGH",
-	["1:33685014"] = "Whale Tits/Troll names, DDoS, VAC banned, "..GG.." poki, BAN ME FOREVER",
+	["1:33685014"] = "Whale Tits/Troll names, DDoS, Server takeovers, VAC banned, "..GG.." poki, BAN ME FOREVER",
 	["0:85226505"] = "Break0ut, Stealing files, attempted crash, Nospread,JSP,cvar3,Shitty/DarkScripts,Falcos,Lennys,PKMafia, "..GG.." PropkillMafia",
 	["0:58696330"] = "Miss Muffet/Muffet, DarkScripts",
 	
@@ -665,7 +709,7 @@ local Skiddies 	= {
 	["1:58655290"] = "Tehhkp/TEMPER/Kayla/Ryuzaki, Dismay (stealing files), VAC banned, Ban evasion (5 alts, List_A), Member of 7 hack/troll groups, 12 year old skiddie, BAN ME",
 	["0:77823910"] = "Tehhkp/TEMPER/Kayla/Ryuzaki, Dismay (stealing files), VAC banned, Ban evasion (5 alts, List_A), Member of 7 hack/troll groups, 12 year old skiddie, BAN ME",
 	
-	["1:121189028"] = "ethugs.DFROGZ/dfr0gz, "..Snix,
+	["1:121189028"] = "ethugs.DFROGZ/dfr0gz, Server takeovers, "..Snix,
 	["0:102962334"] = "Touctouc/touctoucisgud/Kyle/MelachiKon, VAC banned, "..Snix,
 	["0:1563400"] = "Viva la Vivi/vivalavivi/kcqzy/Johnathan/Troll names, "..Snix..", "..GG.." MEMEWARE",
 	["0:18638228"] = "Not Vivi/notvivi/Troll names, "..Snix..", BAN ME",
@@ -676,7 +720,7 @@ local Skiddies 	= {
 	["1:75531"] = "Neri/nerihax/joey salads/Troll names, RCON hacking/Server takeover, "..Snix..", "..GG.." SEGAwarfare",
 	["0:125833142"] = "fl0w, "..Snix,
 	["0:65413233"] = "Fluffeh/Mr. Farty McFarticuss, "..Snix..", Member of 4 hack/troll groups",
-	["0:134501538"] = "bredcrumbz/whitesharpie/Tom/Moku/Troll names, Server takeover backdoors,snixzz hacking site,Writing hacks,propkiller,"..GG.." stealthyfuckers, BAN ME",
+	["0:134501538"] = "bredcrumbz/whitesharpie/Tom/Moku/Troll names, Server takeovers, backdoors,"..Snix..",Writing hacks,propkiller,"..GG.." stealthyfuckers, BAN ME FOREVER",
 	["0:40942351"] = "Shadow/NovaTeamer, Hera, "..Snix..", Member of 14 hack/troll groups, DDoS",
 	["1:117548645"] = "Invisible name, "..Snix..", ban me",
 	["1:49923007"] = "Nizzl/Ryan Proshack, "..Snix..", "..GG.." annoyingprogamers",
@@ -722,8 +766,8 @@ local Skiddies 	= {
 	["0:16659"] = "x0s/4oo/Nate Kulkarni/Troll names, C++ cheats, admitted hacking, Member of 6 hack/troll groups",
 	
 	["0:93519566"] = "pepperscodegod/Neko/Troll names, "..GG.." pasters",
-	["1:2167449"] = "Invisible name/sleaze_/staral_sperm, "..Snix..", "..GG.." n9neeleven",
-	["0:42729462"] = "Liquid Obsidian/liquidobsidian/Seth/Sethxi/Troll names, VAC banned, "..GG.." VACBINS",
+	["1:2167449"] = "Invisible name/sleaze_/staral_sperm, Server takeovers, "..Snix..", "..GG.." n9neeleven",
+	["0:42729462"] = "Liquid Obsidian/liquidobsidian/Seth/Sethxi/Troll names, Server takeovers, VAC banned, "..GG.." VACBINS",
 	["1:48034246"] = "Happy99/JeremyID3, "..Snix..", Troll",
 	["1:64829570"] = "fuck707/Troll names, VAC banned, "..Snix..", "..GG.." complimentmyvacban",
 	["0:47543801"] = "Harry Pothead/Kira, attacking the server, name exploiting (newline), BAN ME FOREVER",
@@ -829,7 +873,7 @@ local Skiddies 	= {
 	
 	["0:84617828"] = "Floppy/ethanni/Ethan Ni, "..Snix,
 	["1:67756760"] = "Ludio/ludionl/FireFartFTW, crashing the serrver, "..Snix..", 2S: AHack, BAN ME FOREVER",
-	["1:53189353"] = "Kawurftha/Ripper/Scetch08/Troll names, 3x VAC bans, stealing files, C++ HACKS, "..Snix..", "..GG.." tabernaclehacking",
+	["1:53189353"] = "Kawurftha/Ripper/Scetch08/Troll names, STEALING FILES, Server takeovers, C++ HACKS, 3x VAC bans, "..Snix..", "..GG.." tabernaclehacking",
 	["1:46645216"] = "Gorzoid/David Loftus, VAC banned, "..Snix..", 2S: Mapex",
 	["0:41876886"] = "Nox/Troll namese, C++ cheats, "..Snix..", leaking code, VAC banned, Hacking on an alt account",
 	["0:65239696"] = "andrewmarshall13/Franklin Demar/Troll names, BAN ME FOREVER",
@@ -843,10 +887,10 @@ local Skiddies 	= {
 	["1:61792838"] = "DaFrekkinNoob/dafrekkinnoobest/Troll names, 2x VAC bans, RCON exploits, "..Snix..", member of 3 hack/troll groups, BAN ME",
 	
 	
-	["1:572676"] = "Satori/Troll names, 2x VAC bans, backdoor/exploits, "..Snix..", skiddie, Ban evasion (List_A), Member of 12 hack/troll groups, BAN ME",
-	["1:126032858"] = "Satori/Troll names, 2x VAC bans, backdoor/exploits, "..Snix..", skiddie, Ban evasion (List_A), Member of 12 hack/troll groups, BAN ME",
-	["1:120338831"] = "Satori/Troll names, 2x VAC bans, backdoor/exploits, "..Snix..", skiddie, Ban evasion (List_A), Member of 12 hack/troll groups, BAN ME",
-	["1:117853397"] = "Satori/Troll names, 2x VAC bans, backdoor/exploits, "..Snix..", skiddie, Ban evasion (List_A), Member of 12 hack/troll groups, BAN ME",
+	["1:572676"] = "Satori/Troll names, 2x VAC bans, Server takeovers,backdoor/exploits, "..Snix..", Ban evasion (List_A), Member of 12 hack/troll groups, BAN ME FOREVER",
+	["1:126032858"] = "Satori/Troll names, 2x VAC bans, Server takeovers,backdoors/exploits, "..Snix..", Ban evasion (List_A), Member of 12 hack/troll groups, BAN ME FOREVER",
+	["1:120338831"] = "Satori/Troll names, 2x VAC bans, Server takeovers,backdoors/exploits, "..Snix..", Ban evasion (List_A), Member of 12 hack/troll groups, BAN ME FOREVER",
+	["1:117853397"] = "Satori/Troll names, 2x VAC bans, Server takeovers,backdoors/exploits, "..Snix..", Ban evasion (List_A), Member of 12 hack/troll groups, BAN ME FOREVER",
 	
 	["1:57612102"] = "darknew1520/PKoArm/Lucius, VAC banned, "..Snix,
 	["1:13166064"] = "invalid/040/aAeq dispo/Troll names, "..Snix..", "..GG.." Gangster_Paradise_",
@@ -892,10 +936,13 @@ local Skiddies 	= {
 	["0:80615189"] = "Ashley/mashirokaana/Cubed, 2x VAC bans, Member of hack/troll groups",
 	["0:41026068"] = "tehghost/dudebro mcnoknife/Troll names, VAC banned, "..GG.." fuckufaggetazuisleet",
 	["1:98901009"] = "Rei/Troll names, 2x VAC bans, "..Snix..", "..GG.." Dango_Mafia_Fan_club",
-	["0:80172964"] = "Zak/Troll names, stealing files, FIVE VAC bans, "..Snix..", Member of 11 hack/troll groups, huge skid, 2S: Unknown hack",
+	["0:80172964"] = "Zak/Troll names, STEALING FILES,Server takeovers,FIVE VAC bans, "..Snix..", Member of 11 hack/troll groups, huge skid, 2S: Unknown hack, BAN ME FOREVER",
 	["1:48186822"] = "Kifersucks/Tom Connor Bob Billy Fred Joe, VAC banned, "..Snix,
 	["0:97258774"] = "aker/Nick/gmodlivestream/Troll names, VAC banned, "..GG.." myg0t_international",
-	["0:47565254"] = "Yung 2cash/2cash/Troll names, RCON hacking/Server takeover, 4x VAC bans, "..Snix..", total skiddie, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME FOREVER",
+	
+	["1:11000154"] = "Yung 2cash/2cash/Troll names, DDoS,RCON hack,Server takeovers,4x VAC bans, "..Snix..", skiddie, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME FOREVER",
+	["0:47565254"] = "Yung 2cash/2cash/Troll names, DDoS,RCON hack,Server takeovers,4x VAC bans, "..Snix..", skiddie, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME FOREVER",
+	
 	["0:118225675"] = "IzeHazAids/igot42tb/Alexander BeastMude/Troll names, "..Snix,
 	
 	["0:103305234"] = "FBN Chappie/fbnchappie/Ajax Hunter, "..Snix,
@@ -910,7 +957,7 @@ local Skiddies 	= {
 	["1:77411325"] = "mjyelito/bird/Troll names, 3x VAC bans, Exploits/asking for hacks, "..Snix..", member of 5 hack/troll groups, BAN ME",
 	["0:103232183"] = "RabidRunner/red/__red/Troll names, stealing files, C++ hacks, MPGH, "..Snix..", Member of 7 hack/troll groups, BAN ME FOREVER",
 	["0:68210490"] = "Spunki/shitfarce/Tyler, 2x VAC bans, gDaap DB: FSxMiller (PulsiveDildus), "..Snix,
-	["0:32259367"] = "eon/eon_/Troll names, 2x VAC bans, "..Snix..", "..GG.." VIRUSBOYSU",
+	["0:32259367"] = "eon/eon_/Troll names, Server takeovers, 2x VAC bans, "..Snix..", "..GG.." VIRUSBOYSU",
 	["0:59878557"] = "Waterboyz/gagerino/James Kyle Lawfield, "..GG.." TubSquad,pa$ters,",
 	["1:28561407"] = "Charged/Russell Powell/tdbrooster, 4x VAC Bans, "..Snix,
 	
@@ -919,7 +966,7 @@ local Skiddies 	= {
 	
 	["1:52828414"] = "XboxIssues/FaZe Rain, VAC banned, propkiller, "..GG.." gmodpropkills",
 	["1:112303096"] = "S_H_A_D_O_W/katietheduck, MPGH, "..GG.." puppyfuckerz",
-	["0:849274"] = "Adam/iewd/Troll names, RCON hacking/Server takeover, asking for hacks, "..GG.." fickedeinemutter",
+	["0:849274"] = "Adam/iewd/Troll names, RCON hacking,Server takeovers, asking for hacks, "..GG.." fickedeinemutter, BAN ME FOREVER",
 	["1:48753813"] = "SomeEpicCat, Dark scripts",
 	["1:104446267"] = "FaZe ThUnDeR, Dark scripts",
 	["1:87507733"] = "ShootMyKnife DF, Dark scripts",
@@ -1239,7 +1286,7 @@ local Skiddies 	= {
 	["0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, "..GG.." NoNAnonPub",
 	["0:41045922"] = "Josh/Troll names, XMenu cheat, uSkid, lua/uskid.lua",
 	["0:105619279"] = "jordansmith30/Bobby, Xmenu cheat, lua/uskid.lua",
-	["0:95111311"] = "Understatement/Jimmy, Xmenu cheat, lua/uskid.lua",
+	["0:95111311"] = "Understatement/Jimmy, Server takeovers, Xmenu cheat, lua/uskid.lua",
 	
 	["1:81517884"] = "Mokies, 2x versions of bridgehack,uSkid,razor,Lennys,AnXition",
 	["0:7291863"] = "Quinn/quinnchero, VAC banned, Lending to cheater (STEAM_0:1:107519835), attempted anticheat bypass,JSP,speedhacks, ban me",
@@ -1269,8 +1316,8 @@ local Skiddies 	= {
 	["0:186057"] = "DANKMEOW/Muffler, DDoS, 2x VAC bans, Member of hack/troll groups, propkiller",
 	["1:2015901"] = "DANKMEOW/Muffler, DDoS, 2x VAC bans, Member of hack/troll groups, propkiller",
 	
-	["1:80091825"] = "heloplayer/d0shtheking/Troll names, "..GG.." antibirusnet, Ban evasion (Alt STEAM_0:1:103330387)",
-	["1:103330387"] = "heloplayer/d0shtheking/Troll names, "..GG.." antibirusnet, Ban evasion (Alt of STEAM_0:1:80091825)",
+	["1:80091825"] = "heloplayer/d0shtheking/Troll names, Server takeovers, "..GG.." antibirusnet, Ban evasion (Alt STEAM_0:1:103330387)",
+	["1:103330387"] = "heloplayer/d0shtheking/Troll names, Server takeovers, "..GG.." antibirusnet, Ban evasion (Alt of STEAM_0:1:80091825)",
 	
 	["1:5525728"] = "Keegan/i_rep_hackforums/Troll names, VAC banned, 'legit cheating account', Member of ELEVEN hack/troll groups, BAN ME FOREVER",
 	["1:108103"] = "Keegan/i_rep_hackforums/Troll names, VAC banned, 'legit cheating account', Member of ELEVEN hack/troll groups, BAN ME FOREVER",
@@ -1400,21 +1447,21 @@ local Skiddies 	= {
 	["0:58223149"] = "Deyron, Hera,AHack,Sasha hack",
 	["1:33966080"] = "Vorox Goodman/Afroman/pierremitou/sirvolmog, Backdoor/Exploits in addons (sv_purge,voroxwep,mayordeathdemote)",
 	
-	["1:152731847"] = "kalis0/kals0/cdriza, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:155906673"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["1:125274704"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:136834592"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:120044119"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["1:119369476"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:628697407"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:2144575003"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:103759470"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["1:102403779"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:83444632"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:87834515"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
-	["0:37511807"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,"..Snix..",skid,2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["1:152731847"] = "kalis0/kals0/cdriza, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:155906673"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["1:125274704"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:136834592"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:120044119"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["1:119369476"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:628697407"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:2144575003"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:103759470"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["1:102403779"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:83444632"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:87834515"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
+	["0:37511807"] = "cdriza/Connor, Server takeovers,stealing/leaking files,C++ hacks,VAC bans,"..Snix..",2S ban,mapex,ahack, Member of 10 hack/troll groups, Ban Evasion (12 alts!)",
 	
-	["0:30559593"] = "Hafnium/aria/Onyx/_ari/SarcasticSweater41/_haffy/Troll names, MPGH, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
+	["0:30559593"] = "Hafnium/aria/Onyx/_ari/SarcasticSweater41/_haffy/Troll names, Server takeovers, MPGH, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
 	["0:40575885"] = "DarthKreamer/100% Troll names, "..GG.." urafagetur, BAN ME",
 	["0:27489475"] = "Chef/L33TH4X00R/Skid, 2x VAC bans, aimware,Lennys,dango,troll names, "..GG.." MPGH, BAN ME",
 	["0:39379174"] = "DJ SpiderByte/djsb, VAC banned, selling hacks, "..GG.." gayweedddads, BAN ME",
@@ -1439,8 +1486,8 @@ local Skiddies 	= {
 	["0:127231310"] = "Rob/DVoid/Catastro, gm_exploited, troll/hacking groups",
 	["1:4154719"] = "Warden1142/deltasword100/DarkCide/dmrradio/Serverwatch, Server takeovers,C++ hacks,speedhacks,releasing hacks, propkiller,Member of many hack/troll groups, BAN ME FOREVER",
 	
-	["0:35810412"] = "KraN/kransurf/Gmodpwnz, Stealing files, RCON hacking/Server takeover, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
-	["0:89116170"] = "KraN/kransurf/Gmodpwnz alt, Stealing files, RCON hacking/Server takeover, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
+	["0:35810412"] = "KraN/kransurf/Gmodpwnz, Stealing files,RCON hacking,Server takeovers, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
+	["0:89116170"] = "KraN/kransurf/Gmodpwnz alt, Stealing files,RCON hacking,Server takeovers, 2x VAC bans,ahack,hera,propkiller,cvar3,lennys,illya,JSP,gdaap, 2S ban",
 	
 	["0:107971845"] = "Incognito/Troll names, C++ hacks,VAC banned,propkiller,Lennys,nanohack,ahack,mapex,falcos,bluebot,illya,razor,Ban evasion (Alt: STEAM_0:1:64947049), BAN ME FOREVER",
 	["1:64947049"] = "Incognito/Troll names, C++ hacks,VAC banned,propkiller,Lennys,nanohack,ahack,mapex,falcos,bluebot,illya,razor,Ban evasion (Alt: STEAM_0:0:107971845), BAN ME FOREVER",
@@ -1499,8 +1546,10 @@ local Skiddies 	= {
 	["0:67232605"] = "Troll names, Member of hack/troll groups, BAN ME FOREVER",
 	["1:92868636"] = "Obama, asking for hacks on MPGH",
 	["1:99708404"] = "Ghillie, Backdoor/Exploits in workshop addons, JSP cheat (stealing files), ban me",
-	["0:42138604"] = "Liquidsocks/Pengo/Troll names, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
-	["1:68768379"] = "Liquidsocks/Pengo/Troll names, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
+	
+	["0:42138604"] = "Liquidsocks/Pengo/Troll names, Server takeovers, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
+	["1:68768379"] = "Liquidsocks/Pengo/Troll names, Server takeovers, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
+	
 	["0:376620"] = "fnox/troll names, VAC banned, troll, skiddie, Member of hack/troll groups",
 	["0:85513655"] = "Kiotaa, exploits, 2x VAC bans, speedhack,sv_allowcslua,z0mgBot,nyx,cvar3,anxition,mapex,rhook, BAN ME FOREVER",
 	["1:55710792"] = "GOMMB, bluebot,mapex,AHack",
@@ -2550,7 +2599,7 @@ local Skiddies 	= {
 	["1:27936486"] = "Blackops.cfg",
 	["0:15278246"] = "2S: AHack",
 	["1:20628272"] = "cvar3,Hera",
-	["1:62445445"] = "Q2F2/Cave Johnson/Troll names, exploiting addons, skid friends, writing hacks: BasedCAVE,Q2HAKE,ghook,AC truth engineering, nospread",
+	["1:62445445"] = "Q2F2/Cave Johnson/Troll names, Server takeovers, exploiting addons, skid friends, writing hacks: BasedCAVE,Q2HAKE,ghook,AC truth engineering, nospread, BAN ME FOREVER",
 	["0:41307538"] = "SP2: tame",
 	["1:25315900"] = "SP2: Sethhack",
 	["0:39879112"] = "Skiddie",
@@ -6400,7 +6449,7 @@ local Skiddies 	= {
 	["0:51519921"] = "2S: Unknown hack",
 	["1:47008930"] = "2S: AHack",
 	["1:60252116"] = "gDaap DB: vincentcronin (pickle)",
-	["0:17518358"] = "plex/Chuteuk, "..GG.." Niggest",
+	["0:17518358"] = "plex/Chuteuk, Server takeovers, "..GG.." Niggest",
 	["1:58232012"] = "Mapex",
 	["0:18884031"] = "Blackops.cfg",
 	["0:44377935"] = "SSDB: BadRCC",

@@ -9350,7 +9350,6 @@ local ExtraSkiddies = {
 	["1:169082074"] = GG.." shootupaschool",
 	["1:171306229"] = GG.." flexinn",
 	["1:11243392"] = GG.." myg0tnotofficial",
-	["1:170206524"] = GG.." cheateroteam",
 	["1:165624506"] = GG.." 9nine11eleven",
 	["1:167895998"] = GG.." 9nine11eleven",
 	["1:156908805"] = GG.." 9nine11eleven",
