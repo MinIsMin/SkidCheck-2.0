@@ -28,9 +28,13 @@ local Skiddies 	= {
 
 
 
-
+	["1:153745984"] = "Joker/mpghjoker, 2x VAC bans, MPGH, asking for hacks, "..GG.." MPGH",
 	["1:53792094"] = "UnknownOne/iCeCube, STEALING FILES, r_drawothermodels",
 	["1:89164212"] = "MMD/mmdil/michael, sv_allowcslua bypass, Rootz Simple Injector, BridgeHack,defcon,SmegHack,ShittyScripts",
+	["0:102870770"] = "BillyBobJr/56 Troll names, Asking for help with hacks on MPGH",
+	["0:141392720"] = "M.D Hack/makei_22/navihack, STEALING FILES, 114 lua cheats, 26 cheat DLLs, C++ hacks, "..GG.." Leak_Scripts, BAN ME FOREVER",
+	["1:147962115"] = "polmit, Jynxx Script3",
+	
 	["0:148856320"] = "Server takeovers, "..GG.." segapw,",
 	["0:1621321"] = "Server takeovers, "..GG.." valuev,",
 	["0:52214012"] = "Server takeovers, "..GG.." lithiumcheatsxyz,",
@@ -65,10 +69,6 @@ local Skiddies 	= {
 	["0:20419525"] = "Bompi/thebompinator/Troll names, Server takeovers, "..GG.." fukfukfukk",
 	["0:174909898"] = "viewangles/Troll names, Server takeovers",
 	
-	["0:102870770"] = "BillyBobJr/56 Troll names, Asking for help with hacks on MPGH",
-	["0:141392720"] = "M.D Hack/makei_22/navihack, STEALING FILES, 114 lua cheats, 26 cheat DLLs, C++ hacks, "..GG.." Leak_Scripts, BAN ME FOREVER",
-	["1:147962115"] = "polmit, Jynxx Script3",
-	
 	["1:39141168"] = "Bort/bofbert, Spamming HeX's profile with 10 friends, "..GG.." gayweedddads",
 	["0:74165196"] = "Bubbie/bubbieb/Bubbles/Troll names, sv_allowcslua bypass (Kone), 3 terrible cheat scripts, Member of 15 hack/troll groups, Spamming HeX's profile with 10 friends",
 	["1:80378849"] = "Silver the Catgirl/potatosenpai4ife, Spamming HeX's profile with 10 friends, "..GG.." 911insidejob",
@@ -80,6 +80,7 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:49655005"] = "snixzz cheat user @ 06-17-2016",
 	["0:86830367"] = "snixzz cheat user @ 06-16-2016",
 	["1:57234919"] = "Benjamin/skywastaken/Sky, VAC banned, snixzz cheat user @ 06-16-2016, "..Snix,
 	["1:93215214"] = "snixzz cheat user @ 06-15-2016, "..GG.." MEMEWARE",
@@ -1039,7 +1040,10 @@ local Skiddies 	= {
 	["0:90623980"] = "MoJnoen/dontbeazehma/AprixZ, Lennys scripts",
 	["1:117651240"] = "ilikeableton/Ele0t/Leedle/quefstain, VAC banned, C++ hacks, Member of hack/troll groups: antibirusnet, antibirus",
 	["0:47530077"] = "SL Stilker/CL43SY/Strekker, Mapex",
-	["1:71646656"] = "Ger Rus Sascha, 2x VAC bans, AHack",
+	
+	["0:71231251"] = "Ger Rus Sascha, 2x VAC bans, AHack, Ban evasion (Alt of 1:71646656)",
+	["1:71646656"] = "Ger Rus Sascha, 2x VAC bans, AHack, Ban evasion (Alt 0:71231251)",
+	
 	["1:85820490"] = "Pools Closed/Liam, FIVE VAC Bans!, sv_allowcslua, kawaii_bypass,Hera,sasha,defcon,AHack, "..GG.." annoyingprogamers",
 	["1:67639206"] = "ManInAlpha/just_d0ge_it/Ruslan, 2x VAC bans, Ban Evasion (Alt of STEAM_0:0:141088010)",
 	["0:141088010"] = "ManInAlpha/just_d0ge_it/Ruslan, 2x VAC bans, Ban Evasion (STEAM_0:1:67639206)",
