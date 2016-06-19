@@ -2972,7 +2972,6 @@ local ExtraSkiddies = {
 	["1:71077170"] = GG.." AIMWARE",
 	["1:149666820"] = GG.." AIMWARE",
 	["0:2635223"] = GG.." AIMWARE",
-	["1:53650773"] = GG.." AIMWARE",
 	["0:148815512"] = GG.." AIMWARE",
 	["1:57210810"] = GG.." AIMWARE",
 	["1:88879208"] = GG.." AIMWARE",
