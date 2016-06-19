@@ -5080,7 +5080,6 @@ local ExtraSkiddies = {
 	["1:61178963"] = GG.." annoyingprogamers",
 	["1:54915472"] = GG.." annoyingprogamers",
 	["1:65039637"] = GG.." annoyingprogamers",
-	["0:133384252"] = GG.." annoyingprogamers",
 	["1:39426417"] = GG.." annoyingprogamers",
 	["0:99523603"] = GG.." annoyingprogamers",
 	["1:63870087"] = GG.." annoyingprogamers",

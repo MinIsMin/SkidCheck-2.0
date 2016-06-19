@@ -27,7 +27,11 @@ local Skiddies 	= {
 
 
 
-
+	["0:133384252"] = "TTD Schuss/lmaoboxizbae/schussthegod, 2x VAC bans, Ban evasion (2 alts, List_A), "..GG.." annoyingprogamers",
+	["1:171347099"] = "TTD Schuss/lmaoboxizbae/schussthegod, 2x VAC bans, Ban evasion (Alt of 0:133384252), "..GG.." annoyingprogamers",
+	["0:170902214"] = "TTD Schuss/lmaoboxizbae/schussthegod, 2x VAC bans, Ban evasion (Alt of 0:133384252), "..GG.." annoyingprogamers",
+	
+	["0:58297695"] = "Jonah/My name is Jonah/kassele, forced sv_allowcslua, forced sv_cheats, SmegHack,Bridgehack,cvar3,nospread,dark bypass,defcon,ShittyScripts",
 	["1:153745984"] = "Joker/mpghjoker, 2x VAC bans, MPGH, asking for hacks, "..GG.." MPGH",
 	["1:53792094"] = "UnknownOne/iCeCube, STEALING FILES, r_drawothermodels",
 	["1:89164212"] = "MMD/mmdil/michael, sv_allowcslua bypass, Rootz Simple Injector, BridgeHack,defcon,SmegHack,ShittyScripts",
@@ -326,7 +330,7 @@ local Skiddies 	= {
 	["1:148090858"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt of STEAM_0:1:89343200)",
 	
 	["0:58588089"] = "KineticVoid/felix321/Troll names, "..Snix..", "..GG.." kkkuats",
-	["1:70945753"] = "alexhun/Alexander Kozak/kozakalex2000, MPGH, C++ hacks",
+	["1:70945753"] = "alexhun/Alexander Kozak/kozakalex2000, MPGH, C++ hacks, snixzz cheat user @ 06-19-2016",
 	["0:137853946"] = "Zekiar/ebg_cogbeard, VAC banned, "..Snix,
 	
 	["1:60147209"] = "Delfyni, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt STEAM_0:0:104342775)",
@@ -630,8 +634,8 @@ local Skiddies 	= {
 	["0:90714736"] = "PotetoL0rd/tbagmax/Maya _Nous/daniel goldfeld, lua/sasha.lua",
 	["0:90332026"] = "Eugene Sin Socket/thumbupyourass/Troll names, "..Snix,
 	
-	["0:140048952"] = "Trey Hufstetler/wvtch/garrysbhop/Troll names, VAC banned, "..Snix..", "..GG.." gmodhvh",
-	["1:47723510"] = "Trey Hufstetler/wvtch/garrysbhop/Troll names, VAC banned, "..Snix..", "..GG.." gmodhvh",
+	["0:140048952"] = "Trey Hufstetler/wvtch/garrysbhop/Troll names, VAC banned, snixzz cheat user @ 06-19-2016, "..Snix..", "..GG.." gmodhvh",
+	["1:47723510"] = "Trey Hufstetler/wvtch/garrysbhop/Troll names, VAC banned, snixzz cheat user @ 06-19-2016, "..Snix..", "..GG.." gmodhvh",
 	
 	["0:46583557"] = "cycpl/Troll names, "..GG.." darkscriptsv1",
 	["1:56112345"] = "ninjaboyxd/THAIWONDER/Troll names/Possible oub alt, selling hacks, stealing files, writing hacks, Attempted anticheat bypass, BAN ME FOREVER",
@@ -842,7 +846,7 @@ local Skiddies 	= {
 	["1:104971837"] = "HappyRipper, snixzz cheat user @ 06-10-2016, VAC Banned, "..Snix,
 	["0:142275477"] = "All4n/'bich', "..Snix,
 	["0:33099483"] = "polivilas/100% Troll names, stealing files, aimware, VAC banned, "..Snix..", hera, member of 16 hack/troll groups, BAN ME FOREVER",
-	["0:118787869"] = "TheDuckMaster/theduckmastersteamaccount/Zachary/RubbyDuckModz, VAC banned, selling hacks, member of hack groups: DuckyHacks4Sale,HowAreCodeKills, BAN ME FOREVER",
+	["0:118787869"] = "TheDuckMaster/DuckyHacks4Sale/Zachary/RubbyDuckModz, selling hacks, VAC banned, member of hack groups: DuckyHacks4Sale,HowAreCodeKills, BAN ME FOREVER",
 	["0:42792328"] = "aethi/Ratteh/__asmr/Troll names, attacking & crashing servers, VAC banned, "..Snix..", gDaap: Ratty, Member of hack/troll groups, BAN ME FOREVER",
 	["1:50524201"] = "og squad/Jay/no_one/Troll names, 2S: Unknown hack, "..GG.." big_codens",
 	["0:31297822"] = "naw/seacum/Crashmultiz/Troll names, "..GG.." big_codens",
