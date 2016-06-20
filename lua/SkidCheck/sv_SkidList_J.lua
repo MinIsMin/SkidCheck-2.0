@@ -2256,7 +2256,6 @@ local ExtraSkiddies = {
 	["0:14783153"] = GG.." hackeresports",
 	["0:135271008"] = GG.." STAINLESSCOOKINGPOT",
 	["0:151289834"] = GG.." STAINLESSCOOKINGPOT",
-	["0:35717190"] = GG.." ibench3lbs",
 	["0:73450150"] = GG.." ibench3lbs",
 	["0:150226039"] = GG.." ibench3lbs",
 	["0:78325749"] = GG.." anti-cheatsquad",

@@ -25,8 +25,11 @@ local Skiddies 	= {
 
 
 
-
-
+	["1:59402382"] = "Zero/Jay, ShittyScripts, "..GG.." annoyingprogamers",
+	["1:104640041"] = "why1mad/DEARTH/Troll names, VAC banned, ShittyScripts,$w4g H4x,Lennys,AW Hack,Anozira Scripts,TGN Nacho Scripts,SRSkill,",
+	["1:76533224"] = "Demon Hunter/mac chicken, ShittyScripts",
+	["1:78936598"] = "Washing Machine/washingm/Troll names, VAC banned, cvar3,BridgeHack,nospread,ilya,SRSscript,ShittyScripts,ZScripts, "..GG.." KuKluxLlanForEver,openg",
+	
 	["0:133384252"] = "TTD Schuss/lmaoboxizbae/schussthegod, 2x VAC bans, Ban evasion (2 alts, List_A), "..GG.." annoyingprogamers",
 	["1:171347099"] = "TTD Schuss/lmaoboxizbae/schussthegod, 2x VAC bans, Ban evasion (Alt of 0:133384252), "..GG.." annoyingprogamers",
 	["0:170902214"] = "TTD Schuss/lmaoboxizbae/schussthegod, 2x VAC bans, Ban evasion (Alt of 0:133384252), "..GG.." annoyingprogamers",
@@ -84,6 +87,10 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:35717190"] = "snixzz cheat user @ 06-19-2016, "..GG.." ibench3lbs",
+	["0:26766502"] = "snixzz cheat user @ 06-19-2016",
+	["0:75810602"] = "snixzz cheat user @ 06-20-2016",
+	["0:59608652"] = "snixzz cheat user @ 06-20-2016",
 	["1:172469602"] = "snixzz cheat user @ 06-18-2016, "..GG.." 911eltrois3",
 	["1:51442423"] = "snixzz cheat user @ 06-18-2016",
 	["1:159509651"] = "snixzz cheat user @ 06-19-2016",
@@ -534,6 +541,7 @@ local Skiddies 	= {
 	
 	["1:24123574"] = "atb7195/Daniel Bialy, sv_allowcslua bypass",
 	
+	["1:118234279"] = "TQuaidZn alt 2, Stealing files, SteamID spoofing, 2x VAC bans, 16 bad DLLs, 27 lua hacks, SwagServers: sv_cheats = 1, Member of 3 hack/troll groups, BAN ME FOREVER",
 	["0:70614886"] = "TQuaidZn alt, Stealing files, SteamID spoofing, 2x VAC bans, 16 bad DLLs, 27 lua hacks, SwagServers: sv_cheats = 1, Member of 3 hack/troll groups, BAN ME FOREVER",
 	["0:46709807"] = "TQuaidZn, Stealing files, SteamID spoofing, 2x VAC bans, 16 bad DLLs, 27 lua hacks, SwagServers: sv_cheats = 1, Member of 3 hack/troll groups, BAN ME FOREVER",
 	
