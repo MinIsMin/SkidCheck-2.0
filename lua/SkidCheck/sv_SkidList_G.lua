@@ -3239,7 +3239,6 @@ local ExtraSkiddies = {
 	["0:168254836"] = GG.." aimerware",
 	["0:149226043"] = GG.." aimerware",
 	["0:60746227"] = GG.." aimerware",
-	["1:2057323"] = GG.." CUBAHVH",
 	["0:131445076"] = GG.." PropkillMafia",
 	["0:85226505"] = GG.." PropkillMafia",
 	["0:15853007"] = GG.." Garry-makes-kids-autistic",

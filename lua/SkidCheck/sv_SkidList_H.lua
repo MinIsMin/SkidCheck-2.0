@@ -8235,7 +8235,6 @@ local ExtraSkiddies = {
 	["1:60305265"] = "amp, Lennys",
 	["0:80363332"] = "BanksFTW, Lennys",
 	["0:60101757"] = "BeNjI, VAC banned, Lennys",
-	["0:65443604"] = "lanigiro1, Lennys",
 	["1:79552814"] = "A Friendly N Word, Lennys",
 	["1:92095851"] = "xxkillerxx, Lennys",
 	["1:83706691"] = "Charbucks, Lennys",

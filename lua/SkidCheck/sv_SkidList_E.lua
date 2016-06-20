@@ -9388,7 +9388,6 @@ local ExtraSkiddies = {
 	["0:133334500"] = GG.." sscriptsGroup",
 	["0:106983199"] = GG.." sscriptsGroup",
 	["1:167776716"] = GG.." sscriptsGroup",
-	["1:151777917"] = GG.." sscriptsGroup",
 	["0:18706125"] = GG.." Ir8theR888",
 	["1:115040486"] = GG.." BlackPeopleSucks",
 	["0:144330104"] = GG.." steemacuntz",

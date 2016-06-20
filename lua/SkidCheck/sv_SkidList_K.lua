@@ -2,6 +2,15 @@
 
 local GG 			= "Member of hack/troll group:"
 local ExtraSkiddies = {
+	["0:26170217"] = GG.." Spooky_Ghosts",
+	["0:12319119"] = GG.." Spooky_Ghosts",
+	["0:83548265"] = GG.." Spooky_Ghosts",
+	["1:59284933"] = GG.." Spooky_Ghosts",
+	["0:51613926"] = GG.." Spooky_Ghosts",
+	["0:45441542"] = GG.." Spooky_Ghosts",
+	["1:49297627"] = GG.." Spooky_Ghosts",
+	["0:42399162"] = GG.." Spooky_Ghosts",
+	["1:52689365"] = GG.." Spooky_Ghosts",
 	["0:99198023"] = GG.." lifesuckskillyourself",
 	["0:43494248"] = GG.." lifesuckskillyourself",
 	["1:87689870"] = GG.." lifesuckskillyourself",
@@ -9090,7 +9099,6 @@ local ExtraSkiddies = {
 	["0:80047228"] = GG.." sscriptsGroup",
 	["1:51861926"] = GG.." sscriptsGroup",
 	["1:107085153"] = GG.." sscriptsGroup",
-	["1:120155445"] = GG.." sscriptsGroup",
 	["0:98821479"] = GG.." sscriptsGroup",
 	["1:149855412"] = GG.." sscriptsGroup",
 	["0:71348124"] = GG.." vacbannedclub",
