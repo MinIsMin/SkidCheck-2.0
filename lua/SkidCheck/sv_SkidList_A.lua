@@ -24,6 +24,9 @@ local Skiddies 	= {
 
 
 
+
+
+	["0:138749637"] = "SniperSimon/Simon/snipermen, ShittyScripts",
 	["0:145968191"] = "TheCrashMaster, sv_allowcslua bypass gmcl_cat_win32.dll, SmegHack,defcon,Lennys, ShittyScripts",
 	["0:113109995"] = "ItsJustVintage/rayan haddid/thekillerde1, BridgeHack,ShittyScripts",
 	["0:109345673"] = "scrubster/william/kawaihax/Troll names, sv_allowcslua bypass snixzzBypass.dll, VAC banned, snixzz3,$w4g H4x,Lennys",
