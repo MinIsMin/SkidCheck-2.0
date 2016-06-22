@@ -25,7 +25,7 @@ local Skiddies 	= {
 
 
 
-
+	["0:73850579"] = "X_xStrom23X_x/XLegend, sv_allowcslua bypass, gmcl_cat_win32.dll, Bridgehack,SmegHack",
 	["0:138749637"] = "SniperSimon/Simon/snipermen, ShittyScripts",
 	["0:145968191"] = "TheCrashMaster, sv_allowcslua bypass gmcl_cat_win32.dll, SmegHack,defcon,Lennys, ShittyScripts",
 	["0:113109995"] = "ItsJustVintage/rayan haddid/thekillerde1, BridgeHack,ShittyScripts",
@@ -99,9 +99,11 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:128020194"] = "IG AstroGalaxyHD, snixzz cheat user",
+	["1:102974350"] = "EgN Grape Slushy, snixzz cheat user",
 	["0:35717190"] = "snixzz cheat user @ 06-19-2016, "..GG.." ibench3lbs",
 	["0:26766502"] = "snixzz cheat user @ 06-19-2016",
-	["0:75810602"] = "snixzz cheat user @ 06-20-2016",
+	["0:75810602"] = "Triggered Frog, snixzz cheat user @ 06-20-2016",
 	["0:59608652"] = "snixzz cheat user @ 06-20-2016",
 	["1:172469602"] = "snixzz cheat user @ 06-18-2016, "..GG.." 911eltrois3",
 	["1:51442423"] = "snixzz cheat user @ 06-18-2016",
@@ -144,7 +146,7 @@ local Skiddies 	= {
 	["1:158005187"] = "snixzz cheat user @ 06-10-2016",
 	["1:172770531"] = "snixzz cheat user @ 06-10-2016",
 	["1:34606923"] = "snixzz cheat user @ 06-09-2016, "..GG.." anonis4skrubs",
-	["1:51230611"] = "snixzz cheat user @ 06-10-2016",
+	["1:51230611"] = "MayhemKing, snixzz cheat user @ 06-10-2016",
 	["1:43645832"] = "snixzz cheat user @ 06-09-2016",
 	["1:64215096"] = "yoitsbetter/Daniel/Lord Of The Bucket, snixzz cheat user @ 06-09-2016",
 	["1:71564718"] = "snixzz cheat user @ 06-08-2016, "..GG.." ididnothither",
@@ -155,10 +157,11 @@ local Skiddies 	= {
 	["0:146836742"] = "snixzz cheat user @ 06-08-2016, "..GG.." LittleGurls",
 	["0:101902129"] = "snixzz cheat user",
 	["1:76755027"] = "snixzz cheat user @ 06-09-2016",
-	["1:14005478"] = "snixzz cheat user",
+	["1:14005478"] = "KrazyKillerJ, snixzz cheat user",
 	["0:77238958"] = "snixzz cheat user",
 	["0:49608980"] = "snixzz cheat user @ 06-08-2016",
 	["0:161275981"] = "snixzz cheat user",
+	["0:54416309"] = "coreylarge30, snixzz cheat user",
 	
 	["1:89994030"] = "aintg0tcheats/brailehack/157 Troll names, ShittyScripts, "..GG.." darkscriptsv1",
 	["1:28086899"] = "striker, VAC banned, forced sv_allowcslua, kone_bypass, gmcl_cat_win32 bypass,Mapex,BridgeHack,defcon,ShittyScripts",
