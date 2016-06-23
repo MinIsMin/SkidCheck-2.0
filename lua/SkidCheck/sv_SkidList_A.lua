@@ -288,7 +288,7 @@ local Skiddies 	= {
 	["0:102250807"] = "Clamp/Deimos/ZaZ/ses/LemonGate, cvar3,multihack,Shittyscripts, Ban Evasion (Alt 1:91297145)",
 	
 	["1:102370353"] = "Troll names, banned, newsbot, "..GG.." imanigga",
-	["1:59879279"] = "nenomaifrend/lightsteam/Troll names, STEALING FILES,attacking servers,VAC banned, cvar3,nyx,RHook,Dark/Shitty/HL/LightBHop scripts, "..GG.." VACISAJOKE",
+	["1:59879279"] = "nenomaifrend/lightsteam/Troll names, STEALING FILES,attacking servers,VAC banned, cvar3,nyx,RHook,Dark/Shitty/HL/LightBHop scripts,propkiller, "..GG.." VACISAJOKE",
 	
 	["1:92524764"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
 	["0:170792375"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
