@@ -23,6 +23,13 @@ local Skiddies 	= {
 
 
 
+
+
+
+	["1:118250325"] = "NiklasHodne/KristofferIdland, STEALING FILES,forced sv_cheats, gDaap,ShittyScripts,SmegHack,cat,nospread,defcon,DarkScripts,BridgeHack,MemeSmasher,SH",
+	["0:86074190"] = "lewislmao/Lew, ShittyScripts",
+	["1:75609572"] = "Juan Manuel/scottw2001, ShittyScripts,Dark scripts",
+	["0:58195764"] = "La Bella, Falcos scripts",
 	["0:61366943"] = "speep0/Troll names, 2x VAC bans, "..GG.." SUPERSWAGXXNOCOPINGX420XX,gayvaccheaterclub,BruhdaGang",
 	["1:68675009"] = "Sk1DDY/Sneakers/Breach/Troll names, MPGH, releasing cheats, "..GG.." Dango_Mafia_Fan_club",
 	["0:95905470"] = "nick4lax/nick day, ShittyScripts",
@@ -70,7 +77,7 @@ local Skiddies 	= {
 	["1:127738295"] = "Server takeovers, "..GG.." AIMWARE,",
 	["1:152542333"] = "Server takeovers, "..GG.." stainlesshvh,",
 	["1:11000619"] = "Server takeovers, "..GG.." dunk1n_nerds,",
-	["1:146870355"] = "Server takeovers, "..GG.." ethugs_,",
+	["1:146870355"] = "R.I.U NO EGO X L I, Server takeovers, snixzz cheat user, "..GG.." ethugs_,",
 	["0:1697238"] = "Server takeovers, "..GG.." ethugs_,",
 	["1:1402802"] = "Server takeovers, "..GG.." spinup,",
 	["0:78048811"] = "Server takeovers, "..GG.." faggothackers,",
