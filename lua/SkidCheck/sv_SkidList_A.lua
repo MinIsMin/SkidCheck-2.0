@@ -23,8 +23,9 @@ local Skiddies 	= {
 
 
 
-
-
+	["0:61366943"] = "speep0/Troll names, 2x VAC bans, "..GG.." SUPERSWAGXXNOCOPINGX420XX,gayvaccheaterclub,BruhdaGang",
+	["1:68675009"] = "Sk1DDY/Sneakers/Breach/Troll names, MPGH, releasing cheats, "..GG.." Dango_Mafia_Fan_club",
+	["0:95905470"] = "nick4lax/nick day, ShittyScripts",
 	["0:26279808"] = "SizewellB, $w4g H4x",
 	["1:76559426"] = "The Middleman/The_Dead_Gamer, forced sv_allowcslua, forced sv_cheats, darkv1bypass,cvar3,nyx,ShittyScripts",
 	["1:116589703"] = "Mikoligist/mike, forced sv_allowcslua, forced sv_cheats, darkv1bypass,cvar3,nyx,ShittyScripts",
@@ -103,6 +104,9 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:56153988"] = "Pile of Guts, snixzz cheat user, "..GG.." MEMEWARE",
+	["0:81809350"] = "saud2013x3, snixzz cheat user",
+	["1:151832758"] = "SNG Rickson Davis, snixzz cheat user",
 	["1:74749901"] = "Troll names, snixzz cheat user",
 	["1:93947617"] = "K1tty, snixzz cheat user",
 	["0:141235085"] = "Aurora, snixzz cheat user, "..GG.." AIMWARE",
@@ -921,7 +925,7 @@ local Skiddies 	= {
 	
 	["0:84617828"] = "Floppy/ethanni/Ethan Ni, "..Snix,
 	["1:67756760"] = "Ludio/ludionl/FireFartFTW, crashing the serrver, "..Snix..", 2S: AHack, BAN ME FOREVER",
-	["1:53189353"] = "Kawurftha/Ripper/Scetch08/Troll names, STEALING FILES, Server takeovers, C++ HACKS, 3x VAC bans, "..Snix..", "..GG.." tabernaclehacking,faggotsforhacking",
+	["1:53189353"] = "Kawurftha/Ripper/Scetch08/Troll names, STEALING FILES, Server takeovers, C++ HACKS, 3x VAC bans, snixzz cheat user, "..Snix..", "..GG.." tabernaclehacking,faggotsforhacking",
 	["1:46645216"] = "Gorzoid/David Loftus, VAC banned, "..Snix..", 2S: Mapex",
 	["0:41876886"] = "Nox/Troll namese, C++ cheats, "..Snix..", leaking code, VAC banned, Hacking on an alt account",
 	["0:65239696"] = "andrewmarshall13/Franklin Demar/Troll names, BAN ME FOREVER",
@@ -1413,12 +1417,12 @@ local Skiddies 	= {
 	["0:100368373"] = "Users, stealing files,pHack",
 	["1:2537080"] = "Billy/Possible Im Friendly alt, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
 	
-	["1:90731720"] = "Im Friendly/Anarchically/Sadistic, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
-	["1:62132405"] = "Im Friendly/Anarchically/Sadistic, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion, BAN ME FOREVER",
-	["1:73012010"] = "Im Friendly/Anarchically/Troll names, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
-	["0:77568751"] = "Im Friendly/Anarchically/Sadistic, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
-	["1:128174230"] = "Im Friendly/Anarchically, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
-	["0:140952981"] = "Im Friendly/Anarchically, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
+	["1:90731720"] = "Im Friendly/Anarchically/Sadistic, DDoS,stealing files,3x VAC bans,aimware,2S,Mapex, snixzz cheat user, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
+	["1:62132405"] = "Im Friendly/Anarchically/Sadistic, DDoS,stealing files,3x VAC bans,aimware,2S,Mapex, snixzz cheat user, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
+	["1:73012010"] = "Im Friendly/Anarchically/Troll names, DDoS,stealing files,3x VAC bans,aimware,2S,Mapex, snixzz cheat user, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
+	["0:77568751"] = "Im Friendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,aimware,2S,Mapex, snixzz cheat user, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
+	["1:128174230"] = "Im Friendly/Anarchically, DDoS,stealing files,3x VAC bans,aimware,2S,Mapex, snixzz cheat user, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
+	["0:140952981"] = "Im Friendly/Anarchically, DDoS,stealing files,3x VAC bans,aimware,2S,Mapex, snixzz cheat user, Ban Evasion (Alt of 1:62132405), BAN ME FOREVER",
 	
 	["1:18855627"] = "BorhilIan",
 	["0:25185420"] = "comicaldan",

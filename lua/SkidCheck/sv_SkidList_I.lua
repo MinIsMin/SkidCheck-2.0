@@ -5683,7 +5683,6 @@ local ExtraSkiddies = {
 	["1:54188058"] = GG.." MEMEWARE",
 	["0:139878530"] = GG.." MEMEWARE",
 	["0:66611267"] = GG.." MEMEWARE",
-	["1:56153988"] = GG.." MEMEWARE",
 	["0:40440240"] = GG.." MEMEWARE",
 	["1:92722369"] = GG.." MEMEWARE",
 	["0:103220344"] = GG.." MEMEWARE",

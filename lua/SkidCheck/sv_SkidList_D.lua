@@ -4172,7 +4172,6 @@ local ExtraSkiddies = {
 	["1:42114826"] = GG.." gayweedddads",
 	["1:100928685"] = GG.." 22cheatx",
 	["0:76102012"] = GG.." gayweedddads",
-	["1:68675009"] = GG.." Dango_Mafia_Fan_club",
 	["1:46518711"] = GG.." hl1framework",
 	["0:63956975"] = GG.." gayweedddads",
 	["0:64422168"] = GG.." gayweedddads",
