@@ -26,7 +26,10 @@ local Skiddies 	= {
 
 
 
-	["1:118250325"] = "NiklasHodne/KristofferIdland, STEALING FILES,forced sv_cheats, gDaap,ShittyScripts,SmegHack,cat,nospread,defcon,DarkScripts,BridgeHack,MemeSmasher,SH",
+	["0:40277849"] = "Padle-be/Padlebe, STEALING FILES (scripthook)",
+	["1:73736051"] = "dornek01/Citizen, $w4g H4x",
+	["1:174876114"] = "milch123, AHack",
+	["1:118250325"] = "NiklasHodne/KristofferIdland, STEALING FILES,forced sv_cheats, gDaap,ShittyScripts,SmegHack,cat,nospread,defcon,DarkScripts,BridgeHack,MemeSmasher",
 	["0:86074190"] = "lewislmao/Lew, ShittyScripts",
 	["1:75609572"] = "Juan Manuel/scottw2001, ShittyScripts,Dark scripts",
 	["0:58195764"] = "La Bella, Falcos scripts",
@@ -111,6 +114,7 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:48401122"] = "v, snixzz cheat user",
 	["1:56153988"] = "Pile of Guts, snixzz cheat user, "..GG.." MEMEWARE",
 	["0:81809350"] = "saud2013x3, snixzz cheat user",
 	["1:151832758"] = "SNG Rickson Davis, snixzz cheat user",
@@ -180,7 +184,7 @@ local Skiddies 	= {
 	["1:76755027"] = "Pvt. Ducky, snixzz cheat user @ 06-09-2016",
 	["1:14005478"] = "KrazyKillerJ, snixzz cheat user",
 	["0:77238958"] = "snixzz cheat user",
-	["0:49608980"] = "snixzz cheat user @ 06-08-2016",
+	["0:49608980"] = "hard donkeydeliverer, snixzz cheat user @ 06-08-2016",
 	["0:161275981"] = "snixzz cheat user",
 	["0:54416309"] = "coreylarge30, snixzz cheat user",
 	
