@@ -82,8 +82,8 @@ function Skid.Check(server_only)
 		MsgC(Skid.GREY, " <")
 		MsgC(Skid.RED, Reason)
 		MsgC(Skid.GREY, "> ")
-		MsgC(Skid.GREY, "is on the ")
-		MsgC(Skid.ORANGE, "HAC database\n\n")
+		MsgC(Skid.GREY, "is a ")
+		MsgC(Skid.ORANGE, "BAD PLAYER\n\n")
 		
 		//Hook
 		if hook.Run("OnSkid", v, Reason, (not server_only) ) then continue end

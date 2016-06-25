@@ -46,7 +46,7 @@ function Skid.Msg()
 		Skid.RED, Reason,
 		Skid.GREY, "> ",
 		Skid.GREY, "is a ",
-		Skid.PINK, "KNOWN CHEATER"
+		Skid.PINK, "BAD PLAYER"
 	)
 	
 	//Sound
