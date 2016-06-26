@@ -26,6 +26,10 @@ local Skiddies 	= {
 
 
 
+	["0:89624792"] = "John Johnson/Squid Nugget/k9markblue, forced sv_allowcslua, gmodpickles.dll bypass, VAC banned, ShittyScripts",
+	["0:100843426"] = "StealthNinja1O1/Jarno, forced sv_allowcslua, gmcl_cat_win32.dll bypass, BridgeHack,SmegHack,Mapex,defcon",
+	["1:55421154"] = "GalacticSoundz/Kyle Dean, Server takeovers, game banned",
+	["1:149078922"] = "harrydrew01/Harrison Drew, SmegHack, Sasha aimbot, Lennys scripts",
 	["0:40277849"] = "Padle-be/Padlebe, STEALING FILES (scripthook)",
 	["1:73736051"] = "dornek01/Citizen, $w4g H4x",
 	["1:174876114"] = "milch123, AHack",
@@ -69,6 +73,7 @@ local Skiddies 	= {
 	["0:141392720"] = "M.D Hack/makei_22/navihack, STEALING FILES, 114 lua cheats, 26 cheat DLLs, C++ hacks, "..GG.." Leak_Scripts, BAN ME FOREVER",
 	["1:147962115"] = "polmit, Jynxx Script3",
 	
+	["1:66489303"] = "snixzz cheat user, "..GG.." OldSchoolHacks",
 	["0:148856320"] = "Server takeovers, "..GG.." segapw,",
 	["0:1621321"] = "Server takeovers, "..GG.." valuev,",
 	["0:52214012"] = "Server takeovers, "..GG.." lithiumcheatsxyz,",
@@ -114,6 +119,12 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:72457577"] = "g-modder/Frobro3.0/Phys Frobro, snixzz cheat user, 2x VAC bans, "..GG.." darkscriptsv1,GaingRape",
+	["0:61701034"] = "Magnde, snixzz cheat user, SirFluffysServers: BG Gamer98, Lua cheats",
+	["0:99344969"] = "Clippy, snixzz cheat user",
+	["0:68026131"] = "Zelbs, snixzz cheat user",
+	["0:71726949"] = "Oreo, snixzz cheat user",
+	["0:81949705"] = "Samil, snixzz cheat user",
 	["1:48401122"] = "v, snixzz cheat user",
 	["1:56153988"] = "Pile of Guts, snixzz cheat user, "..GG.." MEMEWARE",
 	["0:81809350"] = "saud2013x3, snixzz cheat user",
@@ -153,7 +164,7 @@ local Skiddies 	= {
 	["0:174777038"] = "snixzz cheat user @ 06-13-2016",
 	["0:1080802624"] = "snixzz cheat user @ 06-13-2016",
 	["1:100700661"] = "snixzz cheat user @ 06-12-2016, "..GG.." cheater",
-	["1:68543392"] = "snixzz cheat user @ 06-13-2016, "..GG.." MajorLeagueCheating",
+	["1:68543392"] = "crazyzultan, snixzz cheat user @ 06-13-2016, "..GG.." MajorLeagueCheating",
 	["0:162015551"] = "snixzz cheat user @ 06-13-2016, "..GG.." csgoani-me",
 	["1:52147813"] = "snixzz cheat user @ 06-12-2016, "..GG.." NoNAnonPub",
 	["0:85444912"] = "snixzz cheat user @ 06-12-2016, "..GG.." MEMEWARE3",
@@ -436,7 +447,6 @@ local Skiddies 	= {
 	["0:50861534"] = "venom0us/noimnotacrackaddict, 3x VAC bans, "..Snix..", "..GG.." snixzzdotnet,snixzzdotnet",
 	["1:55079621"] = "Star1/okie/Possible Leystryku alt, DDoS, VAC banned, Hera, "..Snix..", "..GG.." snixzzdotnet, BAN ME FOREVER",
 	["1:64336684"] = "thedankmaymay/Felix/Troll names, "..GG.." nigge_rs, BAN ME FOREVER",
-	["0:72457577"] = "g-modder/Frobro3.0, 2x VAC bans, "..GG.." darkscriptsv1,GaingRape",
 	["0:105904279"] = "Hectic, AW Hack",
 	["0:5236318"] = "Supreme/supremecheats/MrLethalVids/Troll names, VAC banned, C++ hacks, "..GG.." antibirusnet",
 	["1:58825993"] = "Mark/tamsakeer/lipothegreat, MPGH, admitted hacking, "..GG.." ididnothither,Ripzza",

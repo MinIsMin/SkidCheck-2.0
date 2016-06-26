@@ -8277,7 +8277,6 @@ local ExtraSkiddies = {
 	["1:87694721"] = GG.." OldSchoolHacks",
 	["0:59863074"] = GG.." OldSchoolHacks",
 	["0:80262513"] = GG.." OldSchoolHacks",
-	["1:66489303"] = GG.." OldSchoolHacks",
 	["1:85410379"] = GG.." OldSchoolHacks",
 	["1:90582354"] = GG.." OldSchoolHacks",
 	["1:85047569"] = GG.." OldSchoolHacks",

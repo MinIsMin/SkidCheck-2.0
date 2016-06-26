@@ -8278,7 +8278,6 @@ local ExtraSkiddies = {
 	["0:77163480"] = GG.." IMMUNITYCSS",
 	["0:30350138"] = GG.." ORGANNER",
 	["0:102338161"] = GG.." WeCheatAtGames",
-	["0:61701034"] = "SirFluffysServers: BG Gamer98, Lua cheats",
 	["1:89568705"] = GG.." SUPERSWAGXXNOCOPINGX420XX",
 	["0:2018200"] = GG.." ORGANNER",
 	["1:47071845"] = GG.." ORGANNER",
