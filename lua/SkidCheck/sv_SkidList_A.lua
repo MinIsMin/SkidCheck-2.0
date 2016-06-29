@@ -24,8 +24,8 @@ local Skiddies 	= {
 
 
 
-
-
+	["1:102821218"] = "gutteralcurve, $w4g H4x",
+	["1:98798371"] = "FunnyPhoeniX/romain laval, STEALING FILES, SmegHack,cvar3,Nospread",
 	["1:164715324"] = "CampIngChanel/ytcampingchanel/Daniel, $w4g H4x",
 	["0:130413000"] = "DarKneSsDriKes/Alexis/Gota, 2x VAC bans, Lennys scripts",
 	["1:167954483"] = "blancanthony3, Lennys scripts",
