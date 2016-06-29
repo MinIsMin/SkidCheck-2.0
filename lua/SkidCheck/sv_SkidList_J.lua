@@ -4899,7 +4899,6 @@ local ExtraSkiddies = {
 	["0:53209891"] = GG.." pasters",
 	["0:58028789"] = GG.." pasters",
 	["0:54410940"] = "The Xeno Phantom/thexenophantom, Lennys",
-	["1:108486043"] = "Aiden trade.tf/aiden6583628, Lennys",
 	["1:46043290"] = "Reboil Wise/kanestick, Lennys",
 	["0:49378612"] = "Chuck Norris/alpaybykyvz, VAC banned, Lennys",
 	["1:61581551"] = "entity.GabrielPBC.name/pokeblackcommon88, Lennys",

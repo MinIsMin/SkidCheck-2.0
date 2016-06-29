@@ -4048,7 +4048,6 @@ local ExtraSkiddies = {
 	["1:146911942"] = GG.." matewot",
 	["0:45241464"] = GG.." matewot",
 	["0:63267371"] = GG.." matewot",
-	["0:149113625"] = GG.." AutismRPOfficial",
 	["1:110840733"] = GG.." AutismRPOfficial",
 	["1:97633845"] = GG.." AutismRPOfficial",
 	["0:92416108"] = GG.." valuev",
