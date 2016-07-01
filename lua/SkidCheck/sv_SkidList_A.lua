@@ -24,6 +24,12 @@ local Skiddies 	= {
 
 
 
+
+	["1:120863853"] = "Mr/FinlandBoat/TiBBeZ/Tibell, forced sv_allowcslua, 2x VAC bans, gmcl_cat_win32, Anxition,BridgeHack,Defcon,SmegHack, Ban Evasion (Alt of 0:81983426)",
+	["0:81983426"] = "Mr/FinlandBoat/TiBBeZ/Tibell, forced sv_allowcslua, 2x VAC bans, gmcl_cat_win32, Anxition,BridgeHack,Defcon,SmegHack, Ban Evasion (1:120863853)",
+	
+	["0:56599821"] = "Smuzee/Troll names, STEALING FILES,sv_allowcslua bypass, 2x VAC bans, darkv1bypass,gDaap,cvar3,DarkScripts,ronaldhack,cyanred,snixzz,BridgeHack,PonyHack,ShittyScripts",
+	["1:61763644"] = "6y6Jluk, Hera,SmegHack,ShittyScripts,Parallax scripts, "..GG.." OldSchoolHacks",
 	["1:102821218"] = "gutteralcurve, $w4g H4x",
 	["1:98798371"] = "FunnyPhoeniX/romain laval, STEALING FILES, SmegHack,cvar3,Nospread",
 	["1:164715324"] = "CampIngChanel/ytcampingchanel/Daniel, $w4g H4x",
@@ -123,6 +129,7 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:56599821"] = "Smuzee, snixzz cheat user",
 	["1:108486043"] = "Aiden/aiden6583628, snixzz cheat user, Lennys scripts",
 	["0:58107541"] = "Apple, snixzz cheat user",
 	["0:151180819"] = "NinjaPanda, snixzz cheat user, "..GG.." AIMWARE",
@@ -196,7 +203,7 @@ local Skiddies 	= {
 	["0:153973667"] = "snixzz cheat user @ 06-12-2016, "..GG.." AllLegitz",
 	["0:62530113"] = "snixzz cheat user @ 06-12-2016, "..GG.." AllLegitz",
 	["0:148464095"] = "snixzz cheat user @ 06-11-2016",
-	["1:97451572"] = "snixzz cheat user @ 06-12-2016",
+	["1:97451572"] = "Trikky, snixzz cheat user @ 06-12-2016",
 	["0:43628039"] = "snixzz cheat user @ 06-12-2016",
 	["0:143288652"] = "snixzz cheat user @ 06-12-2016",
 	["0:67188517"] = "snixzz cheat user @ 06-11-2016",
@@ -211,7 +218,7 @@ local Skiddies 	= {
 	["1:64215096"] = "yoitsbetter/Daniel/Lord Of The Bucket, snixzz cheat user @ 06-09-2016",
 	["1:71564718"] = "snixzz cheat user @ 06-08-2016, "..GG.." ididnothither",
 	["0:30308848"] = "snixzz cheat user, "..GG.." theexploitersco",
-	["1:54357907"] = "snixzz cheat user @ 06-09-2016, "..GG.." sickcuntsboi",
+	["1:54357907"] = "QuadraX, snixzz cheat user @ 06-09-2016, "..GG.." sickcuntsboi",
 	["1:172950064"] = "snixzz cheat banned user, "..GG.." snixzzdotnet",
 	["1:82571032"] = "ud ssoo, snixzz cheat user @ 06-08-2016, "..GG.." MPGH",
 	["0:146836742"] = "snixzz cheat user @ 06-08-2016, "..GG.." LittleGurls",
@@ -884,8 +891,8 @@ local Skiddies 	= {
 	
 	["1:171775494"] = "powerpenguin601/Troll names, Writing & releasing hacks, "..GG.." VACISAJOKE,HVHKINGS,cheater0team",
 	
-	["0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn/aestheticvaper, Writing & releasing hacks, VAC banned, "..Snix,
-	["0:125521578"] = "Moosicorn alt/Owlicorn/officialowlicorn/Vlad/aestheticvaper, Writing & releasing hacks, VAC banned, "..Snix,
+	["0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn/aestheticvaper, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix,
+	["0:125521578"] = "Moosicorn alt/Owlicorn/officialowlicorn/Vlad/aestheticvaper, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix,
 	
 	["1:121163033"] = "What is Love/Vlad/Troll names, "..Snix..", Banned, "..GG.." snixzznet, BAN ME FOREVER",
 	["1:114522307"] = "rekteffect/Super/Troll names, MPGH, attempted anticheat bypass, SirFluffysServers: aimbot, seed manipulation",
