@@ -20,9 +20,11 @@ local Skiddies 	= {
 
 
 
-
-
-
+	["0:51630149"] = "SWERVED/sirmcfeckoff/Troll names, DDoS, VAC banned, Game banned, "..GG.." DDOS4FUN",
+	["0:65706984"] = "OceanStream72, STEALING FILES, SmegHack,pony,Ahack,cvar3,Nospread",
+	["1:5212710"] = "ubitsa3/ubitsa2, forced sv_cheats & sv_allowcslua, Razv2 aimbot, 2x VAC bans, cvar3,Nospread",
+	["0:134368058"] = "lauryrobichon/20010204/laury, BridgeHack, 2x VAC bans",
+	["1:72350004"] = "Aki/akithebrony/AkiTheOtter, sv_cheats bypass, VAC banned, TGN Nacho Scripts,Schlingel Hak,Falcos",
 	["0:3544600"] = "kr3pz0r/1nf1nte/R1Z0R/Troll names, VAC banned, Admitted hacking, "..GG.." hydradev, BAN ME",
 	
 	["0:142042748"] = "Cookie Monster/Lesch/Liam/Mike Brewster, sv_allowcslua bypass,Name hack,14 bad DLLs,VAC ban,snixzz cheat user,38 cheats, "..GG.." AllLegitz, BAN ME FOREVER, Ban Evasion (Alt 0:153973667)",
@@ -44,7 +46,10 @@ local Skiddies 	= {
 	["0:100843426"] = "StealthNinja1O1/Jarno, forced sv_allowcslua, gmcl_cat_win32.dll bypass, BridgeHack,SmegHack,Mapex,defcon",
 	["1:55421154"] = "GalacticSoundz/Kyle Dean, Server takeovers, game banned",
 	["1:149078922"] = "harrydrew01/Harrison Drew, SmegHack, Sasha aimbot, Lennys scripts",
-	["0:40277849"] = "Padle-be/Padlebe, STEALING FILES (scripthook)",
+	
+	["1:177924624"] = "Padle-be/Padlebe alt, STEALING FILES (scripthook), Ban evasion (Alt of 0:40277849)",
+	["0:40277849"] = "Padle-be/Padlebe, STEALING FILES (scripthook), Ban evasion (Alt 0:177924624)",
+	
 	["1:73736051"] = "dornek01/Citizen, $w4g H4x",
 	["1:174876114"] = "milch123, AHack",
 	["1:118250325"] = "NiklasHodne/KristofferIdland, STEALING FILES,forced sv_cheats, gDaap,ShittyScripts,SmegHack,cat,nospread,defcon,DarkScripts,BridgeHack,MemeSmasher",
@@ -132,6 +137,16 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:74388649"] = "Gun, snixzz cheat user, "..GG.." Tisker",
+	["0:54195846"] = "nixon, snixzz cheat user, "..GG.." 911insidejob",
+	["0:56724059"] = "Logan  Hyplex.co, snixzz cheat user",
+	["1:177186466"] = "Brocco, snixzz cheat user",
+	["1:151037368"] = "The Crab, snixzz cheat user",
+	["0:57590782"] = "Ghost, snixzz cheat user",
+	["0:43425970"] = "420, snixzz cheat user",
+	["1:51687424"] = "Nyarli, snixzz cheat user",
+	["0:82991535"] = "TPG Ackroy Jr, snixzz cheat user",
+	["1:90544106"] = "Pokecraftallday, snixzz cheat user",
 	["1:155874082"] = "Atmiclegit.player, snixzz cheat user",
 	["0:56599821"] = "Smuzee, snixzz cheat user",
 	["1:108486043"] = "Aiden/aiden6583628, snixzz cheat user, Lennys scripts",
@@ -211,7 +226,7 @@ local Skiddies 	= {
 	["0:143288652"] = "snixzz cheat user @ 06-12-2016",
 	["0:67188517"] = "snixzz cheat user @ 06-11-2016",
 	["0:64414119"] = "snixzz cheat user @ 06-11-2016",
-	["1:175381841"] = "ItsArmiiiOfficial/ItsArmiiiYTOfficial, snixzz cheat user @ 06-11-2016",
+	["1:175381841"] = "ItsArmiiiOfficial/ItsArmiiiYTOfficial/TheArmiii, snixzz cheat user @ 06-11-2016",
 	["1:60388232"] = "snixzz cheat user @ 06-11-2016, "..GG.." cheater",
 	["1:158005187"] = "snixzz cheat user @ 06-10-2016",
 	["1:172770531"] = "snixzz cheat user @ 06-10-2016",
@@ -1636,7 +1651,7 @@ local Skiddies 	= {
 	["1:25280302"] = "n0xius, VAC banned, "..GG.." myg0t_international",
 	["0:6858817"] = "Tankman, VAC banned, C++ cheats",
 	["1:72618162"] = "Kieru, VAC banned,stealing files,nospread,JSP, "..GG.." BXNDWIDTH, BAN ME",
-	["1:40744642"] = "Razor/copyandpasta/Troll names, 2x VAC bans, Razor hack, "..GG.." Skidsquad",
+	["1:40744642"] = "Razor/copyandpasta/Troll names, 2x VAC bans, Razor hack, Razv2, "..GG.." Skidsquad",
 	["0:84431"] = "noapte/NA0X, aim-flex C++ cheats, "..GG.." aimflex,cheater",
 	["1:71918446"] = "fishgar/Sachiel/Schmetterling, Selling hacks, VAC banned, "..GG.." antibirusnet, BAN ME",
 	["0:57812693"] = "Morning Kage, VAC banned, Skiddie, "..GG.." myg0t_international",
@@ -3291,7 +3306,10 @@ local Skiddies 	= {
 	["0:3228595"] = "SP2: Code injection (Sethhack)",
 	["1:56534091"] = "Backdoor/Exploits",
 	["1:41985289"] = "Vilation: sv_cheats",
-	["1:43296744"] = "Gaben main, selling hacks, gPlus, 2S: Hera",
+	
+	["1:43296744"] = "Gaben/Edd, sv_cheats, selling hacks, Lennys,cvar3,gPlus,falcos, 2S: Hera, Ban Evasion (Alt 0:89312873)",
+	["0:89312873"] = "Gaben/Edd, sv_cheats, selling hacks, Lennys,cvar3,gPlus,falcos, 2S: Hera, Ban Evasion (Alt of 1:43296744)",
+	
 	["0:40400542"] = "LESP",
 	["1:28841224"] = "SSDB: Sethhack",
 	["1:36957534"] = "GLDB: Jangles, Cheats detected",
@@ -3501,7 +3519,6 @@ local Skiddies 	= {
 	["1:36561519"] = "2S: Cheats",
 	["1:26268374"] = "sv_cheats",
 	["1:19775116"] = "Skiddie",
-	["0:89312873"] = "Gaben/Edd, Lennys,cvar3,falcos,sv_cheats,Ban Evasion (Alt of 1:43296744)",
 	["1:19633238"] = "Backdoor",
 	["0:45881962"] = "Archie/thebestcatever, Admitted DDoS, VAC banned, Hacks/Propkiller",
 	["1:17508001"] = "SSDB: BadMetatable",

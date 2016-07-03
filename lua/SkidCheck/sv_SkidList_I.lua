@@ -7273,7 +7273,6 @@ local ExtraSkiddies = {
 	["1:87113390"] = GG.." Tisker",
 	["1:20037965"] = GG.." Tisker",
 	["1:22116939"] = GG.." Tisker",
-	["0:74388649"] = GG.." Tisker",
 	["1:28913793"] = GG.." Tisker",
 	["1:48444929"] = GG.." Tisker",
 	["1:9321868"] = GG.." Tisker",
