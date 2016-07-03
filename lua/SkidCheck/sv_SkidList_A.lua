@@ -137,6 +137,7 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:161502545"] = "GAF, snixzz cheat user",
 	["0:74388649"] = "Gun, snixzz cheat user, "..GG.." Tisker",
 	["0:54195846"] = "nixon, snixzz cheat user, "..GG.." 911insidejob",
 	["0:56724059"] = "Logan  Hyplex.co, snixzz cheat user",
