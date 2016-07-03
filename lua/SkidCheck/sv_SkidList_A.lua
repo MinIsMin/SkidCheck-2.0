@@ -20,6 +20,7 @@ local Skiddies 	= {
 
 
 
+	["1:91606216"] = "kreator/Exodus/grbdanutz/Benchea Dany, sasha.lua aimbot",
 	["0:51630149"] = "SWERVED/sirmcfeckoff/Troll names, DDoS, VAC banned, Game banned, "..GG.." DDOS4FUN",
 	["0:65706984"] = "OceanStream72, STEALING FILES, SmegHack,pony,Ahack,cvar3,Nospread",
 	["1:5212710"] = "ubitsa3/ubitsa2, forced sv_cheats & sv_allowcslua, Razv2 aimbot, 2x VAC bans, cvar3,Nospread",
