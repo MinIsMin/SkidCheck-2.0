@@ -5506,7 +5506,6 @@ local ExtraSkiddies = {
 	["1:41492762"] = GG.." Juwz",
 	["0:77399866"] = GG.." Juwz",
 	["0:40279298"] = GG.." Juwz",
-	["1:108425167"] = GG.." Juwz",
 	["0:119801909"] = GG.." Juwz",
 	["1:107008065"] = GG.." wowmuchtroll",
 	["0:60859675"] = GG.." wowmuchtroll",

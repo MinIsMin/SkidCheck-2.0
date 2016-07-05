@@ -20,6 +20,23 @@ local Skiddies 	= {
 
 
 
+
+
+
+
+
+
+
+	["1:100742857"] = "Shytix/Gabin, VAC banned, AW Hack",
+	["1:176669093"] = "blaspha/Troll names, Troll, propkiller, "..GG.." kickflipp",
+	["1:90121493"] = "Adolf Hipster/Drew Bailey/Drew, STEALING FILES, forced sv_allowcslua, 2x VAC bans, cvar3,SmegHack,AHack,mApex,Pony,defcon",
+	["0:53857239"] = "HipsTerMan/homme caca, SRSkill script",
+	["0:78255956"] = "gtailok/Matze/Troll names, forced sv_allowcslua, gmcl_cat_win32 bypass, BridgeHack,defcon, Troll",
+	
+	["0:152208807"] = "Skeet Dooot/Callum Harvey/OliVe/spencerryan/Troll, STEALING FILES,5x VAC,cvar3,darkv1bypass,BridgeHack,AHack,cyanred,Shitty/Noobler/HL scripts, Ban evasion (Alt of 1:55949920)",
+	["1:55949920"] = "Skeet Dooot/Callum Harvey/OliVe/spencerryan/Troll, STEALING FILES,5x VAC,cvar3,darkv1bypass,BridgeHack,AHack,cyanred,Shitty/Noobler/HL scripts, Ban evasion (Alt 0:152208807)",
+	
+	["0:110446373"] = "SeReniTy/TD-180, AW Hack",
 	["1:91606216"] = "kreator/Exodus/grbdanutz/Benchea Dany, sasha.lua aimbot",
 	["0:51630149"] = "SWERVED/sirmcfeckoff/Troll names, DDoS, VAC banned, Game banned, "..GG.." DDOS4FUN",
 	["0:65706984"] = "OceanStream72, STEALING FILES, SmegHack,pony,Ahack,cvar3,Nospread",
@@ -93,6 +110,7 @@ local Skiddies 	= {
 	["0:141392720"] = "M.D Hack/makei_22/navihack, STEALING FILES, 114 lua cheats, 26 cheat DLLs, C++ hacks, "..GG.." Leak_Scripts, BAN ME FOREVER",
 	["1:147962115"] = "polmit, Jynxx Script3",
 	
+	["0:62804682"] = "DarkasDay, snixzz cheat user",
 	["0:148856320"] = "Server takeovers, "..GG.." segapw,",
 	["0:1621321"] = "Server takeovers, "..GG.." valuev,",
 	["0:52214012"] = "Server takeovers, "..GG.." lithiumcheatsxyz,",
@@ -138,6 +156,11 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:109309023"] = "eNax, snixzz cheat user",
+	["1:98440168"] = "Abs, snixzz cheat user",
+	["1:54247036"] = "FrEezE, snixzz cheat user",
+	["0:76808761"] = "Ducky, snixzz cheat user",
+	["1:108425167"] = "Maxiboi, snixzz cheat user, "..GG.." Juwz",
 	["1:161502545"] = "GAF, snixzz cheat user",
 	["0:74388649"] = "Gun, snixzz cheat user, "..GG.." Tisker",
 	["0:54195846"] = "nixon, snixzz cheat user, "..GG.." 911insidejob",
@@ -194,7 +217,7 @@ local Skiddies 	= {
 	["0:75810602"] = "Triggered Frog, snixzz cheat user @ 06-20-2016",
 	["0:59608652"] = "snixzz cheat user @ 06-20-2016",
 	["1:172469602"] = "snixzz cheat user @ 06-18-2016, "..GG.." 911eltrois3",
-	["1:51442423"] = "snixzz cheat user @ 06-18-2016",
+	["1:51442423"] = "yourassisgrassSTK, snixzz cheat user @ 06-18-2016",
 	["1:159509651"] = "snixzz cheat user @ 06-19-2016",
 	["0:104879599"] = "snixzz cheat user @ 06-18-2016",
 	["1:53650773"] = "snixzz cheat user @ 06-18-2016, "..GG.." AIMWARE",
@@ -1064,6 +1087,7 @@ local Skiddies 	= {
 	
 	["1:11000154"] = "Yung 2cash/2cash/Troll names, DDoS,RCON hack,Server takeovers,4x VAC bans, "..Snix..", skiddie, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME FOREVER",
 	["0:47565254"] = "Yung 2cash/2cash/Troll names, DDoS,RCON hack,Server takeovers,4x VAC bans, "..Snix..", skiddie, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME FOREVER",
+	["0:177527067"] = "Yung 2cash/2cash/Troll names, DDoS,RCON hack,Server takeovers,4x VAC bans, "..Snix..", skiddie, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME FOREVER",
 	
 	["0:118225675"] = "IzeHazAids/igot42tb/Alexander BeastMude/Troll names, "..Snix,
 	
