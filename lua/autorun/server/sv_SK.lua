@@ -34,7 +34,7 @@ util.AddNetworkString("Skid.Msg")
 
 
 //Load lists, must load in reverse order! 9 > 1
-Skid.Lists = file.Find("lua/SkidCheck/sv_SkidList*.lua", "GAME", "nameasc")
+Skid.Lists = file.Find("lua/SkidCheck/sv_SkidList*.lua", "GAME", "namedesc")
 HAC = { Skiddies = {} }	
 	for k,v in pairs(Skid.Lists) do
 		include("SkidCheck/"..v)

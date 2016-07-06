@@ -27,6 +27,7 @@ local Skiddies 	= {
 
 
 
+	["0:140347375"] = "alexis62851, sv_allowcslua bypass gmcl_cat_win32.dll, BridgeHack,SmegHack,Defcon aimbot",
 	["0:14982442"] = "Imperator notsun/Jarl Hallgarursson of Frisia/marith, BlueBot,Faphack, StonedPotatoes Banlist 2010",
 	["0:95507154"] = "Maxime lempereur du sale/maximebg/Romain/demonixasse, sasha.lua aimbot",
 	["1:100742857"] = "Shytix/Gabin, VAC banned, AW Hack",
@@ -158,6 +159,7 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:27313008"] = "oi75rge4cw2brb9b/100% Troll names, VAC banned, snixzz cheat user",
 	["0:133636730"] = "T0biNat0r, snixzz cheat user, "..GG.." snixzznet",
 	["1:95693667"] = "Combat Wombat, snixzz cheat user",
 	["1:109309023"] = "eNax, snixzz cheat user",
