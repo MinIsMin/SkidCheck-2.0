@@ -5743,7 +5743,6 @@ local ExtraSkiddies = {
 	["0:145043157"] = GG.." myg0t_international",
 	["1:118241297"] = GG.." myg0t_international",
 	["1:4515865"] = GG.." myg0t_international",
-	["0:133636730"] = GG.." snixzznet",
 	["1:44765396"] = GG.." 2dbae",
 	["1:65112228"] = GG.." loliposse",
 	["0:66402594"] = GG.." loliposse",

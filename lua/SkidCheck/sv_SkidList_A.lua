@@ -27,6 +27,8 @@ local Skiddies 	= {
 
 
 
+	["0:14982442"] = "Imperator notsun/Jarl Hallgarursson of Frisia/marith, BlueBot,Faphack, StonedPotatoes Banlist 2010",
+	["0:95507154"] = "Maxime lempereur du sale/maximebg/Romain/demonixasse, sasha.lua aimbot",
 	["1:100742857"] = "Shytix/Gabin, VAC banned, AW Hack",
 	["1:176669093"] = "blaspha/Troll names, Troll, propkiller, "..GG.." kickflipp",
 	["1:90121493"] = "Adolf Hipster/Drew Bailey/Drew, STEALING FILES, forced sv_allowcslua, 2x VAC bans, cvar3,SmegHack,AHack,mApex,Pony,defcon",
@@ -91,7 +93,7 @@ local Skiddies 	= {
 	["0:57319637"] = "henry hotspoon/inbredking/Troll names, Attempted anticheat bypass, Hera, BAN ME FOREVER",
 	["0:140580186"] = "brian montana/briandu11/brian corleone, sv_allowcslua bypass, kone_bypass, ShittyScripts",
 	["1:59402382"] = "Zero/Jay, ShittyScripts, "..GG.." annoyingprogamers",
-	["1:104640041"] = "why1mad/DEARTH/Troll names, VAC banned, ShittyScripts,$w4g H4x,Lennys,AW Hack,Anozira Scripts,TGN Nacho Scripts,SRSkill,",
+	["1:104640041"] = "why1mad/DEARTH/Troll names, VAC banned, ShittyScripts,$w4g H4x,Lennys,AW Hack,Anozira Scripts,TGN Nacho Scripts,SRSkill, snixzz cheat user",
 	["1:76533224"] = "Demon Hunter/mac chicken, ShittyScripts",
 	["1:78936598"] = "Washing Machine/washingm/Troll names, VAC banned, cvar3,BridgeHack,nospread,ilya,SRSscript,ShittyScripts,ZScripts, "..GG.." KuKluxLlanForEver,openg",
 	
@@ -156,6 +158,8 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:133636730"] = "T0biNat0r, snixzz cheat user, "..GG.." snixzznet",
+	["1:95693667"] = "Combat Wombat, snixzz cheat user",
 	["1:109309023"] = "eNax, snixzz cheat user",
 	["1:98440168"] = "Abs, snixzz cheat user",
 	["1:54247036"] = "FrEezE, snixzz cheat user",
@@ -797,7 +801,7 @@ local Skiddies 	= {
 	["1:63124517"] = "Arma/Shwangdi, "..Snix,
 	["1:18408"] = "16x/koski5/Troll names, admitted hacking",
 	["0:147230020"] = "yoshi fox, "..Snix,
-	["0:91351292"] = "zomkiller93/Troll names, 2x VAC bans, "..Snix..", "..GG.." fallenbackdoor",
+	["0:91351292"] = "zomkiller93/Troll names, 2x VAC bans, snixzz cheat user, "..Snix..", "..GG.." fallenbackdoor",
 	["1:22857859"] = "RealTree/Austin/realtreecamo, 3x VAC bans, "..Snix..", "..GG.." TriggerAimVip,snixzznet",
 	["1:103608784"] = "Vasko/Vasil/bggamer/ant456/snupar_xd/Troll names, VAC banned, 12 year old, Ban evasion (Alt 1:70309097)",
 	["1:70309097"] = "Vasko/Vasil/bggamer/ant456/snupar_xd/Troll names, VAC banned, 12 year old, Ban evasion (Alt of 1:103608784)",
