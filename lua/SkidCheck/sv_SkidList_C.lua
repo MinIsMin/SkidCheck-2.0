@@ -5064,7 +5064,6 @@ local ExtraSkiddies = {
 	["1:98494872"] = GG.." partyofnationalsocialism",
 	["1:63846083"] = GG.." gluacopypasters",
 	["0:66428005"] = GG.." gluacopypasters",
-	["0:151379289"] = GG.." snixzzdotnet",
 	["0:57270054"] = GG.." ididnothither",
 	["0:69466181"] = GG.." ididnothither",
 	["0:46056369"] = GG.." ididnothither",

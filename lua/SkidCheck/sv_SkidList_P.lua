@@ -7196,7 +7196,6 @@ local ExtraSkiddies = {
 	["0:66500748"] = GG.." beanware",
 	["1:80676599"] = GG.." beanware",
 	["1:162142040"] = GG.." cheater",
-	["1:129395844"] = GG.." cheater",
 	["1:110095196"] = GG.." cheater",
 	["0:23713736"] = GG.." cheater",
 	["0:115005331"] = GG.." cheater",
