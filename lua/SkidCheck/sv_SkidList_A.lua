@@ -25,7 +25,8 @@ local Skiddies 	= {
 
 
 
-
+	["0:23352242"] = "Zeronx/Pistonhead/Troll names, Troll, StonedPotatoes Banlist 2010, BAN ME FOREVER",
+	["0:163693059"] = "ILUMINATI/Elo_Elo_320, Lights Scripts",
 	["1:151149045"] = "maggs, HL Scripts",
 	["0:56863718"] = "shirogamez/EliteInfinity, MPGH, VAC banned, attempted AC bypass",
 	["0:140347375"] = "alexis62851, sv_allowcslua bypass gmcl_cat_win32.dll, BridgeHack,SmegHack,Defcon aimbot",
@@ -296,7 +297,9 @@ local Skiddies 	= {
 	["1:157511773"] = "im a modder lol/Troll names, STEALING FILES, SmegHack,JSP,cvar3,Nospread, Likely alt",
 	["1:51535527"] = "Obey The Duck/jovkee/Vodka, memesmasher, nospread,gmcl_dickwrap_win32,gmcl_mega_win32",
 	["1:151824812"] = "MrBloodyboy/Leam, VAC banned, BridgeHack,SmegHack",
+	
 	["0:57543246"] = "Mr.Sapin/Jaime mettre/KennyS/jeremy2002, Aimware C++ hack, sv_allowcslua bypass,gmcl_cat_win32,SmegHack,defcon,sasha,Game banned, BAN ME FOREVER",
+	["0:177224280"] = "Mr.Sapin/Jaime mettre/KennyS/jeremy2002, Aimware C++ hack, sv_allowcslua bypass,gmcl_cat_win32,SmegHack,defcon,sasha,Game banned, BAN ME FOREVER",
 	
 	["0:102278987"] = "Mr.1Tap/darkbelle/crowX6, VAC banned, Nacho Scripts,Falcos,Dark scripts,haxmp, Ban Evasion (Alt of 1:54063382), "..GG.." stealthyfuckers",
 	["1:54063382"] = "Mr.1Tap/darkbelle/crowX6, VAC banned, Nacho Scripts,Falcos,Dark scripts,haxmp, Ban Evasion (Alt of 0:102278987), "..GG.." stealthyfuckers",
