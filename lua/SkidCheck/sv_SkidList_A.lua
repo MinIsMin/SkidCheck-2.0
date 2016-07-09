@@ -25,6 +25,12 @@ local Skiddies 	= {
 
 
 
+	["0:126973388"] = "UnrealSkybox/CHAE WON/100% Troll names, STEALING FILES,VAC banned,ampris,Lennys,gDaap:TIMMMMAH,"..GG.." stupidnigs,UnrealHook, Ban evasion (3 alts, List_A)",
+	["0:8734429"] = "UnrealSkybox/CHAE WON/100% Troll names, STEALING FILES,VAC banned,ampris,Lennys,gDaap:TIMMMMAH,"..GG.." stupidnigs,UnrealHook, Ban evasion (3 alts, List_A)",
+	["0:74805608"] = "UnrealSkybox/CHAE WON/100% Troll names, STEALING FILES,VAC banned,ampris,Lennys,gDaap:TIMMMMAH,"..GG.." stupidnigs,UnrealHook, Ban evasion (3 alts, List_A)",
+	
+	["1:120421875"] = "Hansen/Hanseen/Mathias, 2x VAC bans, SmegHack,cyanred,defcon,makee hack, Lennys scripts",
+	["1:76908267"] = "Gunz Blazzinn/shadow4993/AceRex/Lucifer/Jamie, 'elite' aimbot, rename of Anxition",
 	["0:23352242"] = "Zeronx/Pistonhead/Troll names, Troll, StonedPotatoes Banlist 2010, BAN ME FOREVER",
 	["0:163693059"] = "ILUMINATI/Elo_Elo_320, Lights Scripts",
 	["1:151149045"] = "maggs, HL Scripts",
@@ -161,6 +167,9 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:65910752"] = "Mr.Syrex, snixzz cheat user",
+	["1:77946267"] = "The Hidden, snixzz cheat user",
+	["0:122485814"] = "Gunner3058, VAC banned, snixzz cheat user",
 	["0:151379289"] = "skism, snixzz cheat user, "..GG.." snixzzdotnet",
 	["1:120233869"] = "Bloom, snixzz cheat user",
 	["1:129395844"] = "Thaisen, snixzz cheat user, "..GG.." cheater",
@@ -242,7 +251,7 @@ local Skiddies 	= {
 	["1:92902260"] = "Obama Llama/Jordan/URDEAD548, snixzz cheat user @ 06-15-2016, "..Snix,
 	["0:58661557"] = "snixzz cheat user @ 06-15-2016",
 	["0:165833845"] = "Squmriple, snixzz cheat user @ 06-15-2016",
-	["1:61642171"] = "snixzz cheat user @ 06-14-2016",
+	["1:61642171"] = "Anonmyous, snixzz cheat user @ 06-14-2016",
 	["1:121696613"] = "Hauntex/Phoenix/Kraken/theterabyte/Troll names, writing cheats, snixzz cheat user @ 06-14-2016, "..GG.." darkscriptsv1",
 	["0:51779060"] = "poolgasd, snixzz cheat user @ 06-14-2016, 2S: AXpublic, "..GG.." AIMWARE",
 	["1:53385625"] = "AKX/yvngswag/Tyshawn/tinnnysboyfriend, snixzz cheat user @ 06-13-2016, VAC banned, cdriza friends",
@@ -1007,7 +1016,7 @@ local Skiddies 	= {
 	["1:68285037"] = "Sants/santsignog/Troll names, "..Snix..", "..GG.." dicksquadFLOCKA",
 	["0:139307506"] = "Alien, "..Snix..", "..GG.." pasters,dango_club",
 	["0:144782910"] = "Loxsys, "..Snix,
-	["0:115343499"] = "wutarmelon/bigspeedscripter/skittz10/DdHashu02/Troll names, DDoS,VAC,C++,"..Snix..",MPGH,BanEvasion, Member of 7 hack groups, BAN ME FOREVER",
+	["0:115343499"] = "wutarmelon/bigspeedscripter/skittz10/DdHashu02/Troll names, DDoS,C++,VAC,"..Snix..",MPGH,BanEvasion, Member of 63 hack groups, BAN ME FOREVER",
 	["0:132205938"] = "illusi0n/Nicolas/aimwaredotnetbest/Troll names, Aimware C++ hack, VAC banned, "..Snix..", "..GG.." pasters",
 	
 	["1:33854062"] = "Maravis/CieloX00/Marquis, Mapex",
@@ -6056,7 +6065,6 @@ local Skiddies 	= {
 	["1:26191563"] = "sgt.ketchup",
 	["1:20902825"] = "CS Tratitad, Falcos",
 	["0:19574465"] = "HVH, ban me, "..GG.." cheater",
-	["0:74805608"] = "gDaap DB: UnrealSkybox (TIMMMMAH), "..GG.." Letsraidgmodservers",
 	["0:32221326"] = "Skiddie",
 	["0:10725705"] = "Skiddie",
 	["0:43100738"] = "Blackops.cfg",

@@ -8490,7 +8490,6 @@ local ExtraSkiddies = {
 	["0:81029650"] = GG.." stupidnigs",
 	["0:81719615"] = GG.." stupidnigs",
 	["0:90029829"] = GG.." stupidnigs",
-	["0:126973388"] = GG.." stupidnigs",
 	["0:35652170"] = GG.." stupidnigs",
 	["1:92101074"] = GG.." stupidnigs",
 	["1:110130404"] = GG.." stupidnigs",

@@ -3539,7 +3539,6 @@ local ExtraSkiddies = {
 	["1:7339672"] = GG.." _VAC",
 	["1:25555698"] = GG.." Letsraidgmodservers",
 	["0:67100462"] = GG.." Letsraidgmodservers",
-	["0:74805608"] = GG.." Letsraidgmodservers",
 	["1:61453083"] = GG.." Letsraidgmodservers",
 	["0:40104176"] = GG.." Letsraidgmodservers",
 	["1:42597406"] = GG.." Letsraidgmodservers",
