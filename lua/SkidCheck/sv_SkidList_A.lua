@@ -16,6 +16,7 @@ local Skiddies 	= {
 
 
 
+	["1:21700892"] = "xenios, snixzz cheat user, DaReK/TRIDENT/Atom/AtomX alt, stealing files,28 skiddie scripts, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
 
 
 
@@ -1437,8 +1438,8 @@ local Skiddies 	= {
 	["1:90682003"] = "mr awsome, Sasha hack",
 	["1:60447231"] = "aTom, VAC banned, Sasha hack",
 	
-	["0:11185999"] = "DaReK/TRIDENT/Atom/AtomX , stealing files,28 skiddie scripts, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
-	["1:21700892"] = "DaReK/TRIDENT/Atom/AtomX alt, stealing files,28 skiddie scripts, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
+	["0:11185999"] = "DaReK/TRIDENT/Atom/AtomX, STEALING FILES,28 skiddie scripts,snixzz, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
+	["1:21700892"] = "DaReK/TRIDENT/Atom/AtomX alt, STEALING FILES,28 skiddie scripts,snixzz, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
 	
 	["0:115233959"] = "wakeupfromyourasleep/'aim boat', VAC banned/troll names",
 	
