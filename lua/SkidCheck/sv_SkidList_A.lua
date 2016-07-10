@@ -22,9 +22,9 @@ local Skiddies 	= {
 
 
 
-
-
-
+	["1:150704465"] = "violation_matrix, $w4g H4x",
+	["0:99449074"] = "IntelOutside/insidemcgamen/Rogier/Axell, STEALING FILES,C++Hacks,sv_allowcslua bypass gDaap,cat,pa4,BridgeHack,SmegHack,Dark/jynxxScripts",
+	
 	["0:126973388"] = "UnrealSkybox/CHAE WON/100% Troll names, STEALING FILES,VAC banned,ampris,Lennys,gDaap:TIMMMMAH,"..GG.." stupidnigs,UnrealHook, Ban evasion (3 alts, List_A)",
 	["0:8734429"] = "UnrealSkybox/CHAE WON/100% Troll names, STEALING FILES,VAC banned,ampris,Lennys,gDaap:TIMMMMAH,"..GG.." stupidnigs,UnrealHook, Ban evasion (3 alts, List_A)",
 	["0:74805608"] = "UnrealSkybox/CHAE WON/100% Troll names, STEALING FILES,VAC banned,ampris,Lennys,gDaap:TIMMMMAH,"..GG.." stupidnigs,UnrealHook, Ban evasion (3 alts, List_A)",
@@ -167,6 +167,7 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:53120483"] = "Spy, snixzz cheat user",
 	["1:65910752"] = "Mr.Syrex, snixzz cheat user",
 	["1:77946267"] = "The Hidden, snixzz cheat user",
 	["0:122485814"] = "Gunner3058, VAC banned, snixzz cheat user",
@@ -264,7 +265,7 @@ local Skiddies 	= {
 	["1:100700661"] = "snixzz cheat user @ 06-12-2016, "..GG.." cheater",
 	["1:68543392"] = "crazyzultan, snixzz cheat user @ 06-13-2016, "..GG.." MajorLeagueCheating",
 	["0:162015551"] = "snixzz cheat user @ 06-13-2016, "..GG.." csgoani-me",
-	["1:52147813"] = "snixzz cheat user @ 06-12-2016, "..GG.." NoNAnonPub",
+	["1:52147813"] = "digz, snixzz cheat user @ 06-12-2016, "..GG.." NoNAnonPub",
 	["0:85444912"] = "snixzz cheat user @ 06-12-2016, "..GG.." MEMEWARE3",
 	["1:91884421"] = "snixzz cheat user @ 06-11-2016, "..GG.." MEMEWARE3",
 	["0:62530113"] = "snixzz cheat user @ 06-12-2016, "..GG.." AllLegitz",
@@ -1181,7 +1182,7 @@ local Skiddies 	= {
 	["1:95188096"] = "Yaroslav, 2x VAC bans, Mapex, lua/sasha.lua aimbot",
 	["0:130835242"] = "Dentan/Dentan S/Simme007, VAC banned, Lennys scripts, Ban Evasion (Alt of 0:60575957)",
 	["0:60575957"] = "Dentan/Dentan S/Simme007, VAC banned, Lennys scripts, Ban Evasion (0:130835242)",
-	["0:92037896"] = "JVswaggGamer, gmcl_cat_win32.dll bypass, defiance.lua, sasha.lua, defcon.lua aimbots, "..GG.." snixzzdotnet",
+	["0:92037896"] = "JVswaggGamer/JV, snixzz cheat user, gmcl_cat_win32.dll bypass, defiance.lua, sasha.lua, defcon.lua aimbots, "..GG.." snixzzdotnet",
 	["1:36965857"] = "Alex760/alexis, 2x VAC bans",
 	["1:126225549"] = "Asutorea/vaporwave_and_anime/LoliSmasher2001/Troll names, skiddie, MPGH, member of hack/troll groups",
 	["1:77269274"] = "Dendo123/Dendo, gmcl_cat_win32.dll bypass, lua/defcon.lua aimbot",
