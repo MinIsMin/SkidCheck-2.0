@@ -7064,7 +7064,6 @@ local ExtraSkiddies = {
 	["0:56889991"] = GG.." montageparodies",
 	["1:47653868"] = GG.." montageparodies",
 	["1:47168809"] = GG.." montageparodies",
-	["1:46789749"] = GG.." montageparodies",
 	["1:11614984"] = GG.." montageparodies",
 	["0:41668530"] = GG.." montageparodies",
 	["1:41127418"] = GG.." montageparodies",

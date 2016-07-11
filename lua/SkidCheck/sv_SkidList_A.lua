@@ -16,13 +16,13 @@ local Skiddies 	= {
 
 
 
-	["1:21700892"] = "xenios, snixzz cheat user, DaReK/TRIDENT/Atom/AtomX alt, stealing files,28 skiddie scripts, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
 
 
 
 
 
 
+	["0:80160867"] = "temploriskewl/Templaar/100% Troll names, 2x VAC bans, "..GG.." omniscientscripts, BAN ME FOREVER",
 	["1:150704465"] = "violation_matrix, $w4g H4x",
 	["0:99449074"] = "IntelOutside/insidemcgamen/Rogier/Axell, STEALING FILES,C++Hacks,sv_allowcslua bypass gDaap,cat,pa4,BridgeHack,SmegHack,Dark/jynxxScripts",
 	
@@ -168,6 +168,7 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:46789749"] = "George, snixzz cheat user, "..GG.." montageparodies",
 	["0:53120483"] = "Spy, snixzz cheat user",
 	["1:65910752"] = "Mr.Syrex, snixzz cheat user",
 	["1:77946267"] = "The Hidden, snixzz cheat user",
@@ -1400,8 +1401,8 @@ local Skiddies 	= {
 	["1:25093207"] = "SniperNoSniping/Troll names, "..GG.." code_4ddicts",
 	["1:51922554"] = "Gavin, Troll names, Member of 5 hack/troll groups",
 	
-	["1:103608142"] = "Lies/dardyloominati alt, 2x VAC bans, stealing files, biggest banlog ever. Over 6000 cheats, BAN ME FOREVER",
-	["1:61425914"] = "Lies/dardyloominati, 2x VAC bans, stealing files, biggest banlog ever. Over 6000 cheats, BAN ME FOREVER",
+	["1:103608142"] = "Lies/dardyloominati/Troll names alt, 2x VAC bans, stealing files, biggest banlog ever. Over 6000 cheats, BAN ME FOREVER",
+	["1:61425914"] = "Lies/dardyloominati/Troll names, 2x VAC bans, stealing files, biggest banlog ever. Over 6000 cheats, BAN ME FOREVER",
 	
 	["1:11068285"] = "Troll names, d3x friend, cheater, "..GG.." dnkdInc, BAN ME",
 	["0:118841215"] = "digital qt alt/Bear/Element/Hack names/possible d3x alt, history of cheating, BAN ME",

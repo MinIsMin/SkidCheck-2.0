@@ -6510,7 +6510,6 @@ local ExtraSkiddies = {
 	["0:25268223"] = GG.." KawaiiThugNiggas",
 	["1:66595297"] = GG.." KawaiiThugNiggas",
 	["0:82236"] = GG.." ownerofplebs",
-	["0:80160867"] = GG.." omniscientscripts",
 	["0:55637611"] = GG.." omniscientscripts",
 	["0:87647691"] = GG.." omniscientscripts",
 	["0:34227406"] = GG.." omniscientscripts",
