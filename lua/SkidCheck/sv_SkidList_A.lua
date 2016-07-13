@@ -22,6 +22,12 @@ local Skiddies 	= {
 
 
 
+
+
+
+
+
+
 	["0:80160867"] = "temploriskewl/Templaar/100% Troll names, 2x VAC bans, "..GG.." omniscientscripts, BAN ME FOREVER",
 	["1:150704465"] = "violation_matrix, $w4g H4x",
 	["0:99449074"] = "IntelOutside/insidemcgamen/Rogier/Axell, STEALING FILES,C++Hacks,sv_allowcslua bypass gDaap,cat,pa4,BridgeHack,SmegHack,Dark/jynxxScripts",
@@ -168,6 +174,8 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:123826756"] = "Hypno Frog, snixzz cheat user",
+	["1:176449486"] = "boots, snixzz cheat user",
 	["1:46789749"] = "George, snixzz cheat user, "..GG.." montageparodies",
 	["0:53120483"] = "Spy, snixzz cheat user",
 	["1:65910752"] = "Mr.Syrex, snixzz cheat user",
@@ -571,7 +579,7 @@ local Skiddies 	= {
 	
 	["1:39674563"] = "Leo5gg, VAC banned, propkiller, "..GG.." eupk",
 	["0:160073439"] = "SlaxzHD/677555/jimmy, sv_allowcslua bypass, gmcl_cat_win32.dll,SmegHack,defcon aimbot,BridgeHack",
-	["1:91109350"] = "Pink Guy/Akhmed/Jake, Stealing files, smeghack,ShittyScripts,nospread,cvar3,SH",
+	["1:91109350"] = "Pink Guy/Akhmed/Jake, STEALING FILES, snixzz cheat user, smeghack,ShittyScripts,nospread,cvar3,SH",
 	["1:69942914"] = "olas2002/kamils2001, SmoothAimScript",
 	["0:40106175"] = "Casia/casiavanya/BADASS/Cultist Turtleist, MPGH",
 	["0:53951831"] = "christ-chan/Dr Skeltal/MrSkeltalSr/Troll names, VAC banned, MPGH",
