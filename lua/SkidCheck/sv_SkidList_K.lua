@@ -4587,7 +4587,6 @@ local ExtraSkiddies = {
 	["1:5581797"] = GG.." bricksquadddd",
 	["0:6690058"] = GG.." bricksquadddd",
 	["0:147040"] = GG.." n9neeleven",
-	["0:37306585"] = GG.." n9neeleven",
 	["1:106800039"] = GG.." n9neeleven",
 	["1:117572766"] = GG.." n9neeleven",
 	["1:80888124"] = GG.." n9neeleven",
