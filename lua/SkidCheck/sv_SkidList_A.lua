@@ -27,7 +27,9 @@ local Skiddies 	= {
 
 
 
-
+	["0:45111530"] = "Rainbow_of_38/Corentin/rainbow_production, Dark scripts,$w4g H4x",
+	["0:85514601"] = "Hydro/Troll names, Hera aimbot",
+	["1:94365139"] = "THE ONE TRUE FREEMAN/Rarity, Sasha aimbot",
 	["0:80160867"] = "temploriskewl/Templaar/100% Troll names, 2x VAC bans, "..GG.." omniscientscripts, BAN ME FOREVER",
 	["1:150704465"] = "violation_matrix, $w4g H4x",
 	["0:99449074"] = "IntelOutside/insidemcgamen/Rogier/Axell, STEALING FILES,C++Hacks,sv_allowcslua bypass gDaap,cat,pa4,BridgeHack,SmegHack,Dark/jynxxScripts",
@@ -41,7 +43,7 @@ local Skiddies 	= {
 	["0:23352242"] = "Zeronx/Pistonhead/Troll names, Troll, StonedPotatoes Banlist 2010, BAN ME FOREVER",
 	["0:163693059"] = "ILUMINATI/Elo_Elo_320, Lights Scripts",
 	["1:151149045"] = "maggs, HL Scripts",
-	["0:56863718"] = "shirogamez/EliteInfinity, MPGH, VAC banned, attempted AC bypass",
+	["0:56863718"] = "AtiLion /shirogamez/EliteInfinity, MPGH, VAC banned, attempted AC bypass",
 	["0:140347375"] = "alexis62851, sv_allowcslua bypass gmcl_cat_win32.dll, BridgeHack,SmegHack,Defcon aimbot",
 	["0:14982442"] = "Imperator notsun/Jarl Hallgarursson of Frisia/marith, BlueBot,Faphack, StonedPotatoes Banlist 2010",
 	["0:95507154"] = "Maxime lempereur du sale/maximebg/Romain/demonixasse, sasha.lua aimbot",
@@ -174,6 +176,7 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:111493359"] = "Solar, snixzz cheat user",
 	["0:123826756"] = "Hypno Frog, snixzz cheat user",
 	["1:176449486"] = "boots, snixzz cheat user",
 	["1:46789749"] = "George, snixzz cheat user, "..GG.." montageparodies",
@@ -1092,8 +1095,8 @@ local Skiddies 	= {
 	["0:41191102"] = "d3x/Too many names to list/Troll names, VAC banned, "..Snix..", many cheats, member of hack/troll groups, BAN ME",
 	["0:29953696"] = "d3x/Too many names to list/Troll names, VAC banned, "..Snix..", many cheats, member of hack/troll groups, BAN ME",
 	
-	["1:60777146"] = "!Az/customurlisbesturl/Azrael/Kodikos, 2x VAC bans, "..Snix..", "..GG.." snixzznet",
-	["0:59742095"] = "!Az/customurlisbesturl/Azrael/Kodikos alt, 2x VAC bans, "..Snix,
+	["1:60777146"] = "!Az/customurlisbesturl/Azrael/Kodikos, snixzz cheat user, 2x VAC bans, "..Snix..", "..GG.." snixzznet",
+	["0:59742095"] = "!Az/customurlisbesturl/Azrael/Kodikos alt, snixzz cheat user, 2x VAC bans, "..Snix,
 	
 	["0:1085292"] = "Marcus/pangles/iamthelaw/Troll names, "..Snix..", Member of 8 hack/troll groups",
 	["0:72477292"] = "LK4SNIPER, VAC banned, "..Snix,
@@ -1237,7 +1240,7 @@ local Skiddies 	= {
 	["1:41600912"] = "7One/7one7/8One/7Seven, defcon aimbot, Mapex",
 	["1:83521967"] = "Red/nimda, admitted using cheats, 2S: Mapex",
 	["0:131445076"] = "Raven/FreeFlow, mApex,anxition, "..GG.." PropkillMafia",
-	["0:88913528"] = "DEADMONSTOR/joshscomputer, stealing files,VAC banned, sv_cheats, JSP,gdaap,BlueBot,AHack,uSkid,xMenu,falcos,lennys, Member of hack group: theexploitersco",
+	["0:88913528"] = "DEADMONSTOR/joshscomputer, STEALING FILES,VAC banned, snixzz cheat user,sv_cheats, JSP,gdaap,BlueBot,AHack,uSkid,xMenu,falcos,lennys, Member of hack group: theexploitersco",
 	["0:82290267"] = "Piddles/pdlpost, DDoS, VAC banned",
 	["1:92810736"] = "The Eagle/Diostravy/skysoed, using hacks (Dark scripts), "..GG.." propkillarmy",
 	["1:8115"] = "veryscary, admitted stealing files, using aimbot",
