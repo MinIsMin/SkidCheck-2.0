@@ -27,6 +27,8 @@ local Skiddies 	= {
 
 
 
+	["0:93001600"] = "BLASE/blaseit, sv_allowvslua bypass darkBypass, cvar3,Nospread,rhook,Dark/HLScripts, 48 cheat scripts, "..GG.." internethitmen, BAN ME FOREVER",
+	["1:104094210"] = "Jumpy/Troll names, 4x VAC bans, ampris,Pasteware,dreambot,ven0msquad, "..GG.." AIMWARE",
 	["0:45111530"] = "Rainbow_of_38/Corentin/rainbow_production, Dark scripts,$w4g H4x",
 	["0:85514601"] = "Hydro/Troll names, Hera aimbot",
 	["1:94365139"] = "THE ONE TRUE FREEMAN/Rarity, Sasha aimbot",
@@ -130,6 +132,7 @@ local Skiddies 	= {
 	["0:141392720"] = "M.D Hack/makei_22/navihack, STEALING FILES, 114 lua cheats, 26 cheat DLLs, C++ hacks, "..GG.." Leak_Scripts, BAN ME FOREVER",
 	["1:147962115"] = "polmit, Jynxx Script3",
 	
+	["1:22042053"] = "Sir Wolfie, snixzz cheat user, "..GG.." gaynig",
 	["0:62804682"] = "DarkasDay, snixzz cheat user",
 	["0:148856320"] = "Server takeovers, "..GG.." segapw,",
 	["0:1621321"] = "Server takeovers, "..GG.." valuev,",
@@ -176,6 +179,11 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["1:157668383"] = "Jeff, snixzz cheat user",
+	["1:72395757"] = "Phost, snixzz cheat user",
+	["0:99563063"] = "Taelss, snixzz cheat user",
+	["1:82849778"] = "Moox/mrmoox/Troll names, 2x VAC bans, snixzz cheat user",
+	["1:51261298"] = "Duggy, snixzz cheat user",
 	["1:55374695"] = "TheKingdomHearts, snixzz cheat user",
 	["0:37306585"] = "romodomo, snixzz cheat user, "..GG.." n9neeleven",
 	["1:111493359"] = "Solar, snixzz cheat user",
@@ -350,7 +358,7 @@ local Skiddies 	= {
 	["0:173369735"] = "w0rm/100% Troll names, sv_allowcslua bypass, snixzz cheat,amplify,nospread,propkiller, "..GG.." 5btcorelse, possible alt of Kran",
 	["1:75711027"] = "BlackPwny/pred47or3, snixzz cheat user, "..GG.." jizzrockets",
 	["0:160852918"] = "Bonk/bestboob, snixzz cheat user",
-	["0:155482760"] = "Chase, snixzz cheat user",
+	["0:155482760"] = "Chase/chicken, snixzz cheat user",
 	["1:120200884"] = "stopcallingmefatmom/360scoped123/Troll names, snixzz cheat user, game banned",
 	
 	["0:161890068"] = "100% Troll names, Server takeovers via backdoor, steam sharing alt (owns no games)",
@@ -950,7 +958,10 @@ local Skiddies 	= {
 	
 	["0:93519566"] = "pepperscodegod/Neko/Troll names, "..GG.." pasters",
 	["1:2167449"] = "Invisible name/sleaze_/staral_sperm, Server takeovers, "..Snix..", "..GG.." n9neeleven",
-	["0:42729462"] = "Liquid Obsidian/liquidobsidian/Seth/Sethxi/Troll names, Server takeovers, VAC banned, "..GG.." VACBINS,gluacopypasters",
+	
+	["0:240563"] = "Liquid Obsidian/liquidobsidian/Seth/Sethxi/Troll names, Server takeovers, 2x VAC bans, "..GG.." VACBINS,gluacopypasters, Ban evasion (Alt of 0:42729462), BAN ME",
+	["0:42729462"] = "Liquid Obsidian/liquidobsidian/Seth/Sethxi/Troll names, Server takeovers, 2x VAC bans, "..GG.." VACBINS,gluacopypasters, Ban evasion (Alt 0:240563), BAN ME",
+	
 	["1:48034246"] = "Happy99/JeremyID3, "..Snix..", Troll",
 	["1:64829570"] = "fuck707/Troll names, VAC banned, "..Snix..", "..GG.." complimentmyvacban,sourcesdk",
 	["0:47543801"] = "Harry Pothead/Kira, attacking the server, name exploiting (newline), BAN ME FOREVER",
