@@ -27,6 +27,7 @@ local Skiddies 	= {
 
 
 
+	["1:117218178"] = "gushers, SmegHack,Pony,Falcos scripts",
 	["0:93001600"] = "BLASE/blaseit, sv_allowvslua bypass darkBypass, cvar3,Nospread,rhook,Dark/HLScripts, 48 cheat scripts, "..GG.." internethitmen, BAN ME FOREVER",
 	["1:104094210"] = "Jumpy/Troll names, 4x VAC bans, ampris,Pasteware,dreambot,ven0msquad, "..GG.." AIMWARE",
 	["0:45111530"] = "Rainbow_of_38/Corentin/rainbow_production, Dark scripts,$w4g H4x",
@@ -179,6 +180,12 @@ local Skiddies 	= {
 	["1:73969664"] = "newfags/medbid, Spamming HeX's profile with 10 friends",
 	["0:81571135"] = "christoKE, Spamming HeX's profile with 10 friends",
 	
+	["0:52048786"] = "S U C C_King, snixzz cheat user",
+	["0:157476033"] = "Legend, snixzz cheat user",
+	["0:83980902"] = "captainshanty, snixzz cheat user",
+	["0:148729042"] = "Mr.NoBodyCares, snixzz cheat user",
+	["0:178721913"] = "Troll names, snixzz cheat user",
+	["0:126916694"] = "rainbow Da Wild Psycho, snixzz cheat user",
 	["1:43555776"] = "Kirby, snixzz cheat user",
 	["1:157668383"] = "Jeff, snixzz cheat user",
 	["1:72395757"] = "Phost, snixzz cheat user",
@@ -3183,7 +3190,10 @@ local Skiddies 	= {
 	["1:44179686"] = "Skiddie",
 	["1:64950912"] = "HVH, ban me",
 	["1:62432157"] = "GLDB: Jasperjamz, Lennys scripts, Cheats detected",
-	["0:114532"] = "_mythik, BAN ME FOREVER",
+	
+	["0:114532"] = "_mythik/Troll names, Writing C++ hacks, attempted anticheat bypass, Game banned, Ban evasion (Alt 1:62321341), BAN ME FOREVER",
+	["1:62321341"] = "_mythik/Troll names alt, Writing C++ hacks, attempted anticheat bypass, Game banned, Ban evasion (Alt of 0:114532), BAN ME FOREVER",
+	
 	["1:20075442"] = "YouDontSay, ban me, AHack",
 	["0:3051020"] = "Skiddie",
 	["0:24510676"] = "Skiddie",
@@ -6330,7 +6340,6 @@ local Skiddies 	= {
 	["0:41584253"] = "Lemnnys",
 	["0:24303696"] = "LESP",
 	["1:21258984"] = "Neonhack",
-	["1:62321341"] = "mythik alt, deus friend, ban me",
 	["1:23921311"] = "Blackops.cfg",
 	["1:22010562"] = "SP2: Code injection (Sethhack)",
 	["0:19490976"] = "SP2: Unknown",

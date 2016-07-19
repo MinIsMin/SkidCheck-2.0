@@ -34,10 +34,10 @@ util.AddNetworkString("Skid.Msg")
 
 
 //Load lists, must load in reverse order! 9 > 1
-Skid.Lists = file.Find("lua/SkidCheck/sv_SkidList*.lua", "GAME", "namedesc")
+Skid.Lists = file.Find("lua/skidcheck/sv_skidlist*.lua", "GAME", "namedesc")
 HAC = { Skiddies = {} }	
 	for k,v in pairs(Skid.Lists) do
-		include("SkidCheck/"..v)
+		include("skidcheck/"..v)
 	end
 	
 	Skid.HAC_DB = HAC.Skiddies
@@ -204,14 +204,23 @@ end
 
 //Loaded
 function Skid.Ready()
+	//List load error?
+	local Tot 	= table.Count(Skid.HAC_DB)
+	local sTot 	= tostring(Tot):Comma()
+	if Tot < 5000 then
+		ErrorNoHalt("\n[SkidCheck] Error loading local lists, this should never happen! (Got "..sTot.."!)\n")
+		ErrorNoHalt("\n[SkidCheck] Please re-download this addon from https://github.com/MFSiNC/SkidCheck-2.0\n")
+		return
+	end
+	
 	Skid.IsReady = true
 	
 	MsgC(Skid.GREY, 	"\n[")
 	MsgC(Skid.WHITE2, 	"Skid")
 	MsgC(Skid.BLUE, 	"Check")
 	MsgC(Skid.GREY, 	"] ")
-	MsgC(Skid.GREEN, 	"Ready. ")
-	MsgC(Skid.RED,		 tostring( table.Count(Skid.HAC_DB) ):Comma() )
+	MsgC(Skid.GREEN, 	"Ready, "..Skid.VERSION..". ")
+	MsgC(Skid.RED,		 sTot)
 	MsgC(Skid.GREEN, 	" IDs in local lists!"..Skid.CanSync.."\n\n")
 end
 timer.Simple(1, Skid.Ready)
