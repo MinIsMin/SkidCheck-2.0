@@ -179,7 +179,7 @@ function Skid.Sync.GetIndex()
 	MsgN("Fetching index..")
 	local Index = {}
 	
-	http.Fetch("https://api.github.com/repositories/22792657/contents/lua/SkidCheck", function(body)
+	http.Fetch("https://api.github.com/repositories/22792657/contents/lua/skidcheck", function(body)
 		//body
 		if not ( isstring(body) and #body > 9 ) then
 			Error("GetIndex HTTP error (Got "..tostring(body)..")")
