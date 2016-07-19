@@ -15,6 +15,10 @@
 How to use:
 Download the Zip > Extract to the server's /addons folder and restart.
 
+NOTE: If you're running a Linux GMod server, you must rename the addon folder to be
+lower case (SkidCheck-2.0-master -> skidcheck-2.0-master), or it WILL NOT LOAD
+
+
 Nothing is needed to configure or set up (Unless you want to).
 
 By default, for any IDs in the database, this addon will do a warning message & sound
