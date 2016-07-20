@@ -7381,7 +7381,6 @@ local ExtraSkiddies = {
 	["1:80666447"] = GG.." darkscriptsv1",
 	["0:94506033"] = GG.." darkscriptsv1",
 	["0:113664229"] = GG.." darkscriptsv1",
-	["1:105206224"] = "Monstercat, Falcos scripts",
 	["0:52772067"] = "JOHN CENA/thesupertroll, Falcos scripts",
 	["0:51112855"] = "Another One/suckin_ur_mums_tits, VAC banned, Falcos scripts",
 	["1:33364209"] = "Invisible name, Falcos scripts",
