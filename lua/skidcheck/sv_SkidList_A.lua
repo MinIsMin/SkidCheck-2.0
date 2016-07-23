@@ -27,6 +27,14 @@ local Skiddies 	= {
 
 
 
+	["1:88854384"] = "FOX_HD/Callum Owen/MillWallFCF, AHack",
+	["1:172926225"] = "THIS IS CRACK, snixzz cheat user",
+	["0:89015517"] = "Penetrator, snixzz cheat user",
+	["1:62864172"] = "NightHawk, snixzz cheat user",
+	["1:53058599"] = "MysticRage, snixzz cheat user",
+	["0:92344785"] = "Darkestwolf12, snixzz cheat user",
+	["0:48243204"] = "Free Palestine sound, snixzz cheat user",
+	
 	["0:37211442"] = "Pingu, Friend of Mythik, possible buying hacks",
 	["0:89241324"] = "potato the hacker, Friend of Mythik, possible buying hacks",
 	["1:109895593"] = "unassigned, Friend of Mythik, possible buying hacks",

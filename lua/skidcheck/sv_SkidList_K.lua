@@ -2,6 +2,16 @@
 
 local GG 			= "Member of hack/troll group:"
 local ExtraSkiddies = {
+	["1:38797746"] = GG.." uber1337haxor",
+	["0:161908235"] = GG.." uber1337haxor",
+	["1:92362082"] = GG.." uber1337haxor",
+	["1:94366129"] = GG.." uber1337haxor",
+	["1:93487092"] = GG.." uber1337haxor",
+	["1:91691991"] = GG.." uber1337haxor",
+	["0:95120891"] = GG.." uber1337haxor",
+	["1:115139556"] = GG.." uber1337haxor",
+	["0:91193489"] = GG.." uber1337haxor",
+	["1:67352522"] = GG.." uber1337haxor",
 	["0:26170217"] = GG.." Spooky_Ghosts",
 	["0:12319119"] = GG.." Spooky_Ghosts",
 	["0:83548265"] = GG.." Spooky_Ghosts",
