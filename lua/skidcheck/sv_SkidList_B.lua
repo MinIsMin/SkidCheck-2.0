@@ -1442,7 +1442,6 @@ local ExtraSkiddies = {
 	["1:102934963"] = GG.." CUTENIGGAS",
 	["0:121883936"] = GG.." DedicatedToSloths",
 	["0:137634114"] = GG.." Madbro",
-	["0:156497705"] = GG.." NoNAnonPub",
 	["1:156213454"] = GG.." NoNAnonPub",
 	["0:70929383"] = GG.." NoNAnonPub",
 	["0:157226850"] = GG.." SUPERSWAGXXNOCOPINGX420XX",

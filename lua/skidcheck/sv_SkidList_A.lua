@@ -27,6 +27,15 @@ local Skiddies 	= {
 
 
 
+	["0:71261138"] = "Anal_Cream69/Troll names, C++ hacks, 19 CHEAT DLLS!, Attempted AC bypass, 2x VAC bans, sv_allowcslua bypass, nanohack,AHack,MythX,NH,Lennys, BAN ME FOREVER",
+	["1:99473587"] = "MinatourGameZ/Troll names, STEALING FILES, 4x VAC bans, cvar3,Nospread, Mapex,SmegHack",
+	["0:148876498"] = "sans quieres pasar un mal rato/pene, Jynxx Script2",
+	["0:178930326"] = "Troll names, snixzz cheat user",
+	["1:102161882"] = "Dream, snixzz cheat user",
+	["0:142848696"] = "AU Hazz, snixzz cheat user, "..GG.." VACclub",
+	["0:156497705"] = "jul, snixzz cheat user, "..GG.." NoNAnonPub",
+	["1:56412873"] = "EggSensei, snixzz cheat user",
+	["1:96502950"] = "crave, snixzz cheat user",
 	["1:88854384"] = "FOX_HD/Callum Owen/MillWallFCF, AHack",
 	["1:172926225"] = "THIS IS CRACK, snixzz cheat user",
 	["0:89015517"] = "Penetrator, snixzz cheat user",
@@ -1100,9 +1109,11 @@ local Skiddies 	= {
 	
 	["1:121163033"] = "What is Love/Vlad/Troll names, "..Snix..", Banned, "..GG.." snixzznet, BAN ME FOREVER",
 	["1:114522307"] = "rekteffect/Super/Troll names, MPGH, attempted anticheat bypass, SirFluffysServers: aimbot, seed manipulation",
-	["0:144583660"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, "..Snix..", Dismay, gDaap dakilla123, BAN ME FOREVER",
-	["0:86385858"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, "..Snix..", Dismay, gDaap dakilla123, BAN ME FOREVER",
-	["0:60971854"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, stealing and leaking code, "..Snix..", Dismay, gDaap dakilla123, BAN ME FOREVER",
+	
+	["0:144583660"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, STEALING AND LEAKING CODE, "..Snix..", Dismay, gDaap dakilla123, BAN ME FOREVER",
+	["0:86385858"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, STEALING AND LEAKING CODE, "..Snix..", Dismay, gDaap dakilla123, BAN ME FOREVER",
+	["0:60971854"] = "dakilla345/OJ/OG/Troll names, DDoS, 4x VAC bans, STEALING AND LEAKING CODE, "..Snix..", Dismay, gDaap dakilla123, BAN ME FOREVER",
+	
 	["1:5106123"] = "Vorducas Zizroth/thevordutron, VAC banned, "..Snix,
 	["1:61854803"] = "Jay/gmodisbae, VAC banned, "..Snix..", Member of hack/troll groups: annoyingprogamers,snixzznet",
 	["1:57310790"] = "Blue_Penguins, "..Snix..", "..GG.." antibirusnet",
@@ -1687,8 +1698,8 @@ local Skiddies 	= {
 	["1:95997606"] = "DANGO Jay/Neko/Troll names, VAC banned, "..GG.." DangoMafia,Dango_Mafia_Fan_club, BAN ME",
 	["0:18368432"] = "kl9kcaRIP/kl9kcaTHEVACMAN, 19 VAC BANS!!!",
 	
-	["0:70421021"] = "Failwhale8/Troll names alt, VAC banned,C++ hacks,Ban Evasion, Member of 4 hack/troll groups, BAN ME FOREVER",
-	["1:15435635"] = "Failwhale8/Troll names, VAC banned,C++ hacks,Ban Evasion, Member of 4 hack/troll groups, BAN ME FOREVER",
+	["0:70421021"] = "Failwhale8/Troll names alt, VAC banned,C++ hacks, Member of 4 hack/troll groups, Ban Evasion (Alt 1:15435635), BAN ME FOREVER",
+	["1:15435635"] = "Failwhale8/Troll names, VAC banned,C++ hacks, Member of 4 hack/troll groups, Ban Evasion (Alt of 0:70421021), BAN ME FOREVER",
 	
 	["1:116253136"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["1:114266012"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",

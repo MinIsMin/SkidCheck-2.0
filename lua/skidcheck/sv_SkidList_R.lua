@@ -9526,7 +9526,6 @@ local ExtraSkiddies = {
 	["1:146670374"] = GG.." VACclub",
 	["0:9831811"] = GG.." VACclub",
 	["1:87379567"] = GG.." VACclub",
-	["0:142848696"] = GG.." VACclub",
 	["0:82623171"] = GG.." VACclub",
 	["1:95416695"] = GG.." VACclub",
 	["0:85070539"] = GG.." VACclub",
