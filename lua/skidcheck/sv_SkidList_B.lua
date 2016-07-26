@@ -5429,7 +5429,6 @@ local ExtraSkiddies = {
 	["1:52216019"] = GG.." WildNiggas",
 	["1:51468913"] = GG.." WildNiggas",
 	["1:62421549"] = GG.." WildNiggas",
-	["1:50447707"] = GG.." WildNiggas",
 	["0:31798111"] = GG.." WildNiggas",
 	["1:20212577"] = GG.." WildNiggas",
 	["1:46345887"] = GG.." WildNiggas",
