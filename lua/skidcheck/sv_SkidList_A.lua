@@ -27,6 +27,12 @@ local Skiddies 	= {
 
 
 
+	["1:97320996"] = "DaWud185, HL Scripts",
+	["1:17474097"] = "1DGW Tatho/1dollargwowner/OpTiMeRkZz/David Ford, VAC banned, Hera aimbot, propkiller",
+	["1:36149131"] = "Pixelazed, snixzz cheat user, 2S: Mapex",
+	["1:83168477"] = "Mark, snixzz cheat user",
+	["1:180100661"] = "freshestmeme/Troll names, Likely alt of cheater, Falcos scripts",
+	["0:40143821"] = "gorigorinosukeo, snixzz cheat user",
 	["1:60666972"] = "W32.RIP, snixzz cheat user",
 	["0:92252739"] = "Pure/1nf1nite/Troll names, Releasing hacks (PRiZMSCRIPT), "..GG.." shittyscripters",
 	["1:92261371"] = "JustLennyy, snixzz cheat user",
@@ -1041,9 +1047,9 @@ local Skiddies 	= {
 	["0:45006801"] = "FlubberKid/Spooderman/79070707568, "..Snix,
 	["0:57950062"] = "Tommy, "..Snix..","..GG.." snixzznet",
 	
-	["1:121524040"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip @ 06-07-2016, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
-	["1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip @ 06-07-2016, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
-	["1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS,VAC,C++,snixzz vip @ 06-07-2016, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	["1:121524040"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip, Writing hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	["1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip, Writing hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	["1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS,VAC,C++,snixzz vip, Writing hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
 	
 	["0:59727915"] = "kimi raikkonen/deaglemon/Possible phoon Snorflake alt, "..Snix..", Banned",
 	["0:41973844"] = "Firedraft, "..Snix,
@@ -1994,7 +2000,7 @@ local Skiddies 	= {
 	["0:92597893"] = "xXTheDarkOne123/TSWD Gaming, DDoS, allowcslua bypass, MPGH, asking for hacks, member of 2 hack/troll groups. BAN ME FOREVER",
 	["1:6060773"] = "Clarkman28/peyto11, asking for help with STEALING FILES/hacks. BAN ME",
 	["1:88843019"] = "The Churro Master, troll names",
-	["0:51913704"] = "Troll names, VAC banned, "..GG.." honorableposters",
+	["0:51913704"] = "100% Troll names, VAC banned, "..GG.." honorableposters, Steam achievement hacks, BeesScripts",
 	["0:55216258"] = "DheerajBhatt, MPGH, troll posts, "..GG.." MPGH, ban me",
 	["0:23823962"] = "Backdoor/exploits, VAC banned, ban me",
 	["1:83634902"] = "MassXModz/Overload/sikgaming/overloadaolrevo/sik, selling exploits, ",
@@ -2544,7 +2550,6 @@ local Skiddies 	= {
 	["1:41351428"] = "2S: Unknown hack",
 	["0:77431611"] = "2S: AHack",
 	["1:48026281"] = "2S: Mapex",
-	["1:36149131"] = "2S: Mapex",
 	["0:85042004"] = "2S: AHack",
 	["0:87260570"] = "2S: AHack",
 	["0:32512397"] = "2S: sv_allowcslua bypass",
