@@ -156,7 +156,7 @@ function Skid.Sync.Download(self, v)
 			MsgN("Download complete, lists up to date."..(Diff > 0 and " "..sDiff.." new IDs :)" or "") )
 			
 			//Large additions, prompt re-download
-			if Diff > 1000 then
+			if Diff > 2000 then
 				Error(":\n\nLocal lists differ by more than "..sDiff.." IDs!\n", true)
 			end
 			

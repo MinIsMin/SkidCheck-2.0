@@ -499,7 +499,7 @@ local Skiddies 	= {
 	["1:106867691"] = "Game_cat/LakiGame/PlaYSupeR/MegaSaShakalo, sv_allowcslua bypass, gmcl_cat_win32,SmegHack,BridgeHack,defcon,sasha aimbot",
 	["1:104158682"] = "Z Max/MaxTheGamerHD/GGrpGG/Maxa, sv_allowcslua bypass",
 	["0:59885853"] = "WarriorXK/Aggressive tomato/criperstil, 2x VAC bans, ESP lua hack",
-	["1:14737945"] = "plustwo2/puzzy/leek21/, 3x VAC bans, MPGH, helping cheaters, "..GG.." 50Minges",
+	["1:14737945"] = "plustwo2/puzzy/leek21/unwed/Troll names, 3x VAC bans, MPGH, helping cheaters, "..GG.." 50Minges",
 	["0:59184558"] = "krudeZ/bjorn, 2x VAC bans, propkiller, admitted ban evasion, "..GG.." poki,Propocalypse_",
 	
 	["0:64287688"] = "Destiny/thatonekidwhoiscalleddestiny, '$w4g H4x',ShittyScripts,Lennys,Anozira Scripts,Hera,SmegHack, Ban evasion (Alt 1:103621365)",
@@ -6278,7 +6278,7 @@ local Skiddies 	= {
 	["0:19009910"] = "cvar3",
 	["0:22194969"] = "|à¹ÛÛ£Â©  à¹SPAÑkzâ¢  à¹Û",
 	["1:30590719"] = "2S: Aimbot",
-	["0:27969040"] = "Skiddie",
+	["0:27969040"] = "drat148/Inctorius/Siphon, Sethhack, MPGH, Skiddie, Asking for hacks",
 	["1:28207569"] = "Skiddie",
 	["0:30924095"] = "siviler",
 	["1:27042639"] = "SP2: Unknown",
