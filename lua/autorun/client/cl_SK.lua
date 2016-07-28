@@ -45,8 +45,8 @@ function Skid.Msg()
 		Skid.GREY, " <",
 		Skid.RED, Reason,
 		Skid.GREY, "> ",
-		Skid.GREY, "is a ",
-		Skid.PINK, "BAD PLAYER"
+		Skid.GREY, "has been ",
+		Skid.PINK, "NAUGHTY"
 	)
 	
 	//Sound
@@ -56,7 +56,7 @@ function Skid.Msg()
 	if self == LocalPlayer() then return end
 	local Log = Format(
 		"\r\n[%s]: %s - %s (%s) - %s",
-		os.date(), GetHostName(), self:Nick(), self:SteamID(), Reason
+		os.date("%d.%m.%y %I:%M:%S%p"), GetHostName(), self:Nick(), self:SteamID(), Reason
 	)
 	file.Append("cl_sk_encounters.txt", Log)
 end

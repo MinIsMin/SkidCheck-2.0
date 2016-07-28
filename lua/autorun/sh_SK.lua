@@ -18,7 +18,7 @@
 */
 
 Skid = {
-	VERSION	= "SK003",
+	VERSION	= "SK004",
 	
 	GREY	= Color(175,175,175),
 	WHITE	= Color(255,255,255),

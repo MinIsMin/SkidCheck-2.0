@@ -26,7 +26,7 @@ local Skiddies 	= {
 
 
 
-
+	["0:119596795"] = "KFC, snixzz cheat user, "..GG.." AllLegitz",
 	["1:97320996"] = "DaWud185, HL Scripts",
 	["1:17474097"] = "1DGW Tatho/1dollargwowner/OpTiMeRkZz/David Ford, VAC banned, Hera aimbot, propkiller",
 	["1:36149131"] = "Pixelazed, snixzz cheat user, 2S: Mapex",
@@ -6276,7 +6276,7 @@ local Skiddies 	= {
 	["1:20810532"] = "Kunit, SP2: Baconbot",
 	["1:47298423"] = "Blackops.cfg",
 	["0:19009910"] = "cvar3",
-	["0:22194969"] = "|à¹ÛÛ£Â©  à¹SPAÑkzâ¢  à¹Û",
+	["0:22194969"] = "SPANkzac",
 	["1:30590719"] = "2S: Aimbot",
 	["0:27969040"] = "drat148/Inctorius/Siphon, Sethhack, MPGH, Skiddie, Asking for hacks",
 	["1:28207569"] = "Skiddie",

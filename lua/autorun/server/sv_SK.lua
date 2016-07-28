@@ -68,7 +68,7 @@ function Skid.Check(server_only)
 		if not Reason then continue end
 		
 		//Log
-		file.Append("sk_encounters.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), SID, Reason) )
+		file.Append("sk_encounters.txt", Format("\r\n[%s]: %s (%s) - %s", os.date("%d.%m.%y %I:%M:%S%p"), v:Nick(), SID, Reason) )
 		
 		//Tell server
 		MsgC(Skid.GREY, "\n[")
@@ -82,8 +82,8 @@ function Skid.Check(server_only)
 		MsgC(Skid.GREY, " <")
 		MsgC(Skid.RED, Reason)
 		MsgC(Skid.GREY, "> ")
-		MsgC(Skid.GREY, "is a ")
-		MsgC(Skid.ORANGE, "BAD PLAYER\n\n")
+		MsgC(Skid.GREY, "has been ")
+		MsgC(Skid.ORANGE, "NAUGHTY\n\n")
 		
 		//Hook
 		if hook.Run("OnSkid", v, Reason, (not server_only) ) then continue end
@@ -149,7 +149,7 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	if not Reason then return end
 	
 	//Log
-	file.Append("sk_connect.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), user, SID, Reason) )
+	file.Append("sk_connect.txt", Format("\r\n[%s]: %s (%s) - %s", os.date("%d.%m.%y %I:%M:%S%p"), user, SID, Reason) )
 	
 	//Message
 	MsgC(Skid.GREY, "\n[")
@@ -171,7 +171,7 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	
 	//Block if sk_kick or BlockSkidConnect true
 	if Block or Skid.sk_kick:GetBool() then
-		return false, Res or "[SkidCheck] You're on the naughty list: "..SID.."\n\n<"..Reason..">"
+		return false, Res or "You've popped it!\nYou're on the naughty list: "..SID.."\n\n<"..Reason..">"
 		
 	else
 		//Sound, to admins. Will match up with the server's join message in the chat

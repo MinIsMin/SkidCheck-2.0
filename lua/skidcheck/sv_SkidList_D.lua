@@ -3173,7 +3173,6 @@ local ExtraSkiddies = {
 	["0:70765957"] = GG.." MovWasAnInsideJob",
 	["1:86064897"] = GG.." MovWasAnInsideJob",
 	["0:41927818"] = GG.." MovWasAnInsideJob",
-	["0:119596795"] = GG.." AllLegitz",
 	["1:106075652"] = GG.." okcoolnoproblem",
 	["1:64235994"] = GG.." MajorCheat",
 	["0:132861584"] = GG.." MajorCheat",
