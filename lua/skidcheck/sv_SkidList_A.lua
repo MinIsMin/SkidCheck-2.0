@@ -25,7 +25,7 @@ local Skiddies 	= {
 
 
 
-
+	["0:58661557"] = "G Mercanery/Troll names/Cameron Dakwins, DDoS 'i Will Dos You Dont Annoy Me', snixzz cheat user @ 06-15-2016, BAN ME FOREVER",
 	["0:119596795"] = "KFC, snixzz cheat user, "..GG.." AllLegitz",
 	["1:97320996"] = "DaWud185, HL Scripts",
 	["1:17474097"] = "1DGW Tatho/1dollargwowner/OpTiMeRkZz/David Ford, VAC banned, Hera aimbot, propkiller",
@@ -401,7 +401,6 @@ local Skiddies 	= {
 	["1:57234919"] = "Benjamin/skywastaken/Sky, VAC banned, snixzz cheat user @ 06-16-2016, "..Snix,
 	["1:93215214"] = "snixzz cheat user @ 06-15-2016, "..GG.." MEMEWARE",
 	["1:92902260"] = "Obama Llama/Jordan/URDEAD548, snixzz cheat user @ 06-15-2016, "..Snix,
-	["0:58661557"] = "snixzz cheat user @ 06-15-2016",
 	["0:165833845"] = "Squmriple, snixzz cheat user @ 06-15-2016",
 	["1:61642171"] = "Anonmyous, snixzz cheat user @ 06-14-2016",
 	["1:121696613"] = "Hauntex/Phoenix/Kraken/theterabyte/Troll names, writing cheats, snixzz cheat user @ 06-14-2016, "..GG.." darkscriptsv1",
@@ -657,7 +656,6 @@ local Skiddies 	= {
 	["0:45270658"] = "Death, Dark scripts, Falcos scripts, propkiller",
 	["0:93925982"] = "krokeme01/FaZe_Adapt, AHack,Smeghack, 2x VAC bans",
 	["1:158157085"] = "deeznutz2big4u/King/TheTrueKing/bN king, C++ hacks, MPGH",
-	["1:60255736"] = "c3301exploits/c3301, "..Snix,
 	
 	["1:124201304"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt of 0:46517749)",
 	["0:46517749"] = "qast/itsend/Kewa/Troll names, STEALING FILES, VAC banned, Attempted anticheat bypass, sv_allowcslua bypass, AHack, Ban evasion (Alt 1:124201304)",
@@ -1232,13 +1230,14 @@ local Skiddies 	= {
 	["1:128569008"] = "kujo/kujochan/'kujo the exploiter', "..Snix..","..GG.." pasters",
 	["0:40372639"] = "Cryo/karniik/Noah Walker, DDoS, "..Snix,
 	
-	["1:7339672"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC,, BAN ME",
-	["0:83089480"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC,, BAN ME",
-	["0:51634297"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC,, BAN ME",
-	["1:26750957"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC,, BAN ME",
-	["1:107252732"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC,, BAN ME",
-	["0:41191102"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC,, BAN ME",
-	["0:29953696"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC,, BAN ME",
+	["1:150993218"] = "d3x/Vex?/100% Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC,d3xfans, BAN ME",
+	["1:7339672"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC, BAN ME",
+	["0:83089480"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC, BAN ME",
+	["0:51634297"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC, BAN ME",
+	["1:26750957"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC, BAN ME",
+	["1:107252732"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC, BAN ME",
+	["0:41191102"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC, BAN ME",
+	["0:29953696"] = "d3x/Troll names, VAC banned, "..Snix..", many cheats, "..GG.." _VAC, BAN ME",
 	
 	["1:60777146"] = "!Az/customurlisbesturl/Azrael/Kodikos, snixzz cheat user, 2x VAC bans, "..Snix..","..GG.." snixzznet",
 	["0:59742095"] = "!Az/customurlisbesturl/Azrael/Kodikos alt, snixzz cheat user, 2x VAC bans, "..Snix,
@@ -1250,8 +1249,9 @@ local Skiddies 	= {
 	["0:55054444"] = "undefined/TheLoyalShark/Troll names, "..Snix..","..GG.." NiggaNews9,antibirusnet,NiggaNews9",
 	["1:84114584"] = "W3E InhumanThree1/Inhuman/Robert Fox, "..Snix,
 	
-	["1:61389584"] = "hookdotadd/Jon.Wen/Zayne/Troll names alt, stealing HeX's avatar & name, snixzz cheat vip user @ 06-08-2016, "..Snix..","..GG.." snixzznet, BAN ME FOREVER",
-	["1:68229625"] = "hookdotadd/Jon.Wen/Zayne/Troll names, stealing HeX's avatar & name, snixzz cheat vip user @ 06-08-2016, "..Snix..","..GG.." snixzznet, BAN ME FOREVER",
+	["1:60255736"] = "hookdotadd/Jon.Wen/Zayne/Troll names alt 2, stealing HeX's avatar & name, snixzz cheat vip user @ 06-08-2016, "..Snix.." c3301exploits,"..GG.." snixzznet, BAN ME FOREVER",
+	["1:61389584"] = "hookdotadd/Jon.Wen/Zayne/Troll names alt, stealing HeX's avatar & name, snixzz cheat vip user @ 06-08-2016, "..Snix.." c3301exploits,"..GG.." snixzznet, BAN ME FOREVER",
+	["1:68229625"] = "hookdotadd/Jon.Wen/Zayne/Troll names, stealing HeX's avatar & name, snixzz cheat vip user @ 06-08-2016, "..Snix.." c3301exploits,"..GG.." snixzznet, BAN ME FOREVER",
 	
 	["1:6286814"] = "TheyCallMeDaz/kelse/CombineGuru/Troll names, STEALING FILES, selling hacks,VAC banned,MPGH, "..Snix..","..GG.." pasters,tabernaclehacking, BAN ME FOREVER",
 	["0:4773741"] = "TheyCallMeDaz/kelse/CombineGuru/Troll names, STEALING FILES, selling hacks,VAC banned,MPGH, "..Snix..","..GG.." pasters,tabernaclehacking, BAN ME FOREVER",

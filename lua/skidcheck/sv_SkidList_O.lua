@@ -3515,7 +3515,6 @@ local ExtraSkiddies = {
 	["0:40223124"] = GG.." InterSheds",
 	["0:54274734"] = GG.." SegaGang",
 	["1:150356995"] = GG.." d3xfans",
-	["1:150993218"] = GG.." d3xfans",
 	["1:124699031"] = GG.." lifesuckskillyourself",
 	["1:50714000"] = GG.." lifesuckskillyourself",
 	["1:82804897"] = GG.." lifesuckskillyourself",
