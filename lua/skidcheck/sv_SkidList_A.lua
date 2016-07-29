@@ -25,6 +25,12 @@ local Skiddies 	= {
 
 
 
+
+
+	["1:94475988"] = "Leo/Aptem, Writing & releasing hacks (GScripts)",
+	["0:47188115"] = "Protager/Protager777, Writing & releasing hacks (GScripts)",
+	["1:95831521"] = "nikita7911/HNKNTA, Writing & releasing hacks (GScripts)",
+	
 	["0:58661557"] = "G Mercanery/Troll names/Cameron Dakwins, DDoS 'i Will Dos You Dont Annoy Me', snixzz cheat user @ 06-15-2016, BAN ME FOREVER",
 	["0:119596795"] = "KFC, snixzz cheat user, "..GG.." AllLegitz",
 	["1:97320996"] = "DaWud185, HL Scripts",
@@ -599,8 +605,8 @@ local Skiddies 	= {
 	["0:11009918"] = "anton/The best angel/Troll names, Jynxx Script3",
 	["1:166226787"] = "MOM_NOODLES/nodlesmom, cvar3,nospread, ShittyScripts,Lennys,Falcos,NooblerScript,Dark scripts, propkiller",
 	
-	["1:68209808"] = "Shibeard/shigbeard/Redfiend/DeeJay/aimwaretester77698/200 Troll names new, 3x VAC bans, "..GG.." TooMuchHax, Previous "..GG.." MPGH",
-	["1:16716622"] = "Shibeard/shigbeard/Redfiend/DeeJay/aimwaretester77698/200 Troll names, 3x VAC bans, "..GG.." TooMuchHax, Previous "..GG.." MPGH",
+	["1:68209808"] = "Shibeard/shigbeard/Redfiend/DeeJay/aimwaretester77698/200 Troll names new, 3x VAC bans, Ban evasion (Alt 1:16716622), "..GG.." TooMuchHax, Previous "..GG.." MPGH",
+	["1:16716622"] = "Shibeard/shigbeard/Redfiend/DeeJay/aimwaretester77698/200 Troll names, 3x VAC bans, Ban evasion (Alt 1:68209808), "..GG.." TooMuchHax, Previous "..GG.." MPGH",
 	
 	["0:120916998"] = "xp457pl, ShittyScripts",
 	["1:62071814"] = "Mayne/cdnmayne, BaconBot, NINE VAC BANS, gmcl_deco.dll, "..GG.." darkscriptsv1, VACISAJOKE, VACBINS",
@@ -1818,7 +1824,7 @@ local Skiddies 	= {
 	["1:61639885"] = "Honk Friend/Troll names, selling hacks, bridgehack, ban me",
 	["1:34411781"] = "Nomad, Lennys, "..GG.." TrollSquad9000",
 	["0:127231310"] = "Rob/DVoid/Catastro, gm_exploited, troll/hacking groups",
-	["1:4154719"] = "Warden1142/deltasword100/DarkCide/dmrradio/Serverwatch, Server takeovers,C++ hacks,speedhacks,releasing hacks, propkiller,Member of many hack/troll groups, BAN ME FOREVER",
+	["1:4154719"] = "Warden1142/deltasword100/DarkCide/dmrradio/DarkByte/Serverwatch, Doxing,Server takeovers,C++/speed/releasing hacks,skid,propkiller,Member of many hack/troll groups, BAN ME ETERNITY",
 	
 	["0:35810412"] = "KraN/kransurf/Gmodpwnz, STEALING FILES,RCON hacking,Server takeovers,2x VAC,5 cheats,propkiller,2S ban, "..GG.." segapw,cheateroteam, Ban evasion (Alt 0:89116170), BAN ME FOREVER",
 	["0:89116170"] = "KraN/kransurf/Gmodpwnz, STEALING FILES,RCON hacking,Server takeovers,2x VAC,5 cheats,propkiller,2S ban, "..GG.." segapw,cheateroteam, Ban evasion (Alt 0:35810412), BAN ME FOREVER",
