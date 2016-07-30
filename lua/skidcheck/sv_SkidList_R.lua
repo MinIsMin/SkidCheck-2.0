@@ -6947,7 +6947,6 @@ local ExtraSkiddies = {
 	["0:134675462"] = GG.." gangstamoneyxyz",
 	["1:175829097"] = GG.." gangstamoneyxyz",
 	["0:174653408"] = GG.." gangstamoneyxyz",
-	["0:9872830"] = GG.." cheater0team",
 	["1:174214479"] = GG.." mirinmyperfectcheat",
 	["0:22469297"] = GG.." mirinmyperfectcheat",
 	["1:91163600"] = GG.." mirinmyperfectcheat",
