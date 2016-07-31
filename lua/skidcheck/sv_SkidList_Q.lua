@@ -797,7 +797,6 @@ local ExtraSkiddies = {
 	["0:100139584"] = GG.." AllLegitz",
 	["1:51612295"] = GG.." AllLegitz",
 	["0:64304310"] = GG.." AllLegitz",
-	["1:65509848"] = GG.." AllLegitz",
 	["1:53368351"] = GG.." AllLegitz",
 	["0:21247366"] = GG.." AllLegitz",
 	["0:170687188"] = GG.." AllLegitz",

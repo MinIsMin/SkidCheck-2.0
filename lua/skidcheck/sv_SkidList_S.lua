@@ -13,6 +13,20 @@ local ExtraSkiddies = {
 
 
 
+	["0:120028181"] = GG.." MPGH",
+	["1:47218474"] = GG.." AIMWARE",
+	["0:171544273"] = GG.." AIMWARE",
+	["1:116195468"] = GG.." AIMWARE",
+	["0:137531616"] = GG.." AIMWARE",
+	["1:151499625"] = GG.." AIMWARE",
+	["0:133380198"] = GG.." AIMWARE",
+	["0:124099666"] = GG.." AIMWARE",
+	["0:502926"] = GG.." beanware",
+	["0:2917857"] = GG.." psilentaimbot",
+	["1:48171079"] = GG.." MEMEWARE3",
+	["0:144615380"] = GG.." MEMEWARE3",
+	["0:156846088"] = GG.." MEMEWARE3",
+	["0:61482133"] = GG.." MEMEWARE3",
 	["1:16066278"] = GG.." MPGH",
 	["1:59753225"] = GG.." MPGH",
 	["0:172515636"] = GG.." MPGH",

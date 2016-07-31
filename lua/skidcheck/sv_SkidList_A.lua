@@ -38,6 +38,8 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:65509848"] = "Harper, snixzz cheat user, "..GG.." AllLegitz",
+	["0:131157262"] = "L337 H4X0R, snixzz cheat user",
 	["1:48093934"] = "Nightmare, snixzz cheat user",
 	["0:144398015"] = "Wax, VAC banned, "..GG.." NiggerheadRanch",
 	["1:45586871"] = "Sackson/100% Troll names, "..GG.." KuKluxKarnival,jewsbelonginovens",
@@ -1080,9 +1082,9 @@ local Skiddies 	= {
 	["0:45006801"] = "FlubberKid/Spooderman/79070707568, "..Snix,
 	["0:57950062"] = "Tommy, "..Snix..","..GG.." snixzznet",
 	
-	["1:121524040"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip, Writing hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
-	["1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip, Writing hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
-	["1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS,VAC,C++,snixzz vip, Writing hacks, "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	["1:121524040"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip, Writing hacks, Ban evasion (3 alts, List_A), "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	["1:115212069"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip, Writing hacks, Ban evasion (3 alts, List_A), "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	["1:88828403"] = "btg/billytheg0at/bee_tee_gee/Troll names, DDoS,VAC,C++,snixzz vip, Writing hacks, Ban evasion (3 alts, List_A), "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
 	
 	["0:59727915"] = "kimi raikkonen/deaglemon/Possible phoon Snorflake alt, "..Snix..", Banned",
 	["0:41973844"] = "Firedraft, "..Snix,
@@ -1286,7 +1288,7 @@ local Skiddies 	= {
 	["0:55054444"] = "undefined/TheLoyalShark/Troll names, "..Snix..","..GG.." NiggaNews9,antibirusnet,NiggaNews9",
 	["1:84114584"] = "W3E InhumanThree1/Inhuman/Robert Fox, "..Snix,
 	
-	["1:180809776"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
+	["0:180809776"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
 	["1:60255736"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
 	["1:61389584"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
 	["1:68229625"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
