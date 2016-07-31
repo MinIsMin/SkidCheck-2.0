@@ -28,7 +28,17 @@ local Skiddies 	= {
 
 
 
-
+	["1:98186716"] = "pxvya/100% Troll names, Racist troll",
+	
+	["0:75511012"] = "diksmassinmihas/Butters/Carrot Eater/Troll names, VAC banned, Ban evasion (Alt 0:155846943)",
+	["0:155846943"] = "diksmassinmihas/Butters/Carrot Eater/Troll names, VAC banned, Ban evasion (Alt of 0:75511012)",
+	
+	["1:98949755"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
+	["1:123867811"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
+	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
+	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
+	
+	["1:48093934"] = "Nightmare, snixzz cheat user",
 	["0:144398015"] = "Wax, VAC banned, "..GG.." NiggerheadRanch",
 	["1:45586871"] = "Sackson/100% Troll names, "..GG.." KuKluxKarnival,jewsbelonginovens",
 	["1:149259235"] = "Mikopy/Cadeer, "..GG.." 911insidejob",
@@ -469,7 +479,7 @@ local Skiddies 	= {
 	["1:14005478"] = "KrazyKillerJ, snixzz cheat user",
 	["0:77238958"] = "snixzz cheat user",
 	["0:49608980"] = "hard donkeydeliverer, snixzz cheat user @ 06-08-2016",
-	["0:161275981"] = "snixzz cheat user",
+	["0:161275981"] = "Mike, snixzz cheat user",
 	["0:54416309"] = "coreylarge30, snixzz cheat user",
 	
 	["1:89994030"] = "aintg0tcheats/brailehack/157 Troll names, ShittyScripts, "..GG.." darkscriptsv1",
@@ -1118,12 +1128,12 @@ local Skiddies 	= {
 	["1:64829570"] = "fuck707/Troll names, VAC banned, "..Snix..","..GG.." complimentmyvacban,sourcesdk,epictothemaxkid",
 	["0:47543801"] = "Harry Pothead/Kira, attacking the server, name exploiting (newline), BAN ME FOREVER",
 	
-	["0:90527737"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List _A), "..GG.." ISISxx1",
-	["1:86830160"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List _A), "..GG.." ISISxx1",
-	["1:38132042"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List _A), "..GG.." ISISxx1",
-	["1:87676208"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List _A), "..GG.." ISISxx1",
-	["0:84587132"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List _A), "..GG.." ISISxx1",
-	["1:128396973"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List _A), "..GG.." ISISxx1",
+	["0:90527737"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List_A), "..GG.." ISISxx1",
+	["1:86830160"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List_A), "..GG.." ISISxx1",
+	["1:38132042"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List_A), "..GG.." ISISxx1",
+	["1:87676208"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List_A), "..GG.." ISISxx1",
+	["0:84587132"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List_A), "..GG.." ISISxx1",
+	["1:128396973"] = "Kif3r/Micheal Allen/Troll names, DDoS, RCON hacking, VAC bans, Ban evasion (6 alts, List_A), "..GG.." ISISxx1",
 	
 	["1:121066578"] = "good eye might/gewdeyemight, "..Snix,
 	["0:35840153"] = "Skalias Pablo Relt2014/Skalias, "..Snix,
@@ -1131,7 +1141,10 @@ local Skiddies 	= {
 	["1:73281504"] = "Smile/MoonBass/Simon, Hera, anxition, lua/defiance.lua",
 	["0:72423494"] = "OptiJack/Jack, Mapex, Lennys scripts",
 	["0:126153968"] = "luis7882/luis, "..Snix,
-	["0:84408790"] = "sp00k/rdude/The Terminator/Troll names, 4x VAC bans, "..Snix..","..GG.." Letsraidgmodservers,myg0t_international,vacbannedlol",
+	
+	["0:84408790"] = "sp00k/rdude/The Terminator/Troll names, 4x VAC bans, "..Snix..","..GG.." Letsraidgmodservers,myg0t_international, Ban evasion (Alt 1:119939764)",
+	["1:119939764"] = "sp00k/rdude/The Terminator/Troll names alt, 4x VAC bans, "..Snix..","..GG.." Letsraidgmodservers,myg0t_international, Ban evasion (Alt of 0:84408790)",
+	
 	["0:61994279"] = "kokoc_9/Crivbass/ovsk, 2x VAC bans, MPGH, releasing hacks",
 	["0:119674973"] = "h0wl/ieternality/Troll names, 2x VAC bans, "..GG.." MEMEWARE, BAN ME FOREVER",
 	["1:100758935"] = "dsd/100% Troll/hack names, 2x VAC bans, "..Snix..","..GG.." druglordddosers",
