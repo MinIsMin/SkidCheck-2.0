@@ -38,6 +38,8 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["0:78938318"] = "Jaxon DEagRANKING, snixzz cheat user",
+	["1:147281268"] = "Max, snixzz cheat user",
 	["1:65509848"] = "Harper, snixzz cheat user, "..GG.." AllLegitz",
 	["0:131157262"] = "L337 H4X0R, snixzz cheat user",
 	["1:48093934"] = "Nightmare, snixzz cheat user",
