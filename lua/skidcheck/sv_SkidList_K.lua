@@ -3187,7 +3187,6 @@ local ExtraSkiddies = {
 	["0:143353053"] = GG.." csgoani-me",
 	["1:1817841"] = GG.." csgoani-me",
 	["0:99094662"] = GG.." csgoani-me",
-	["1:90291831"] = GG.." csgoani-me",
 	["1:36195144"] = GG.." csgoani-me",
 	["1:57056708"] = GG.." csgoani-me",
 	["1:66394349"] = GG.." csgoani-me",

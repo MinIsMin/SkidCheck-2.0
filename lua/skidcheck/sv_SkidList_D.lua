@@ -7035,7 +7035,6 @@ local ExtraSkiddies = {
 	["1:4190439"] = GG.." WeCheatAtGames",
 	["1:50399523"] = GG.." gayweedddads",
 	["0:101496497"] = GG.." WeCheatAtGames",
-	["1:73885391"] = GG.." WeCheatAtGames",
 	["0:94952583"] = GG.." WeCheatAtGames",
 	["1:106605180"] = GG.." WeCheatAtGames",
 	["1:37547409"] = GG.." WeCheatAtGames",

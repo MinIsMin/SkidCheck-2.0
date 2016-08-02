@@ -28,6 +28,14 @@ local Skiddies 	= {
 
 
 
+	["1:31563172"] = "Startback, Swag Hack,HL Scripts, cvar3,nospread, darkv1bypass,SwagHack,MemeSmasher",
+	["1:49945423"] = "nohdplaier/niclas/Farmi, sv_allowcslua bypass gmcl_cat_win32, BridgeHack, SmegHack, Ponyhack, ",
+	
+	["0:86274598"] = "Martin/Sandwich/ChilliHeatwaveDoritoMaster/Troll names, VAC banned, AW Hack, Ban evasion (Alt 0:179195011)",
+	["0:179195011"] = "Martin/Sandwich/ChilliHeatwaveDoritoMaster/Troll names alt, VAC banned, AW Hack, Ban evasion (Alt of 0:86274598)",
+	
+	["0:88810068"] = "Puddle of infinity/turemshik/Angola, AHack,Mapex",
+	["0:109494265"] = "kolek jr/pedzel/kolek, STEALING FILES, BridgeHack,mApex",
 	["1:98186716"] = "pxvya/100% Troll names, Racist troll",
 	
 	["0:75511012"] = "diksmassinmihas/Butters/Carrot Eater/Troll names, VAC banned, Ban evasion (Alt 0:155846943)",
@@ -38,6 +46,11 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+
+	["0:51913704"] = "Deus/100% Troll names, Steam achievement hacks, snixzz cheat user, VAC banned, "..GG.." honorableposters, BeesScripts",
+	["1:73885391"] = "mute, snixzz cheat user, "..GG.." WeCheatAtGames",
+	["1:90291831"] = "Daze, snixzz cheat user, "..GG.." csgoani-me",
+	["1:65126609"] = "Ray, snixzz cheat user",
 	["0:78938318"] = "Jaxon DEagRANKING, snixzz cheat user",
 	["1:147281268"] = "Max, snixzz cheat user",
 	["1:65509848"] = "Harper, snixzz cheat user, "..GG.." AllLegitz",
@@ -2051,7 +2064,6 @@ local Skiddies 	= {
 	["0:92597893"] = "xXTheDarkOne123/TSWD Gaming, DDoS, allowcslua bypass, MPGH, asking for hacks, member of 2 hack/troll groups. BAN ME FOREVER",
 	["1:6060773"] = "Clarkman28/peyto11, asking for help with STEALING FILES/hacks. BAN ME",
 	["1:88843019"] = "The Churro Master, troll names",
-	["0:51913704"] = "100% Troll names, VAC banned, "..GG.." honorableposters, Steam achievement hacks, BeesScripts",
 	["0:55216258"] = "DheerajBhatt, MPGH, troll posts, "..GG.." MPGH, ban me",
 	["0:23823962"] = "Backdoor/exploits, VAC banned, ban me",
 	["1:83634902"] = "MassXModz/Overload/sikgaming/overloadaolrevo/sik, selling exploits, ",
