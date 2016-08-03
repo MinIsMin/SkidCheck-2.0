@@ -28,7 +28,7 @@ local Skiddies 	= {
 
 
 
-	["1:31563172"] = "Startback, Swag Hack,HL Scripts, cvar3,nospread, darkv1bypass,SwagHack,MemeSmasher",
+	["1:31563172"] = "Startback, Swag Hack,HL Scripts, cvar3,nospread, darkv1bypass,MemeSmasher",
 	["1:49945423"] = "nohdplaier/niclas/Farmi, sv_allowcslua bypass gmcl_cat_win32, BridgeHack, SmegHack, Ponyhack, ",
 	
 	["0:86274598"] = "Martin/Sandwich/ChilliHeatwaveDoritoMaster/Troll names, VAC banned, AW Hack, Ban evasion (Alt 0:179195011)",
@@ -200,7 +200,7 @@ local Skiddies 	= {
 	
 	["1:117218178"] = "gushers, SmegHack,Pony,Falcos scripts",
 	["0:93001600"] = "BLASE/blaseit, sv_allowvslua bypass darkBypass, cvar3,Nospread,rhook,Dark/HLScripts, 48 cheat scripts, "..GG.." internethitmen, BAN ME FOREVER",
-	["1:104094210"] = "Jumpy/Troll names, 4x VAC bans, ampris,Pasteware,dreambot,ven0msquad, "..GG.." AIMWARE",
+	["1:104094210"] = "Jumpy/Troll names, 4x VAC bans, releasing hacks, ampris,Pasteware,dreambot,ven0msquad, "..GG.." AIMWARE",
 	["0:45111530"] = "Rainbow_of_38/Corentin/rainbow_production, Dark scripts,$w4g H4x",
 	["0:85514601"] = "Hydro/Troll names, Hera aimbot",
 	["1:94365139"] = "THE ONE TRUE FREEMAN/Rarity, Sasha aimbot",
