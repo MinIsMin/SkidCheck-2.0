@@ -160,7 +160,6 @@ local ExtraSkiddies = {
 	["1:55964824"] = GG.." squishyboy",
 	["1:170037249"] = GG.." squishyboy",
 	["1:50720004"] = GG.." squishyboy",
-	["0:151306872"] = GG.." squishyboy",
 	["0:83114354"] = GG.." squishyboy",
 	["0:145596906"] = GG.." squishyboy",
 	["1:151287708"] = GG.." bigfuckingpeniscock",

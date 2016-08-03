@@ -27,7 +27,7 @@ local Skiddies 	= {
 
 
 
-
+	["1:79501012"] = "mashaBiceps/Patrick/xtarion_mashabiceps, Writing hacks (EasyScript)",
 	["1:31563172"] = "Startback, Swag Hack,HL Scripts, cvar3,nospread, darkv1bypass,MemeSmasher",
 	["1:49945423"] = "nohdplaier/niclas/Farmi, sv_allowcslua bypass gmcl_cat_win32, BridgeHack, SmegHack, Ponyhack, ",
 	
@@ -46,7 +46,7 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
-
+	["0:151306872"] = "aC Hailey, snixzz cheat user, "..GG.." Therealaesir,squishyboy",
 	["0:51913704"] = "Deus/100% Troll names, Steam achievement hacks, snixzz cheat user, VAC banned, "..GG.." honorableposters, BeesScripts",
 	["1:73885391"] = "mute, snixzz cheat user, "..GG.." WeCheatAtGames",
 	["1:90291831"] = "Daze, snixzz cheat user, "..GG.." csgoani-me",
