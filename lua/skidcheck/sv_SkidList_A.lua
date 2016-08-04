@@ -27,6 +27,9 @@ local Skiddies 	= {
 
 
 
+	["1:96255922"] = "Amir/20002010, AW Hack",
+	["1:52038966"] = "AIO Mine_Turtle/Euan Campbell, BridgeHack.lua, 12 year old",
+	["0:58846052"] = "Kuchen/kuchenkrampfiii/Marvin, sv_allowcslua bypass gmcl_cat_win32.dll, defcon.lua aimbot",
 	["1:79501012"] = "mashaBiceps/Patrick/xtarion_mashabiceps, Writing hacks (EasyScript)",
 	["1:31563172"] = "Startback, Swag Hack,HL Scripts, cvar3,nospread, darkv1bypass,MemeSmasher",
 	["1:49945423"] = "nohdplaier/niclas/Farmi, sv_allowcslua bypass gmcl_cat_win32, BridgeHack, SmegHack, Ponyhack, ",
@@ -46,6 +49,7 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["0:14061546"] = "SurgZ, snixzz cheat user",
 	["0:151306872"] = "aC Hailey, snixzz cheat user, "..GG.." Therealaesir,squishyboy",
 	["0:51913704"] = "Deus/100% Troll names, Steam achievement hacks, snixzz cheat user, VAC banned, "..GG.." honorableposters, BeesScripts",
 	["1:73885391"] = "mute, snixzz cheat user, "..GG.." WeCheatAtGames",
@@ -449,7 +453,7 @@ local Skiddies 	= {
 	["0:104879599"] = "snixzz cheat user @ 06-18-2016",
 	["1:53650773"] = "snixzz cheat user @ 06-18-2016, "..GG.." AIMWARE",
 	["1:49655005"] = "snixzz cheat user @ 06-17-2016",
-	["0:86830367"] = "snixzz cheat user @ 06-16-2016",
+	["0:86830367"] = "loo, snixzz cheat user @ 06-16-2016",
 	["1:57234919"] = "Benjamin/skywastaken/Sky, VAC banned, snixzz cheat user @ 06-16-2016, "..Snix,
 	["1:93215214"] = "snixzz cheat user @ 06-15-2016, "..GG.." MEMEWARE",
 	["1:92902260"] = "Obama Llama/Jordan/URDEAD548, snixzz cheat user @ 06-15-2016, "..Snix,
@@ -1097,9 +1101,9 @@ local Skiddies 	= {
 	["0:45006801"] = "FlubberKid/Spooderman/79070707568, "..Snix,
 	["0:57950062"] = "Tommy, "..Snix..","..GG.." snixzznet",
 	
-	["1:121524040"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip, Writing hacks, Ban evasion (3 alts, List_A), "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
-	["1:115212069"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, DDoS,VAC,C++,snixzz vip, Writing hacks, Ban evasion (3 alts, List_A), "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
-	["1:88828403"] = "btg/billytheg0at/bee_tee_gee/Troll names, DDoS,VAC,C++,snixzz vip, Writing hacks, Ban evasion (3 alts, List_A), "..Snix..", Member of hack/troll groups, BAN ME FOREVER",
+	["1:121524040"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, VAC,C++,snixzz vip,Writing hacks, BanEvasion (3 alts), "..Snix..", Member of hack/troll groups, Possible DDoS, BAN ME FOREVER",
+	["1:115212069"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, VAC,C++,snixzz vip,Writing hacks, BanEvasion (3 alts), "..Snix..", Member of hack/troll groups, Possible DDoS, BAN ME FOREVER",
+	["1:88828403"] = "btg/billytheg0at/bee_tee_gee/Troll names, VAC,C++,snixzz vip,Writing hacks, BanEvasion (3 alts), "..Snix..", Member of hack/troll groups, Possible DDoS, BAN ME FOREVER",
 	
 	["0:59727915"] = "kimi raikkonen/deaglemon/Possible phoon Snorflake alt, "..Snix..", Banned",
 	["0:41973844"] = "Firedraft, "..Snix,

@@ -13,6 +13,8 @@ local ExtraSkiddies = {
 
 
 
+	["1:79753811"] = GG.." beanware",
+	["0:69870071"] = GG.." GmodCheat",
 	["0:102651263"] = GG.." MPGH",
 	["0:1227949"] = GG.." MPGH",
 	["1:147647579"] = GG.." MPGH",
