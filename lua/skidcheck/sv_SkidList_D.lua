@@ -4521,7 +4521,6 @@ local ExtraSkiddies = {
 	["1:97221936"] = GG.." ORGANNER",
 	["0:25433292"] = GG.." Specialretarts",
 	["0:29319761"] = GG.." gonzobusted",
-	["1:3620125"] = "SirFluffysServers: Speedhack",
 	["0:104433358"] = GG.." gayweedddads",
 	["1:94273888"] = GG.." wtfvalvefixit (VAC bans)",
 	["1:108390041"] = GG.." dummYx0r",

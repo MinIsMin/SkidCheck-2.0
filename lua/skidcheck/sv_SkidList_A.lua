@@ -26,10 +26,15 @@ local Skiddies 	= {
 
 
 
-
-
-
-
+	["0:1741704"] = "100% Troll names, Backdoor in addon (Audisquad Backdoor, Wyozi Cinema), "..GG.." audisquad",
+	["1:68285037"] = "Sants/santsignog/Troll names, Backdoor in addon (Audisquad Backdoor, Wyozi Cinema), "..Snix..","..GG.." dicksquadFLOCKA, Game banned",
+	
+	["0:1741057"] = "kil000xhdc/darku/Troll names, Backdoor in addon (Audisquad Backdoor, Wyozi Cinema), "..GG.." SkidUniversity,audisquad, Game banned, Ban evasion (Alt 1:36616)",
+	["1:36616"] = "kil000xhdc/darku/Troll names alt, Backdoor in addon (Audisquad Backdoor, Wyozi Cinema), "..GG.." SkidUniversity,audisquad, Game banned, Ban evasion (Alt of 0:1741057)",
+	
+	["0:80513159"] = "thatwaslegitnesxd/Deluxa, VAC banned, "..GG.." MEMEWARE3",
+	["1:100721683"] = "Prof Dr Lars/drlars/SuperZocka, forced sv_allowcslua & sv_cheats, gmcl_cat_win32 bypass, cvar3,Nospread,SmegHack,defcon,Sasha,'hackerpublic'",
+	["0:64964261"] = "Dayznight/Thomas/robthebanditslayer, Murder.lua cheat, ESP",
 	["0:181042394"] = "Right/Troll names, STEALING FILES, cvar3,Nospread,SmegHack,BridgeHack,memeware,SteamRoller,rhook,Shitty/Dark/Z Scripts, 20 cheat DLLs, Likely alt of cheat, BAN ME",
 	["0:54838196"] = "PalestinianMaan/BobbyG/105thGamer, "..GG.." GmodCheats,noobsmashers",
 	["0:180038467"] = "PolitikZ/Jewkill3r/Troll names, "..GG.." GmodCheats,PropKillNA",
@@ -68,6 +73,8 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:3620125"] = "spoon-chan/Troll names, snixzz cheat user, SirFluffysServers: Speedhack, "..GG.." Dango_Mafia_Fan_club",
+	["0:13029397"] = "shisgod, snixzz cheat user",
 	["1:167236215"] = "Shims/coolman420/dotheshimmie/Troll names, snixzz cheat user, "..GG.." GmodCheat",
 	["0:89483258"] = "DFG  Bimo, snixzz cheat user",
 	["0:14061546"] = "SurgZ, snixzz cheat user",
@@ -1250,7 +1257,6 @@ local Skiddies 	= {
 	["0:31297822"] = "naw/seacum/Crashmultiz/Troll names, "..GG.." big_codens",
 	["1:128694153"] = "eaz/Troll names, "..Snix..", BAN ME",
 	["1:50069483"] = "Joe/Harley/005866, "..Snix,
-	["1:68285037"] = "Sants/santsignog/Troll names, "..Snix..","..GG.." dicksquadFLOCKA",
 	["0:139307506"] = "Alien, "..Snix..","..GG.." pasters,dango_club",
 	["0:144782910"] = "Loxsys, "..Snix,
 	["0:132205938"] = "illusi0n/Nicolas/aimwaredotnetbest/Troll names, Aimware C++ hack, VAC banned, "..Snix..","..GG.." pasters",

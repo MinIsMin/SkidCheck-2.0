@@ -3471,7 +3471,6 @@ local ExtraSkiddies = {
 	["1:41815870"] = GG.." complimentmyvacban",
 	["0:156379924"] = GG.." sscriptsGroup",
 	["0:170317010"] = GG.." audisquad",
-	["0:1741704"] = GG.." audisquad",
 	["1:121171746"] = GG.." audisquad",
 	["1:58607714"] = GG.." VACISAJOKE",
 	["1:39158627"] = GG.." VACISAJOKE",

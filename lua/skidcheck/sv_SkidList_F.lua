@@ -1969,7 +1969,6 @@ local ExtraSkiddies = {
 	["1:147952435"] = GG.." OnlyVACacje",
 	["1:118120022"] = GG.." steamgroupraiders",
 	["1:97808786"] = GG.." POMFPOMF",
-	["0:1741057"] = GG.." SkidUniversity",
 	["0:144179863"] = GG.." QTPiBoys",
 	["0:76294641"] = GG.." QTPiBoys",
 	["1:151616438"] = GG.." QTPiBoys",
