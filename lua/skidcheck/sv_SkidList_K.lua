@@ -9457,7 +9457,6 @@ local ExtraSkiddies = {
 	["0:139464534"] = GG.." suicideisthebestoption",
 	["1:77701422"] = GG.." suicideisthebestoption",
 	["1:118245125"] = GG.." suicideisthebestoption",
-	["0:766427"] = GG.." suicideisthebestoption",
 	["1:161142156"] = GG.." p2cpolice",
 	["0:59482555"] = GG.." VACISAJOKE",
 	["1:127807453"] = GG.." VACISAJOKE",

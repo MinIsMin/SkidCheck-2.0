@@ -27,6 +27,25 @@ local Skiddies 	= {
 
 
 
+
+
+
+	["0:181042394"] = "Right/Troll names, STEALING FILES, cvar3,Nospread,SmegHack,BridgeHack,memeware,SteamRoller,rhook,Shitty/Dark/Z Scripts, 20 cheat DLLs, Likely alt of cheat, BAN ME",
+	["0:54838196"] = "PalestinianMaan/BobbyG/105thGamer, "..GG.." GmodCheats,noobsmashers",
+	["0:180038467"] = "PolitikZ/Jewkill3r/Troll names, "..GG.." GmodCheats,PropKillNA",
+	["0:92416108"] = "Krippen/ecig/Troll names, 2x VAC Bans, "..GG.." valuev,GmodCheats",
+	["0:56478202"] = "EagleEye117, "..GG.." GmodCheats,_______________ok_______________",
+	["1:84420145"] = "Detail/PersonalVPN/Troll names, "..GG.." GmodCheats,JimmyNeutronERP",
+	["0:82087808"] = "BUGGS BUNNY/Troll names, "..GG.." GmodCheats",
+	["1:86794424"] = "big boss/Snake/Troll names, "..GG.." GmodCheats",
+	["1:66953556"] = "The Nine Dogs/The Nin/hashtag_swiggyswag, VAC banned, "..GG.." GmodCheats,putanendtoracism",
+	["1:174245744"] = "Method/Xnightf0x, "..GG.." GmodCheats,PropKillNA",
+	["0:61922768"] = "Nanovirus/Verified, "..GG.." GmodCheats",
+	["1:58670587"] = "Edge/Brian, VAC banned, "..GG.." GmodCheats,gaynig",
+	["1:81881925"] = "DJ Dark/Troll names, "..GG.." GmodCheats",
+	["0:69870071"] = "CoryInTheHouse/Wally The Walrus/BallLint, "..GG.." GmodCheats",
+	["0:149000553"] = "Alpha/TheSpooner, "..GG.." GmodCheats",
+	["0:766427"] = "LonelyWolf/Troll names, Admitted hacking, Backdoor in workshop cheat (LESP), "..GG.." PropKillNA, GmodCheat,suicideisthebestoption, BAN ME FOREVER",
 	["1:96255922"] = "Amir/20002010, AW Hack",
 	["1:52038966"] = "AIO Mine_Turtle/Euan Campbell, BridgeHack.lua, 12 year old",
 	["0:58846052"] = "Kuchen/kuchenkrampfiii/Marvin, sv_allowcslua bypass gmcl_cat_win32.dll, defcon.lua aimbot",
@@ -49,6 +68,8 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:167236215"] = "Shims/coolman420/dotheshimmie/Troll names, snixzz cheat user, "..GG.." GmodCheat",
+	["0:89483258"] = "DFG  Bimo, snixzz cheat user",
 	["0:14061546"] = "SurgZ, snixzz cheat user",
 	["0:151306872"] = "aC Hailey, snixzz cheat user, "..GG.." Therealaesir,squishyboy",
 	["0:51913704"] = "Deus/100% Troll names, Steam achievement hacks, snixzz cheat user, VAC banned, "..GG.." honorableposters, BeesScripts",
@@ -420,12 +441,12 @@ local Skiddies 	= {
 	["0:101903816"] = "Blazing2799, snixzz cheat user",
 	["0:143093127"] = "Desire, snixzz cheat user",
 	["1:51593486"] = "Banana, snixzz cheat user",
-	["1:112541237"] = "BassBat/TacosCANrap/Tacos, snixzz cheat user, "..Snix..","..GG.." annoyingprogamers",
+	["1:112541237"] = "BassBat/TacosCANrap/Tacos, snixzz cheat user, "..Snix..","..GG.." GmodCheats,annoyingprogamers",
 	["0:66975731"] = "snixzz cheat user, "..GG.." AIMWARE",
 	["1:81286735"] = "Leonidasisdas, snixzz cheat user",
 	["1:52857657"] = "Czexit, snixzz cheat user",
 	["1:155919550"] = "Rhinedo, snixzz cheat user",
-	["0:72457577"] = "g-modder/Frobro3.0/Phys Frobro, snixzz cheat user, 2x VAC bans, "..GG.." darkscriptsv1,GaingRape",
+	["0:72457577"] = "g-modder/Frobro3.0/Phys Frobro, snixzz cheat user, 2x VAC bans, "..GG.." GmodCheats,darkscriptsv1,GaingRape",
 	["0:61701034"] = "Magnde, snixzz cheat user, SirFluffysServers: BG Gamer98, Lua cheats",
 	["0:99344969"] = "Clippy, snixzz cheat user",
 	["0:68026131"] = "Zelbs, snixzz cheat user",
@@ -780,7 +801,7 @@ local Skiddies 	= {
 	["0:53951831"] = "christ-chan/Dr Skeltal/MrSkeltalSr/Troll names, VAC banned, MPGH",
 	["0:49598803"] = "Wiz Khalifa/finniebox/Finn/coelenjoenen, C++ hacks, VAC banned, MPGH",
 	["1:114007217"] = "4ngel/massivefatcock/hazza72, "..GG.." MPGH",
-	["1:33685014"] = "Whale Tits/Troll names, DDoS, Server takeovers, VAC banned, "..GG.." poki,AIMWARE, BAN ME FOREVER",
+	["1:33685014"] = "Whale Tits/Troll names, DDoS, Server takeovers, VAC banned, "..GG.." GmodCheats,poki,AIMWARE, BAN ME FOREVER",
 	["0:85226505"] = "Break0ut, STEALING FILES, attempted crash, Nospread,JSP,cvar3,Shitty/DarkScripts,Falcos,Lennys,PKMafia, "..GG.." PropkillMafia",
 	["0:58696330"] = "Miss Muffet/Muffet, DarkScripts",
 	
@@ -1173,8 +1194,8 @@ local Skiddies 	= {
 	
 	["1:171775494"] = "powerpenguin601/Troll names, Writing & releasing hacks, "..GG.." VACISAJOKE,HVHKINGS,cheater0team",
 	
-	["0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn/aestheticvaper, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix,
-	["0:125521578"] = "Moosicorn alt/Owlicorn/officialowlicorn/Vlad/aestheticvaper, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix,
+	["0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn/iamcyaegha, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix..", MPGH",
+	["0:125521578"] = "Moosicorn alt/Owlicorn/officialowlicorn/Vlad/iamcyaegha, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix..", MPGH",
 	
 	["1:121163033"] = "What is Love/Vlad/Troll names, "..Snix..", Banned, "..GG.." snixzznet, BAN ME FOREVER",
 	["1:114522307"] = "rekteffect/Super/Troll names, MPGH, attempted anticheat bypass, SirFluffysServers: aimbot, seed manipulation",
@@ -1348,7 +1369,7 @@ local Skiddies 	= {
 	["0:79252185"] = "Mistayq/Andrew, "..Snix..","..GG.." antibirusnet,snixzznet",
 	["1:77411325"] = "mjyelito/bird/Troll names, 3x VAC bans, Exploits/asking for hacks, "..Snix..", member of 5 hack/troll groups, BAN ME",
 	["0:103232183"] = "RabidRunner/red/__red/Troll names, STEALING FILES, C++ hacks, MPGH, "..Snix..", Member of 7 hack/troll groups, BAN ME FOREVER",
-	["0:68210490"] = "Spunki/shitfarce/Tyler, 2x VAC bans, gDaap DB: FSxMiller (PulsiveDildus), "..Snix,
+	["0:68210490"] = "Spunki/shitfarce/Tyler, 2x VAC bans, snixzz cheat user, gDaap DB: FSxMiller (PulsiveDildus), "..Snix,
 	["0:32259367"] = "eon/eon_/Troll names, Server takeovers, 2x VAC bans, "..Snix..","..GG.." VIRUSBOYSU,segapw",
 	["0:59878557"] = "Waterboyz/gagerino/James Kyle Lawfield, "..GG.." TubSquad,pa$ters",
 	["1:28561407"] = "Charged/Russell Powell/tdbrooster, 4x VAC Bans, "..Snix,
@@ -1712,8 +1733,8 @@ local Skiddies 	= {
 	["0:186057"] = "DANKMEOW/Muffler, DDoS, 2x VAC bans, "..GG.." aimflex,propkiller,complimentmyvacban,pokitraining, Ban evasion (3 alts, List_A)",
 	["1:2015901"] = "DANKMEOW/Muffler, DDoS, 2x VAC bans, "..GG.." aimflex,propkiller,complimentmyvacban,pokitraining, Ban evasion (3 alts, List_A)",
 	
-	["1:80091825"] = "heloplayer/d0shtheking/Troll names, Server takeovers, "..GG.." antibirusnet,urmamaisdonebyme,complimentmyvacban, Ban evasion (Alt 1:103330387)",
-	["1:103330387"] = "heloplayer/d0shtheking/Troll names, Server takeovers, "..GG.." antibirusnet,urmamaisdonebyme,complimentmyvacban, Ban evasion (Alt of 1:80091825)",
+	["1:80091825"] = "heloplayer/d0shtheking/Troll names, Server takeovers, "..GG.." antibirusnet,GmodCheats,complimentmyvacban, Ban evasion (Alt 1:103330387)",
+	["1:103330387"] = "heloplayer/d0shtheking/Troll names, Server takeovers, "..GG.." antibirusnet,GmodCheats,complimentmyvacban, Ban evasion (Alt of 1:80091825)",
 	
 	["1:5525728"] = "Keegan/i_rep_hackforums/Troll names, VAC banned, 'legit cheating account', Member of 11 hack/troll groups, Ban evasion (11 alts! List_A), BAN ME FOREVER",
 	["1:108103"] = "Keegan/i_rep_hackforums/Troll names, VAC banned, 'legit cheating account', Member of 11 hack/troll groups, Ban evasion (11 alts! List_A), BAN ME FOREVER",
@@ -5592,7 +5613,7 @@ local Skiddies 	= {
 	["0:68223739"] = "2S: Lennys, "..GG.." VACISAJOKE",
 	["0:24053454"] = "[ZCC] Darkness",
 	["1:54186686"] = "M60Warrior, Various hacks",
-	["1:64777074"] = "MrWeegeeMan, Dismay (STEALING FILES), 2S: sv_allowcslua, ban me, "..GG.." darknevercomeback",
+	["1:64777074"] = "MrWeegeeMan, Dismay (STEALING FILES), 2S: sv_allowcslua, ban me, "..GG.." GmodCheats,darknevercomeback",
 	["1:12406388"] = "SP2: Code injection (Sethhack)",
 	["0:35991390"] = "LESP",
 	["1:21480249"] = "Blackops.cfg",

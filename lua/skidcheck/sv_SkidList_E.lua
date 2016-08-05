@@ -1113,7 +1113,6 @@ local ExtraSkiddies = {
 	["1:63256375"] = GG.." putanendtoracism",
 	["0:121214492"] = GG.." putanendtoracism",
 	["0:40695994"] = GG.." putanendtoracism",
-	["1:66953556"] = GG.." putanendtoracism",
 	["0:48955048"] = GG.." putanendtoracism",
 	["0:79306177"] = GG.." putanendtoracism",
 	["0:12354973"] = GG.." montageparodies",
