@@ -25,7 +25,9 @@ local Skiddies 	= {
 
 
 
-
+	["1:127213701"] = "tibi0202, SRSscript",
+	["0:7901795"] = "DesY/Sinister/Troll names, MPGH, "..GG.." pasterteam,SelflessHvH, BAN ME",
+	["0:30912200"] = "Garrus/Allowed Skill/Troll names, VAC banned, BridgeHack,Nospread,hackerpublic,Memeware,SmegHack,Mapex,Sasha, Game banned",
 	["0:53256550"] = "Azir/ryaneo209/azir the emperor, "..GG.." hentai-rape",
 	["0:1741704"] = "100% Troll names, Backdoor in addon (Audisquad Backdoor, Wyozi Cinema), "..GG.." audisquad",
 	["1:68285037"] = "Sants/santsignog/Troll names, Backdoor in addon (Audisquad Backdoor, Wyozi Cinema), "..Snix..","..GG.." dicksquadFLOCKA, Game banned",
@@ -474,7 +476,7 @@ local Skiddies 	= {
 	["1:33945814"] = "PaperMoney, snixzz cheat user",
 	["0:128020194"] = "IG AstroGalaxyHD, snixzz cheat user",
 	["1:102974350"] = "EgN Grape Slushy, snixzz cheat user",
-	["0:35717190"] = "snixzz cheat user @ 06-19-2016, "..GG.." ibench3lbs",
+	["0:35717190"] = "GrandpaTroll/Christopher/Troll names, snixzz cheat user @ 06-19-2016, "..GG.." ibench3lbs",
 	["0:26766502"] = "Wizzar, snixzz cheat user @ 06-19-2016",
 	["0:75810602"] = "Triggered Frog, snixzz cheat user @ 06-20-2016",
 	["0:59608652"] = "snixzz cheat user @ 06-20-2016",
@@ -1204,8 +1206,8 @@ local Skiddies 	= {
 	
 	["1:171775494"] = "powerpenguin601/Troll names, Writing & releasing hacks, "..GG.." VACISAJOKE,HVHKINGS,cheater0team",
 	
-	["0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn/iamcyaegha, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix..", MPGH",
-	["0:125521578"] = "Moosicorn alt/Owlicorn/officialowlicorn/Vlad/iamcyaegha, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix..", MPGH",
+	["0:107992661"] = "Moosicorn/Owlicorn/officialmoosicorn/iamcyaegha/Function alt?, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix..", MPGH",
+	["0:125521578"] = "Moosicorn alt/Owlicorn/officialowlicorn/Vlad/iamcyaegha/Function alt?, Writing & releasing hacks, VAC banned, snixzz cheat user, "..Snix..", MPGH",
 	
 	["1:121163033"] = "What is Love/Vlad/Troll names, "..Snix..", Banned, "..GG.." snixzznet, BAN ME FOREVER",
 	["1:114522307"] = "rekteffect/Super/Troll names, MPGH, attempted anticheat bypass, SirFluffysServers: aimbot, seed manipulation",
@@ -1376,7 +1378,7 @@ local Skiddies 	= {
 	["0:56021974"] = "Erza/Raf, "..Snix..","..GG.." ExploitersAndHackers,ididnothither",
 	["0:36762884"] = "Nova/legitdismyurl/Nathan/Troll names, VAC banned, "..Snix..", Member of hack/troll groups, BAN ME FOR ETERNITY",
 	["0:79252185"] = "Mistayq/Andrew, "..Snix..","..GG.." antibirusnet,snixzznet",
-	["1:77411325"] = "mjyelito/bird/Troll names, 3x VAC bans, Exploits/asking for hacks, "..Snix..", member of 5 hack/troll groups, BAN ME",
+	["1:77411325"] = "mjyelito/bird/fl0at/Troll names, 3x VAC bans, Exploits/asking for hacks, snixzz cheat user, "..Snix..", member of 5 hack/troll groups, BAN ME",
 	["0:103232183"] = "RabidRunner/red/__red/Troll names, STEALING FILES, C++ hacks, MPGH, "..Snix..", Member of 7 hack/troll groups, BAN ME FOREVER",
 	["0:68210490"] = "Spunki/shitfarce/Tyler, 2x VAC bans, snixzz cheat user, gDaap DB: FSxMiller (PulsiveDildus), "..Snix,
 	["0:32259367"] = "phage/eon/eon_/226 Troll names, Server takeovers, Writing C++ hacks, 2x VAC bans, "..Snix..","..GG.." VIRUSBOYSU,segapw",
