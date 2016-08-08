@@ -12,6 +12,17 @@ local ExtraSkiddies = {
 
 
 
+	["0:156535602"] = GG.." OnlyVACacje",
+	["0:150612032"] = GG.." OnlyVACacje",
+	["1:86414942"] = GG.." OnlyVACacje",
+	["0:130571304"] = GG.." OnlyVACacje",
+	["0:172633705"] = GG.." OnlyVACacje",
+	["1:179212266"] = GG.." OnlyVACacje",
+	["0:173093161"] = GG.." OnlyVACacje",
+	["0:143826200"] = GG.." OnlyVACacje",
+	["1:164763620"] = GG.." OnlyVACacje",
+	["1:127818248"] = GG.." OnlyVACacje",
+	["1:151120466"] = GG.." OnlyVACacje",
 	["1:90703338"] = GG.." x66cheatspublic",
 	["0:11572734"] = GG.." x66cheatspublic",
 	["0:63596674"] = GG.." MPGH",

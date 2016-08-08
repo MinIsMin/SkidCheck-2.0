@@ -26,6 +26,8 @@ local Skiddies 	= {
 
 
 
+	["1:39098938"] = "iDarkslay, 2x VAC bans, "..GG.." 911eltrois3",
+	["0:54575884"] = "Sneaky/majorsneaky/Phant0m/Danger Close123, $w4g H4x, "..GG.." openg",
 	["1:45220561"] = "Yushe/yusheec/Troll names, sv_allowcslua bypass gmcl_cat_win32, "..GG.." loliautistsreborn",
 	["0:37544899"] = "Ant0n, Attempted lua_openscript_cl, Wiki aimbot (lua/hallon.lua), Wallhack (lua/whale.lua)",
 	["1:173279997"] = "MORGAN/MORGAN SNUGLLES, $w4g H4x,Jumpys Scripts",
@@ -243,7 +245,7 @@ local Skiddies 	= {
 	
 	["1:117218178"] = "gushers, SmegHack,Pony,Falcos scripts",
 	["0:93001600"] = "BLASE/blaseit, sv_allowvslua bypass darkBypass, cvar3,Nospread,rhook,Dark/HLScripts, 48 cheat scripts, "..GG.." internethitmen, BAN ME FOREVER",
-	["1:104094210"] = "Jumpy/Troll names, 4x VAC bans, releasing hacks, ampris,Pasteware,dreambot,ven0msquad, "..GG.." AIMWARE",
+	["1:104094210"] = "Jumpy/Troll names, Doxing, 4x VAC bans, releasing hacks, ampris,Pasteware,dreambot,ven0msquad, "..GG.." AIMWARE, BAN ME FOREVER",
 	["0:45111530"] = "Rainbow_of_38/Corentin/rainbow_production, Dark scripts,$w4g H4x",
 	["0:85514601"] = "Hydro/Troll names, Hera aimbot",
 	["1:94365139"] = "THE ONE TRUE FREEMAN/Rarity, Sasha aimbot",
@@ -813,7 +815,7 @@ local Skiddies 	= {
 	
 	["1:39674563"] = "Leo5gg, VAC banned, propkiller, "..GG.." eupk",
 	["0:160073439"] = "SlaxzHD/677555/jimmy, sv_allowcslua bypass, gmcl_cat_win32.dll,SmegHack,defcon aimbot,BridgeHack",
-	["1:91109350"] = "Pink Guy/Akhmed/Jake, STEALING FILES, snixzz cheat user, smeghack,ShittyScripts,nospread,cvar3,SH",
+	["1:91109350"] = "Pink Guy/Akhmed/Jake, Doxing, STEALING FILES, snixzz cheat user, smeghack,ShittyScripts,nospread,cvar3,SH, BAN ME FOREVER",
 	["1:69942914"] = "olas2002/kamils2001, SmoothAimScript",
 	["0:40106175"] = "Casia/casiavanya/BADASS/Cultist Turtleist, MPGH",
 	["0:53951831"] = "christ-chan/Dr Skeltal/MrSkeltalSr/Troll names, VAC banned, MPGH",
