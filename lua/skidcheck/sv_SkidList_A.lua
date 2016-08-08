@@ -25,6 +25,10 @@ local Skiddies 	= {
 
 
 
+
+	["1:45220561"] = "Yushe/yusheec/Troll names, sv_allowcslua bypass gmcl_cat_win32, "..GG.." loliautistsreborn",
+	["0:37544899"] = "Ant0n, Attempted lua_openscript_cl, Wiki aimbot (lua/hallon.lua), Wallhack (lua/whale.lua)",
+	["1:173279997"] = "MORGAN/MORGAN SNUGLLES, $w4g H4x,Jumpys Scripts",
 	["1:127213701"] = "tibi0202, SRSscript",
 	["0:7901795"] = "DesY/Sinister/Troll names, MPGH, "..GG.." pasterteam,SelflessHvH, BAN ME",
 	["0:30912200"] = "Garrus/Allowed Skill/Troll names, VAC banned, BridgeHack,Nospread,hackerpublic,Memeware,SmegHack,Mapex,Sasha, Game banned",
@@ -53,7 +57,7 @@ local Skiddies 	= {
 	["1:81881925"] = "DJ Dark/Troll names, "..GG.." GmodCheats",
 	["0:69870071"] = "CoryInTheHouse/Wally The Walrus/BallLint, "..GG.." GmodCheats",
 	["0:149000553"] = "Alpha/TheSpooner, "..GG.." GmodCheats",
-	["0:766427"] = "LonelyWolf/Troll names, Admitted hacking, Backdoor in workshop cheat (LESP), "..GG.." PropKillNA, GmodCheat,suicideisthebestoption, BAN ME FOREVER",
+	["0:766427"] = "LonelyWolf/Troll names, Admitted hacking, Attempted AC bypass, Backdoor in workshop cheat (LESP), "..GG.." PropKillNA, GmodCheat,suicideisthebestoption, BAN ME FOREVER",
 	["1:96255922"] = "Amir/20002010, AW Hack",
 	["1:52038966"] = "AIO Mine_Turtle/Euan Campbell, BridgeHack.lua, 12 year old",
 	["0:58846052"] = "Kuchen/kuchenkrampfiii/Marvin, sv_allowcslua bypass gmcl_cat_win32.dll, defcon.lua aimbot",
@@ -76,6 +80,8 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:62081122"] = "Zerx, snixzz cheat user",
+	["0:58816602"] = "Battered Chicken, snixzz cheat user",
 	["1:170211013"] = "MAL, snixzz cheat user",
 	["1:121076537"] = "TyroneFromIhop, snixzz cheat user",
 	["1:3620125"] = "spoon-chan/Troll names, snixzz cheat user, SirFluffysServers: Speedhack, "..GG.." Dango_Mafia_Fan_club",
