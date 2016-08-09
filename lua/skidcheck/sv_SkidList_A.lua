@@ -24,8 +24,9 @@ local Skiddies 	= {
 
 
 
-
-
+	["0:881125"] = "Yuno Gasai/TheCrimsonFuckr/Troll names alt, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
+	["1:99989345"] = "Yuno Gasai/TheCrimsonFuckr/Troll names, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
+	
 	["1:39098938"] = "iDarkslay, 2x VAC bans, "..GG.." 911eltrois3",
 	["0:54575884"] = "Sneaky/majorsneaky/Phant0m/Danger Close123, $w4g H4x, "..GG.." openg",
 	["1:45220561"] = "Yushe/yusheec/Troll names, sv_allowcslua bypass gmcl_cat_win32, "..GG.." loliautistsreborn",
