@@ -9755,7 +9755,6 @@ local ExtraSkiddies = {
 	["1:63817056"] = GG.." 911insidejob",
 	["1:56147959"] = GG.." 911insidejob",
 	["1:60734976"] = GG.." 911insidejob",
-	["1:149259235"] = GG.." 911insidejob",
 	["0:61693067"] = GG.." 911insidejob",
 	["1:91932820"] = GG.." 911insidejob",
 	["0:65653790"] = GG.." 911insidejob",

@@ -6509,7 +6509,6 @@ local ExtraSkiddies = {
 	["0:83661227"] = GG.." KuKluxKarnival",
 	["0:69608866"] = GG.." KuKluxKarnival",
 	["1:125014817"] = GG.." KuKluxKarnival",
-	["1:45586871"] = GG.." KuKluxKarnival",
 	["1:36261047"] = GG.." KuKluxKarnival",
 	["1:44754318"] = GG.." KuKluxKarnival",
 	["0:67867236"] = GG.." KuKluxKarnival",

@@ -6330,7 +6330,6 @@ local ExtraSkiddies = {
 	["1:103944380"] = GG.." VACBENS",
 	["1:113511394"] = GG.." VACBENS",
 	["1:96477025"] = GG.." VACBENS",
-	["0:1690"] = GG.." wantedbygac",
 	["0:57056"] = GG.." fuckufaggetazuisleet",
 	["1:80343111"] = GG.." fuckufaggetazuisleet",
 	["0:26318501"] = GG.." fuckufaggetazuisleet",

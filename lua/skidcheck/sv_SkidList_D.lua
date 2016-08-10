@@ -1170,7 +1170,6 @@ local ExtraSkiddies = {
 	["1:116513207"] = GG.." VAC4LIFE",
 	["1:125591194"] = GG.." VAC4LIFE",
 	["1:63671006"] = GG.." VAC4LIFE",
-	["1:69705412"] = GG.." VAC4LIFE",
 	["1:104960734"] = GG.." VAC4LIFE",
 	["1:107059082"] = GG.." VAC4LIFE",
 	["0:102603361"] = GG.." VAC4LIFE",

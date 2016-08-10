@@ -5955,7 +5955,6 @@ local ExtraSkiddies = {
 	["1:113188757"] = GG.." antibirusnet",
 	["0:51089739"] = GG.." imadethem",
 	["1:56898827"] = GG.." imadethem",
-	["1:119398470"] = GG.." imadethem",
 	["0:29727602"] = GG.." imadethem",
 	["1:69615861"] = GG.." Dango_Mafia_Fan_club",
 	["0:101191307"] = GG.." AIMWARE",

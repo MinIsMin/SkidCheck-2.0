@@ -23,7 +23,7 @@ local Skiddies 	= {
 
 
 
-
+	["1:119398470"] = "aria/Possible Hafnium alt?, Possible attempted AC bypass, "..GG.." imadethem",
 	["0:881125"] = "Yuno Gasai/TheCrimsonFuckr/Troll names alt, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
 	["1:99989345"] = "Yuno Gasai/TheCrimsonFuckr/Troll names, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
 	
@@ -83,6 +83,8 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["0:47816874"] = "SGNPanda, snixzz cheat user",
+	["1:106183403"] = "azhc, snixzz cheat user",
 	["1:62081122"] = "Zerx, snixzz cheat user",
 	["0:58816602"] = "Battered Chicken, snixzz cheat user",
 	["1:170211013"] = "MAL, snixzz cheat user",
@@ -1205,8 +1207,8 @@ local Skiddies 	= {
 	["0:72423494"] = "OptiJack/Jack, Mapex, Lennys scripts",
 	["0:126153968"] = "luis7882/luis, "..Snix,
 	
-	["0:84408790"] = "sp00k/rdude/The Terminator/Troll names, 4x VAC bans, "..Snix..","..GG.." Letsraidgmodservers,myg0t_international, Ban evasion (Alt 1:119939764)",
-	["1:119939764"] = "sp00k/rdude/The Terminator/Troll names alt, 4x VAC bans, "..Snix..","..GG.." Letsraidgmodservers,myg0t_international, Ban evasion (Alt of 0:84408790)",
+	["0:84408790"] = "sp00k/rdude/The Terminator/Troll names, 4x VAC bans, "..Snix..","..GG.." Letsraidgmodservers,AIMWARE,myg0t_international, Ban evasion (Alt 1:119939764)",
+	["1:119939764"] = "sp00k/rdude/The Terminator/Troll names alt, 4x VAC bans, "..Snix..","..GG.." Letsraidgmodservers,AIMWARE,myg0t_international, Ban evasion (Alt of 0:84408790)",
 	
 	["0:61994279"] = "kokoc_9/Crivbass/ovsk, 2x VAC bans, MPGH, releasing hacks",
 	["0:119674973"] = "h0wl/ieternality/Troll names, 2x VAC bans, "..GG.." MEMEWARE, BAN ME FOREVER",
@@ -1241,7 +1243,7 @@ local Skiddies 	= {
 	["0:56422945"] = "Jin/elitejin/Paranomius, "..Snix,
 	["1:67265845"] = "AtoM, cvar3,hera,lennys,AHack,anxition,Bluebot,falcos,speedhacks, 2S: Aimbot, "..GG..", pokitraining",
 	["0:24860087"] = "General Brick/shrek_is_near/Dickny/rockenman11, 2S: Mapex, MPGH, asking for hacks",
-	["0:88359514"] = "Name Nameson/Bottle Brother 2/Troll names, VAC banned, "..Snix..", Lennys, "..GG.." snixzzdotnet",
+	["0:88359514"] = "Eklow/Name Nameson/Bottle Brother 2/Troll names, VAC banned, snixzz cheat user,Lennys, "..Snix..","..GG.." snixzzdotnet",
 	["0:100743361"] = "the101maham, "..Snix,
 	["1:86459498"] = "Shao Jun/zozozero/Troll names, "..Snix,
 	["1:95904362"] = "papkay13, "..Snix..","..GG.." snixzznet",
@@ -1348,10 +1350,10 @@ local Skiddies 	= {
 	["0:55054444"] = "undefined/TheLoyalShark/Troll names, "..Snix..","..GG.." NiggaNews9,antibirusnet,NiggaNews9",
 	["1:84114584"] = "W3E InhumanThree1/Inhuman/Robert Fox, "..Snix,
 	
-	["0:180809776"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
-	["1:60255736"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
-	["1:61389584"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
-	["1:68229625"] = "hookdotadd/Jon.Wen/Zayne/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks, snixzz cheat vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
+	["0:180809776"] = "hookdotadd/JonWen/Zayne/TcpLiquid/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks,ReleasingHacks, snixzz vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
+	["1:60255736"] = "hookdotadd/JonWen/Zayne/TcpLiquid/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks,ReleasingHacks, snixzz vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
+	["1:61389584"] = "hookdotadd/JonWen/Zayne/TcpLiquid/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks,ReleasingHacks, snixzz vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
+	["1:68229625"] = "hookdotadd/JonWen/Zayne/TcpLiquid/Troll names, STEALING FILES,stealing HeX's avatar&name,C++Hacks,ReleasingHacks, snixzz vip, "..Snix..","..GG.." snixzznet, BAN FOREVER",
 	
 	["1:6286814"] = "TheyCallMeDaz/kelse/CombineGuru/Troll names, STEALING FILES, selling hacks,VAC banned,MPGH, "..Snix..","..GG.." pasters,tabernaclehacking, BAN ME FOREVER",
 	["0:4773741"] = "TheyCallMeDaz/kelse/CombineGuru/Troll names, STEALING FILES, selling hacks,VAC banned,MPGH, "..Snix..","..GG.." pasters,tabernaclehacking, BAN ME FOREVER",
@@ -1390,7 +1392,7 @@ local Skiddies 	= {
 	["1:77411325"] = "mjyelito/bird/fl0at/Troll names, 3x VAC bans, Exploits/asking for hacks, snixzz cheat user, "..Snix..", member of 5 hack/troll groups, BAN ME",
 	["0:103232183"] = "RabidRunner/red/__red/Troll names, STEALING FILES, C++ hacks, MPGH, "..Snix..", Member of 7 hack/troll groups, BAN ME FOREVER",
 	["0:68210490"] = "Spunki/shitfarce/Tyler, 2x VAC bans, snixzz cheat user, gDaap DB: FSxMiller (PulsiveDildus), "..Snix,
-	["0:32259367"] = "phage/eon/eon_/226 Troll names, Server takeovers, Writing C++ hacks, 2x VAC bans, "..Snix..","..GG.." VIRUSBOYSU,segapw",
+	["0:32259367"] = "phage/eon/eon_/226 Troll names, Server takeovers, Writing C++ hacks, Possible DDoS, 2x VAC bans, "..Snix..","..GG.." VIRUSBOYSU,segapw",
 	["0:59878557"] = "Waterboyz/gagerino/James Kyle Lawfield, "..GG.." TubSquad,pa$ters",
 	["1:28561407"] = "Charged/Russell Powell/tdbrooster, 4x VAC Bans, "..Snix,
 	
@@ -3791,7 +3793,7 @@ local Skiddies 	= {
 	["1:48054785"] = "Mike/Tupac",
 	["0:48666104"] = "Ban Evasion (0:48444955)",
 	["0:25951969"] = "Lennys_Group",
-	["1:22847820"] = "Lixquid, File stealing",
+	["1:22847820"] = "Lixquid, STEALING FILES, VAC banned",
 	["1:68773276"] = "2S: sv_allowcslua",
 	["0:14656565"] = "poophead33",
 	["1:40471940"] = "GLDB: mARTIN lUTHER daNK, Griefing Group",
