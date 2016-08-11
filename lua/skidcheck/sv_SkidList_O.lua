@@ -6187,7 +6187,6 @@ local ExtraSkiddies = {
 	["0:114878555"] = GG.." aimerware",
 	["0:70743502"] = GG.." aimerware",
 	["0:68772862"] = GG.." aimerware",
-	["0:145896023"] = GG.." aimerware",
 	["0:65482476"] = GG.." aimerware",
 	["1:79556418"] = GG.." aimerware",
 	["0:75993362"] = GG.." aimerware",

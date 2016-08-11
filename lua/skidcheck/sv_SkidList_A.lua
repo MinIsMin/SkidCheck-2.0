@@ -23,6 +23,10 @@ local Skiddies 	= {
 
 
 
+
+	["0:145896023"] = "DazzyJ/xaNe/LizardSquad, forced sv_allowcslua,3x VAC,aimware,BridgeHack,Nospread,hackerpublic,AHack,Lennys/HL/ShittyScripts,pa$teware, "..GG.." aimerware + 12 more, BAN ME",
+	["0:153604459"] = "soldier-76/twomad/Troll names, Posting RCON banner, "..GG.." faggothackers,Specialretarts,imsocoolwithmyanimepicturehng",
+	["1:125490051"] = "B0DyAim/omgitzalexbox/Troll names, 2x VAC bans, snixzz cheat user, "..GG.." RawHook,AIMWARE",
 	["1:119398470"] = "aria/Possible Hafnium alt?, Possible attempted AC bypass, "..GG.." imadethem",
 	["0:881125"] = "Yuno Gasai/TheCrimsonFuckr/Troll names alt, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
 	["1:99989345"] = "Yuno Gasai/TheCrimsonFuckr/Troll names, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
@@ -83,6 +87,7 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:52667629"] = "Braixen teampyro, snixzz cheat user",
 	["0:47816874"] = "SGNPanda, snixzz cheat user",
 	["1:106183403"] = "azhc, snixzz cheat user",
 	["1:62081122"] = "Zerx, snixzz cheat user",
@@ -270,7 +275,7 @@ local Skiddies 	= {
 	["0:14982442"] = "Imperator notsun/Jarl Hallgarursson of Frisia/marith, BlueBot,Faphack, StonedPotatoes Banlist 2010",
 	["0:95507154"] = "Maxime lempereur du sale/maximebg/Romain/demonixasse, sasha.lua aimbot",
 	["1:100742857"] = "Shytix/Gabin, VAC banned, AW Hack",
-	["1:176669093"] = "blaspha/Troll names, Troll, propkiller, "..GG.." kickflipp",
+	["1:176669093"] = "blaspha/Troll names, Troll, propkiller, "..GG.." cheater0team,kickflipp",
 	["1:90121493"] = "Adolf Hipster/Drew Bailey/Drew, STEALING FILES, forced sv_allowcslua, 2x VAC bans, cvar3,SmegHack,AHack,mApex,Pony,defcon",
 	["0:53857239"] = "HipsTerMan/homme caca, SRSkill script",
 	["0:78255956"] = "gtailok/Matze/Troll names, forced sv_allowcslua, gmcl_cat_win32 bypass, BridgeHack,defcon, Troll",

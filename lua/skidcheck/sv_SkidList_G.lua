@@ -1958,7 +1958,6 @@ local ExtraSkiddies = {
 	["1:87108253"] = GG.." -AUTISM-",
 	["0:95727074"] = GG.." -AUTISM-",
 	["0:499875"] = GG.." weebsarefurries",
-	["0:153604459"] = GG.." imsocoolwithmyanimepicturehng",
 	["1:111021291"] = GG.." jimmies",
 	["1:87744992"] = GG.." jimmies",
 	["0:102971867"] = GG.." jimmies",
