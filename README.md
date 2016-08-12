@@ -78,8 +78,8 @@ hook.Add("BlockSkidConnect", "SK", function(user,SID, Reason)
 end)
 ```
 Called when a known cheater connects.  
-return ```lua true``` to prevent connection (with optional custom message).  
-Return ```lua nil``` to allow (if ```sk_kick``` is ```0```)
+return ```true``` to prevent connection (with optional custom message).  
+Return ```nil``` to allow (if ```sk_kick``` is ```0```)
 #
 
 
@@ -91,8 +91,8 @@ end)
 ```
 
 Called when a known cheater spawns in the server.  
-Return ```lua true``` to stop the default message and handle it yourself.  
-Return ```lua nil``` for default message & sound (if ```sk_kick```, ```sk_silent``` and ```sk_admin``` are ```0```)  
+Return ```true``` to stop the default message and handle it yourself.  
+Return ```nil``` for default message & sound (if ```sk_kick```, ```sk_silent``` and ```sk_admin``` are ```0```)  
 
 ```sk_kick``` must be ```0``` for this to work, which will ALLOW them to join your server unless handled yourself in BlockSkidConnect!  
 
