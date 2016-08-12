@@ -24,7 +24,10 @@ local Skiddies 	= {
 
 
 
-	["0:145896023"] = "DazzyJ/xaNe/LizardSquad, forced sv_allowcslua,3x VAC,aimware,BridgeHack,Nospread,hackerpublic,AHack,Lennys/HL/ShittyScripts,pa$teware, "..GG.." aimerware + 12 more, BAN ME",
+
+
+
+	["0:145896023"] = "DazzyJ/xaNe/LizardSquad, sv_allowcslua bypass (Kone),3x VAC,aimware,BridgeHack,Nospread,hackerpublic,AHack,Lennys/HL/ShittyScripts,pa$teware, "..GG.." aimerware + 12 more, BAN ME",
 	["0:153604459"] = "soldier-76/twomad/Troll names, Posting RCON banner, "..GG.." faggothackers,Specialretarts,imsocoolwithmyanimepicturehng",
 	["1:125490051"] = "B0DyAim/omgitzalexbox/Troll names, 2x VAC bans, snixzz cheat user, "..GG.." RawHook,AIMWARE",
 	["1:119398470"] = "aria/Possible Hafnium alt?, Possible attempted AC bypass, "..GG.." imadethem",
@@ -87,6 +90,7 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:154718216"] = "huntpod3, snixzz cheat user",
 	["1:52667629"] = "Braixen teampyro, snixzz cheat user",
 	["0:47816874"] = "SGNPanda, snixzz cheat user",
 	["1:106183403"] = "azhc, snixzz cheat user",
