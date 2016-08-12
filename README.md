@@ -33,12 +33,12 @@ It can not *detect* new cheaters, nor can it punish anyone it finds. (Unless hoo
 It can only do the following:
 
 ######
-CVars, add them to your server.cfg if you want to change default options:
+CVars, add them to your ```server.cfg``` if you want to change default options:
 
 | CVar | Default | Can be | Does | Note |
 | ----------- | ----- | ----- | ---------------------------------------------------- | -------------------------------------------- |
 |```sk_kick```|```0```|```1```| Prevent players on this database from joining at all | |
-|```sk_omit```|```1```|```0```| Send SK message to everyone BUT the known cheater | Useless if ```sk_kick``` or ```sk_admin``` is 1 |
+|```sk_omit```|```1```|```0```| Send SK message to everyone BUT the known cheater | Useless if ```sk_kick``` or ```sk_admin``` is ```1``` |
 |```sk_admin```|```0```|```1```| ONLY send SK messages to admins, no one else | Useless if ```sk_kick``` or ```sk_omit``` is ```1``` |
 |```sk_sync```|```8```| ```Num. Hours``` | Allow list sync from GitHub | Number of hours to check for updates (```0``` to disable) |
 |```sk_silent```|```0```|```1```| Disable all SK messages |  |
@@ -78,8 +78,8 @@ hook.Add("BlockSkidConnect", "SK", function(user,SID, Reason)
 end)
 ```
 Called when a known cheater connects.  
-return true to prevent connection (with optional custom message).  
-Return nil to allow (if ```sk_kick``` is ```0```)
+return ```lua true``` to prevent connection (with optional custom message).  
+Return ```lua nil``` to allow (if ```sk_kick``` is ```0```)
 #
 
 
@@ -91,8 +91,8 @@ end)
 ```
 
 Called when a known cheater spawns in the server.  
-Return true to stop the default message and handle it yourself.  
-Return nil for default message & sound (if sk_kick, sk_silent and ```sk_admin``` are ```0```)  
+Return ```lua true``` to stop the default message and handle it yourself.  
+Return ```lua nil``` for default message & sound (if ```sk_kick```, ```sk_silent``` and ```sk_admin``` are ```0```)  
 
 ```sk_kick``` must be ```0``` for this to work, which will ALLOW them to join your server unless handled yourself in BlockSkidConnect!  
 
