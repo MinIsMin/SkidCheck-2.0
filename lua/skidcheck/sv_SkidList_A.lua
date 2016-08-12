@@ -68,10 +68,10 @@ local Skiddies 	= {
 	["0:69870071"] = "CoryInTheHouse/Wally The Walrus/BallLint, "..GG.." GmodCheats",
 	["0:149000553"] = "Alpha/TheSpooner, "..GG.." GmodCheats",
 	
-	["1:166662432"] = "LonelyWolf/Troll names, STEALING FILES,AttemptedACBypass,BackdoorInWworkshop LESP, "..GG.." PropKillNA,GmodCheat, 32 DLLs,13 cheats,Ban evasion (Alt of 0:766427), BAN FOREVER",
-	["0:139464534"] = "LonelyWolf/Troll names, STEALING FILES,AttemptedACBypass,BackdoorInWworkshop LESP, "..GG.." PropKillNA,GmodCheat, 32 DLLs,13 cheats,Ban evasion (Alt of 0:766427), BAN FOREVER",
-	["0:168378256"] = "LonelyWolf/Troll names, STEALING FILES,AttemptedACBypass,BackdoorInWworkshop LESP, "..GG.." PropKillNA,GmodCheat, 32 DLLs,13 cheats,Ban evasion (Alt 0:766427), BAN FOREVER",
-	["0:766427"] = "LonelyWolf/Troll names, STEALING FILES,AttemptedACBypass,BackdoorInWworkshop LESP, "..GG.." PropKillNA,GmodCheat, 32 DLLs,13 cheats,Ban evasion (2 alts, List_A), BAN FOREVER",
+	["1:166662432"] = "LonelyWolf/Troll names, STEALING FILES,AttemptedACBypass,BackdoorInWorkshop LESP, "..GG.." PropKillNA,GmodCheat, 32 DLLs,13 cheats,Ban evasion (Alt of 0:766427), BAN FOREVER",
+	["0:139464534"] = "LonelyWolf/Troll names, STEALING FILES,AttemptedACBypass,BackdoorInWorkshop LESP, "..GG.." PropKillNA,GmodCheat, 32 DLLs,13 cheats,Ban evasion (Alt of 0:766427), BAN FOREVER",
+	["0:168378256"] = "LonelyWolf/Troll names, STEALING FILES,AttemptedACBypass,BackdoorInWorkshop LESP, "..GG.." PropKillNA,GmodCheat, 32 DLLs,13 cheats,Ban evasion (Alt 0:766427), BAN FOREVER",
+	["0:766427"] = "LonelyWolf/Troll names, STEALING FILES,AttemptedACBypass,BackdoorInWorkshop LESP, "..GG.." PropKillNA,GmodCheat, 32 DLLs,13 cheats,Ban evasion (2 alts, List_A), BAN FOREVER",
 	
 	["1:96255922"] = "Amir/20002010, AW Hack",
 	["1:52038966"] = "AIO Mine_Turtle/Euan Campbell, BridgeHack.lua, 12 year old",
