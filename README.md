@@ -28,7 +28,7 @@ Nothing is needed to configure or set up (Unless you want to).
 
 By default, for any IDs in the database, this addon will do a warning message & sound
 in the chat if those players spawn in the server.  
-It will also download the latest DB from GitHub on map change, and then every 6 hours.  
+It will also download the latest DB from GitHub on map change, and then every 8 hours.  
 It can not *detect* new cheaters, nor can it punish anyone it finds. (Unless hooked)
 It can only do the following:
 
@@ -72,7 +72,7 @@ Nothing to worry about.
 ### API:
 Hooks (SERVER side):
 
-```lang lua
+```lua
 hook.Add("BlockSkidConnect", "SK", function(user,SID, Reason)
 	return true, "You're not welcome here "..user.." ("..SID..")\n<"..Reason..">" --Reject connection
 end)
