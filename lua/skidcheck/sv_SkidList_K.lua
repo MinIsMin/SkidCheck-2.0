@@ -9453,7 +9453,6 @@ local ExtraSkiddies = {
 	["1:41837734"] = GG.." NationalSocialistsUnited",
 	["1:26206182"] = GG.." NationalSocialistsUnited",
 	["1:80766332"] = GG.." NationalSocialistsUnited",
-	["0:139464534"] = GG.." suicideisthebestoption",
 	["1:77701422"] = GG.." suicideisthebestoption",
 	["1:118245125"] = GG.." suicideisthebestoption",
 	["1:161142156"] = GG.." p2cpolice",
