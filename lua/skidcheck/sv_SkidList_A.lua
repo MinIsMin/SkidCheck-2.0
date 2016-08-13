@@ -27,6 +27,11 @@ local Skiddies 	= {
 
 
 
+	["1:167961989"] = "Divine/Ryan Avary/Troll names, phack,Name hack, 16 cheat DLLs, 13 pasted cheats, Likely ban evasion (Alt 1:172059865), "..GG.." beanware,YungVice",
+	["1:172059865"] = "Likely alt of Divine/Ryan Avary (1:167961989): phack,Name hack, 16 cheat DLLs, 13 pasted cheats, Likely ban evasion, "..GG.." beanware,YungVice",
+	
+	["0:79568704"] = "TheLordGamer/zombiekiller, VAC banned, sv_allowcslua bypass gmcl_cat, Nospread,mApex,defcon,hackerpublic,SmegHack,Memeware,BridgeHack,Parallax/AW/Lennys/Dark/ShittyScripts",
+	["0:161764440"] = "Lamar Jones/abnormalcs/Taylor/AbnormalCSGO, 2x VAC bans, cathack, 12 year old",
 	["0:145896023"] = "DazzyJ/xaNe/LizardSquad, sv_allowcslua bypass (Kone),3x VAC,aimware,BridgeHack,Nospread,hackerpublic,AHack,Lennys/HL/ShittyScripts,pa$teware, "..GG.." aimerware + 12 more, BAN ME",
 	["0:153604459"] = "soldier-76/twomad/Troll names, Posting RCON banner, "..GG.." faggothackers,Specialretarts,imsocoolwithmyanimepicturehng",
 	["1:125490051"] = "B0DyAim/omgitzalexbox/Troll names, 2x VAC bans, snixzz cheat user, "..GG.." RawHook,AIMWARE",
@@ -40,7 +45,7 @@ local Skiddies 	= {
 	["0:37544899"] = "Ant0n, Attempted lua_openscript_cl, Wiki aimbot (lua/hallon.lua), Wallhack (lua/whale.lua)",
 	["1:173279997"] = "MORGAN/MORGAN SNUGLLES, $w4g H4x,Jumpys Scripts",
 	["1:127213701"] = "tibi0202, SRSscript",
-	["0:7901795"] = "DesY/Sinister/Troll names, MPGH, "..GG.." pasterteam,SelflessHvH, BAN ME",
+	["0:7901795"] = "DesY/Sinister/Senator?/Troll names, snixzz cheat user, MPGH, "..GG.." pasterteam,SelflessHvH, BAN ME",
 	["0:30912200"] = "Garrus/Allowed Skill/Troll names, VAC banned, BridgeHack,Nospread,hackerpublic,Memeware,SmegHack,Mapex,Sasha, Game banned",
 	["0:53256550"] = "Azir/ryaneo209/azir the emperor, "..GG.." hentai-rape",
 	["0:1741704"] = "100% Troll names, Backdoor in addon (Audisquad Backdoor, Wyozi Cinema), "..GG.." audisquad",
@@ -95,6 +100,10 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:111091733"] = "Troll names, snixzz cheat user",
+	["1:147089591"] = "Lynx Yin Yang, snixzz cheat user, "..GG.." VACISAJOKE",
+	["0:109475191"] = "D3viL, snixzz cheat user",
+	["0:40442420"] = "Parallel, snixzz cheat user",
 	["0:92009327"] = "SomeGuyWithAPotato, snixzz cheat user",
 	["1:154718216"] = "huntpod3, snixzz cheat user",
 	["1:52667629"] = "Braixen teampyro, snixzz cheat user",
@@ -264,8 +273,9 @@ local Skiddies 	= {
 	["1:117218178"] = "gushers, SmegHack,Pony,Falcos scripts",
 	["0:93001600"] = "BLASE/blaseit, sv_allowvslua bypass darkBypass, cvar3,Nospread,rhook,Dark/HLScripts, 48 cheat scripts, "..GG.." internethitmen, BAN FOREVER",
 	
-	["0:182238910"] = "Jumpy/Troll names alt, Doxing,STEALING FILES,4x VAC, releasing hacks, 10 cheat scripts, "..GG.." AIMWARE, Ban evasion (Alt of 1:104094210), BAN FOREVER",
-	["1:104094210"] = "Jumpy/Troll names, Doxing,STEALING FILES,4x VAC, releasing hacks, 10 cheat scripts, "..GG.." AIMWARE, Ban evasion (Alt 0:182238910), BAN FOREVER",
+	["0:182238910"] = "Jumpy/Troll names alt, Doxing,STEALING FILES,4x VAC, releasing hacks, 10 cheat scripts, "..GG.." AIMWARE, Ban evasion (3 alts, List_A), BAN FOREVER",
+	["1:104094210"] = "Jumpy/Troll names, Doxing,STEALING FILES,4x VAC, releasing hacks, 10 cheat scripts, "..GG.." AIMWARE, Ban evasion (3 alts, List_A), BAN FOREVER",
+	["1:182108099"] = "Jumpy/Troll names alt, Doxing,STEALING FILES,4x VAC, releasing hacks, 10 cheat scripts, "..GG.." AIMWARE, Ban evasion (3 alts, List_A), BAN FOREVER",
 	
 	["0:45111530"] = "Rainbow_of_38/Corentin/rainbow_production, Dark scripts,$w4g H4x",
 	["0:85514601"] = "Hydro/Troll names, Hera aimbot",

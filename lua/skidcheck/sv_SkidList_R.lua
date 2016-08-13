@@ -6574,7 +6574,6 @@ local ExtraSkiddies = {
 	["0:136462444"] = GG.." MEMEWARE3",
 	["1:168826705"] = GG.." MEMEWARE3",
 	["0:50573447"] = GG.." MEMEWARE3",
-	["1:167961989"] = GG.." beanware",
 	["1:177373443"] = GG.." MPGH",
 	["1:76603701"] = GG.." ididnothither",
 	["1:92146735"] = GG.." annoslocallysourcedlolis",
