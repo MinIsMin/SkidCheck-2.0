@@ -27,6 +27,10 @@ local Skiddies 	= {
 
 
 
+	["1:167761906"] = "XxNOGELxX/DJMurkyMurk/BezerkRocket, MPGH, asking for help with using hacks",
+	["1:10466352"] = "TexyDeco/biove/Troll names, forced sv_allowcslua, AHack, Lennys scripts, 2S: Aimbot, "..GG.." gay-bo",
+	["0:172354911"] = "MANMADE/fredbed/ImViinx/Troll names, VAC banned, MPGH",
+	
 	["1:167961989"] = "Divine/Ryan Avary/Troll names, phack,Name hack, 16 cheat DLLs, 13 pasted cheats, Likely ban evasion (Alt 1:172059865), "..GG.." beanware,YungVice",
 	["1:172059865"] = "Likely alt of Divine/Ryan Avary (1:167961989): phack,Name hack, 16 cheat DLLs, 13 pasted cheats, Likely ban evasion, "..GG.." beanware,YungVice",
 	
@@ -100,6 +104,9 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["0:142880035"] = "t.r.monster567, snixzz cheat user, "..GG.." mluminge",
+	["0:181941117"] = "Taelss teamf2p, snixzz cheat user",
+	["1:87430889"] = "SHAGGY, snixzz cheat user",
 	["1:111091733"] = "Troll names, snixzz cheat user",
 	["1:147089591"] = "Lynx Yin Yang, snixzz cheat user, "..GG.." VACISAJOKE",
 	["0:109475191"] = "D3viL, snixzz cheat user",
@@ -806,7 +813,7 @@ local Skiddies 	= {
 	["1:129136618"] = "jessica59v, Jynxx Script3",
 	["0:52543705"] = "Ale711, "..GG.." MPGH",
 	["1:125356872"] = "Ger Sean/jumpz2105/Sean, STEALING FILES, Bridgehack, defcon aimbot, net exploits",
-	["0:60718546"] = "Ekans/wearnopants/NamoCat/ASSEY/Nam0/Troll names, Cheating, running hacks, "..Snix..","..GG.." GaingRape, possible alt of Nanocat",
+	["0:60718546"] = "Ekans/wearnopants/NamoCat/ASSEY/Nam0/Namo/Troll names, snixzz cheat user, running hacks, "..Snix..","..GG.." GaingRape, possible alt of Nanocat",
 	["0:36769118"] = "xDarkStarrx/Darky, 5x VAC bans, MPGH, 2S: AHack, "..GG.." Dango_Mafia_Fan_club",
 	["0:94897427"] = "Anatrax/Pepe, snixzz cheat user, "..Snix..", Lennys scripts, "..GG.." GaingRape,pokitraining,complimentmyvacban",
 	["0:167052716"] = "Anitamoellerga, "..Snix,
@@ -4207,7 +4214,6 @@ local Skiddies 	= {
 	["0:18871291"] = "cursed_slayer",
 	["1:49248724"] = "gDaap DB: xcalibur (Towel Head Hunter)",
 	["0:43103627"] = "2S: Cheats",
-	["1:10466352"] = "2S: Aimbot",
 	["0:19441142"] = "Lennys_Group",
 	["0:19767060"] = "SP2: Unknown",
 	["0:28545861"] = "SP2: Code injection (Sethhack)",

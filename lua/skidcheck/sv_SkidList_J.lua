@@ -3256,7 +3256,6 @@ local ExtraSkiddies = {
 	["0:58849147"] = GG.." UnKnoWnCheaTsUnofficial",
 	["1:163666141"] = GG.." Adderall245827",
 	["1:12155007"] = GG.." Adderall245827",
-	["0:142880035"] = GG.." mluminge",
 	["0:25992599"] = GG.." Lolisports",
 	["1:52891655"] = GG.." Lolisports",
 	["1:8345003"] = GG.." Lolisports",
