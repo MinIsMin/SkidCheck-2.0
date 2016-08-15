@@ -26,7 +26,9 @@ local Skiddies 	= {
 
 
 
-
+	["1:85922664"] = "Akashiii/xFatality/Troll names, Sasha aimbot, Defcon, 2S: Unknown hack",
+	["1:156844543"] = "KameelTeen/ItsColin, Dark scripts, vcmodexploit",
+	["1:174993303"] = "majorskitzo/Ekzile/SkitzO, Shitposting/Troll",
 	["1:167761906"] = "XxNOGELxX/DJMurkyMurk/BezerkRocket, MPGH, asking for help with using hacks",
 	["1:10466352"] = "TexyDeco/biove/Troll names, forced sv_allowcslua, AHack, Lennys scripts, 2S: Aimbot, "..GG.." gay-bo",
 	["0:172354911"] = "MANMADE/fredbed/ImViinx/Troll names, VAC banned, MPGH",
@@ -104,6 +106,9 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:74840585"] = "MysteryHyper, snixzz cheat user, "..GG.." swag_hack",
+	["1:104389743"] = "Keegan76557, snixzz cheat user",
+	["0:98867301"] = "NEX, snixzz cheat user, "..GG.." OnlyVACacje",
 	["0:142880035"] = "t.r.monster567, snixzz cheat user, "..GG.." mluminge",
 	["0:181941117"] = "Taelss teamf2p, snixzz cheat user",
 	["1:87430889"] = "SHAGGY, snixzz cheat user",
@@ -776,10 +781,11 @@ local Skiddies 	= {
 	["1:70945753"] = "alexhun/Alexander Kozak/kozakalex2000, MPGH, C++ hacks, snixzz cheat user @ 06-19-2016",
 	["0:137853946"] = "Zekiar/ebg_cogbeard, VAC banned, "..Snix,
 	
-	["1:60147209"] = "Delfyni, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt 0:104342775)",
+	["1:60147209"] = "Delfyni, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (4 alts, List_A)",
 	["0:104342775"] = "Delfyni 1, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of 1:60147209)",
 	["1:116473238"] = "Delfyni 2, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of 1:60147209)",
 	["1:127095279"] = "Delfyni 3, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of 1:60147209)",
+	["0:123104372"] = "Delfyni 4, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of 1:60147209)",
 	
 	["0:36570584"] = "Dr Drunk/Monenerund/imaultra/Troll names alt 2, Aimware C++ hacks, Triggerbot, 2x VAC bans, "..GG.." enhancedaim, BAN FOREVER",
 	["0:34020548"] = "Dr Drunk/Monenerund/imaultra/Troll names alt 1, Aimware C++ hacks, Triggerbot, 2x VAC bans, "..GG.." enhancedaim, BAN FOREVER",
