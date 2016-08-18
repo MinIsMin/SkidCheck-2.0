@@ -8055,7 +8055,6 @@ local ExtraSkiddies = {
 	["1:38323566"] = GG.." Lolisports",
 	["1:26109027"] = GG.." Lolisports",
 	["0:82363869"] = GG.." Lolisports",
-	["1:117440704"] = GG.." Lolisports",
 	["1:34720185"] = GG.." Lolisports",
 	["1:42035849"] = GG.." Lolisports",
 	["1:95526649"] = GG.." Lolisports",

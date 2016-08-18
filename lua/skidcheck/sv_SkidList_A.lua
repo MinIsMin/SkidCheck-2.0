@@ -26,6 +26,11 @@ local Skiddies 	= {
 
 
 
+	["1:85470660"] = "illusionS/Chris, forced sv_allowcslua, 2x VAC bans, gmcl_cat_win32.dll bypass, defcon aimbot, Ban evasion (Alt 0:147071349)",
+	["0:147071349"] = "illusionS/Chris alt, forced sv_allowcslua, 2x VAC bans, gmcl_cat_win32.dll bypass, defcon aimbot, Ban evasion (Alt of 1:85470660)",
+	
+	["0:41953793"] = "wgod/water/Troll names, Troll, VAC banned, "..GG.." wtfvalvefixit, BAN FOREVER",
+	["1:117440704"] = "nokia/104 Troll names, VAC banned, "..GG.." dudekillyourselflmao,shittycheats,Lolisports",
 	["1:126227488"] = "SirTips/Sir_tipsy/niko, CyanideCheats user",
 	["1:41808665"] = "ButterDuck/Adnan Fakhoury/Troll names, VAC Banned, Moderator of CyanideCheats hack group, "..GG.." swag_hack",
 	["0:54784469"] = "Pxlated/8bhm/Richard Dawkins/Nightmarish Pxl, Moderator of CyanideCheats hack group, "..GG.." swag_hack",
@@ -42,7 +47,7 @@ local Skiddies 	= {
 	["0:79568704"] = "TheLordGamer/zombiekiller, VAC banned, sv_allowcslua bypass gmcl_cat, Nospread,mApex,defcon,hackerpublic,SmegHack,Memeware,BridgeHack,Parallax/AW/Lennys/Dark/ShittyScripts",
 	["0:161764440"] = "Lamar Jones/abnormalcs/Taylor/AbnormalCSGO, 2x VAC bans, cathack, 12 year old",
 	["0:145896023"] = "DazzyJ/xaNe/LizardSquad, sv_allowcslua bypass (Kone),3x VAC,aimware,BridgeHack,Nospread,hackerpublic,AHack,Lennys/HL/ShittyScripts,pa$teware, "..GG.." aimerware + 12 more, BAN ME",
-	["0:153604459"] = "soldier-76/twomad/Troll names, Posting RCON banner, "..GG.." faggothackers,Specialretarts,imsocoolwithmyanimepicturehng",
+	["0:153604459"] = "soldier-76/twomad/Troll names, Backdoor/Exploit in workshop addon (Traitor Glow), Posting RCON banner, "..GG.." faggothackers,Specialretarts",
 	["1:125490051"] = "B0DyAim/omgitzalexbox/Troll names, 2x VAC bans, snixzz cheat user, "..GG.." RawHook,AIMWARE",
 	["1:119398470"] = "aria/Possible Hafnium alt?, Possible attempted AC bypass, "..GG.." imadethem",
 	["0:881125"] = "Yuno Gasai/TheCrimsonFuckr/Troll names alt, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
@@ -108,6 +113,8 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:151008697"] = "I GOT THE KEYS, snixzz cheat user",
+	["1:125803107"] = "Squidward Dab, snixzz cheat user",
 	["1:46151294"] = "Daniel the Tiger, snixzz cheat user",
 	["0:51017956"] = "Goat Jesus, snixzz cheat user, "..GG.." VACbannedclub",
 	["1:74840585"] = "MysteryHyper, snixzz cheat user, "..GG.." swag_hack",

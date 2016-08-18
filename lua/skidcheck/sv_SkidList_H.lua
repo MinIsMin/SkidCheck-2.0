@@ -1889,7 +1889,6 @@ local ExtraSkiddies = {
 	["1:96848582"] = GG.." wtfvalvefixit",
 	["1:162870091"] = GG.." wtfvalvefixit",
 	["0:165932921"] = GG.." wtfvalvefixit",
-	["0:41953793"] = GG.." wtfvalvefixit",
 	["0:77034750"] = GG.." wtfvalvefixit",
 	["0:71061268"] = GG.." wtfvalvefixit",
 	["0:55252561"] = GG.." wtfvalvefixit",
