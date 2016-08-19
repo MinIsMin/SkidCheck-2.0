@@ -7901,7 +7901,6 @@ local ExtraSkiddies = {
 	["0:96940668"] = GG.." AutismSquad",
 	["0:69290220"] = GG.." AutismSquad",
 	["0:46887091"] = GG.." AutismSquad",
-	["1:148698237"] = GG.." thevacsquad",
 	["0:33336660"] = GG.." MEMEWARE",
 	["1:126579248"] = GG.." MEMEWARE",
 	["0:115526995"] = GG.." MEMEWARE",

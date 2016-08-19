@@ -2729,7 +2729,6 @@ local ExtraSkiddies = {
 	["1:82240257"] = GG.." MajorCheat",
 	["0:120842279"] = GG.." MajorCheat",
 	["0:60268723"] = GG.." MajorCheat",
-	["0:85769787"] = GG.." MajorCheat",
 	["0:66147653"] = GG.." MajorCheat",
 	["1:125218024"] = GG.." MajorCheat",
 	["1:94447103"] = GG.." MajorCheat",
