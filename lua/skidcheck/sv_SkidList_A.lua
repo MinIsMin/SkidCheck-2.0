@@ -27,6 +27,8 @@ local Skiddies 	= {
 
 
 
+	["1:178743778"] = "DALLAS/Naatan Style, Sasha aimbot",
+	["1:79956134"] = "Chopper/emilsbo1, AW Hack",
 	["1:104348714"] = "Redz_Oreo/Nadir/Orneo, Lennys scripts",
 	["0:79251510"] = "KIRIMOTI/Philipp, Anozira Scripts 1.6",
 	["0:42508412"] = "yodahouse900/kyyaM, BlueBot",
@@ -53,7 +55,7 @@ local Skiddies 	= {
 	["0:79568704"] = "TheLordGamer/zombiekiller, VAC banned, sv_allowcslua bypass gmcl_cat, Nospread,mApex,defcon,hackerpublic,SmegHack,Memeware,BridgeHack,Parallax/AW/Lennys/Dark/ShittyScripts",
 	["0:161764440"] = "Lamar Jones/abnormalcs/Taylor/AbnormalCSGO, 2x VAC bans, cathack, 12 year old",
 	["0:145896023"] = "DazzyJ/xaNe/LizardSquad, sv_allowcslua bypass (Kone),3x VAC,aimware,BridgeHack,Nospread,hackerpublic,AHack,Lennys/HL/ShittyScripts,pa$teware, "..GG.." aimerware + 12 more, BAN ME",
-	["0:153604459"] = "soldier-76/twomad/Troll names, Backdoor/Exploit in workshop addon (Traitor Glow), Posting RCON banner, "..GG.." faggothackers,Specialretarts",
+	["0:153604459"] = "soldier-76/twomad/Troll names, Backdoor/Exploit in workshop addon (Traitor Glow), Posting RCON banner, snixzz cheat user, "..GG.." faggothackers,Specialretarts",
 	["1:125490051"] = "B0DyAim/omgitzalexbox/Troll names, 2x VAC bans, snixzz cheat user, "..GG.." RawHook,AIMWARE",
 	["1:119398470"] = "aria/Possible Hafnium alt?, Possible attempted AC bypass, "..GG.." imadethem",
 	["0:881125"] = "Yuno Gasai/TheCrimsonFuckr/Troll names alt, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
@@ -120,6 +122,7 @@ local Skiddies 	= {
 	["0:141401625"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	["0:141369684"] = "aajake13/aajak13/Troll names, 2x VAC bans, Showing off using hacks on YouTube, Ban evasion (4 alts, List_A), "..GG.." MEMEWARE",
 	
+	["1:182415319"] = "Rubber Melon, snixzz cheat user",
 	["0:85769787"] = "BeanFl1ck, snixzz cheat user, "..GG.." MajorCheat",
 	["1:151008697"] = "I GOT THE KEYS, snixzz cheat user",
 	["1:125803107"] = "Squidward Dab, snixzz cheat user",
