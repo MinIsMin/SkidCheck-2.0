@@ -11,6 +11,18 @@ local ExtraSkiddies = {
 
 
 
+	["0:60529567"] = GG.." AIMWARE",
+	["0:182161962"] = GG.." AIMWARE",
+	["0:56073388"] = GG.." AIMWARE",
+	["1:151649402"] = GG.." cheater",
+	["1:97603839"] = GG.." cheater",
+	["0:143688362"] = GG.." cheater",
+	["1:155706334"] = GG.." cheater",
+	["0:154692537"] = GG.." cheater",
+	["1:163294337"] = GG.." cheater",
+	["1:58505519"] = GG.." cheater",
+	["0:155685033"] = GG.." cheater",
+	["1:157304365"] = GG.." VACISAJOKE",
 	["1:180599034"] = GG.." 2dtrapbae",
 	["1:180700217"] = GG.." 2dtrapbae",
 	["0:180109598"] = GG.." AIMWARE",

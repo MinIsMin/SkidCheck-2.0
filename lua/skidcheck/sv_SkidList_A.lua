@@ -27,6 +27,7 @@ local Skiddies 	= {
 
 
 
+	["0:153561316"] = "macrafdgaming/macrafd gaming/KilleurBoss33, Lennys scripts",
 	["1:178743778"] = "DALLAS/Naatan Style, Sasha aimbot",
 	["1:79956134"] = "Chopper/emilsbo1, AW Hack",
 	["1:104348714"] = "Redz_Oreo/Nadir/Orneo, Lennys scripts",
