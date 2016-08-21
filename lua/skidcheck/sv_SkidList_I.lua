@@ -3552,7 +3552,6 @@ local ExtraSkiddies = {
 	["0:92511760"] = GG.." stainlesshvh",
 	["1:95429857"] = GG.." stainlesshvh",
 	["0:54926479"] = GG.." stainlesshvh",
-	["0:83999553"] = GG.." stainlesshvh",
 	["0:101402676"] = GG.." stainlesshvh",
 	["0:59627008"] = GG.." stainlesshvh",
 	["1:104848372"] = GG.." stainlesshvh",

@@ -480,7 +480,6 @@ local ExtraSkiddies = {
 	["0:91596726"] = "TheBraveGamer, VAC banned, ShittyScripts, NooblerScripts",
 	["1:37157720"] = "Crazy_Little_Shit, VAC banned, NooblerScripts",
 	["1:101632722"] = "Severn, SRSscript",
-	["0:96433689"] = "Severn, NooblerScripts",
 	["1:88067270"] = "Beanhead, NooblerScripts",
 	["1:78497971"] = GG.." lifesuckskillyourself",
 	["1:25883445"] = GG.." AIMWARE",
