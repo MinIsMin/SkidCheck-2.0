@@ -7022,7 +7022,6 @@ local ExtraSkiddies = {
 	["1:46390922"] = GG.." POREEESE",
 	["1:57940978"] = GG.." POREEESE",
 	["1:61976826"] = GG.." POREEESE",
-	["1:53545617"] = GG.." POREEESE",
 	["1:43766662"] = GG.." POREEESE",
 	["0:54370613"] = GG.." POREEESE",
 	["0:29932202"] = GG.." POREEESE",

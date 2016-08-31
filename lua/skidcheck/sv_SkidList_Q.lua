@@ -1530,7 +1530,6 @@ local ExtraSkiddies = {
 	["0:57996433"] = GG.." cheater",
 	["1:90046035"] = GG.." cheater",
 	["0:87088592"] = GG.." cheater",
-	["1:69295739"] = GG.." brazilautisticals",
 	["0:149819695"] = GG.." brazilautisticals",
 	["0:141374189"] = GG.." brazilautisticals",
 	["1:52705182"] = GG.." brazilautisticals",
