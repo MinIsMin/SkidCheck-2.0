@@ -28,22 +28,25 @@ local Skiddies 	= {
 
 
 
-
+	["0:112993283"] = "butter/gabrysxitas/Wkurzajacy/Januszek/Troll names, 3x VAC bans, Lennys scripts, Ban Evasion (Alt of STEAM_0:1:78034704)",
+	["1:78034704"] = "butter/gabrysxitas/Wkurzajacy/Januszek/Troll names, 3x VAC bans, Lennys scripts, Ban Evasion (STEAM_0:0:112993283)",
+	
+	["0:3041770"] = "meatbloke/Len Krage alt, VAC Banned, Posting RCON banner, Ban evasion (Alt 1:25934369), "..GG.." _______________ok_______________",
+	["1:25934369"] = "meatbloke/Len Krage, VAC Banned, Posting RCON banner, Ban evasion (Alt 0:3041770), "..GG.." _______________ok_______________",
+	
 	["0:119632795"] = "CCNSFE/xx_ccnsfe_xx, VAC Banned, Forced sv_allowcslua (gmcl_cat_win32 bypass), defcon,",
 	["1:99724851"] = "Mr Super Saiyan/marcus/JKlendi_Zef/ZeNerGiZe_Zef, sv_allowcslua bypass (gmal_cat_win32), BridgeHack,defcon,PonyHack, Anozira Scripts, propkiller",
 	["0:49646353"] = "Miku/Ellis/Swag Foxy, VAC Banned, ShittyScripts",
 	["1:48281817"] = "lou/Crazy FlutterBitch/JeffTheKillerPony, VAC Banned, snixzz cheat user, "..GG.." realgoonlagoon,mybodyisshaking",
 	["0:109711101"] = "Ethan/SimplyEthanYT/steamidsystemsucks/Troll names, snixzz cheat user",
 	["1:68076717"] = "SGN Phoenix, snixzz cheat user",
-	
-	["0:3041770"] = "meatbloke/Len Krage alt, VAC Banned, Posting RCON banner, Ban evasion (Alt 1:25934369), "..GG.." _______________ok_______________",
-	["1:25934369"] = "meatbloke/Len Krage, VAC Banned, Posting RCON banner, Ban evasion (Alt 0:3041770), "..GG.." _______________ok_______________",
-	
 	["1:53545617"] = "Dex/Dexter the Heckster/dextertheheckster/Dexter Barnes, Backdoor in workshop addons, "..GG.." POREEESE",
 	["0:171813773"] = "LeafyIsHere/Troll names, VAC Banned, snixzz cheat user, "..GG.." myg0t_international",
 	["0:176113127"] = "1tap, snixzz cheat user",
+	
 	["1:173083521"] = "The_No_Pro/Tobo165/Dr.Jay alt, VAC banned, AHack, Ban evasion (Alt of 0:79656686)",
 	["0:796566862"] = "The_No_Pro/Tobo165/Dr.Jay, VAC banned, AHack, Ban evasion (Alt 0:173083521)",
+	
 	["1:112066995"] = "4SRMC krtoffel4/realpan, 4x VAC bans, Attempted AC bypass",
 	["1:47624055"] = "100% Troll names, snixzz cheat user, 2S: Mapex",
 	["1:69295739"] = "100% Troll names, VAC banned, snixzz cheat user, "..GG.." brazilautisticals, BAN FOREVER",
@@ -110,6 +113,7 @@ local Skiddies 	= {
 	["0:153604459"] = "soldier-76/twomad/Troll names, Backdoor/Exploit in workshop addon (Traitor Glow), Posting RCON banner, snixzz cheat user, "..GG.." faggothackers,Specialretarts",
 	["1:125490051"] = "B0DyAim/omgitzalexbox/Troll names, 2x VAC bans, snixzz cheat user, "..GG.." RawHook,AIMWARE",
 	["1:119398470"] = "aria/Possible Hafnium alt?, Possible attempted AC bypass, "..GG.." imadethem",
+	
 	["0:881125"] = "Yuno Gasai/TheCrimsonFuckr/Troll names alt, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
 	["1:99989345"] = "Yuno Gasai/TheCrimsonFuckr/Troll names, VAC banned, MPGH, Ban evasion (Alt 0:881125), "..GG.." autistickyklubik",
 	
@@ -757,11 +761,11 @@ local Skiddies 	= {
 	["0:150652639"] = "MikolajCCA/Mikolaj, Jynxx Script2",
 	["0:127400248"] = "Reaper/imamoon/Troll names, Smeghack",
 	["0:83661830"] = "NitroZ/Nitroz59/Mine59, BlueBot aimbot",
-	["0:170827760"] = "bj_boy/DerBoy/Sprachchat/Troll names, AHack, VAC banned, Ban Evasion (Alt of 1:58820780)",
-	["1:58820780"] = "bj_boy/DerBoy/Sprachchat/Troll names, AHack, VAC banned, Ban Evasion (0:170827760)",
-	
 	["0:40176316"] = "Ov3rL0aD3/Artur/Arturiana/Troll names, DDoS attacks, 4x VAC bans, MPGH, asking for hacks, 2S: AHack",
 	["1:120863368"] = "sundial/amiga tech/Troll names, STEALING FILES, Bluebot, possible alt of 'hrst' or 'spirit532909', BAN FOREVER",
+	
+	["0:170827760"] = "bj_boy/DerBoy/Sprachchat/Troll names, AHack, VAC banned, Ban Evasion (Alt of 1:58820780)",
+	["1:58820780"] = "bj_boy/DerBoy/Sprachchat/Troll names, AHack, VAC banned, Ban Evasion (0:170827760)",
 	
 	["1:40765856"] = "spirit532909/Digital Instanity/AKZETA, STEALING FILES, C++ HACKS, big skiddie, Ban evasion (5 alts, List_A), BAN FOREVER",
 	["0:87196433"] = "spirit532909/Digital Instanity/AKZETA alt, STEALING FILES, C++ HACKS, big skiddie, Ban evasion (5 alts, List_A), BAN FOREVER",
@@ -792,11 +796,10 @@ local Skiddies 	= {
 	["1:33651852"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of 1:44988977)",
 	["0:70102994"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of 1:44988977)",
 	
-	["0:30427141"] = "Zero BestProfileName/k1ngof2jzxd/Twizy123/Troll names, sv_allowcslua bypass, 2x VAC bans, Bridgehack,AHack,Mapex,anxition,ShittyScripts,Lennys",
-	
 	["0:162692151"] = "craigmad8/craig/Dave law/Troll, sv_allowcslua bypass,2x VAC bans,cvar3,nospread,snixzz,Bridge,gHook,jynxx,memeware,defcon,AHack, Ban Evasion (Alt of 1:104862852)",
 	["1:104862852"] = "craigmad8/craig/Dave law/Troll, sv_allowcslua bypass,2x VAC bans,cvar3,nospread,snixzz,Bridge,gHook,jynxx,memeware,defcon,AHack, Ban Evasion (0:162692151)",
 	
+	["0:30427141"] = "Zero BestProfileName/k1ngof2jzxd/Twizy123/Troll names, sv_allowcslua bypass, 2x VAC bans, Bridgehack,AHack,Mapex,anxition,ShittyScripts,Lennys",
 	["1:91557863"] = "Spektros/Donatas/DaSpektros, DDoS threart, 12 year old, pretending to be admin",
 	["0:76122953"] = "Bunny/Snowie/Troll names, "..Snix,
 	["0:135087074"] = "killmem8/Connotation/Troll names, Attempted anticheat bypass, sv_allowcslua bypass, 2x VAC bans, memeware,hera,Bridgehack,anxition, 9 cheats, BAN FOREVER",
@@ -849,13 +852,12 @@ local Skiddies 	= {
 	["1:88077672"] = "pinkels567, "..Snix,
 	["0:131926092"] = "Sup3rNinj4z/itzgrim_, MPGH, C++ hacks, admitted sv_allowcslua bypass",
 	["1:53516280"] = "forestpunk/F0r357Punk, Bridgehack, "..GG.." jtrp2015",
-	
-	["1:89343200"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt 1:148090858)",
-	["1:148090858"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt of 1:89343200)",
-	
 	["0:58588089"] = "KineticVoid/felix321/Troll names, "..Snix..","..GG.." kkkuats",
 	["1:70945753"] = "alexhun/Alexander Kozak/kozakalex2000, MPGH, C++ hacks, snixzz cheat user @ 06-19-2016",
 	["0:137853946"] = "Zekiar/ebg_cogbeard, VAC banned, "..Snix,
+	
+	["1:89343200"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt 1:148090858)",
+	["1:148090858"] = "Spongebob Dankface/Cem/sytron24/Troll names, snixzz hack,nospread,cvar3,SmegHack,Newsbot,TitaniumSmasher, Ban evasion (Alt of 1:89343200)",
 	
 	["1:60147209"] = "Delfyni, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (4 alts, List_A)",
 	["0:104342775"] = "Delfyni 1, DDoS attacks, STEALING FILES, aimware C++ hack, VAC banned, Mapex,Hera,sv_allowcslua bypass,anxition, Game banned, Ban evasion (Alt of 1:60147209)",
@@ -931,7 +933,7 @@ local Skiddies 	= {
 	["1:162738267"] = "Kid/Randy/Troll names alt 3, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (Alt of 0:55614311)",
 	["1:113173785"] = "Kid/Randy/Troll names alt 2, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (Alt of 0:55614311)",
 	["0:128809866"] = "Kid/Randy/Troll names alt 1, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (Alt of 0:55614311)",
-	["0:55614311"] = "Kid/Randy/Troll names, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (3 alts, List_A)",
+	["0:55614311"] = "Kid/Randy/Troll names, gHook/AIC/Aspire/32 cheat sripts, Ban Evasion (4 alts, List_A)",
 	
 	["1:39674563"] = "Leo5gg, VAC banned, propkiller, "..GG.." eupk",
 	["0:160073439"] = "SlaxzHD/677555/jimmy, sv_allowcslua bypass, gmcl_cat_win32.dll,SmegHack,defcon aimbot,BridgeHack",
@@ -974,32 +976,29 @@ local Skiddies 	= {
 	["0:60746227"] = "PoWnY/Kolo, 4x VAC bans, Mapex, "..GG.." aimerware",
 	["1:37943075"] = "matthis33440/matthis ducazeaux, STEALING FILES, JSP, VAC banned, cvar3,SmegHack",
 	["0:146086201"] = "jordangame17/Yorudan60/Jordan, Dark Scripts, ShittyScripts, 12 year old",
+	["0:138153096"] = "piloboy21/alexandre, sv_allowcslua bypass,gmcl_cat_win32,FapHack,SH,sasha,SmegHack,defcon,pony",
+	["0:79310418"] = "buckballs, VAC banned, speedhacks",
 	
 	["1:159924006"] = "TheFinestSurgeon/MtnDewBunney/Mitchell, Ban evasion (Alt of 0:82154876)",
 	["0:82154876"] = "MtnDewBunney/Mitchell/TheFinestSurgeon, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition, Ban evasion (Alt 1:159924006)",
 	
-	["0:138153096"] = "piloboy21/alexandre, sv_allowcslua bypass,gmcl_cat_win32,FapHack,SH,sasha,SmegHack,defcon,pony",
-	["0:79310418"] = "buckballs, VAC banned, speedhacks",
-	
 	["1:116271858"] = "DEXTRE/ScorpionTheDead/SongMan, sv_allowcslua bypass, defcon aimbot, gmcl_cat_win32.dll, Ban Evasion (Alt of 0:143814585)",
 	["0:143814585"] = "DEXTRE/ScorpionTheDead/SongMan, sv_allowcslua bypass, defcon aimbot, gmcl_cat_win32.dll, Ban Evasion (1:116271858)",
-	
-	["1:39151256"] = "xxtrugz/Jonathon/TNSM/Troll names, AHack,Sethhack",
-	["0:136415774"] = "UnCharted Gamers Jarvis/Jarvis Blaze, Attempted anticheat bypass, 2x VAC bans, BAN FOREVER",
-	["1:61387324"] = "PWasney/IGD Paul, Mapex",
-	["0:98834234"] = "Tyler/Troll names",
 	
 	["1:49185657"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans,BlueBot,trollhook,admitted cheating, Member of troll group: PeopleAgainstFaggots, Ban evasion (3 alts, List_A)",
 	["0:143455079"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans,BlueBot,trollhook,admitted cheating, Member of troll group: PeopleAgainstFaggots, Ban evasion (3 alts, List_A)",
 	["1:84261135"] = "Warcry/Maxwell/Time007/Troll names, 2x VAC bans,BlueBot,trollhook,admitted cheating, Member of troll group: PeopleAgainstFaggots, Ban evasion (3 alts, List_A)",
 	
-	["1:155788065"] = "Mitch/Mitchell_, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot",
-	["1:71900473"] = "Cyan/Alex, Backdoor in workshop addon (CustomizableWeaponry_2)",
-	["1:40676900"] = "Autopilot/justinis235, Backdoor in workshop addon (CustomizableWeaponry_2)",
-	
 	["1:121675057"] = "fgfdes11/fkikiuop, sv_cheats bypass, sasha,SmegHack,Bluebot,defcon,SH,xhack,uSkid,Exploits, Ban Evasion (0:139169991)",
 	["0:139169991"] = "fgfdes11/fkikiuop, sv_cheats bypass, sasha,SmegHack,Bluebot,defcon,SH,xhack,uSkid,Exploits, Ban Evasion (Alt of 1:121675057)",
 	
+	["1:39151256"] = "xxtrugz/Jonathon/TNSM/Troll names, AHack,Sethhack",
+	["0:136415774"] = "UnCharted Gamers Jarvis/Jarvis Blaze, Attempted anticheat bypass, 2x VAC bans, BAN FOREVER",
+	["1:61387324"] = "PWasney/IGD Paul, Mapex",
+	["0:98834234"] = "Tyler/Troll names",
+	["1:155788065"] = "Mitch/Mitchell_, sv_allowcslua bypass, gmcl_cat_win32.dll, defcon aimbot",
+	["1:71900473"] = "Cyan/Alex, Backdoor in workshop addon (CustomizableWeaponry_2)",
+	["1:40676900"] = "Autopilot/justinis235, Backdoor in workshop addon (CustomizableWeaponry_2)",
 	["1:107122088"] = "G612 NoScope/hartkeks101/Ben, VAC banned, Mapex,anxition,defiance,pony,defcon",
 	["0:122182828"] = "StevenThegod/dgsgsw/steven, Mapex",
 	["0:71552371"] = "Tyr/s1rsloth/Troll names, sv_allowcslua bypass, AHack,Lennys,Defcon,SmegHack,RONALDHACK,Dynasty,RONALDHACK, Member of troll group: fatkids",
