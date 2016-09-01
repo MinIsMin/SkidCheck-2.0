@@ -27,6 +27,18 @@ local Skiddies 	= {
 
 
 
+
+
+	["0:119632795"] = "CCNSFE/xx_ccnsfe_xx, VAC Banned, Forced sv_allowcslua (gmcl_cat_win32 bypass), defcon,",
+	["1:99724851"] = "Mr Super Saiyan/marcus/JKlendi_Zef/ZeNerGiZe_Zef, sv_allowcslua bypass (gmal_cat_win32), BridgeHack,defcon,PonyHack, Anozira Scripts, propkiller",
+	["0:49646353"] = "Miku/Ellis/Swag Foxy, VAC Banned, ShittyScripts",
+	["1:48281817"] = "lou/Crazy FlutterBitch/JeffTheKillerPony, VAC Banned, snixzz cheat user, "..GG.." realgoonlagoon,mybodyisshaking",
+	["0:109711101"] = "Ethan/SimplyEthanYT/steamidsystemsucks/Troll names, snixzz cheat user",
+	["1:68076717"] = "SGN Phoenix, snixzz cheat user",
+	
+	["0:3041770"] = "meatbloke/Len Krage alt, VAC Banned, Posting RCON banner, Ban evasion (Alt 1:25934369), "..GG.." _______________ok_______________",
+	["1:25934369"] = "meatbloke/Len Krage, VAC Banned, Posting RCON banner, Ban evasion (Alt 0:3041770), "..GG.." _______________ok_______________",
+	
 	["1:53545617"] = "Dex/Dexter the Heckster/dextertheheckster/Dexter Barnes, Backdoor in workshop addons, "..GG.." POREEESE",
 	["0:171813773"] = "LeafyIsHere/Troll names, VAC Banned, snixzz cheat user, "..GG.." myg0t_international",
 	["0:176113127"] = "1tap, snixzz cheat user",

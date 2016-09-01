@@ -221,7 +221,7 @@ function Skid.Ready()
 	MsgC(Skid.GREY, 	"] ")
 	MsgC(Skid.GREEN, 	"Ready, "..Skid.VERSION..". ")
 	MsgC(Skid.RED,		 sTot)
-	MsgC(Skid.GREEN, 	" IDs in local lists!"..Skid.CanSync.."\n\n")
+	MsgC(Skid.GREEN, 	" IDs in memory!"..Skid.CanSync.."\n\n")
 end
 timer.Simple(1, Skid.Ready)
 
