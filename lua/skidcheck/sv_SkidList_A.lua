@@ -28,6 +28,7 @@ local Skiddies 	= {
 
 
 
+	["0:98019819"] = "justsalvage/SalvageXD/Salvage, snixzz cheat user",
 	["0:112993283"] = "butter/gabrysxitas/Wkurzajacy/Januszek/Troll names, 3x VAC bans, Lennys scripts, Ban Evasion (Alt of STEAM_0:1:78034704)",
 	["1:78034704"] = "butter/gabrysxitas/Wkurzajacy/Januszek/Troll names, 3x VAC bans, Lennys scripts, Ban Evasion (STEAM_0:0:112993283)",
 	
@@ -198,7 +199,7 @@ local Skiddies 	= {
 	["0:92009327"] = "SomeGuyWithAPotato, snixzz cheat user",
 	["1:154718216"] = "huntpod3, snixzz cheat user",
 	["1:52667629"] = "Braixen teampyro, snixzz cheat user",
-	["0:47816874"] = "SGNPanda, snixzz cheat user",
+	["0:47816874"] = "SGN Panda, snixzz cheat user",
 	["1:106183403"] = "azhc, snixzz cheat user",
 	["1:62081122"] = "Zerx, snixzz cheat user",
 	["0:58816602"] = "Battered Chicken, snixzz cheat user",
@@ -238,7 +239,7 @@ local Skiddies 	= {
 	
 	["1:53461201"] = "Waffleman, snixzz cheat user",
 	["0:164411247"] = "DedSec, snixzz cheat user",
-	["1:87372425"] = "Iluminati, snixzz cheat user",
+	["1:87372425"] = "Iluminati/Troll names, snixzz cheat user, BAN FOREVER",
 	["0:83051588"] = "Mr.Dolphin, snixzz cheat user",
 	["1:70565398"] = "Rotten Egg, snixzz cheat user",
 	["0:58661557"] = "G Mercanery/Troll names/Cameron Dakwins, DDoS 'i Will Dos You Dont Annoy Me', snixzz cheat user @ 06-15-2016, BAN FOREVER",
@@ -792,9 +793,9 @@ local Skiddies 	= {
 	["0:34824919"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
 	["1:125836711"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
 	
-	["1:44988977"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt 1:33651852)",
-	["1:33651852"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of 1:44988977)",
-	["0:70102994"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of 1:44988977)",
+	["1:44988977"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt 1:33651852), "..GG.." shitathvh",
+	["1:33651852"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of 1:44988977), "..GG.." shitathvh",
+	["0:70102994"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of 1:44988977), "..GG.." shitathvh",
 	
 	["0:162692151"] = "craigmad8/craig/Dave law/Troll, sv_allowcslua bypass,2x VAC bans,cvar3,nospread,snixzz,Bridge,gHook,jynxx,memeware,defcon,AHack, Ban Evasion (Alt of 1:104862852)",
 	["1:104862852"] = "craigmad8/craig/Dave law/Troll, sv_allowcslua bypass,2x VAC bans,cvar3,nospread,snixzz,Bridge,gHook,jynxx,memeware,defcon,AHack, Ban Evasion (0:162692151)",
@@ -1261,9 +1262,9 @@ local Skiddies 	= {
 	["0:45006801"] = "FlubberKid/Spooderman/79070707568, "..Snix,
 	["0:57950062"] = "Tommy, "..Snix..","..GG.." snixzznet",
 	
-	["1:121524040"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, VAC,C++,snixzz/MPGH vip,WritingReleasingHacks,BanEvasion(3alts),"..Snix..", Member of hack/troll groups, Possible DDoS,BAN FOREVER",
-	["1:115212069"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, VAC,C++,snixzz/MPGH vip,WritingReleasingHacks,BanEvasion(3alts),"..Snix..", Member of hack/troll groups, Possible DDoS,BAN FOREVER",
-	["1:88828403"] = "btg/billytheg0at/bee_tee_gee/Troll names, VAC,C++,snixzz/MPGH vip,WritingReleasingHacks,BanEvasion(3alts),"..Snix..", Member of hack/troll groups, Possible DDoS,BAN FOREVER",
+	["1:121524040"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, VAC,C++,snixzz/MPGH vip,WritingReleasingHacks,BanEvasion(3alts),"..Snix..",Member of hack/troll groups,Possible DDoS,BAN FOREVER",
+	["1:115212069"] = "btg/billytheg0at/bee_tee_gee/Troll names alt, VAC,C++,snixzz/MPGH vip,WritingReleasingHacks,BanEvasion(3alts),"..Snix..",Member of hack/troll groups,Possible DDoS,BAN FOREVER",
+	["1:88828403"] = "btg/billytheg0at/bee_tee_gee/Troll names, VAC,C++,snixzz/MPGH vip,WritingReleasingHacks,BanEvasion(3alts),"..Snix..",Member of hack/troll groups,Possible DDoS,BAN FOREVER",
 	
 	["0:59727915"] = "kimi raikkonen/deaglemon/Possible phoon Snorflake alt, "..Snix..", Banned",
 	["0:41973844"] = "Firedraft, "..Snix,
