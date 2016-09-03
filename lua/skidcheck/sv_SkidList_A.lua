@@ -27,7 +27,10 @@ local Skiddies 	= {
 
 
 
-
+	["0:120957365"] = "Agent Sparkz/Joshua Wain/MLG_SPARKZ/Greenwood, BridgeHack",
+	["0:150974366"] = "Fanta banta/bobbyyolo56/Youtuber12335, sv_allowcslua bypass (gmcl_cat_win32), SmegHack, HL/Shitty/Lennys scripts",
+	["1:66143500"] = "jerryj, snixzz cheat user",
+	["1:155710697"] = "The God Squad/colin, 3x VAC bans, sv_allowcslua bypass (gmcl_cat_win32), BridgeHack,SmegHack,Nospread,Memeware,defcon,mApex,hackerpublic, ShittyScripts",
 	["0:98019819"] = "justsalvage/SalvageXD/Salvage, snixzz cheat user",
 	["0:112993283"] = "butter/gabrysxitas/Wkurzajacy/Januszek/Troll names, 3x VAC bans, Lennys scripts, Ban Evasion (Alt of STEAM_0:1:78034704)",
 	["1:78034704"] = "butter/gabrysxitas/Wkurzajacy/Januszek/Troll names, 3x VAC bans, Lennys scripts, Ban Evasion (STEAM_0:0:112993283)",
@@ -55,7 +58,12 @@ local Skiddies 	= {
 	["0:50258506"] = "SreaXz/Troll names, snixzz cheat user, "..GG.." NoNAnonPub",
 	["0:59459043"] = "Heff, snixzz cheat user",
 	["1:59289091"] = "TheHomieGracious/SuicidalCupcake, 4x VAC bans, MPGH, asking for hacks, "..GG.." snixzzdotnet,HACKS_TM,NoNAnonPub",
-	["0:28938661"] = "Grampa/yTedStevens/100% Troll names, forced sv_allowcslua, loading cheat, 2x VAC bans, Exploits, StonedPotatoes Banlist 2010, "..GG.." Gmtower911,formatmefans",
+	
+	["0:28938661"] = "Grampa/yTedStevens/jasas/Trollnames, Attempted AC bypass,forced allowcslua,using cheat,2x VAC,Exploits,Racist,Ban evasion (4 alts, List_A),SP2 Banlist 2010,"..GG.." Gmtower911,formatmefans",
+	["1:41097806"] = "Grampa/yTedStevens/jasas/Trollnames alt, Attempted AC bypass,forced allowcslua,using cheat,2x VAC,Exploits,Racist,Ban evasion (4 alts, List_A),SP2 Banlist 2010,"..GG.."Gmtower911,formatmefans",
+	["1:176454618"] = "Grampa/yTedStevens/jasas/Trollnames alt, Attempted AC bypass,forced allowcslua,using cheat,2x VAC,Exploits,Racist,Ban evasion (4 alts, List_A),SP2 Banlist 2010,"..GG.."Gmtower911,formatmefans",
+	["0:129691522"] = "Grampa/yTedStevens/jasas/Trollnames alt, Attempted AC bypass,forced allowcslua,using cheat,2x VAC,Exploits,Racist,Ban evasion (4 alts, List_A),SP2 Banlist 2010,"..GG.."Gmtower911,formatmefans",
+	
 	["0:73005029"] = "sandbox/markgraphicsftw/Mark Siri/Troll names, DDoS, Mapex, BAN FOREVER",
 	["1:37237056"] = "Troll names, snixzz cheat user, "..GG.." MPGH",
 	["0:151159122"] = "KeV Quinn, snixzz cheat user",
@@ -1522,7 +1530,7 @@ local Skiddies 	= {
 	["1:104446267"] = "FaZe ThUnDeR, Dark scripts",
 	["1:87507733"] = "ShootMyKnife DF, Dark scripts",
 	["0:143149903"] = "Austere10, Falcos scripts",
-	["1:16852271"] = "Mobius, Lennys",
+	["1:16852271"] = "Mobius, Lennys scripts",
 	["1:50164415"] = "Michael J. Caboose/pinkothecherub, DDoS",
 	["1:44227737"] = "Yunie/IPAUL, propkiller, 8 cheating scripts, "..GG.." lolicocks,VACBINS,AIMWARE",
 	
