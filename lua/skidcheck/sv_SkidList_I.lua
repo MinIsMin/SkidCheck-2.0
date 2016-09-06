@@ -3890,7 +3890,6 @@ local ExtraSkiddies = {
 	["0:131534468"] = GG.." secretlynothackers",
 	["0:45557796"] = GG.." secretlynothackers",
 	["0:43217565"] = GG.." secretlynothackers",
-	["0:53926668"] = GG.." secretlynothackers",
 	["1:70242472"] = GG.." secretlynothackers",
 	["1:117611174"] = GG.." secretlynothackers",
 	["0:102238290"] = GG.." secretlynothackers",

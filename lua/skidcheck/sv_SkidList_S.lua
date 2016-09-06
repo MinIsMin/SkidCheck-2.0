@@ -18,7 +18,6 @@ local ExtraSkiddies = {
 	["0:49195139"] = GG.." banchannel",
 	["1:81153879"] = GG.." banchannel",
 	["0:40145273"] = GG.." banchannel",
-	["1:180189025"] = GG.." qttrap",
 	["0:158336020"] = GG.." TrillNiggas",
 	["1:51264450"] = GG.." imgoodatvideogames",
 	["1:71371376"] = GG.." imgoodatvideogames",

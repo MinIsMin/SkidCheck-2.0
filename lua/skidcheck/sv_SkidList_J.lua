@@ -9822,7 +9822,6 @@ local ExtraSkiddies = {
 	["0:32495358"] = GG.." bleeding_anuses",
 	["1:1838193"] = GG.." bleeding_anuses",
 	["1:46251234"] = GG.." bleeding_anuses",
-	["1:2286405"] = GG.." 2dtrapbae",
 	["0:156157996"] = GG.." cheaterotea",
 	["1:155893784"] = GG.." ahegaoeverywhere",
 	["0:130597298"] = GG.." ahegaoeverywhere",

@@ -27,6 +27,11 @@ local Skiddies 	= {
 
 
 
+	["0:53926668"] = "kitty/iceonmywrist/Troll names, VAC Banned, snixzz cheat user, Ban evasion (3 alts, List_A), "..GG.." secretlynothackers,qttrap,2dtrapbae",
+	["1:180189025"] = "kitty/iceonmywrist/Troll names alt, VAC Banned, snixzz cheat user, Ban evasion (3 alts, List_A), "..GG.." secretlynothackers,qttrap,2dtrapbae",
+	["1:2286405"] = "kitty/iceonmywrist/Troll names alt 2, VAC Banned, snixzz cheat user, Ban evasion (3 alts, List_A), "..GG.." secretlynothackers,qttrap,2dtrapbae",
+	
+	["1:71869935"] = "krusty, snixzz cheat user",
 	["0:46396799"] = "Scrumptious Pickle Essence, snixzz cheat user",
 	["0:120957365"] = "Agent Sparkz/Joshua Wain/MLG_SPARKZ/Greenwood, BridgeHack",
 	["0:150974366"] = "Fanta banta/bobbyyolo56/Youtuber12335, sv_allowcslua bypass (gmcl_cat_win32), SmegHack, HL/Shitty/Lennys scripts",
