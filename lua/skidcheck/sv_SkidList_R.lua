@@ -6979,7 +6979,6 @@ local ExtraSkiddies = {
 	["1:121753753"] = GG.." loli69",
 	["0:95194677"] = GG.." loli69",
 	["1:116350575"] = GG.." loli69",
-	["1:86245719"] = GG.." theautosniperfaggots",
 	["1:119947623"] = GG.." imouto_semen_demon",
 	["0:159790853"] = GG.." imouto_semen_demon",
 	["1:120715657"] = GG.." imouto_semen_demon",
