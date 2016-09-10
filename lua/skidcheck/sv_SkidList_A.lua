@@ -29,6 +29,7 @@ local Skiddies 	= {
 
 
 
+	["0:181330686"] = "sgtsh4rky, snixzz cheat user",
 	["0:86576027"] = "3udweizer 3andit, snixzz cheat user, "..GG.." GaingRape",
 	["1:68949391"] = "rtv/rtvthebest/digden, Anozira/Noobler/Cyanide/Prizm/HL/Easy Scripts, AW Hack, Game banned",
 	["1:169653063"] = "eXo AnDrOiiiD/exoiandroiiid, AHack",
