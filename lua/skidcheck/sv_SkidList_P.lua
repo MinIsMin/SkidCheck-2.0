@@ -2103,7 +2103,6 @@ local ExtraSkiddies = {
 	["0:61586587"] = GG.." OfficialSpacenigs",
 	["0:156433507"] = GG.." myg0t_international",
 	["0:161889907"] = GG.." myg0t_international",
-	["0:171813773"] = GG.." myg0t_international",
 	["1:129286596"] = GG.." crazynoongaz",
 	["0:159814965"] = GG.." crazynoongaz",
 	["1:161747052"] = GG.." crazynoongaz",

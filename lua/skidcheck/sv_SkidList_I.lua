@@ -2949,7 +2949,6 @@ local ExtraSkiddies = {
 	["0:151247892"] = GG.." aimerware",
 	["0:166746019"] = GG.." aimerware",
 	["0:64242"] = GG.." aimerware",
-	["0:86576027"] = GG.." GaingRape",
 	["1:72973553"] = GG.." GaingRape",
 	["0:151271372"] = GG.." GaingRape",
 	["0:94972710"] = GG.." cheater",

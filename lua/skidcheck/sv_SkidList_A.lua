@@ -28,6 +28,15 @@ local Skiddies 	= {
 
 
 
+
+	["0:86576027"] = "3udweizer 3andit, snixzz cheat user, "..GG.." GaingRape",
+	["1:68949391"] = "rtv/rtvthebest/digden, Anozira/Noobler/Cyanide/Prizm/HL/Easy Scripts, AW Hack, Game banned",
+	["1:169653063"] = "eXo AnDrOiiiD/exoiandroiiid, AHack",
+	["1:109282633"] = "XxZiRaTexX/marquesdorian12, 2x VAC Bans, sv_allowcslua bypass (gmcl_cat_win32), BridgeHack,AHack,SmegHack,defcon",
+	
+	["0:143745564"] = "Leruster/Walcio132/Fnafek, Jynxx Scripts, Ban Evasion (Alt of 0:15690467)",
+	["0:15690467"] = "Leruster/Walcio132/Fnafek, Jynxx Scripts, Ban Evasion (Alt 0:143745564)",
+	
 	["0:53926668"] = "kitty/iceonmywrist/Troll names, VAC Banned, snixzz cheat user, Ban evasion (3 alts, List_A), "..GG.." secretlynothackers,qttrap,2dtrapbae",
 	["1:180189025"] = "kitty/iceonmywrist/Troll names alt, VAC Banned, snixzz cheat user, Ban evasion (3 alts, List_A), "..GG.." secretlynothackers,qttrap,2dtrapbae",
 	["1:2286405"] = "kitty/iceonmywrist/Troll names alt 2, VAC Banned, snixzz cheat user, Ban evasion (3 alts, List_A), "..GG.." secretlynothackers,qttrap,2dtrapbae",
