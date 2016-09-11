@@ -6748,7 +6748,6 @@ local ExtraSkiddies = {
 	["0:52008903"] = GG.." ceogroupofficial",
 	["1:60711817"] = GG.." ceogroupofficial",
 	["0:60403215"] = GG.." ceogroupofficial",
-	["0:57572651"] = GG.." ceogroupofficial",
 	["1:64102459"] = GG.." ceogroupofficial",
 	["0:99439847"] = GG.." ceogroupofficial",
 	["1:123719019"] = GG.." ceogroupofficial",

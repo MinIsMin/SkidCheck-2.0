@@ -29,6 +29,16 @@ local Skiddies 	= {
 
 
 
+
+
+
+
+	["1:110352279"] = "Ilya Volk/BossObeboss/Wgiz, STEALING FILES,forced sv_allowcslua,Attempted takeover backdoor,bridgehack,daz,gDaap,cvar3,Lennys/HL Scripts, 2x VAC bans, Ban evasion (Alt 0:181660370)",
+	["0:181660370"] = "Ilya Volk/BossObeboss/Wgiz, STEALING FILES,forced sv_allowcslua,Attempted takeover backdoor,bridgehack,daz,gDaap,cvar3,Lennys/HL Scripts, 2x VAC bans, Ban evasion (Alt of 1:110352279)",
+	
+	["1:95923630"] = "Mrs Grey, snixzz cheat user",
+	["0:57572651"] = "Daemon/Troll names, STEALING FILES,sv_allowcslua bypass,33 bad DLLs, SmegHack,memeware,Pony,lennys,cvar3, "..GG.." ceogroupofficial",
+	["1:96423954"] = "NyX, snixzz cheat user, SirFluffysServers: ExT DallasGaming, CVars, Lua cheats",
 	["0:181330686"] = "sgtsh4rky, snixzz cheat user",
 	["0:86576027"] = "3udweizer 3andit, snixzz cheat user, "..GG.." GaingRape",
 	["1:68949391"] = "rtv/rtvthebest/digden, Anozira/Noobler/Cyanide/Prizm/HL/Easy Scripts, AW Hack, Game banned",
@@ -1104,8 +1114,8 @@ local Skiddies 	= {
 	["0:83634798"] = "Ben/Dwang, "..GG.." ididnothither",
 	["0:45189895"] = "sado/doopydoop/CandleJack/Sookme0ff/detrayhaus, snixzz cheat user, ShittyScripts, "..GG.." auto-aiming",
 	
-	["0:96933728"] = "Velkon/velkon_gmod, STEALING FILES, SteamID spoofing, C++ hacks,Falcos, Ban evasion (Alt 1:128933424), "..GG.." gm_exploited,imadethem,nicebankid,vacchurch, BAN FOREVER",
-	["1:128933424"] = "Velkon/velkon_gmod alt, STEALING FILES, SteamID spoofing, C++ hacks,Falcos, Ban evasion (Alt of 0:96933728), "..GG.." gm_exploited,imadethem,nicebankid,vacchurch, BAN FOREVER",
+	["0:96933728"] = "Velkon/velkon_gmod, STEALING FILES, SteamID spoofing, C++ hacks,Falcos, Exploiting serves, Ban evasion (Alt 1:128933424), "..GG.." gm_exploited,imadethem,nicebankid,vacchurch, BAN FOREVER",
+	["1:128933424"] = "Velkon/velkon_gmod alt, STEALING FILES, SteamID spoofing, C++ hacks,Falcos, Exploiting serves, Ban evasion (Alt of 0:96933728), "..GG.." gm_exploited,imadethem,nicebankid,vacchurch, BAN FOREVER",
 	
 	["0:154068169"] = "ohunsexyme/Troll names, BAN FOREVER",
 	["0:145849302"] = "worldstarballsdeep/Troll names, VAC banned, "..GG.." memewaremang, BAN FOREVER",
@@ -7083,7 +7093,7 @@ local Skiddies 	= {
 	["1:86018137"] = "Hera",
 	["1:45181067"] = "gDaap DB: calroze27 (Donald Trump)",
 	["0:14123881"] = "HVH, "..GG.." Gangster_Paradise_, ban me",
-	["0:40196066"] = "Capster, Hacks, file stealing",
+	["0:40196066"] = "Capster/Maxim Nicu, STEALING FILES, Nanohack C++ hacks, Attempted AC bypass, 82 cheat scripts",
 	["0:45819023"] = "GLDB: Ban me, Troll Group",
 	["0:42033228"] = "SSDB: BadRCC (SethHack)",
 	["1:14299044"] = "Skiddie, 2S: Cheats",

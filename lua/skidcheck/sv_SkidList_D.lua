@@ -4867,7 +4867,6 @@ local ExtraSkiddies = {
 	["0:87786595"] = GG.." NoNAnonPub",
 	["0:13805736"] = GG.." TF2Xploits",
 	["1:52454610"] = GG.." ORGANNER",
-	["1:96423954"] = "SirFluffysServers: ExT DallasGaming, CVars, Lua cheats",
 	["1:56993460"] = GG.." WeCheatAtGames",
 	["1:37110869"] = GG.." IMMUNITYCSS",
 	["1:18497090"] = GG.." LSSOWNS",
