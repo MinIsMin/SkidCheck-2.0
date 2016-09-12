@@ -32,7 +32,9 @@ local Skiddies 	= {
 
 
 
-
+	["1:158599153"] = "Zeadergaming/George, SmegHack,ReichBot, Game banned",
+	["0:100593074"] = "KillerGnomestarHere, snixzz cheat user",
+	["1:62157982"] = "HHC, snixzz cheat user",
 	["1:110352279"] = "Ilya Volk/BossObeboss/Wgiz, STEALING FILES,forced sv_allowcslua,Attempted takeover backdoor,bridgehack,daz,gDaap,cvar3,Lennys/HL Scripts, 2x VAC bans, Ban evasion (Alt 0:181660370)",
 	["0:181660370"] = "Ilya Volk/BossObeboss/Wgiz, STEALING FILES,forced sv_allowcslua,Attempted takeover backdoor,bridgehack,daz,gDaap,cvar3,Lennys/HL Scripts, 2x VAC bans, Ban evasion (Alt of 1:110352279)",
 	
