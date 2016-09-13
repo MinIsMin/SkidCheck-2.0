@@ -824,11 +824,12 @@ local Skiddies 	= {
 	["1:102370353"] = "Troll names, banned, newsbot, "..GG.." imanigga",
 	["1:59879279"] = "nenomaifrend/lightsteam/Troll names, STEALING FILES,attacking servers,VAC banned, cvar3,nyx,RHook,Dark/Shitty/HL/LightBHop scripts,propkiller, "..GG.." VACISAJOKE",
 	
-	["1:92524764"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
-	["0:170792375"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
-	["0:171082926"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
-	["0:34824919"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
-	["1:125836711"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (4 alts, List_A)",
+	["1:92524764"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (6 alts, List_A)",
+	["0:170792375"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (6 alts, List_A)",
+	["0:171082926"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (6 alts, List_A)",
+	["0:34824919"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (6 alts, List_A)",
+	["0:177193773"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (6 alts, List_A)",
+	["1:125836711"] = "Denz/lulzpiratedenz/Troll names, VAC banned,cvar3,hera, "..GG.." anti-cheatsquad,Lulz_Pirates, Ban evasion (6 alts, List_A)",
 	
 	["1:44988977"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt 1:33651852), "..GG.." shitathvh",
 	["1:33651852"] = "Chrispyy/chris19981/Troll names, snixzz @ 06-09-2016,VAC,mapex,BigHack,newsbot,memeware,PA,gHook, 2S:Sethhack, Ban evasion (Alt of 1:44988977), "..GG.." shitathvh",
