@@ -5011,7 +5011,6 @@ local ExtraSkiddies = {
 	["0:42180371"] = GG.." x22users",
 	["0:41390742"] = GG.." gayweedddads",
 	["0:45080799"] = GG.." hl1framework",
-	["0:34572604"] = "SirFluffysServers: Life Death, Lua cheats",
 	["1:94867020"] = "SirFluffysServers: sii, CVars, Lua cheats",
 	["1:43884014"] = GG.." TF2Xploits",
 	["1:103215783"] = GG.." wtfvalvefixit (VAC bans)",

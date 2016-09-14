@@ -31,7 +31,7 @@ local Skiddies 	= {
 
 
 
-
+	["0:34572604"] = "Troll names, forced sv_allowcslua, rhook,memeware,Falcos, propkiller, SirFluffysServers: Life Death, Lua cheats",
 	["1:158599153"] = "Zeadergaming/George, SmegHack,ReichBot, Game banned",
 	["0:100593074"] = "KillerGnomestarHere, snixzz cheat user",
 	["1:62157982"] = "HHC, snixzz cheat user",
