@@ -1375,7 +1375,6 @@ local ExtraSkiddies = {
 	["0:66263064"] = GG.." FilthyFrankk",
 	["1:84111157"] = GG.." FilthyFrankk",
 	["1:43311692"] = GG.." FilthyFrankk",
-	["0:35903866"] = GG.." FilthyFrankk",
 	["1:76088656"] = GG.." FilthyFrankk",
 	["1:91374613"] = GG.." FilthyFrankk",
 	["0:57330654"] = GG.." FilthyFrankk",

@@ -29,8 +29,11 @@ local Skiddies 	= {
 
 
 
-
-
+	["1:185083380"] = "snixzz cheat user",
+	["1:156164164"] = "Troll names, Attempted hacking, BAN FOR ETERNITY",
+	["1:71661"] = "sabishy, STEALING FILES, Cyanide hack, 'mhake', propkiller",
+	["0:58178275"] = "Flex, Attempted AC bypass, releasing bypass, "..GG.." vacchurch,ftoolkit,OpenLove",
+	["1:159560765"] = "Mr_Dogio/jan, SmegHack,AHack",
 	["0:34572604"] = "Troll names, forced sv_allowcslua, rhook,memeware,Falcos, propkiller, SirFluffysServers: Life Death, Lua cheats",
 	["1:158599153"] = "Zeadergaming/George, SmegHack,ReichBot, Game banned",
 	["0:100593074"] = "KillerGnomestarHere, snixzz cheat user",
