@@ -4,31 +4,9 @@ local VERSION	= "2.1" --Changed when list structure is changed / merged. Hardcod
 local GG 		= "Member of hack/troll group:"
 local Snix		= "Member of snixzz hacking site"
 local Skiddies 	= {
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
+	["0:17809124"] = "-=[UH]=- General HeX/MFSiNC. Running a cheater-free server. Goodbye GMod",
+	
 	["1:185083380"] = "snixzz cheat user",
 	["1:156164164"] = "Troll names, Attempted hacking, BAN FOR ETERNITY",
 	["1:71661"] = "sabishy, STEALING FILES, Cyanide hack, 'mhake', propkiller",
