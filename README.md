@@ -1,12 +1,14 @@
-## === SkidCheck - 2.0 :hammer: ===
+## === SkidCheck - 2.1 :hammer: ===
 #### --By HeX
 
 ```
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+ SkidCheck is the database of players who *I* don't want joining the UHDM server. +
-+ If you don't trust the list, don't install it. It was made by me to keep out     +
-+ people who ruin the game.  Not to cause drama.                                   +
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ SkidCheck was the database of players who *Hex* didn't want joining the UHDM server.  +
++ If you don't trust the list, don't install it. It was made by me to keep out          +
++ people who ruin the game. Not to cause drama.                                         +
++                                                                                       +
++ Thanks for your support, Hex. You kept more than 191.000 cheaters from our server.    +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ```
 
 ![](http://i.imgur.com/qJSb8nT.png)
@@ -131,12 +133,3 @@ Becomes
 ["0:1337"] = GG.." FuckVacIHack",
 ```
 ##
-
-######
-**If you want your ID removed, post an 'Issue' here with proof that you don't cheat***
-
-#
-
-
-
-
